@@ -19,7 +19,7 @@
   * [Token Bridge](external-apps/xdai/token-bridge.md)
 * [BrightId](external-apps/brightid.md)
 
-## Comms
+## Media <a id="comms"></a>
 
 * [Chat](comms/untitled.md)
 * [Social](comms/social.md)
