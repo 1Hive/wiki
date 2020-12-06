@@ -19,15 +19,15 @@
   * [Token Bridge](external-apps/xdai/token-bridge.md)
 * [BrightId](external-apps/brightid.md)
 
-## Media <a id="comms"></a>
-
-* [Chat](comms/untitled.md)
-* [Social](comms/social.md)
-
 ## Swarms
 
 * [Fauna](swarms/fauna.md)
 * [Buzz](swarms/buzz.md)
 * [Celeste](swarms/celeste.md)
 * [Luna](swarms/luna.md)
+
+## Media <a id="comms"></a>
+
+* [Chat](comms/untitled.md)
+* [Social](comms/social.md)
 
