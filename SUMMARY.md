@@ -20,6 +20,10 @@
   * [Token Bridge](external-apps/xdai/token-bridge.md)
 * [BrightId](external-apps/brightid.md)
 
+## Comms
+
+* [Untitled](comms/untitled.md)
+
 ## Swarms
 
 * [Fauna](swarms/fauna.md)
