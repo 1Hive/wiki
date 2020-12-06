@@ -4,11 +4,10 @@
 
 ## Products
 
-* [Honeypot \(1hive.org\)](products/honeypot/README.md)
+* [Honeypot](products/honeypot/README.md)
   * [Conviction Voting](products/honeypot/conviction-voting.md)
 * [Honeyswap](products/honeyswap.md)
-* [Honeycomb](products/honeycomb/README.md)
-  * [Farming](products/honeycomb/farming.md)
+* [Honeycomb](products/honeycomb.md)
 * [Honey Faucet](products/honey-faucet.md)
 * [Pollen](products/pollen.md)
 
@@ -22,7 +21,8 @@
 
 ## Comms
 
-* [Untitled](comms/untitled.md)
+* [Chat](comms/untitled.md)
+* [Social](comms/social.md)
 
 ## Swarms
 

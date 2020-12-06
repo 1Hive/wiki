@@ -1,2 +1,6 @@
-# Honeypot \(1hive.org\)
+---
+description: 1hive.org
+---
+
+# Honeypot
 
