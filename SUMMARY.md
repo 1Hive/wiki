@@ -2,13 +2,6 @@
 
 * [Welcome to 1Hive](README.md)
 
-## Swarms
-
-* [Fauna](swarms/fauna.md)
-* [Buzz](swarms/buzz.md)
-* [Celeste](swarms/celeste.md)
-* [Luna](swarms/luna.md)
-
 ## Products
 
 * [Honeypot \(1hive.org\)](products/honeypot/README.md)
@@ -26,4 +19,11 @@
   * [Faucet](external-apps/xdai/faucet.md)
   * [Token Bridge](external-apps/xdai/token-bridge.md)
 * [BrightId](external-apps/brightid.md)
+
+## Swarms
+
+* [Fauna](swarms/fauna.md)
+* [Buzz](swarms/buzz.md)
+* [Celeste](swarms/celeste.md)
+* [Luna](swarms/luna.md)
 
