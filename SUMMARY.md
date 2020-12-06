@@ -4,5 +4,6 @@
 
 ## Swarms
 
-* [Celeste](swarms/celeste.md)
+* [Celeste](swarms/celeste/README.md)
+  * [Oh yeah!](swarms/celeste/oh-yeah.md)
 
