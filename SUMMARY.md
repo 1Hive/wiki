@@ -19,6 +19,7 @@
 * [Fauna](swarms/fauna.md)
 * [Buzz](swarms/buzz.md)
 * [Luna](swarms/luna.md)
+* [Bug Bounty](swarms/bug-bounty.md)
 
 ## Media <a id="comms"></a>
 
