@@ -13,14 +13,6 @@
 * [Pollen](products/pollen.md)
 * [Honey Faucet](products/honey-faucet.md)
 
-## External Apps
-
-* [xDai](external-apps/xdai/README.md)
-  * [Connecting via Metamask](external-apps/xdai/connecting-via-metamask.md)
-  * [Faucet](external-apps/xdai/faucet.md)
-  * [Token Bridge](external-apps/xdai/token-bridge.md)
-* [BrightId](external-apps/brightid.md)
-
 ## Swarms
 
 * [Celeste](swarms/celeste.md)
@@ -35,6 +27,11 @@
 
 ## Guides
 
+* [Using xDai](guides/xdai/README.md)
+  * [Connecting via Metamask](guides/xdai/connecting-via-metamask.md)
+  * [Faucet](guides/xdai/faucet.md)
+  * [Token Bridge](guides/xdai/token-bridge.md)
+* [Verifying on BrightId](guides/brightid.md)
 * [Wiki Contribution](guides/wiki-contribution.md)
 * [FAQ](guides/faq.md)
 
