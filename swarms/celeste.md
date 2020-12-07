@@ -4,7 +4,7 @@ description: Building and Governing Celeste
 
 # Celeste
 
-The Celeste Swarm members are responsible for building, maintaining and initially governing Celeste. After Celeste is considered established we will transfer governance of Celeste to the 1Hive DAO. 
+The Celeste Swarm members are responsible for building, maintaining and initially governing Celeste. After Celeste is considered established we will transfer governance of Celeste to the 1Hive DAO. Payment for contributions are executed once every 2 weeks and can be seen in the Aragon DAO, link below.
 
 Scrum board showing current progress: [https://app.zenhub.com/workspaces/celeste-5f7f3362db531f00238c09ef/board](https://app.zenhub.com/workspaces/celeste-5f7f3362db531f00238c09ef/board)
 
@@ -30,10 +30,9 @@ Development can be seen in the 1Hive Github org in repos preceded with "Celeste"
 
 @crisOG  
 @felix  
-@onbjerg  
+@onbjerg
 
+## Funding Proposals
 
-## Funding Proposal Links
-
-[https://forum.1hive.org/t/celeste-swarm-funding-proposal/1451](https://forum.1hive.org/t/celeste-swarm-funding-proposal/1451) 
+One funding proposal was made which was accepted by the community: [https://forum.1hive.org/t/celeste-swarm-funding-proposal/1451](https://forum.1hive.org/t/celeste-swarm-funding-proposal/1451) 
 
