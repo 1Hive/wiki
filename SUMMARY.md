@@ -15,11 +15,8 @@
 * [Honeycomb](products/honeycomb.md)
 * [Pollen](products/pollen.md)
 * [Honey Faucet](products/honey-faucet.md)
-
-## Upcoming
-
-* [Celeste](upcoming/celeste.md)
-* [Gardens](upcoming/gardens.md)
+* [Celeste \(Coming soon\)](products/celeste.md)
+* [Gardens \(Coming soon\)](products/gardens.md)
 
 ## Swarms
 
