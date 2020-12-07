@@ -1,4 +1,2 @@
 # Gardens
 
-Something about Gardens.
-
