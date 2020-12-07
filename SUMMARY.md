@@ -39,7 +39,7 @@
   * [Faucet](guides/xdai/faucet.md)
   * [Token Bridge](guides/xdai/token-bridge.md)
 * [BrightId](guides/brightid/README.md)
-  * [Verifiying](guides/brightid/verifiying.md)
+  * [Verifying yourself](guides/brightid/verifying-yourself.md)
   * [Running a node](guides/brightid/running-a-node.md)
 * [Wiki Contribution](guides/wiki-contribution.md)
 * [FAQ](guides/faq.md)
