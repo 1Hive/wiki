@@ -4,9 +4,9 @@
 
 ## Products
 
-* [Honeypot](products/honeypot/README.md)
-  * [Issuance](products/honeypot/issuance.md)
-  * [Voting](products/honeypot/conviction-voting.md)
+* [Honey Pot](products/honey-pot/README.md)
+  * [Issuance](products/honey-pot/issuance.md)
+  * [Voting](products/honey-pot/conviction-voting.md)
 * [Honeyswap](products/honeyswap.md)
 * [Honeycomb](products/honeycomb.md)
 * [Pollen](products/pollen.md)
