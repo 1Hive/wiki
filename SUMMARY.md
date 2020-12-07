@@ -25,6 +25,7 @@
 
 * [Chat](comms/untitled.md)
 * [Social](comms/social.md)
+* [Brand Guidelines](comms/brand-guidelines.md)
 
 ## Guides
 

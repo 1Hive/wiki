@@ -8,5 +8,5 @@ We use various channels for discussion:
 
 Telegram, Discord, Discourse.
 
-Google calendar link.
+Google calendar link for all events available.
 
