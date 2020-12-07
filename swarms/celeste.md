@@ -1,5 +1,5 @@
 ---
-description: Building and initially Governing Celeste
+description: Building and Governing Celeste
 ---
 
 # Celeste
