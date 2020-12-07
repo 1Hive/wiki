@@ -21,11 +21,11 @@
 * [Luna](swarms/luna.md)
 * [Bug Bounty](swarms/bug-bounty.md)
 
-## Media <a id="comms"></a>
+## Media
 
-* [Chat](comms/untitled.md)
-* [Social](comms/social.md)
-* [Brand Guidelines](comms/brand-guidelines.md)
+* [Chat](media/untitled.md)
+* [Social](media/social.md)
+* [Brand Guidelines](media/brand-guidelines.md)
 
 ## Guides
 
