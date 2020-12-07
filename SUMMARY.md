@@ -28,11 +28,6 @@
   * [CadCad Modelling](swarms/luna/cadcad-modelling.md)
 * [Bug Bounty](swarms/bug-bounty.md)
 
-## Development
-
-* [Github Practices](development/github-practices.md)
-* [Flora](development/flora.md)
-
 ## Media
 
 * [Chat](media/chat.md)
