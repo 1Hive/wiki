@@ -38,7 +38,9 @@
   * [Connecting via Metamask](guides/xdai/connecting-via-metamask.md)
   * [Faucet](guides/xdai/faucet.md)
   * [Token Bridge](guides/xdai/token-bridge.md)
-* [Verifying on BrightId](guides/brightid.md)
+* [BrightId](guides/brightid/README.md)
+  * [Verifiying](guides/brightid/verifiying.md)
+  * [Running a node](guides/brightid/running-a-node.md)
 * [Wiki Contribution](guides/wiki-contribution.md)
 * [FAQ](guides/faq.md)
 
