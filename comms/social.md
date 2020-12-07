@@ -1,4 +1,4 @@
 # Social
 
-Twitter, Reddit, etc.
+Twitter, Reddit, Instagram etc.
 

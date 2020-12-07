@@ -6,7 +6,7 @@ description: 1Hive is first and foremost a community.
 
 We use various channels for discussion:
 
-Telegram, Discord
+Telegram, Discord, Discourse.
 
 Google calendar link.
 

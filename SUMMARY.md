@@ -5,11 +5,13 @@
 ## Products
 
 * [Honeypot](products/honeypot/README.md)
-  * [Conviction Voting](products/honeypot/conviction-voting.md)
+  * [Issuance](products/honeypot/issuance.md)
+  * [Voting](products/honeypot/conviction-voting.md)
+* [Celeste](products/celeste.md)
 * [Honeyswap](products/honeyswap.md)
 * [Honeycomb](products/honeycomb.md)
-* [Honey Faucet](products/honey-faucet.md)
 * [Pollen](products/pollen.md)
+* [Honey Faucet](products/honey-faucet.md)
 
 ## External Apps
 
@@ -21,13 +23,18 @@
 
 ## Swarms
 
+* [Celeste](swarms/celeste.md)
 * [Fauna](swarms/fauna.md)
 * [Buzz](swarms/buzz.md)
-* [Celeste](swarms/celeste.md)
 * [Luna](swarms/luna.md)
 
 ## Media <a id="comms"></a>
 
 * [Chat](comms/untitled.md)
 * [Social](comms/social.md)
+
+## Guides
+
+* [Wiki Contribution](guides/wiki-contribution.md)
+* [FAQ](guides/faq.md)
 
