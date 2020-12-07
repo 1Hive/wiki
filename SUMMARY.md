@@ -7,7 +7,6 @@
 * [Honeypot](products/honeypot/README.md)
   * [Issuance](products/honeypot/issuance.md)
   * [Voting](products/honeypot/conviction-voting.md)
-* [Celeste](products/celeste.md)
 * [Honeyswap](products/honeyswap.md)
 * [Honeycomb](products/honeycomb.md)
 * [Pollen](products/pollen.md)
@@ -37,4 +36,9 @@
 * [Verifying on BrightId](guides/brightid.md)
 * [Wiki Contribution](guides/wiki-contribution.md)
 * [FAQ](guides/faq.md)
+
+## Upcoming
+
+* [Celeste](upcoming/celeste.md)
+* [Gardens](upcoming/gardens.md)
 
