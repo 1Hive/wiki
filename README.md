@@ -10,3 +10,5 @@ We are a DAO, what is a DAO?
 
 Discord: [https://discord.gg/P4rRDUKTAU](https://discord.gg/P4rRDUKTAU)
 
+Include 1Hive Covenant here.
+
