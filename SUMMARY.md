@@ -18,7 +18,8 @@
 * [Celeste](swarms/celeste.md)
 * [Fauna](swarms/fauna.md)
 * [Buzz](swarms/buzz.md)
-* [Luna](swarms/luna.md)
+* [Luna](swarms/luna/README.md)
+  * [CadCad Modelling](swarms/luna/cadcad-modelling.md)
 * [Bug Bounty](swarms/bug-bounty.md)
 
 ## Media
