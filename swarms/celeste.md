@@ -18,11 +18,20 @@ Development can be seen in the 1Hive Github org in repos preceded with "Celeste"
 
 ## Members
 
+### Dao Members
+
 @rperez89  
 @lkngtn  
 @fiore  
 @willjgriff  
 @fabri
+
+### External Contributors
+
+@crisOG  
+@felix  
+@onbjerg  
+
 
 ## Funding Proposal Links
 
