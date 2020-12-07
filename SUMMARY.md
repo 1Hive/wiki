@@ -12,6 +12,11 @@
 * [Pollen](products/pollen.md)
 * [Honey Faucet](products/honey-faucet.md)
 
+## Upcoming
+
+* [Celeste](upcoming/celeste.md)
+* [Gardens](upcoming/gardens.md)
+
 ## Swarms
 
 * [Celeste](swarms/celeste.md)
@@ -36,9 +41,4 @@
 * [Verifying on BrightId](guides/brightid.md)
 * [Wiki Contribution](guides/wiki-contribution.md)
 * [FAQ](guides/faq.md)
-
-## Upcoming
-
-* [Celeste](upcoming/celeste.md)
-* [Gardens](upcoming/gardens.md)
 
