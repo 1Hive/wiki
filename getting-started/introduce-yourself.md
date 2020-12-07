@@ -1,6 +1,6 @@
 It’s important for us to get to know a little about each other as we work together to effectively create and manage 1Hive
 
-Please introduce yourself on our [Introduce Yourself to 1Hive Thread](https://forum.1hive.org/t/introduce-yourself-to-1hive-thread/130)<sup>[1](https://forum.1hive.org/t/introduce-yourself-to-1hive-thread/130)</sup> 😏 
+Please introduce yourself on our [Introduce Yourself to 1Hive Thread](https://forum.1hive.org/t/introduce-yourself-to-1hive-thread/130)<sup>[1](https://forum.1hive.org/t/introduce-yourself-to-1hive-thread/130)</sup>.
 
 ### Things to potentially include:
 
