@@ -1,5 +1,5 @@
 ---
-description: A guide to updating the 1Hive GitBook Wiki contents.
+description: A guide to updating the 1Hive Wiki contents.
 ---
 
 # Wiki Contribution
@@ -17,7 +17,7 @@ At the very least one member from each swarm will have write access to update th
 
 ### Post Setup Steps
 
-1. Within the Wiki repo that was forked to your own Github account, navigate to the file you wish to change and edit the file directly in your web browser by clicking on the pencil icon in the top right of the files border. Each file represents a page on the wiki, the names should represent those seen through the GitBook website. 
+1. Within the Wiki repo that was forked to your own Github account, navigate to the file you wish to change and edit the file directly in your web browser by clicking on the pencil icon in the top right of the files border. Each file represents a page on the wiki, the names should represent those seen through the Wiki website. 
 2. Use Github markdown to format your entry: [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
 3. Commit your change by scrolling to the bottom, entering a commit message and clicking Commit. 
 4. Create a pull request \(PR\) against the 1hive wiki repo by clicking on Pull Requests -&gt; New Pull Request. Note the base repository should be `1Hive/wiki` and the base should be  `master`. Click Create Pull Request.
