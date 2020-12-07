@@ -28,7 +28,7 @@
 
 ## Media
 
-* [Chat](media/untitled.md)
+* [Chat](media/chat.md)
 * [Social](media/social.md)
 * [Brand Guidelines](media/brand-guidelines.md)
 
