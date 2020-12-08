@@ -4,9 +4,7 @@ description: 'Honey is money, for everybody.'
 
 # Welcome to 1Hive
 
-1Hive is a decentralized autonomous organization, like Bitcoin or Ethereum. This website is maintained independently by 1hive community members as a helpful resource.
-
-**1hive** is a decentralized autonomous organization \(DAO\) that issues and distributes a digital currency called **Honey**.
+**1Hive** is a decentralized autonomous organization \(DAO\) that issues and distributes a digital currency called **Honey**. This Wiki is maintained by 1hive community members as a helpful resource.
 
 ## What is a DAO? <a id="what-is-a-dao"></a>
 
