@@ -2,6 +2,7 @@
 
 * [Welcome to 1Hive](README.md)
 * [Getting Started](getting-started/README.md)
+  * [Community Covenant](getting-started/community-covenant.md)
   * [Introduce Yourself](getting-started/introduce-yourself.md)
   * [Quick Navigation Guide](getting-started/quick-navigation-guide.md)
   * [How Can You Contribute?](getting-started/how-can-you-contribute.md)
@@ -18,6 +19,12 @@
 * [Celeste \(Coming soon\)](products/celeste.md)
 * [Gardens \(Coming soon\)](products/gardens.md)
 
+## Media
+
+* [Chat](media/chat.md)
+* [Social](media/social.md)
+* [Brand Guidelines](media/brand-guidelines.md)
+
 ## Swarms
 
 * [Celeste](swarms/celeste.md)
@@ -27,12 +34,6 @@
 * [Luna](swarms/luna/README.md)
   * [CadCad Modelling](swarms/luna/cadcad-modelling.md)
 * [Bug Bounty](swarms/bug-bounty.md)
-
-## Media
-
-* [Chat](media/chat.md)
-* [Social](media/social.md)
-* [Brand Guidelines](media/brand-guidelines.md)
 
 ## Guides
 

@@ -4,7 +4,7 @@ description: 'Honey is money, for everybody.'
 
 # Welcome to 1Hive
 
-**1Hive** is a decentralized autonomous organization \(DAO\) that issues and distributes a digital currency called **Honey**. Teams focussed on developing and maintaining 1Hive products and media are called **Swarms.** Each Swarm requests funds from the 1Hive DAO and is free to govern themselves as they wish.
+**1Hive** is a decentralized autonomous organization \(DAO\) that issues and distributes a digital currency called **Honey**.
 
 ## What is a DAO? <a id="what-is-a-dao"></a>
 
@@ -16,55 +16,21 @@ While centralized administration is a powerful and flexible means to scale human
 
 In the case of the 1hive DAO, a community currency called Honey is used to create a circular economy where public goods and investments which grow the 1hive economy can be collectively funded with **conviction voting**.
 
-## Community Covenant
+## Why Honey?
 
-1hive is a community of activists seeking to build a future that is more free, fair, open, and humane.
+Because honey is money. Seriously.
 
-1hive is also an economic protocol, similar to Bitcoin or Ethereum, where a digital currency, Honey, is issued and distributed programmatically. Unlike Bitcoin or Ethereum the 1hive protocol does not narrowly define the set of activities which are valuable but instead relies on community members to guide the distribution process by creating and staking on Honey distribution proposals.
+Issuing a digital currency allows a distributed digital community like 1hive to build an economy around a set of shared values.
 
-The goal of the 1hive protocol is to foster a healthy community economy by allocating a steady stream of Honey towards development, maintenance, and improvement of the common goods that bring the most value to the 1hive community.
+Holding a specific currency is a bet on the future growth of that economy. The more people who hold the currency, the more people who will have interest in participating and growing the economy.
 
-The growth of the 1hive economy is directly related to the communities ability to foster an inclusive and welcoming culture that people feel proud and delighted to adopt as their own. When someone choses to buy or hold Honey and participate in the Honey economy they are implicitly supporting the communities culture, values, and norms.
+Each community may adopt different social norms, and may use different issuance and distribution policies to allocate shared resources. The most effective communities will thrive and grow, competing for the attention and loyalty of individuals. Choosing to hold a specific currency will evolve beyond just a financial decision into a political and social one as well.
 
-To this end, the 1hive protocol depends on a social contract, which sets expectations for how members should engage both with the protocol and with one another.
+This type of competition is good for everyone, and should hopefully lead to a future that is more free, fair, open, and humane.
 
-## The Pledge
+## Getting Started <a id="getting-started"></a>
 
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+1hive is an open community, you do not need to ask permission to join or become a member. If you see something you think should be improved, you can make a proposal to get honey and make it happen.
 
-We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
-
-## Our Standards
-
-Examples of behavior that contributes to a positive environment for our community include:
-
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the overall community
-
-Examples of unacceptable behavior include:
-
-* The use of sexualized language or imagery, and sexual attention or advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others’ private information, such as a physical or email address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
-
-### On-chain enforcement
-
-The on-chain mechanism for enforcement will depend on the completion of Celeste
-
-The ability for the 1hive protocol to enforce this covenant is limited to the direct interactions that community members have with the protocol. Specifically the ability for community members to submit proposals to allocate Honey issuance or adjust protocol parameters.
-
-A community member will be required to stake Honey when submitting a proposal, attesting that the impact of the proposal could be reasonably considered to align with 1hive’s social contract. A dispute can be created by another community member if they disagree with the proposers attestation by challenging the proposal and staking an equivalent amount of Honey. If after being challenged the proposal is not withdrawn, a decentralized oracle will be used to settle the dispute.
-
-Participants in the dispute resolution protocol are expected to review the proposal, this covenant, and related past disputes in order to provide a judgement that they feel best aligns with the established norms and intention of the 1hive community.
-
-If the oracle responds in favor of the proposer the proposal will be unlocked and the challenger’s stake will be transferred to the proposer. On the other hand, if the dispute resolves in favor of the challenger the proposal will be removed from consideration and the proposers stake will be given to the challenger.
-
-### Off-chain enforcement
-
-While there is no canonical off-chain forum that represents the 1hive community, there are community spaces including the 1hive Github, Discourse, and Discord communities, and other forums which may emerge in the future which are expected to adhere to this covenant.
+You can also earn honey simply by participating in the community on github, discord, and discourse \([see Pollen](https://about.1hive.org/df5859aeb5b3dcb39d7615aa92d96fe2/05-pollen.md)\), by registering and claiming honey via the BrightId faucet, or by providing liquidity on honeyswap and depositing your LP tokens into the honeycomb. While we encourage people to take initiative as individuals, we also like to work together. Self-organizing “swarms” have formed around specific projects \(e.g. honeyswap, celeste, gardens\), or work areas \(e.g. design, communications, engineering\). If you’re new to 1hive and want to contribute a good way to start is to find a swarm that interests you and ask how you might help.
 
