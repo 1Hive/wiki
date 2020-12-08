@@ -32,8 +32,7 @@
 * [Fauna](swarms/fauna.md)
 * [Buzz](swarms/buzz.md)
 * [Morphosis](swarms/morphosis.md)
-* [Luna](swarms/luna/README.md)
-  * [CadCad Modelling](swarms/luna/cadcad-modelling.md)
+* [Luna](swarms/luna.md)
 * [Bug Bounty](swarms/bug-bounty.md)
 
 ## Guides
