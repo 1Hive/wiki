@@ -28,6 +28,7 @@
 ## Swarms
 
 * [Celeste](swarms/celeste.md)
+* [Pollen](swarms/pollen.md)
 * [Fauna](swarms/fauna.md)
 * [Buzz](swarms/buzz.md)
 * [Morphosis](swarms/morphosis.md)
