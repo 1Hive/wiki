@@ -4,6 +4,10 @@ description: The rules by which we agree to engage in the 1Hive community.
 
 # Community Covenant
 
+{% hint style="info" %}
+The 1Hive Community Covenant is currently open for review: [https://forum.1hive.org/t/drafting-the-1hive-community-covenant-for-celeste/1548](https://forum.1hive.org/t/drafting-the-1hive-community-covenant-for-celeste/1548)
+{% endhint %}
+
 1hive is a community of activists seeking to build a future that is more free, fair, open, and humane.
 
 1hive is also an economic protocol, similar to Bitcoin or Ethereum, where a digital currency, Honey, is issued and distributed programmatically. Unlike Bitcoin or Ethereum the 1hive protocol does not narrowly define the set of activities which are valuable but instead relies on community members to guide the distribution process by creating and staking on Honey distribution proposals.
@@ -53,4 +57,6 @@ If the oracle responds in favor of the proposer the proposal will be unlocked an
 ## Off-chain enforcement
 
 While there is no canonical off-chain forum that represents the 1hive community, there are community spaces including the 1hive Github, Discourse, and Discord communities, and others forums which may emerge in the future which are expected to adhere to this covenant.
+
+
 
