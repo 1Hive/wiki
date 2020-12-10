@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Welcome to 1Hive](README.md)
+* [Community Covenant](community-covenant.md)
 * [Getting Started](getting-started/README.md)
-  * [Community Covenant](getting-started/community-covenant.md)
   * [Introduce Yourself](getting-started/introduce-yourself.md)
   * [Quick Navigation Guide](getting-started/quick-navigation-guide.md)
   * [How Can You Contribute?](getting-started/how-can-you-contribute.md)
