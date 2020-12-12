@@ -3,21 +3,21 @@
 * [Welcome to 1Hive](README.md)
 * [Community Covenant](community-covenant.md)
 * [Getting Started](getting-started/README.md)
-  * [Introduce Yourself](getting-started/introduce-yourself.md)
   * [Quick Navigation Guide](getting-started/quick-navigation-guide.md)
-  * [How Can You Contribute?](getting-started/how-can-you-contribute.md)
+  * [How Can You Contribute?](getting-started/how-can-you-contribute/README.md)
+    * [Earn Pollen](getting-started/how-can-you-contribute/earn-pollen.md)
+    * [Work With a Swarm](getting-started/how-can-you-contribute/work-with-a-swarm.md)
 
-## Products
+## Projects
 
-* [Honey Pot](products/honey-pot/README.md)
-  * [Issuance](products/honey-pot/issuance.md)
-  * [Voting](products/honey-pot/conviction-voting.md)
-* [Honeyswap](products/honeyswap/README.md)
-  * [Honeycomb](products/honeyswap/honeycomb.md)
-* [Pollen](products/pollen.md)
-* [Honey Faucet](products/honey-faucet.md)
-* [Celeste \(Coming soon\)](products/celeste.md)
-* [Gardens \(Coming soon\)](products/gardens.md)
+* [Honey Pot](projects/honey-pot/README.md)
+  * [Issuance](projects/honey-pot/issuance.md)
+  * [Voting](projects/honey-pot/conviction-voting.md)
+* [Honeyswap](projects/honeyswap/README.md)
+  * [Honeycomb](projects/honeyswap/honeycomb.md)
+* [Honey Faucet](projects/honey-faucet.md)
+* [Celeste \(Coming soon\)](projects/celeste.md)
+* [Gardens \(Coming soon\)](projects/gardens.md)
 
 ## Media
 

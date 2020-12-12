@@ -16,7 +16,7 @@ Development can be seen in the 1Hive Github org in repos preceded with "Celeste"
 
 {% embed url="https://aragon.1hive.org/\#/celeste" %}
 
-## Members
+## Roles and Responsibilities
 
 ### Dao Members
 
