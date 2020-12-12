@@ -4,7 +4,8 @@
 * [Community Covenant](community-covenant.md)
 * [Getting Started](getting-started/README.md)
   * [Quick Navigation Guide](getting-started/quick-navigation-guide.md)
-  * [How Can You Contribute?](getting-started/how-can-you-contribute/README.md)
+  * [Acquiring Honey](getting-started/acquiring-honey.md)
+  * [How to Contribute](getting-started/how-can-you-contribute/README.md)
     * [Earn Pollen](getting-started/how-can-you-contribute/earn-pollen.md)
 
 ## Projects
