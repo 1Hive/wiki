@@ -1,5 +1,5 @@
 ---
-description: 'HNY address: 0x71850b7e9ee3f13ab46d67167341e4bdc905eef9'
+description: 'HNY xDai address: 0x71850b7e9ee3f13ab46d67167341e4bdc905eef9'
 ---
 
 # Acquiring Honey
