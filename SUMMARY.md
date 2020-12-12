@@ -6,7 +6,6 @@
   * [Quick Navigation Guide](getting-started/quick-navigation-guide.md)
   * [How Can You Contribute?](getting-started/how-can-you-contribute/README.md)
     * [Earn Pollen](getting-started/how-can-you-contribute/earn-pollen.md)
-    * [Work With a Swarm](getting-started/how-can-you-contribute/work-with-a-swarm.md)
 
 ## Projects
 
