@@ -4,27 +4,19 @@ description: Building and Governing Celeste
 
 # Celeste
 
-The Celeste Swarm members are responsible for building, maintaining and initially governing Celeste. After Celeste is considered established we will transfer governance of Celeste to the 1Hive DAO. Payment for contributions are executed once every 2 weeks and can be seen in the Aragon DAO, link below.
+The Celeste Swarm members are responsible for building, maintaining and initially governing Celeste. After Celeste is considered established we will transfer governance of Celeste to the 1Hive DAO. Payment for contributions are executed once every 2 weeks and can be seen in the Aragon DAO, link below. Development can be seen in the 1Hive Github org in repos preceded with "Celeste".
 
-\[Scrum board showing current progress\]\([https://app.zenhub.com/workspaces/celeste-5f7f3362db531f00238c09ef/board](https://app.zenhub.com/workspaces/celeste-5f7f3362db531f00238c09ef/board)\)
+## Useful Links
 
+[Aragon DAO](https://aragon.1hive.org/#/celeste) holding Celeste funds.  
+  
+[Scrum board](https://app.zenhub.com/workspaces/celeste-5f7f3362db531f00238c09ef/board) showing current progress.
 
-
-Hours spent and payments made: [https://docs.google.com/spreadsheets/d/1h2uippeueDD\_lg5XTE70l3mCUU9lgxHyxie8OsAbbFg/edit\#gid=0](https://docs.google.com/spreadsheets/d/1h2uippeueDD_lg5XTE70l3mCUU9lgxHyxie8OsAbbFg/edit#gid=0)
-
-
-
-
-
-Development can be seen in the 1Hive Github org in repos preceded with "Celeste", eg [https://github.com/1Hive/celeste-contracts](https://github.com/1Hive/celeste-contracts)
-
-## DAO Link
-
-{% embed url="https://aragon.1hive.org/\#/celeste" %}
+[Excel sheet](https://docs.google.com/spreadsheets/d/1h2uippeueDD_lg5XTE70l3mCUU9lgxHyxie8OsAbbFg/edit#gid=0) showing hours spent and payments made.
 
 ## Roles and Responsibilities
 
-### Dao Members
+### Aragon Dao members, governing funds.
 
 @rperez89  
 @lkngtn  
