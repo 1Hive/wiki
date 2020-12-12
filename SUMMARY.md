@@ -12,7 +12,6 @@
 
 * [Honey Pot](projects/honey-pot/README.md)
   * [Issuance](projects/honey-pot/issuance.md)
-  * [Voting](projects/honey-pot/conviction-voting.md)
 * [Honeyswap](projects/honeyswap/README.md)
   * [Honeycomb](projects/honeyswap/honeycomb.md)
 * [Honey Faucet](projects/honey-faucet.md)

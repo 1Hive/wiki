@@ -4,5 +4,5 @@
 
 Sign up to the weekly Pollen distribution and [earn pollen](earn-pollen.md) which rewards individuals for contributing to the Discourse, Discord and Github.
 
-Contribute to governance by either [creating or voting on a proposal ](../../projects/honey-pot/conviction-voting.md)in 1hive.org
+Contribute to governance by either [creating or voting on a proposal ]()in 1hive.org
 

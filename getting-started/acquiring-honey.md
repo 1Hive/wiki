@@ -1,3 +1,7 @@
+---
+description: 'HNY address: 0x71850b7e9ee3f13ab46d67167341e4bdc905eef9'
+---
+
 # Acquiring Honey
 
 Honey is the community currency of 1hive, it is also an important community boundary. In order to influence the direction of 1hive, honey holders \(also called **keepers**\) can stake their honey on proposals.
