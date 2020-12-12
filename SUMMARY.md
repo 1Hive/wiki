@@ -19,21 +19,20 @@
 * [Celeste \(Coming soon\)](projects/celeste.md)
 * [Gardens \(Coming soon\)](projects/gardens.md)
 
-## Media
+## Community
 
-* [Chat](media/chat.md)
-* [Social](media/social.md)
-* [Brand Guidelines](media/brand-guidelines.md)
-
-## Swarms
-
-* [Celeste](swarms/celeste.md)
-* [Pollen](swarms/pollen.md)
-* [Fauna](swarms/fauna.md)
-* [Buzz](swarms/buzz.md)
-* [Morphosis](swarms/morphosis.md)
-* [Luna](swarms/luna.md)
-* [Bug Bounty](swarms/bug-bounty.md)
+* [Swarms](community/swarms/README.md)
+  * [Celeste](community/swarms/celeste.md)
+  * [Luna](community/swarms/luna.md)
+  * [Morphosis](community/swarms/morphosis.md)
+  * [Buzz](community/swarms/buzz.md)
+  * [Pollen](community/swarms/pollen.md)
+  * [Fauna](community/swarms/fauna.md)
+  * [Bug Bounty](community/swarms/bug-bounty.md)
+* [Media](community/media/README.md)
+  * [Chat](community/media/chat.md)
+  * [Social](community/media/social.md)
+  * [Brand Guidelines](community/media/brand-guidelines.md)
 
 ## Guides
 
