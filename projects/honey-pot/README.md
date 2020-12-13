@@ -32,3 +32,11 @@ Once you have created your proposal thread, you can create your proposal by goin
 
 Be sure to provide a short but descriptive title, and link to your forum post.
 
+## **Terminology on 1hive.org**
+
+**Common Pool** refers to the tokens in the DAO that have been minted and are available for distribution.
+
+**Token Supply** is all of the tokens currently in existence.
+
+**Active** is the supply that is currently staked to proposals.
+
