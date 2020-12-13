@@ -4,7 +4,7 @@ description: First steps for getting involved with the hive.
 
 # Introduce Yourself
 
-Join our Discord and say hi: 
+Discord is the primary way we communicate through text, audio and video. Join our Discord and say hi: 
 
 {% embed url="https://discord.gg/P4rRDUKTAU" %}
 
