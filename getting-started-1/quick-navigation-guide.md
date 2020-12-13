@@ -2,6 +2,12 @@
 
 Most things in 1Hive are referred to using natural world references, often related to nature. Below is a brief description of various references used to refer to **Projects** and **Swarms**.
 
+## Projects
+
+\*\*\*\*[**Honey Pot**](../projects/honey-pot/) ****- The central place for stuff
+
+## Swarms
+
 [**Gardens**](../projects/gardens.md) - A project and swarm developing 1hive.org aka [**Honey Pot**](../projects/honey-pot/) which aspires to become a web3 social network connecting people together and redefining the future of work. Currently it provides an interface for Honey distribution through Conviction Voting, but it will be extended to support the creation and operation of independent swarms.
 
 **Tulip** - Work related to trading and DeFi infrastructure including Honeyswap, a fork of uniswap v2 that will incentivize liquidity provision using Honey. And other “Bee-Fi” related projects.
