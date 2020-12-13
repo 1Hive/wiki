@@ -1,6 +1,6 @@
 # Security
 
-### Bug Bounty
+## Bug Bounty
 
 1Hive has an ongoing Bug Bounty program where community members can report any bugs or vulnerabilities they discover for a reward of up to **$40,000** for critical bugs. Find more information on the bounty criteria and application process on the Bug Bounty page.
 
@@ -8,7 +8,7 @@ See [Bug Bounty Swarm](swarms/bug-bounty.md) and official bug bounty program des
 
 {% embed url="https://forum.1hive.org/t/1hive-contract-bug-bounty-program/1391" %}
 
-### Security Audits
+## Security Audits
 
 Currently 1Hive does not audit it's code, see this note regarding this:
 
