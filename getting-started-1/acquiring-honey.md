@@ -9,5 +9,5 @@ In order to participate in this process you must first acquire some honey. Curre
 3. Look for something you can do to improve 1hive and submit a funding proposal to [the DAO](https://1hive.org/#/home).
 4. Buy honey on [Honeyswap](https://honeyswap.org/#/swap).
 
-HNY xDai address: \`0x71850b7e9ee3f13ab46d67167341e4bdc905eef9\`
+HNY xDai address: `0x71850b7e9ee3f13ab46d67167341e4bdc905eef9`
 
