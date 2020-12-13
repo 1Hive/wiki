@@ -1,10 +1,6 @@
----
-description: First steps for getting involved with the hive.
----
-
 # Introduce Yourself
 
-Discord is the primary way we communicate through text, audio and video. Join our Discord and say hi: 
+Discord is the primary way we communicate, we have setup our Discord with channels for all the different areas of research, development and marketing we engage in along with channels for casual discussions. It's also the way we do meetings. Join our Discord and say hi: 
 
 {% embed url="https://discord.gg/P4rRDUKTAU" %}
 
