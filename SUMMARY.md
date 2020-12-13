@@ -2,11 +2,14 @@
 
 * [Welcome to 1Hive](README.md)
 * [Community Covenant](community-covenant.md)
-* [Getting Started](getting-started/README.md)
-  * [Quick Navigation Guide](getting-started/quick-navigation-guide.md)
-  * [Acquiring Honey](getting-started/acquiring-honey.md)
-  * [How to Contribute](getting-started/how-can-you-contribute/README.md)
-    * [Earn Pollen](getting-started/how-can-you-contribute/earn-pollen.md)
+
+## Getting Started <a id="getting-started-1"></a>
+
+* [Introduce Yourself](getting-started-1/introduce-yourself.md)
+* [How to Contribute](getting-started-1/how-can-you-contribute/README.md)
+  * [Earn Pollen](getting-started-1/how-can-you-contribute/earn-pollen.md)
+* [Acquiring Honey](getting-started-1/acquiring-honey.md)
+* [Quick Navigation Guide](getting-started-1/quick-navigation-guide.md)
 
 ## Projects
 
@@ -29,9 +32,10 @@
   * [Fauna](community/swarms/fauna.md)
   * [Bug Bounty](community/swarms/bug-bounty.md)
 * [Media](community/media/README.md)
-  * [Chat](community/media/chat.md)
-  * [Social](community/media/social.md)
+  * [Calendar](community/media/calendar.md)
+  * [Discord](community/media/discord.md)
   * [Brand Guidelines](community/media/brand-guidelines.md)
+* [Security](community/security.md)
 
 ## Guides
 
