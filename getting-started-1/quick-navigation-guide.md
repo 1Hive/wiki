@@ -1,6 +1,6 @@
 # Quick Navigation Guide
 
-Most things in 1Hive are referred to using natural world references, often related to nature. Below is a brief description of various references used to refer to **Projects** and **Swarms**.
+Most things in 1Hive are referred to using references to the natural world. Below is a brief description of various references used to refer to **Projects** and **Swarms**.
 
 ## Projects
 
