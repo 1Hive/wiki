@@ -4,8 +4,6 @@ description: First steps for getting involved with the hive.
 
 # Introduce Yourself
 
-## Introduce Yourself
-
 Join our Discord and say hi: 
 
 {% embed url="https://discord.gg/P4rRDUKTAU" %}
