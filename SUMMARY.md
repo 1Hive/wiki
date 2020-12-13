@@ -39,7 +39,7 @@
 
 ## Guides
 
-* [Using xDai](guides/xdai/README.md)
+* [xDai](guides/xdai/README.md)
   * [Connecting via Metamask](guides/xdai/connecting-via-metamask.md)
   * [Faucet](guides/xdai/faucet.md)
   * [Token Bridge](guides/xdai/token-bridge.md)
