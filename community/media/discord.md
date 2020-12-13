@@ -2,6 +2,8 @@
 
 Highlight there can be info in each channels pinned posts in Discord.
 
+Mention check in channel and nominations.
+
 ### Roles
 
 ### Channels
