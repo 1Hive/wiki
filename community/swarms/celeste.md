@@ -16,7 +16,7 @@ The Celeste Swarm members are responsible for building, maintaining and initiall
 
 ## Roles and Responsibilities
 
-### Aragon Dao members, governing funds.
+### Aragon Dao members, governing funds. \(Replace with a table\)
 
 @rperez89  
 @lkngtn  
