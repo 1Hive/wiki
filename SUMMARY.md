@@ -30,6 +30,7 @@
   * [Buzz](community/swarms/buzz.md)
   * [Pollen](community/swarms/pollen.md)
   * [Fauna](community/swarms/fauna.md)
+  * [Gardens](community/swarms/gardens.md)
   * [Bug Bounty](community/swarms/bug-bounty.md)
 * [Media](community/media/README.md)
   * [Calendar](community/media/calendar.md)

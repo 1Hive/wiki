@@ -16,19 +16,18 @@ The Celeste Swarm members are responsible for building, maintaining and initiall
 
 ## Roles and Responsibilities
 
-### Aragon Dao members, governing funds. \(Replace with a table\)
+| Member | Role |
+| :--- | :--- |
+| @rperez89 | UI developer and DAO member |
+| @fabri | UI developer and DAO member |
+| @willjgriff | Solidity developer and DAO member |
+| @fiore | Designer and DAO member |
+| @lkngtn | Research and DAO member |
+| @crisOG | Dev Ops |
+| @felix | Dev Ops |
+| @onbjerg | Dev Ops |
 
-@rperez89  
-@lkngtn  
-@fiore  
-@willjgriff  
-@fabri
-
-### External Contributors
-
-@crisOG  
-@felix  
-@onbjerg
+Note **DAO member** means this member has voting weight in the Aragon DAO used to distribute funds and on launch to govern Celeste.
 
 ## Funding Proposals
 
