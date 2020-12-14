@@ -8,6 +8,8 @@ description: 1hive.org
 
 You can create, monitor, and stake on conviction proposals using the app located at [1hive.org](https://1hive.org/#/).
 
+You can also access the 1Hive DAO through the Aragon Client interface at [aragon.1hive.org](https://aragon.1hive.org/#/0xe9869a0bbc8fb8c61b7d81c33fa2ba84871b3b0e) 
+
 ## Conviction Primer
 
 Conviction Voting allows proposals to be created and considered continuously and simultaneously. Participants can signal their preferences for the proposals they support, but they are not able to “double count” their influence across multiple proposals.
