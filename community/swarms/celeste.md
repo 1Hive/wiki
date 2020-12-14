@@ -27,7 +27,7 @@ The Celeste Swarm members are responsible for building, maintaining and initiall
 | @felix | Dev Ops |
 | @onbjerg | Dev Ops |
 
-Note **DAO member** means this member has voting weight in the Aragon DAO used to distribute funds and on launch to govern Celeste.
+Note **DAO member** means this member has voting weight in the Aragon DAO used to distribute funds and on launch they will have governance power to update Celeste's config. Each DAO member has equal voting weight.
 
 ## Funding Proposals
 
