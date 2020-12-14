@@ -1,5 +1,5 @@
 ---
-description: A guide to updating the 1Hive Wiki.
+description: A guide to updating this 1Hive Wiki.
 ---
 
 # Wiki Contribution
