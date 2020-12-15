@@ -13,5 +13,3 @@ In order to participate in this process you must first acquire some honey. Curre
 3. Look for something you can do to improve 1Hive and submit a funding proposal to the [Honey Pot](../projects/honey-pot/). 
 4. Buy honey on [Honeyswap](https://honeyswap.org/#/swap) with xDai and other cryptocurrencies.
 
-See more details about the [Honey token on Blockscout](https://blockscout.com/poa/xdai/address/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/transactions).
-
