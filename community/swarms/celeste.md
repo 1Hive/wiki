@@ -31,5 +31,5 @@ Note: **DAO member** means this member has voting weight in the Aragon DAO used 
 
 ## Funding Proposals
 
-One funding proposal was made which was accepted by the community: [https://forum.1hive.org/t/celeste-swarm-funding-proposal/1451](https://forum.1hive.org/t/celeste-swarm-funding-proposal/1451) 
+One funding proposal was made which was accepted by the community: [https://forum.1hive.org/t/celeste-swarm-funding-proposal/1451](https://forum.1hive.org/t/celeste-swarm-funding-proposal/1451).
 
