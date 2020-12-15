@@ -13,7 +13,7 @@ At the very least one member from each swarm will have write access to update th
 ### First Time Setup Steps
 
 1. To edit a page without explicit write access requires a Github account. Create one here: [http://github.com/](http://github.com/)
-2. Fork the Wiki from the 1Hive Github organisation to your own Github account by going to this link and clicking fork in the top right: [https://github.com/1Hive/wiki](https://github.com/1Hive/wiki) 
+2. Fork the Wiki from the 1Hive Github organisation to your own Github account by going to this link and clicking `fork` in the top right: [https://github.com/1Hive/wiki](https://github.com/1Hive/wiki) 
 
 ### Post Setup Steps
 
