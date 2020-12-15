@@ -2,5 +2,5 @@
 description: Media communication
 ---
 
-# Buzz
+# Buzz 🐝
 

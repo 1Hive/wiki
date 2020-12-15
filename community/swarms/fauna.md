@@ -2,5 +2,5 @@
 description: Discussion moderation
 ---
 
-# Fauna
+# Fauna 🐱
 
