@@ -14,6 +14,7 @@ In order to receive weekly pollen distributions you’ll need to register your a
 #🏵pollen
 github: justabee
 discourse: justabee
+discord: justabee#1234
 xDai: 0x0...000
 ```
 
