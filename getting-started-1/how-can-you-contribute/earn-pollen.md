@@ -23,9 +23,9 @@ If you have questions, are interested in how pollen is calculated, or auditing t
 
 ## Useful Links
 
-Updates to Pollen parameters are currently [documented here](https://forum.1hive.org/t/updates-to-sourcecred/726).
+[Updates to Pollen parameters](https://forum.1hive.org/t/updates-to-sourcecred/726) are currently documented on the forum.
 
-You can see the [current pollen rankings here](https://1hive.github.io/pollen/#/explorer).
+[General rules](https://forum.1hive.org/t/pollen-rules-and-a-reporting-system/1155) for engaging in Pollen.
 
-
+[Current pollen rankings ](https://1hive.github.io/pollen/#/explorer)displayed in a table.
 
