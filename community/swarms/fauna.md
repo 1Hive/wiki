@@ -1,5 +1,5 @@
 ---
-description: Discussion moderation
+description: Platform moderation
 ---
 
 # 🐱 Fauna

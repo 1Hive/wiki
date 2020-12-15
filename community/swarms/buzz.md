@@ -1,5 +1,5 @@
 ---
-description: Media communication
+description: Media and communication
 ---
 
 # 🐝 Buzz

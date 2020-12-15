@@ -1,5 +1,5 @@
 ---
-description: Managing sourcecred
+description: Sourcecred management
 ---
 
 # 🏵 Pollen
