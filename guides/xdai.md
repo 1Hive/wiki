@@ -32,3 +32,5 @@ Ensure that no matter what MetaMask sets your gas cost to, that you always set i
 
 The xDai [Block Explorer](https://blockscout.com/poa/xdai), similar to Etherscan, can be used to see transactions and accounts.
 
+If you need help getting connected or using any of the above services, come to the [`#⛈help`](https://discord.gg/3AjG7XvRJZ)Discord channel.
+
