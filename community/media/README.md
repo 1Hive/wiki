@@ -1,5 +1,5 @@
 ---
-description: 1Hive is first and foremost a community.
+description: 1Hive is a community
 ---
 
 # Media
