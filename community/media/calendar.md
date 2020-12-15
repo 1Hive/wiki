@@ -1,5 +1,5 @@
 ---
-description: Google calendar for all upcoming events.
+description: 1Hive Google calendar for all upcoming events.
 ---
 
 # Calendar
