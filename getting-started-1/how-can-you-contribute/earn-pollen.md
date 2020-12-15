@@ -21,7 +21,11 @@ Replacing "justabee" and "0x0...000" with your accounts.
 
 If you have questions, are interested in how pollen is calculated, or auditing the distributions, just hop on the [`#🏵pollen`](https://discord.gg/y8fPNcNdAa) channel.
 
-## Current Rankings
+## Useful Links
+
+Updates to Pollen parameters are currently [documented here](https://forum.1hive.org/t/updates-to-sourcecred/726).
 
 You can see the [current pollen rankings here](https://1hive.github.io/pollen/#/explorer).
+
+
 
