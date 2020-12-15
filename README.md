@@ -1,20 +1,20 @@
 ---
-description: 'Honey is money, for everybody.'
+description: 'La miel es dinero, para todos.'
 ---
 
-# Welcome to 1Hive
+# Bienvenido a 1Hive
 
-**1Hive** is a decentralized autonomous organization \(DAO\) that issues and distributes a digital currency called **Honey**.
+**1Hive** es una organización autónoma descentralizada o según sus siglas en inglés "a decentralized autonomous organization \(DAO\)"  que emite y distribuye una moneda digital llamada **Honey**.
 
-## What is a DAO? <a id="what-is-a-dao"></a>
+## ¿Qué es un DAO? <a id="what-is-a-dao"></a>
 
-DAOs are cybernetic super-organisms… or more simply, coordination protocols which enable humans to work together towards a common goal by regulating interactions through rules defined in software.
+Los DAOs super organismos cibernéticos … o poniendolo más simple, protocolos de coordinación que permiten a los humanos trabajar juntos hacia un objetivo común, regulando las interacciones mediante reglas definidas en el software.
 
-**If someone claims to represent a DAO, they are either lying or they are confused**. DAOs are unique because they put automation at the center and humans at the edges. There is no CEO, nor managers. Administration, where it must exist is viewed as a design flaw and ruthlessly minimized.
+**Si alguien dice representar un DAO, esa persona está mintiendo o está confundida**. Los DAOs son únicos porque colocan la automatización en el centro y a las personas en el borde. No hay CEO, ni managers. La administración, donde debe existir, es vista como un defecto de diseño y se minimiza sin piedad.
 
-While centralized administration is a powerful and flexible means to scale human coordination. The advent of decentralized ledgers like Bitcoin and Ethereum have shown how disruptive, powerful, and resilient **sufficiently decentralized** coordination protocols can be. DAOs do not replace companies, instead they alter the economic landscape by creating novel markets and opportunities which individuals and companies can participate in.
+Mientras la administración centralizada es un medio poderoso y flexible para escalar la coordinación humana. La llegada de libros de contabilidad descentralizados como Bitcoin y Ethereum ha demostrado lo disruptivos, poderosos y resistentes que pueden ser los protocolos de coordinación **suficientemente descentralizados**. Los DAOs no reemplazan a las empresas, en cambio alteran el panorama económico al crear mercados y oportunidades novedosos en los que los individuos y empresas pueden participar.
 
-In the case of the 1hive DAO, a community currency called Honey is used to create a circular economy where public goods and investments which grow the 1hive economy can be collectively funded with [**conviction voting**](projects/honey-pot/).
+En el caso del DAO 1hive, una moneda comunitaria llamada Honey se utiliza para crear una economía circular donde los bienes públicos y las inversiones que hacen crecer la economía de 1hive pueden financiarse colectivamente con [**votación por convicción**](projects/honey-pot/).
 
 ## Why Honey?
 
