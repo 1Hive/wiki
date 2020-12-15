@@ -1,2 +1,2 @@
-# Bug Bounty
+# 🐛 Bug Bounty
 
