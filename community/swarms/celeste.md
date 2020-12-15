@@ -4,7 +4,7 @@ description: Building and Governing Celeste
 
 # 🌞 Celeste
 
-The Celeste Swarm members are responsible for building, maintaining and initially governing Celeste. After Celeste is considered established we will transfer governance of Celeste to the 1Hive DAO. Payment for contributions are executed once every 2 weeks and can be seen in the Aragon DAO, link below. Development can be seen in the 1Hive Github org in repos preceded with "Celeste".
+The 🌞Celeste Swarm members are responsible for building, maintaining and initially governing Celeste. After Celeste is considered established we will transfer governance of Celeste to the 1Hive DAO. Payment for contributions are executed once every 2 weeks and can be seen in the Aragon DAO, link below. Development can be seen in the 1Hive Github org in repos preceded with "Celeste".
 
 ## Useful Links
 
@@ -27,7 +27,7 @@ The Celeste Swarm members are responsible for building, maintaining and initiall
 | @felix | Dev Ops |
 | @onbjerg | Dev Ops |
 
-Note: **DAO member** means this member has voting weight in the Aragon DAO used to distribute funds and on launch they will have governance power to update Celeste's config. Each DAO member has equal voting weight.
+Each **DAO member** has equal voting weight in the Aragon DAO used to distribute funds and on launch they will have governance power to update Celeste's config. 
 
 ## Funding Proposals
 

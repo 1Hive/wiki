@@ -36,7 +36,8 @@
   * [Calendar](community/media/calendar.md)
   * [Discord](community/media/discord.md)
   * [Brand Guidelines](community/media/brand-guidelines.md)
-* [Security](community/security.md)
+* [Security](community/security/README.md)
+  * [Bug Bounty](community/security/bug-bounty.md)
 
 ## Guides
 
