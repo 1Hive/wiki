@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to 1Hive](README.md)
+* [Bienvenido a 1Hive](README.md)
 * [Community Covenant](community-covenant.md)
 
 ## Getting Started <a id="getting-started-1"></a>
