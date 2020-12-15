@@ -40,10 +40,7 @@
 
 ## Guides
 
-* [xDai](guides/xdai/README.md)
-  * [Connecting via Metamask](guides/xdai/connecting-via-metamask.md)
-  * [Faucet](guides/xdai/faucet.md)
-  * [Token Bridge](guides/xdai/token-bridge.md)
+* [xDai](guides/xdai.md)
 * [BrightId](guides/brightid/README.md)
   * [Verifying yourself](guides/brightid/verifying-yourself.md)
   * [Running a node](guides/brightid/running-a-node.md)
