@@ -1,3 +1,7 @@
+---
+description: Creating new Honey
+---
+
 # Issuance
 
 Issuance refers to the process that creates new Honey. Honey is currently set to inflate in supply 30% per year and is put straight into the Honey Pot's Common Pool, available to be requested through proposals.
