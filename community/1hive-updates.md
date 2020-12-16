@@ -1,10 +1,12 @@
 ---
 description: >-
-  1Hive's current activities. These are items that have some level of activity.
-  We can not provide a roadmap because we are a DAO.
+  1Hive's completed and current activities. We can not provide a roadmap because
+  we are a DAO.
 ---
 
 # 1Hive Updates
+
+The 1hive communication channels are public. If you read and attended public chats, discord channels, discourse, telegram and other various public communications you can infer a rough idea of what people are doing. This page is used for consolidating activities that maybe occurring. This is for people who don't have 20 hours a day to read every post on all these sources of communication. 
 
 The 3 sections in this document are defined as follows: 
 
@@ -16,7 +18,7 @@ Some other helpful link\(s\): [xDai Roadmap](https://www.xdaichain.com/about-xda
 
 ## Updates
 
-### Q4 2020 
+### Q4 2020 Completed Activities
 
 * Added various Honey token UI features to Honeyswap - [Proposal](https://forum.1hive.org/t/add-hny-to-your-wallet-button-on-ui/1093)  
 * Luna DAO 1 month funding - [proposal](https://forum.1hive.org/t/luna-swarm-launch-month-1-funding/1590)
@@ -25,35 +27,12 @@ Some other helpful link\(s\): [xDai Roadmap](https://www.xdaichain.com/about-xda
 * 1hive sponsoring for Posadelic Music Festival ****- [Proposal](https://forum.1hive.org/t/1hive-sponsoring-for-posadelic-music-festival/1651)
 * Market cap listed on Coin Gecko
 
-## List of Activities
+## Ongoing Activities
 
-### Celeste
-
-\*\*\*\*🎯 **Target:** Q1 2021  
- ✅**Status:** 
-
-For more information see [Celeste](../projects/celeste.md)
-
-### Limit Orders
-
-\*\*\*\*🎯 **Target:** Q1 2021  
- ✅**Status:** 
-
-For more information see [Github](https://github.com/1Hive/honeyswap-limit-order-contracts)
-
-### Change to Issuance Policy
-
-\*\*\*\*🎯 **Target:** Q1 2021  
- ✅**Status:** 
-
-We began with a 60% issuance rate, then we reduced to a 30% issuance. There has been a great deal of discussions around a dynamic issuance. For more information see the two forum post on [issuance](https://forum.1hive.org/t/discussion-honey-issuance-policy/) & the work being done on modeling a [dynamic issuance policy](https://github.com/lkngtn/honey-cad/blob/parameter-comparison/honey.ipynb)
-
-### Honeyswap Landing Page
-
-\*\*\*\*🎯 **Target:** Q1 2021  
- ✅**Status:** 
-
-A user friendly landing page for Honeyswap users.
+1. **Celeste** - For more information see [Celeste](../projects/celeste.md)\*\*\*\*
+2. **Limit Orders** - For more information see [Github](https://github.com/1Hive/honeyswap-limit-order-contracts)
+3. **Change to Issuance Policy** - We began with a 60% issuance rate, then we reduced to a 30% issuance. There has been a great deal of discussions around a dynamic issuance. For more information see the two forum post on [issuance](https://forum.1hive.org/t/discussion-honey-issuance-policy/) & the work being done on modeling a [dynamic issuance policy](https://github.com/lkngtn/honey-cad/blob/parameter-comparison/honey.ipynb)\*\*\*\*
+4. **Honeyswap Landing Page** - A user friendly landing page for Honeyswap users.
 
 ## Other Projects Important to 1Hive
 
