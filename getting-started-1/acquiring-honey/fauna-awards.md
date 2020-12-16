@@ -1,3 +1,7 @@
+---
+description: Awards for providing help and support
+---
+
 # Fauna Awards
 
 The [Fauna Swarm](../../community/swarms/fauna.md) periodically make awards to appreciate community members that provide help and support around the community. Each of the below members have been recognised and awarded 0.25 HNY at some point in the past for their contribution.
