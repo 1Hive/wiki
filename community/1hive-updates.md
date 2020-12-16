@@ -1,12 +1,10 @@
 ---
-description: >-
-  1Hive's completed and current activities. We can not provide a roadmap because
-  we are a DAO.
+description: Completed and estimated milestones
 ---
 
-# 1Hive Updates
+# Milestones
 
-The 1hive communication channels are public. If you read and attended public chats, discord channels, discourse, telegram and other various public communications you can infer a rough idea of what people are doing. This page is used for consolidating activities that maybe occurring. This is for people who don't have 20 hours a day to read every post on all these sources of communication. 
+These milestones are rough estimates specified and updated by the relevant Swarm. It is kept up-to-date at the best of the ability of each Swarm responsible. For a more accurate status of each project it is best to check out the public discussion on [Discord](https://discord.com/invite/P4rRDUKTAU), [Discourse](https://forum.1hive.org/), [Telegram](https://t.me/honeyswapDEX) and other social channels.
 
 The 3 sections in this document are defined as follows: 
 
@@ -41,7 +39,7 @@ Some other helpful link\(s\): [xDai Roadmap](https://www.xdaichain.com/about-xda
 🎯 **Target Date**: Q1-Q2 2021  
 ☑ **Status:** [Security Audits Completed]().
 
-**Why is this important to the 1hive?** We believe this is the best approach to launching the Honey token \(HNY\) on main net. 
+**Why is this important to the 1hive?** This will enable 1Hive to bridge HNY back to the Ethereum mainnet. Currently it is only possible to bridge from the Ethereum mainnet.
 
 * [Forum Post](https://forum.1hive.org/t/easy-hny-xdai-mainnet-bridge-idea/1436/12) - Reverse OmniBridge timeline
 * [xDai Roadmap](https://www.xdaichain.com/about-xdai/roadmap#omnibridge-phase-2) - Details on OmniBridge Phase 2
