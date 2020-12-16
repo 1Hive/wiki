@@ -24,7 +24,6 @@
 
 ## Community
 
-* [Milestones](community/1hive-updates.md)
 * [Swarms](community/swarms/README.md)
   * [🌞 Celeste](community/swarms/celeste.md)
   * [🌜 Luna](community/swarms/luna.md)
@@ -40,6 +39,7 @@
   * [Brand Guidelines](community/media/brand-guidelines.md)
 * [Security](community/security/README.md)
   * [Bug Bounty](community/security/bug-bounty.md)
+* [Milestones](community/1hive-updates.md)
 
 ## Guides
 
