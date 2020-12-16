@@ -43,9 +43,7 @@
 ## Guides
 
 * [xDai](guides/xdai.md)
-* [BrightId](guides/brightid/README.md)
-  * [Verifying yourself](guides/brightid/verifying-yourself.md)
-  * [Running a node](guides/brightid/running-a-node.md)
+* [BrightId](guides/brightid.md)
 * [Wiki Contribution](guides/wiki-contribution.md)
 * [FAQ](guides/faq.md)
 

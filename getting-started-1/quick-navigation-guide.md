@@ -10,7 +10,7 @@ Most things in 1Hive are referred to using references to the natural world. Belo
 
 \*\*\*\*[**Honeycomb**](../projects/honeyswap/honeycomb.md) ****- Defi liquidity farm's available on xDai. Incentivising liquidity provision on Honeyswap exchange pairs.
 
-\*\*\*\*[**Honey Faucet**](../projects/honey-faucet.md) - A faucet distributing free honey once every 48 hours. It requires the user be verified on [BrightId](../guides/brightid/). The amount that is claimable is dependant on the number of registered users during a particular period.
+\*\*\*\*[**Honey Faucet**](../projects/honey-faucet.md) - A faucet distributing free honey once every 48 hours. It requires the user be verified on [BrightId](../guides/brightid.md). The amount that is claimable is dependant on the number of registered users during a particular period.
 
 [**Celeste**](../projects/celeste.md) - A project and swarm working on a decentralized dispute resolution protocol, also referred to as a subjective oracle, based on Aragon Court that incorporates Bright ID to make participation less capital intensive. It will be used, among other things, to enforce the 1Hive Community Covenant.
 
