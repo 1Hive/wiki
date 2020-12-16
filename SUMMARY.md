@@ -43,7 +43,7 @@
 ## Guides
 
 * [xDai](guides/xdai.md)
-* [BrightId](guides/brightid.md)
+* [BrightID](guides/brightid.md)
 * [Wiki Contribution](guides/wiki-contribution.md)
 * [FAQ](guides/faq.md)
 
