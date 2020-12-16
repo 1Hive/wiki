@@ -8,7 +8,7 @@ description: 'La miel es dinero, para todos.'
 
 ## ¿Qué es un DAO? <a id="what-is-a-dao"></a>
 
-Los DAOs super organismos cibernéticos … o poniendolo más simple, protocolos de coordinación que permiten a los humanos trabajar juntos hacia un objetivo común, regulando las interacciones mediante reglas definidas en el software.
+Los DAOs super organismos cibernéticos… o poniendolo más simple, protocolos de coordinación que permiten a los humanos trabajar juntos hacia un objetivo común, regulando las interacciones mediante reglas definidas en el software.
 
 **Si alguien dice representar un DAO, esa persona está mintiendo o está confundida**. Los DAOs son únicos porque colocan la automatización en el centro y a las personas en el borde. No hay CEO, ni managers. La administración, donde debe existir, es vista como un defecto de diseño y se minimiza sin piedad.
 
@@ -16,21 +16,21 @@ Mientras la administración centralizada es un medio poderoso y flexible para es
 
 En el caso del DAO 1hive, una moneda comunitaria llamada Honey se utiliza para crear una economía circular donde los bienes públicos y las inversiones que hacen crecer la economía de 1hive pueden financiarse colectivamente con [**votación por convicción**](projects/honey-pot/).
 
-## Why Honey?
+## ¿Por qué Miel?
 
-Because honey is money. Seriously.
+Porque la miel es dinero. En serio.
 
-Issuing a digital currency allows a distributed digital community like 1hive to build an economy around a set of shared values.
+La emisión de una moneda digital permite a una comunidad digital distribuida como lo es 1hive, construir una economía en torno a un conjunto de valores compartidos. 
 
-Holding a specific currency is a bet on the future growth of that economy. The more people who hold the currency, the more people who will have interest in participating and growing the economy.
+Tener una moneda específica es una apuesta al crecimiento futuro de esa economía. Mientras más personas posean la moneda, más personas estarán interesadas en participar y hacer crecer la economía. 
 
-Each community may adopt different social norms, and may use different issuance and distribution policies to allocate shared resources. The most effective communities will thrive and grow, competing for the attention and loyalty of individuals. Choosing to hold a specific currency will evolve beyond just a financial decision into a political and social one as well.
+Cada comunidad puede adoptar diferentes normas sociales y puede utilizar diferentes políticas de emisión y distribución para asignar los recursos compartidos. Las comunidades más efectivas prosperarán y crecerán, compitiendo por la atención y la lealtad de individuos. Escoger tener una moneda específica evolucionará más allá de una simple decisión financiera a una política y social también. 
 
-This type of competition is good for everyone, and should hopefully lead to a future that is more free, fair, open, and humane.
+Este tipo de competencia es buena para todos y, con suerte, debería conducir a un futuro más libre, justo, abierto y humano.
 
-## Getting Started <a id="getting-started"></a>
+## Empezando <a id="getting-started"></a>
 
-1hive is an open community, you do not need to ask permission to join or become a member. If you see something you think should be improved, you can make a proposal to get honey and make it happen.
+1hive es una comunidad abierta, no necesitas pedir permiso para unirse o convertirse en miembro. Si ves algo que crees que debería mejorarse, puedes hacer una propuesta para conseguir miel \(HNY\) y hacerlo realidad. 
 
-You can also earn honey simply by participating in the community on github, discord, and discourse through Pollen, by registering and claiming honey via the BrightId faucet, or by providing liquidity on honeyswap and depositing your LP tokens into the honeycomb. While we encourage people to take initiative as individuals, we also like to work together. Self-organizing “swarms” have formed around specific projects \(e.g. honeyswap, celeste, gardens\), or work areas \(e.g. design, communications, engineering\). If you’re new to 1hive and want to contribute a good way to start is to find a swarm that interests you and ask how you might help.
+También puedes ganar miel simplemente participando en la comunidad de github, discord y discourse \(el foro\) a través de Pollen, registrándose y reclamando miel a través de la faucet de BrightId, o proporcionando liquidez en honeyswap y depositando tus tokens LP en honeycomb. Si bien alentamos a las personas a tomar la iniciativa como individuos, también nos gusta trabajar juntos. Se han formado swarms autoorganizados, traducido enjambres,  en torno a proyectos específicos \(por ejemplo, honeyswap, celeste, gardens\) o áreas de trabajo \(por ejemplo, diseño, comunicaciones, ingeniería\). Si eres nuevo en 1hive y quieres contribuir, una buena forma de empezar es encontrar un swarm que te interese y preguntar cómo podrías ayudar.
 
