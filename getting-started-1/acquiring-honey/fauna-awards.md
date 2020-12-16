@@ -17,5 +17,3 @@ The [Fauna Swarm](../../community/swarms/fauna.md) periodically make awards to a
 |  [omahs](https://forum.1hive.org/u/omahs/summary) |
 |  [oliver\_30](https://forum.1hive.org/u/oliver_30/summary) |
 
-## 
-
