@@ -35,7 +35,7 @@ This will enable 1Hive to bridge HNY back to the Ethereum mainnet. Currently it 
 
 🎯 **Target Date:** Unknown
 
-Aave V2 uses Chainlink oracles. 1Hive would like to fork Aave V2 and it is preferred to use Chainlink as it's price Oracle. This [announcement](https://blog.chain.link/protofire-receives-a-chainlink-community-grant-for-an-integration-with-xdai/) confirms a grant for developing a Chainlink integration with xDai.
+1Hive would like to fork Aave V2 and it is preferred to use Chainlink as it's price Oracle. This [announcement](https://blog.chain.link/protofire-receives-a-chainlink-community-grant-for-an-integration-with-xdai/) confirms a grant for developing a Chainlink integration with xDai.
 
 ### [xDai General Roadmap](https://www.xdaichain.com/about-xdai/roadmap)
 
