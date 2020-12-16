@@ -18,10 +18,21 @@ These milestones are rough estimates specified and updated by the relevant Swarm
 
 ## Future Milestones
 
-1. **Celeste** - For more information see [Celeste](../projects/celeste.md)\*\*\*\*
-2. **Limit Orders** - For more information see [Github](https://github.com/1Hive/honeyswap-limit-order-contracts)
-3. **Change to Issuance Policy** - We began with a 60% issuance rate, then we reduced to a 30% issuance. There has been a great deal of discussions around a dynamic issuance. For more information see the two forum post on [issuance](https://forum.1hive.org/t/discussion-honey-issuance-policy/) & the work being done on modeling a [dynamic issuance policy](https://github.com/lkngtn/honey-cad/blob/parameter-comparison/honey.ipynb)\*\*\*\*
-4. **Honeyswap Landing Page** - A user friendly landing page for Honeyswap users.
+### **Celeste**
+
+For more information see [Celeste](../projects/celeste.md)\*\*\*\*
+
+### **Limit Orders**
+
+For more information see [Github](https://github.com/1Hive/honeyswap-limit-order-contracts)
+
+### **Change to Issuance Policy**
+
+Issuance \(new Honey creation\) was initially set to 60% per year. It was reduced in November of 2020 to 30%. We are now developing a dynamic issuance policy, details can be seen in [Issuance](../projects/honey-pot/issuance.md).
+
+### **Honeyswap Landing Page**
+
+A user friendly landing page for Honeyswap users.
 
 ## External Milestones Important for 1Hive
 
