@@ -1,8 +1,8 @@
 ---
-description: The rules by which we agree to engage in the 1Hive community.
+description: Las reglas por las cuales aceptamos participar en la comunidad de1Hive.
 ---
 
-# Community Covenant
+# Pacto Comunitario
 
 {% hint style="info" %}
 The 1Hive Community Covenant is currently open for review: [https://forum.1hive.org/t/drafting-the-1hive-community-covenant-for-celeste/1548](https://forum.1hive.org/t/drafting-the-1hive-community-covenant-for-celeste/1548)
