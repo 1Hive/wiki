@@ -8,5 +8,5 @@ BrightId is an application used to uniquely identify individuals. It doesn't use
 
 1Hive currently requires a user be BrightId verified to claim from the [Honey Faucet](../projects/honey-faucet.md). In future once released, keepers in [Celeste](../projects/celeste.md) will also be required to be BrightId verified.
 
-For details about BrightId and getting verified see [their website](https://www.brightid.org/).
+For details about BrightId and getting verified see [the BrightId website](https://www.brightid.org/).
 
