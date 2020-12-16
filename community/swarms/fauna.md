@@ -4,7 +4,7 @@ description: Platform moderation
 
 # 🐱 Fauna
 
-The 🐱Fauna Swarm are active individuals who moderate behaviour on the various chat platforms and ensure users maintain the [community covenant](../../community-covenant.md). They also regularly provide support for users through help channels and elsewhere. The chat platforms moderated include but not limited to Discord, Discourse and Telegram.
+The 🐱Fauna Swarm are active individuals who monitor and moderate the various chat platforms and ensure users maintain the [community covenant](../../community-covenant.md). They also regularly provide support for users through help channels and elsewhere. The chat platforms moderated include but are not limited to Discord, Discourse and Telegram.
 
 ## Useful Links 
 
@@ -33,18 +33,18 @@ Each of the above members have equal voting weight within the Fauna DAO to manag
 
 ### Fauna Awards
 
-| Members | Role |
-| :--- | :--- |
-|  [theseeker](https://forum.1hive.org/u/theseeker/summary) | 1Hive Community members |
-|  [berserk](https://forum.1hive.org/u/berserk/summary) | 1Hive Community members |
-|  [Felix](https://forum.1hive.org/u/felix/summary) | 1Hive Community members |
-|  [satishmuppaneni](https://forum.1hive.org/u/satishmuppaneni/summary) | 1Hive Community members |
-|  [sp7290](https://forum.1hive.org/u/sp7290/summary) | 1Hive Community members |
-|  [boring877](https://forum.1hive.org/u/boring877/summary) | 1Hive Community members |
-|  [omahs](https://forum.1hive.org/u/omahs/summary) | 1Hive Community members |
-|  [oliver\_30](https://forum.1hive.org/u/oliver_30/summary) | 1Hive Community members |
+Fauna Awards is a way to appreciate community members that help and support the community. Each of the below members have been recognised and awarded 0.25 HNY at some point in the past.
 
-Fauna Awards is a way to appreciate community members that helped and supported the community.
+| Winners | Role |
+| :--- | :--- |
+|  [theseeker](https://forum.1hive.org/u/theseeker/summary) | Community member |
+|  [berserk](https://forum.1hive.org/u/berserk/summary) | Community member |
+|  [Felix](https://forum.1hive.org/u/felix/summary) | Community member |
+|  [satishmuppaneni](https://forum.1hive.org/u/satishmuppaneni/summary) | Community member |
+|  [sp7290](https://forum.1hive.org/u/sp7290/summary) | Community member |
+|  [boring877](https://forum.1hive.org/u/boring877/summary) | Community member |
+|  [omahs](https://forum.1hive.org/u/omahs/summary) | Community member |
+|  [oliver\_30](https://forum.1hive.org/u/oliver_30/summary) | Community member |
 
 ## Funding Proposals
 
