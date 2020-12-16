@@ -24,7 +24,7 @@
 
 ## Community
 
-* [Roadmap & Updates](community/roadmap-and-updates.md)
+* [1Hive Updates](community/1hive-updates.md)
 * [Swarms](community/swarms/README.md)
   * [🌞 Celeste](community/swarms/celeste.md)
   * [🌜 Luna](community/swarms/luna.md)
