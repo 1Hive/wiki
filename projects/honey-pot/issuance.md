@@ -10,7 +10,7 @@ Issuance is compounded dependant on how regularly new Issuance is created by use
 
 You can view the token supply and execute issuance here: [https://1hive.org/](https://1hive.org/#/home)
 
-In future Issuance will be dynamic. The common pool will increase when it is below a certain threshold and decrease when it is above. This is currently in development. See the [`#🌜luna`](https://discord.gg/efpG78vZ4q) discord channel for more info.
+In future the Issuance rate will be dynamic. The common pool's balance will increase when it is below a certain threshold and decrease when it is above it. This is currently in development. See the [`#🌜luna`](https://discord.gg/efpG78vZ4q) discord channel for more info.
 
 ## A Brief History of Honey
 
