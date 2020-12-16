@@ -12,7 +12,7 @@ The 🐛Bug Bounty Swarm manages the funds available through the [Bug Bounty Pro
 
 ## Roles and Responsibilities
 
-| Members | Role |
+| Member | Role |
 | :--- | :--- |
 | [willjgriff](https://forum.1hive.org/u/willjgriff) | Seed and DAO member |
 | [rperez89](https://forum.1hive.org/u/rperez89) | Seed and DAO member |

@@ -14,14 +14,14 @@ The 🐱Fauna Swarm are active individuals who monitor and moderate the various 
 
 ### Fauna Members
 
-| Members | Role |
+| Member | Info |
 | :--- | :--- |
 |  [rayne](https://forum.1hive.org/u/rayne/summary) | DAO member |
 |  [jasper](https://forum.1hive.org/u/jasper/summary) | DAO member |
 |  [befitsandpiper](https://forum.1hive.org/u/befitsandpiper/summary) | DAO member |
 |  [harry](https://forum.1hive.org/u/harry/summary) | DOA member |
 |  [blazar](https://forum.1hive.org/u/blazar/summary) | DOA member |
-|  [escanor](https://forum.1hive.org/u/escanor/summary) | DAO member |
+|  [escanor](https://forum.1hive.org/u/escanor/summary) | Spanish Speaker DAO member |
 |  [luigy](https://forum.1hive.org/u/luigy/summary) | DAO member |
 |  [eth\_man/RogueTwo](https://forum.1hive.org/u/eth_man/summary) | DAO member |
 |  [crisog](https://forum.1hive.org/u/crisog/summary) | DAO member |
@@ -30,21 +30,6 @@ The 🐱Fauna Swarm are active individuals who monitor and moderate the various 
 |  [freshprince](https://forum.1hive.org/u/freshprince/summary) | DAO member |
 
 Each of the above members have equal voting weight within the Fauna DAO to manage funds.
-
-### Fauna Awards
-
-Fauna Awards is a way to appreciate community members that help and support the community. Each of the below members have been recognised and awarded 0.25 HNY at some point in the past.
-
-| Winners | Role |
-| :--- | :--- |
-|  [theseeker](https://forum.1hive.org/u/theseeker/summary) | Community member |
-|  [berserk](https://forum.1hive.org/u/berserk/summary) | Community member |
-|  [Felix](https://forum.1hive.org/u/felix/summary) | Community member |
-|  [satishmuppaneni](https://forum.1hive.org/u/satishmuppaneni/summary) | Community member |
-|  [sp7290](https://forum.1hive.org/u/sp7290/summary) | Community member |
-|  [boring877](https://forum.1hive.org/u/boring877/summary) | Community member |
-|  [omahs](https://forum.1hive.org/u/omahs/summary) | Community member |
-|  [oliver\_30](https://forum.1hive.org/u/oliver_30/summary) | Community member |
 
 ## Funding Proposals
 

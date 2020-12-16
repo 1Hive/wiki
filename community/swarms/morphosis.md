@@ -18,7 +18,7 @@ The 🦋Morphosis Swarm provides education and courses for 1hive members to lear
 
 ## Roles and Responsibilities
 
-| Members | Role |
+| Member | Role |
 | :--- | :--- |
 | [befitsandpiper](https://forum.1hive.org/u/befitsandpiper/summary) | DAO member |
 | [santigs](https://forum.1hive.org/u/santigs) | DAO member |

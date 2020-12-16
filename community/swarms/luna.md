@@ -22,7 +22,7 @@ The Luna swarm encourages anyone interested to get involved to experiment with b
 
 ## Roles and Responsibilities
 
-| Members | Roles |
+| Member | Role |
 | :--- | :--- |
 | [lkngtn](https://forum.1hive.org/u/lkngtn) | Researcher at 1Hive |
 | [mzargham](https://forum.1hive.org/u/mzargham/summary) | Founder of [BlockScience](https://block.science/) |

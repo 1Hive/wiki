@@ -16,7 +16,7 @@ Gardens are a social, financial, and technical foundation for online communities
 
 ### Gardens Swarm Team
 
-| Members | Role |
+| Member | Role |
 | :--- | :--- |
 | [griff](https://github.com/griffgreen) | Researcher |
 | [sem](https://github.com/sembrestels) | Solidity Developer and Researcher |
