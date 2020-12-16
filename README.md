@@ -30,7 +30,7 @@ Este tipo de competencia es buena para todos y, con suerte, debería conducir a 
 
 ## Empezando <a id="getting-started"></a>
 
-1hive es una comunidad abierta, no necesitas pedir permiso para unirse o convertirse en miembro. Si ves algo que crees que debería mejorarse, puedes hacer una propuesta para conseguir miel \(HNY\) y hacerlo realidad. 
+1hive es una comunidad abierta, no necesitas pedir permiso para unirte o convertirte en miembro. Si ves algo que crees que debería mejorarse, puedes hacer una propuesta para conseguir miel \(HNY\) y hacerlo realidad. 
 
 También puedes ganar miel simplemente participando en la comunidad de github, discord y discourse \(el foro\) a través de Pollen, registrándose y reclamando miel a través de la faucet de BrightId, o proporcionando liquidez en honeyswap y depositando tus tokens LP en honeycomb. Si bien alentamos a las personas a tomar la iniciativa como individuos, también nos gusta trabajar juntos. Se han formado swarms autoorganizados, traducido enjambres,  en torno a proyectos específicos \(por ejemplo, honeyswap, celeste, gardens\) o áreas de trabajo \(por ejemplo, diseño, comunicaciones, ingeniería\). Si eres nuevo en 1hive y quieres contribuir, una buena forma de empezar es encontrar un swarm que te interese y preguntar cómo podrías ayudar.
 
