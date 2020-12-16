@@ -4,7 +4,7 @@ description: Building Gardens
 
 # 🌻 Gardens
 
-The 🌻Gardens Swarm manages the development of the Gardens Template and associated Aragon Apps and is doing the initial experiments into how Gardens should best be structured. It is currently stewarded by the [Token Engineering Commons](https://tecommons.medium.com/).
+The 🌻Gardens Swarm manages the development of the Gardens Template and associated Aragon Apps and is doing the initial experiments into how Gardens should best be structured. Updates can be seen on [Token Engineering Commons](https://tecommons.medium.com/) medium page.
 
 Gardens are a social, financial, and technical foundation for online communities to organize. This empowers people to coordinate around causes, social movements, or even memes. Gardens are designed to be operationally decentralized and autonomous from day one.
 
