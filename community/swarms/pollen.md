@@ -14,7 +14,7 @@ The 🏵Pollen Swarm manages the 1Hive SourceCred instance. Details can be seen 
 
 ## Roles and Responsibilities
 
-| Members | Role |
+| Member | Role |
 | :--- | :--- |
 |  [befitsandpiper](https://forum.1hive.org/u/befitsandpiper/summary) | Primary Operator and DAO member |
 |  [lkngtn](https://forum.1hive.org/u/lkngtn) | DAO member |
