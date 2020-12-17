@@ -48,7 +48,7 @@ For more information see [Gardens](../projects/gardens.md).
 
 For more information see [GitHub](https://github.com/1Hive/honeyswap-limit-order-contracts).
 
-## External Milestones Important for 1Hive
+## External Milestones important for 1Hive
 
 ### \*\*\*\*[**Bi-directional** OmniBridge](https://www.xdaichain.com/about-xdai/roadmap#omnibridge-phase-2)
 
