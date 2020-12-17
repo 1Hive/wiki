@@ -50,11 +50,11 @@ For more information see [GitHub](https://github.com/1Hive/honeyswap-limit-order
 
 ## External Milestones important for 1Hive
 
-### \*\*\*\*[**Bi-directional** OmniBridge](https://www.xdaichain.com/about-xdai/roadmap#omnibridge-phase-2)
+### **Bi-directional** OmniBridge
 
 🎯 **Target Date:** Q1-Q2 2021 \(or [maybe sooner](https://forum.1hive.org/t/easy-hny-xdai-mainnet-bridge-idea/1436/12)\)
 
-This will enable 1Hive to bridge HNY back to the Ethereum mainnet. Currently it is only possible to bridge ERC20 tokens from the Ethereum mainnet.
+This will enable 1Hive to bridge HNY back to the Ethereum mainnet. Currently it is only possible to bridge ERC20 tokens from the Ethereum mainnet. For more information see [the xDai roadmap](https://www.xdaichain.com/about-xdai/roadmap#omnibridge-phase-2).
 
 ### Chainlink Integration to xDai
 
@@ -62,7 +62,7 @@ This will enable 1Hive to bridge HNY back to the Ethereum mainnet. Currently it 
 
 1Hive would like to fork Aave V2 and it is preferred to use Chainlink as it's price Oracle. This [announcement](https://blog.chain.link/protofire-receives-a-chainlink-community-grant-for-an-integration-with-xdai/) confirms a grant for developing a Chainlink integration with xDai.
 
-### [xDai General Roadmap](https://www.xdaichain.com/about-xdai/roadmap)
+### xDai General Roadmap
 
-1Hive is currently running on the xDai network. Any developments that happen on xDai could have an effect on the 1Hive ecosystem.
+1Hive is currently running on the xDai network. Any developments that happen on xDai could have an effect on the 1Hive ecosystem. See [the xDai roadmap](https://www.xdaichain.com/about-xdai/roadmap).
 
