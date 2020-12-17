@@ -8,15 +8,15 @@ description: The rules by which we agree to engage in the 1Hive community.
 The 1Hive Community Covenant is currently open for review: [https://forum.1hive.org/t/drafting-the-1hive-community-covenant-for-celeste/1548](https://forum.1hive.org/t/drafting-the-1hive-community-covenant-for-celeste/1548)
 {% endhint %}
 
-1hive is a community of activists seeking to build a future that is more free, fair, open, and humane.
+1Hive is a community of activists seeking to build a future that is more free, fair, open, and humane.
 
-1hive is also an economic protocol, similar to Bitcoin or Ethereum, where a digital currency, Honey, is issued and distributed programmatically. Unlike Bitcoin or Ethereum the 1hive protocol does not narrowly define the set of activities which are valuable but instead relies on community members to guide the distribution process by creating and staking on Honey distribution proposals.
+1Hive is also an economic protocol, similar to Bitcoin or Ethereum, where a digital currency, Honey, is issued and distributed programmatically. Unlike Bitcoin or Ethereum the 1Hive protocol does not narrowly define the set of activities which are valuable but instead relies on community members to guide the distribution process by creating and staking on Honey distribution proposals.
 
-The goal of the 1hive protocol is to foster a healthy community economy by allocating a steady stream of Honey towards development, maintenance, and improvement of the common goods that bring the most value to the 1hive community.
+The goal of the 1Hive protocol is to foster a healthy community economy by allocating a steady stream of Honey towards development, maintenance, and improvement of the common goods that bring the most value to the 1Hive community.
 
-The growth of the 1hive economy is directly related to the communities ability to foster an inclusive and welcoming culture that people feel proud and delighted to adopt as their own. When someone choses to buy or hold Honey and participate in the Honey economy they are implicitly supporting the communities culture, values, and norms.
+The growth of the 1Hive economy is directly related to the communities ability to foster an inclusive and welcoming culture that people feel proud and delighted to adopt as their own. When someone chooses to buy or hold Honey and participate in the Honey economy they are implicitly supporting the communities culture, values, and norms.
 
-To this end, the 1hive protocol depends on a social contract, which sets expectations for how members should engage both with the protocol and with one another.
+To this end, the 1Hive protocol depends on a social contract, which sets expectations for how members should engage both with the protocol and with one another.
 
 ## The Pledge
 
@@ -48,15 +48,15 @@ The on-chain mechanism for enforcement will depend on the completion of Celeste
 
 The ability for the 1hive protocol to enforce this covenant is limited to the direct interactions that community members have with the protocol. Specifically the ability for community members to submit proposals to allocate Honey issuance or adjust protocol parameters.
 
-A community member will be required to stake Honey when submitting a proposal, attesting that the impact of the proposal could be reasonably considered to align with 1hive’s social contract. A dispute can be created by another community member if they disagree with the proposers attestation by challenging the proposal and staking an equivalent amount of Honey. If after being challenged the proposal is not withdrawn, a decentralized oracle will be used to settle the dispute.
+A community member will be required to stake Honey when submitting a proposal, attesting that the impact of the proposal could be reasonably considered to align with 1Hive’s social contract. A dispute can be created by another community member if they disagree with the proposers attestation by challenging the proposal and staking an equivalent amount of Honey. If after being challenged the proposal is not withdrawn, a decentralized oracle will be used to settle the dispute.
 
-Participants in the dispute resolution protocol are expected to review the proposal, this covenant, and related past disputes in order to provide a judgement that they feel best aligns with the established norms and intention of the 1hive community.
+Participants in the dispute resolution protocol are expected to review the proposal, this covenant, and related past disputes in order to provide a judgement that they feel best aligns with the established norms and intention of the 1Hive community.
 
 If the oracle responds in favor of the proposer the proposal will be unlocked and the challenger’s stake will be transferred to the proposer. On the other hand, if the dispute resolves in favor of the challenger the proposal will be removed from consideration and the proposers stake will be given to the challenger.
 
 ## Off-chain enforcement
 
-While there is no canonical off-chain forum that represents the 1hive community, there are community spaces including the 1hive Github, Discourse, and Discord communities, and others forums which may emerge in the future which are expected to adhere to this covenant.
+While there is no canonical off-chain forum that represents the 1Hive community, there are community spaces including the 1Hive GitHub, Discourse, and Discord communities, and others forums which may emerge in the future which are expected to adhere to this covenant.
 
 
 
