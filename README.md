@@ -14,7 +14,7 @@ DAOs are cybernetic super-organisms… or more simply, coordination protocols wh
 
 While centralized administration is a powerful and flexible means to scale human coordination. The advent of decentralized ledgers like Bitcoin and Ethereum have shown how disruptive, powerful, and resilient **sufficiently decentralized** coordination protocols can be. DAOs do not replace companies, instead they alter the economic landscape by creating novel markets and opportunities which individuals and companies can participate in.
 
-In the case of the 1hive DAO, a community currency called Honey is used to create a circular economy where public goods and investments which grow the 1hive economy can be collectively funded with [**conviction voting**](projects/honey-pot/).
+In the case of the 1hive DAO, a community currency called Honey is used to create a circular economy where public goods and investments which grow the 1hive economy can be collectively funded with [**conviction voting**](projects/honey/).
 
 ## Why Honey?
 

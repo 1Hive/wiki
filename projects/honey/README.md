@@ -2,11 +2,11 @@
 description: 1hive.org
 ---
 
-# Honey Pot
+# Honey
 
-1Hive uses conviction voting to allocate Honey from a common pool towards community initiatives that add value to the 1hive community.
+Honey is a community currency issued and distributed by the 1Hive DAO. 1Hive uses conviction voting to allocate Honey from the common pool towards initiatives that add value to the 1hive community. Honey is the heart of everything we do, by optimizing how we issue and distribute honey we can grow the 1hive economy, reward contributors, and expand our community. 
 
-You can create, monitor, and stake on conviction proposals using the app located at [1hive.org](https://1hive.org/#/).
+The issuance and distribution of Honey is regulated by the smart contracts that constitute the 1Hive decentralized autonomous organization. You can create, monitor, and stake on proposals using the frontend located at [1hive.org](https://1hive.org/#/).
 
 You can also access the 1Hive DAO through the Aragon Client interface at [aragon.1hive.org](https://aragon.1hive.org/#/0xe9869a0bbc8fb8c61b7d81c33fa2ba84871b3b0e) 
 

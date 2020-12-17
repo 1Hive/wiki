@@ -28,7 +28,7 @@ For more information see [Github](https://github.com/1Hive/honeyswap-limit-order
 
 ### **Change to Issuance Policy**
 
-Issuance \(new Honey creation\) was initially set to 60% per year. It was reduced in November of 2020 to 30%. We are now developing a dynamic issuance policy, details can be seen in [Issuance](../projects/honey-pot/issuance.md).
+Issuance \(new Honey creation\) was initially set to 60% per year. It was reduced in November of 2020 to 30%. We are now developing a dynamic issuance policy, details can be seen in [Issuance](../projects/honey/issuance.md).
 
 ### **Honeyswap Landing Page**
 

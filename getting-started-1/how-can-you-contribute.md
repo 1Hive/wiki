@@ -6,5 +6,5 @@ You can discuss issues with the relevant [Swarm](../community/swarms/) and if it
 
 Sign up to the weekly Pollen distribution and [earn pollen](acquiring-honey/earn-pollen.md) which rewards individuals for contributing to the Discourse, Discord and Github.
 
-Contribute to governance by either [creating or voting on a proposal ](../projects/honey-pot/)in 1hive.org
+Contribute to governance by either [creating or voting on a proposal ](../projects/honey/)in 1hive.org
 
