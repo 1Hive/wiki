@@ -20,19 +20,33 @@ These milestones are rough estimates specified and updated by the relevant Swarm
 
 ### **Celeste**
 
+🎯 **Target Date:** Q1 2020
+
 For more information see [Celeste](../projects/celeste.md)\*\*\*\*
 
-### **Limit Orders**
-
-For more information see [Github](https://github.com/1Hive/honeyswap-limit-order-contracts)
-
 ### **Change to Issuance Policy**
+
+🎯 **Target Date:** Q1 2020
 
 Issuance \(new Honey creation\) was initially set to 60% per year. It was reduced in November of 2020 to 30%. We are now developing a dynamic issuance policy, details can be seen in [Issuance](../projects/honey/issuance.md).
 
 ### **Honeyswap Landing Page**
 
-A user friendly landing page for Honeyswap users.
+🎯 **Target Date:** Q1 2020
+
+A user friendly landing page for [Honeyswap](../projects/honeyswap/) including links to guides and useful information.
+
+### 1Hive Gardens
+
+🎯 **Target Date:** Q2-Q3 2020
+
+For more information see [Gardens](../projects/gardens.md).
+
+### **Honeyswap Limit Orders**
+
+🎯 **Target Date:** Unknown
+
+For more information see [GitHub](https://github.com/1Hive/honeyswap-limit-order-contracts).
 
 ## External Milestones Important for 1Hive
 
