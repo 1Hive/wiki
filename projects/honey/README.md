@@ -4,41 +4,23 @@ description: 1hive.org
 
 # Honey
 
-Honey is a community currency issued and distributed by the 1Hive DAO. 1Hive uses conviction voting to allocate Honey from the common pool towards initiatives that add value to the 1hive community. Honey is the heart of everything we do, by optimizing how we issue and distribute honey we can grow the 1hive economy, reward contributors, and expand our community. 
+Honey is a community currency issued and distributed by the 1Hive DAO.
+
+1Hive uses conviction voting to allocate Honey from the common pool towards initiatives that add value to the 1hive community. Honey is the heart of everything we do, by optimizing how we issue and distribute honey we can grow the 1hive economy, reward contributors, and expand our community. 
 
 The issuance and distribution of Honey is regulated by the smart contracts that constitute the 1Hive decentralized autonomous organization. You can create, monitor, and stake on proposals using the frontend located at [1hive.org](https://1hive.org/#/).
 
 You can also access the 1Hive DAO through the Aragon Client interface at [aragon.1hive.org](https://aragon.1hive.org/#/0xe9869a0bbc8fb8c61b7d81c33fa2ba84871b3b0e) 
 
-## Conviction Primer
+## Economic Overview
 
-Conviction Voting allows proposals to be created and considered continuously and simultaneously. Participants can signal their preferences for the proposals they support, but they are not able to “double count” their influence across multiple proposals.
+The value of Honey is determined by supply and demand, the supply is managed by a policy and demand can be influenced by participating in the process of staking on proposals which allocate and distribute Honey from the common pool to contributors.
 
-When they start supporting a proposal, the support \(called conviction\) does not immediately apply, but instead must charge up over time according to an exponential decay function or half-life.
+If participants allocate Honey productively, inflows to the common pool will eventually exceed outflows, demand will outpace supply and the value of Honey will increase, conversely if Honey is allocated unproductively the circulating supply of Honey will increase without a corresponding increase in demand and the value of Honey will decrease. 
 
-Currently there are two types of proposals, signaling proposals which **do not** request honey, and funding proposals which **do** request honey.
+![Simplified Honey Stock and Flow Diagram](../../.gitbook/assets/honey-2x.png)
 
-For funding proposals, there is an execution threshold that is determined based on the proportion of funds requested relative to the funds available in the common pool. The greater the proportion, the greater the threshold required.
+One way to think of this system is as a [cybernetic feedback loop ](https://en.wikipedia.org/wiki/Cybernetics)where stakers are sensors, the protocol is the controller, and proposals are the actuators that impact the environment. The impact of proposals may be uncertain and may change over time, but outcomes will be observed  and feedback into the system resulting in adaptation to the environment over time. 
 
-For a deeper dive on the conviction voting, check out this [cadCAD model](https://github.com/BlockScience/Aragon_Conviction_Voting) exploring the mechanism.
-
-The conviction voting implementation 1hive uses has been developed in collaboration with [Aragon](https://aragon.org/), [Commons Stack](https://commonsstack.org/), and [Block Science](https://block.science/).
-
-## Submitting proposals
-
-Before submitting a proposal, you should first make a forum post on [forum.1hive.org](https://forum.1hive.org/). This is where you can provide a detailed description of your proposal and its rationale. It also provides a venue for discussion and debate among community members. Creating a proposal in the proposal category will prompt you with a template layout including all required information.
-
-Currently if you fail to do this, you will simply be asked to withdraw your proposal, in the future you will be required to put up stake which could be lost if you don’t follow the appropriate procedure.
-
-Once you have created your proposal thread, you can create your proposal by going to [1hive.org](www.1hive.org), connecting your account, and clicking `New proposal`.
-
-Be sure to provide a short but descriptive title, and link to your forum post.
-
-## **Terminology on 1hive.org**
-
-**Common Pool** refers to the tokens in the DAO that have been minted and are available for distribution.
-
-**Token Supply** is all of the tokens currently in existence.
-
-**Active** is the supply that is currently staked to proposals.
+Increasing the value of Honey is an implicit goal of the system and its participants. Stakers must hold Honey over time to influence proposals and therefore have a vested interest in supporting proposals that maximize the value of Honey, and contributors need Honey to be valuable so that their contributions can sustainably rewarded. 
 

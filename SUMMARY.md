@@ -15,7 +15,12 @@
 ## Projects
 
 * [Honey](projects/honey/README.md)
+  * [Participation](projects/honey/participation.md)
   * [Issuance](projects/honey/issuance.md)
+  * [Distribution](projects/honey/distribution.md)
+  * [Decisions](projects/honey/decisions.md)
+  * [Dispute Resolution](projects/honey/dispute-resolution.md)
+  * [Improvements](projects/honey/honey-improvements.md)
 * [Honeyswap](projects/honeyswap/README.md)
   * [Honeycomb](projects/honeyswap/honeycomb.md)
 * [Honey Faucet](projects/honey-faucet.md)
