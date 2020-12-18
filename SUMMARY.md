@@ -8,6 +8,7 @@
 * [Presentate](getting-started-1/introduce-yourself.md)
 * [Cómo Contribuir](getting-started-1/how-can-you-contribute/README.md)
   * [Gana Polen](getting-started-1/how-can-you-contribute/earn-pollen.md)
+  * [Premios Fauna](getting-started-1/how-can-you-contribute/premios-fauna.md)
 * [Adquiriendo Miel \(Honey\)](getting-started-1/acquiring-honey.md)
 * [Guía de Navegación Rápida](getting-started-1/quick-navigation-guide.md)
 
