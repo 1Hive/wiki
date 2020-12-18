@@ -6,11 +6,11 @@
 ## Getting Started <a id="getting-started-1"></a>
 
 * [Introduce Yourself](getting-started-1/introduce-yourself.md)
-* [How to Contribute](getting-started-1/how-can-you-contribute.md)
+* [How to Contribute](getting-started-1/how-can-you-contribute/README.md)
+  * [Calendar](getting-started-1/how-can-you-contribute/calendar.md)
 * [Acquiring Honey](getting-started-1/acquiring-honey/README.md)
   * [Earn Pollen](getting-started-1/acquiring-honey/earn-pollen.md)
   * [Fauna Awards](getting-started-1/acquiring-honey/fauna-awards.md)
-* [Calendar](getting-started-1/calendar.md)
 * [Navigation Guide](getting-started-1/quick-navigation-guide.md)
 
 ## Projects
