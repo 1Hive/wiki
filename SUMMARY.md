@@ -10,6 +10,7 @@
 * [Acquiring Honey](getting-started-1/acquiring-honey/README.md)
   * [Earn Pollen](getting-started-1/acquiring-honey/earn-pollen.md)
   * [Fauna Awards](getting-started-1/acquiring-honey/fauna-awards.md)
+* [Calendar](getting-started-1/calendar.md)
 * [Navigation Guide](getting-started-1/quick-navigation-guide.md)
 
 ## Projects
@@ -41,7 +42,6 @@
   * [🐛 Bug Bounty](community/swarms/bug-bounty.md)
 * [Media](community/media/README.md)
   * [Discord](community/media/discord.md)
-  * [Calendar](community/media/calendar.md)
 * [Design](community/design/README.md)
   * [Brand Guidelines](community/design/brand-guidelines.md)
 * [Security](community/security/README.md)
