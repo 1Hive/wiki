@@ -8,15 +8,7 @@ description: Completed and estimated milestones
 These milestones are rough estimates specified and updated by the relevant Swarm. It is kept up-to-date at the best of the ability of each Swarm responsible. For a more accurate status of each project it is best to check out the public discussion on [Discord](https://discord.com/invite/P4rRDUKTAU), [Discourse](https://forum.1hive.org/), [Telegram](https://t.me/honeyswapDEX) and other social channels.
 {% endhint %}
 
-## Past Milestones
-
-* Deployed the Honey Faucet
-* Deployed the 1Hive DAO
-* Deployed Honeyswap
-* Deployed Honeycomb
-* Honey listed on CoinGecko
-
-## Future Milestones
+## 1Hive Milestones
 
 ### **Celeste**
 
@@ -28,7 +20,7 @@ For more information see [Celeste](../projects/celeste.md)\*\*\*\*
 
 🎯 **Target Date:** Q1 2020
 
-Issuance \(new Honey creation\) was initially set to 60% per year. It was reduced in November of 2020 to 30%. We are now developing a dynamic issuance policy, details can be seen in [Issuance](../projects/honey/issuance.md).
+Issuance \(new Honey creation\) was initially set to 60% per year. It was reduced in November of 2020 to 30%. We are now developing a dynamic issuance policy, details can be seen in [Issuance Planned Improvements](../projects/honey/honey-improvements.md#dynamic-issuance-policy).
 
 ### **Honeyswap Landing Page**
 
