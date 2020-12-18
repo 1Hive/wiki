@@ -1,4 +1,4 @@
-# Earn Pollen
+# Gana Polen
 
 Pollen is a contributor rank used to recognize contributions to 1hive’s Discord, Discourse, and Github communities, and reward these contributions with weekly distributions of Honey.
 

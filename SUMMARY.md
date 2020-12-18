@@ -3,15 +3,15 @@
 * [Bienvenido a 1Hive](README.md)
 * [Pacto Comunitario](community-covenant.md)
 
-## Getting Started <a id="getting-started-1"></a>
+## Empezando <a id="getting-started-1"></a>
 
-* [Introduce Yourself](getting-started-1/introduce-yourself.md)
-* [How to Contribute](getting-started-1/how-can-you-contribute/README.md)
-  * [Earn Pollen](getting-started-1/how-can-you-contribute/earn-pollen.md)
-* [Acquiring Honey](getting-started-1/acquiring-honey.md)
-* [Quick Navigation Guide](getting-started-1/quick-navigation-guide.md)
+* [Presentate](getting-started-1/introduce-yourself.md)
+* [Cómo Contribuir](getting-started-1/how-can-you-contribute/README.md)
+  * [Gana Polen](getting-started-1/how-can-you-contribute/earn-pollen.md)
+* [Adquiriendo Miel \(Honey\)](getting-started-1/acquiring-honey.md)
+* [Guía de Navegación Rápida](getting-started-1/quick-navigation-guide.md)
 
-## Projects
+## Proyectos <a id="projects"></a>
 
 * [Honey Pot](projects/honey-pot/README.md)
   * [Issuance](projects/honey-pot/issuance.md)

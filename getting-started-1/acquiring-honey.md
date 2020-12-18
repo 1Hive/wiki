@@ -1,4 +1,4 @@
-# Acquiring Honey
+# Adquiriendo Miel \(Honey\)
 
 Honey is the community currency of 1hive, it is also an important community boundary. In order to influence the direction of 1hive, honey holders \(also called **keepers**\) can stake their honey on proposals.
 

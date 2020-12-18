@@ -1,4 +1,4 @@
-# Quick Navigation Guide
+# Guía de Navegación Rápida
 
 Most things in 1Hive are referred to using references to the natural world. Below is a brief description of various references used to refer to **Projects** and **Swarms**.
 

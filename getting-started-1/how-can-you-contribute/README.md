@@ -1,10 +1,10 @@
-# How to Contribute
+# Cómo Contribuir
 
-1Hive is an open community, if you see something that needs doing then get involved and try and fix it. 
+1Hive es una comunidad abierta, si ves algo que necesita trabajo, entonces involúcrate e intenta arreglarlo.
 
-You can discuss issues with the relevant [Swarm](../../community/swarms/) and if it doesn't fit anywhere or it's something that requires independent work, you can create a proposal for funding to do it independently.
+Puedes discutir problemas con el [Swarm](../../community/swarms/) relevante y si no encaja en ningún lado o es algo que requiere trabajo independiente, puedes crear una propuesta de financiamiento para hacerlo de forma independiente. 
 
-Sign up to the weekly Pollen distribution and [earn pollen](earn-pollen.md) which rewards individuals for contributing to the Discourse, Discord and Github.
+Regístrate en la distribución semanal de polen y [gana polen](earn-pollen.md), que recompensa a las personas por contribuir en el foro, Discord y Github. 
 
-Contribute to governance by either [creating or voting on a proposal ](../../projects/honey-pot/)in 1hive.org
+Contribuye a la gobernanza [creando o votando en una propuesta](../../projects/honey-pot/) en 1hive.org
 
