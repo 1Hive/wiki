@@ -8,7 +8,7 @@ description: >-
 
 ## Dynamic issuance policy
 
-The new policy would regulate the Honey supply by both **issuing** and **burning** to and from the common pool in order to target a specific ratio of the total supply held in the common pool. The two primary goal of the new policy are as follows:
+The new policy would regulate the Honey supply by both **issuing** and **burning** to and from the common pool in order to target a specific ratio of the total supply held in the common pool. The two primary goals of the new policy are as follows:
 
 * Better align incentives around value creation by automatically reducing issuance or burning tokens in response to decreased outflows and/or increased inflows from buyback mechanisms.  
 * Make issuance changes more predictable by relying on a clearly defined algorithmic policy rather than needing to update the issuance rate sporadically via ad-hoc decision proposals. 
