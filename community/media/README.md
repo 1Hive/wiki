@@ -10,6 +10,8 @@ The social media accounts for 1Hive are managed by the [Buzz Swarm](../swarms/bu
 
 Blog: [https://about.1hive.org/blog/](https://about.1hive.org/blog/)
 
+## Social Media Accounts and Admins
+
 | Social Media Platform | Username | Admin/s |
 | :--- | :--- | :--- |
 | Instagram | [honeyswap.1hive](https://www.instagram.com/honeyswap.1hive/) | [monstrosity](https://forum.1hive.org/u/monstrosity/summary) |
