@@ -6,7 +6,7 @@ description: 1hive.org
 
 Honey is a community currency issued and distributed by the 1Hive DAO.
 
-1Hive uses conviction voting to allocate Honey from the common pool towards initiatives that add value to the 1hive community. Honey is the heart of everything we do, by optimizing how we issue and distribute honey we can grow the 1hive economy, reward contributors, and expand our community. 
+Honey is the heart of everything we do, by optimizing how we issue and distribute honey we can grow the 1hive economy, reward contributors, and expand our community. 
 
 The issuance and distribution of Honey is regulated by the smart contracts that constitute the 1Hive decentralized autonomous organization. You can create, monitor, and stake on proposals using the frontend located at [1hive.org](https://1hive.org/#/).
 
