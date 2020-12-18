@@ -16,15 +16,15 @@ The 🏵Pollen Swarm manages the 1Hive SourceCred instance. Details can be seen 
 
 | Member | Role |
 | :--- | :--- |
-|  [befitsandpiper](https://forum.1hive.org/u/befitsandpiper/summary) | Primary Operator and DAO member |
-|  [lkngtn](https://forum.1hive.org/u/lkngtn) | DAO member |
-|  [crisog](https://forum.1hive.org/u/crisog) | DAO member |
-|  [luigy](https://forum.1hive.org/u/luigy/summary) | DAO member |
-|  [rayne](https://forum.1hive.org/u/rayne/summary) | DAO member |
-|  [jasper](https://forum.1hive.org/u/jasper/summary) | DAO member |
-|  [sem](https://forum.1hive.org/u/sem) | DAO member |
+| [befitsandpiper](https://forum.1hive.org/u/befitsandpiper/summary) | Primary Operator and DAO member |
+| [lkngtn](https://forum.1hive.org/u/lkngtn) | DAO member |
+| [crisog](https://forum.1hive.org/u/crisog) | DAO member |
+| [luigy](https://forum.1hive.org/u/luigy/summary) | DAO member |
+| [rayne](https://forum.1hive.org/u/rayne/summary) | DAO member |
+| [jasper](https://forum.1hive.org/u/jasper/summary) | DAO member |
+| [sem](https://forum.1hive.org/u/sem) | DAO member |
 
-Each of the above members have equal voting weight within the Fauna DAO to manage funds.
+Each of the above members have equal voting weight within the Pollen DAO to manage funds.
 
 ## Funding Proposals
 
