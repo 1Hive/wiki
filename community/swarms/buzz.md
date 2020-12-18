@@ -41,12 +41,13 @@ Each of the above members have equal voting weight within the Buzz DAO to manage
 | [harry](https://forum.1hive.org/u/harry/summary) | Social Admin |
 | [lkngtn](https://forum.1hive.org/u/lkngtn) | Social Admin |
 | [chuygarcia92](https://forum.1hive.org/u/chuygarcia92/summary) | Social Admin |
-|  [brandonz](https://forum.1hive.org/u/brandonz/summary) | Social Admin |
+| [brandonz](https://forum.1hive.org/u/brandonz/summary) | Social Admin |
 | [therealmo](https://forum.1hive.org/u/therealmo/summary) | Social Admin |
 | [rod](https://forum.1hive.org/u/rod/summary) | Social Admin |
 | [noice](https://forum.1hive.org/u/noice/summary) | Social Admin |
 
 ## Funding Proposals
 
-One funding proposal was made which was accepted by the community:[https://forum.1hive.org/t/proposal-buzz-dao/1645/13](https://forum.1hive.org/t/proposal-buzz-dao/1645/13)
+One funding proposal was made which was accepted by the community:  
+[https://forum.1hive.org/t/proposal-buzz-dao/1645/13](https://forum.1hive.org/t/proposal-buzz-dao/1645/13).
 
