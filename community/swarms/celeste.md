@@ -1,10 +1,10 @@
 ---
-description: Building and Governing Celeste
+description: Construyendo y Gobernando Celeste
 ---
 
 # 🌞 Celeste
 
-Los miembros del Enjambre \(Swarm\) Celeste son los responsables de construir, mantener e inicialmente gobernar Celeste. Después de que Celeste se considere establecido, se transferira la gobernanza de Celeste al  DAO 1Hive. El pago de las contribuciones se realiza una vez cada 2 semanas y se puede ver en el DAO de Aragón, el enlace se encuentra abajo. El desarrollo se puede ver en el repositorio de Github de 1Hive precedidos con "Celeste".
+Los miembros del Enjambre Celeste son los responsables de construir, mantener e inicialmente gobernar Celeste. Después de que Celeste se considere establecido, se transferira la gobernanza de Celeste al  DAO 1Hive. El pago de las contribuciones se realiza una vez cada 2 semanas y se puede ver en el DAO de Aragón, el enlace se encuentra abajo. El desarrollo se puede ver en el repositorio de Github de 1Hive precedidos con "Celeste".
 
 ## Links Útiles
 
