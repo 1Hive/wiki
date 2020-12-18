@@ -24,10 +24,10 @@ The Luna swarm encourages anyone interested to get involved to experiment with b
 
 | Member | Role |
 | :--- | :--- |
-| [lkngtn](https://forum.1hive.org/u/lkngtn) | Researcher at 1Hive |
-| [mzargham](https://forum.1hive.org/u/mzargham/summary) | Founder of [BlockScience](https://block.science/) |
-| [jeffemmett](https://forum.1hive.org/u/jeffemmett/summary) | Researcher at [Commons Stack](https://commonsstack.org/) |
-| [JessicaZartler](https://forum.1hive.org/u/jessicazartler/summary) | Communications at [TE Commons](https://tecommons.org/) |
+| [lkngtn](https://forum.1hive.org/u/lkngtn) | Researcher |
+| [mzargham](https://forum.1hive.org/u/mzargham/summary) | Tutor and Founder of [BlockScience](https://block.science/) |
+| [jeffemmett](https://forum.1hive.org/u/jeffemmett/summary) | Researcher \(at [Commons Stack](https://commonsstack.org/)\) |
+| [JessicaZartler](https://forum.1hive.org/u/jessicazartler/summary) | Communications \(at [TE Commons](https://tecommons.org/)\) |
 
 The members above have equal voting rights in the Aragon DAO.
 
