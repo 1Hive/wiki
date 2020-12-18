@@ -72,6 +72,8 @@ description: Discord is where the most 1Hive DAO related activity gets buzzing.
 
 Roles are self-assigned using the 🧚**roles** channel. Assigning yourself a role gives you access to the swarm working group channel, designated by a hexagon **⏣** in the channel name. These are under the **SWARMS** heading on 1Hive's Discord. Although 🌈**design** is not a **SWARM** it is a role, so it's included in this section as well. The **SWARM** channels include 🌻**gardens-⏣, 🌷tulip-⏣, 🌺flora-⏣, 🌞celeste-⏣, 🐝buzz-⏣, 🏵pollen-⏣** and 🌈**design-⏣.**
 
+The working group channels are for technical discussion regarding the development of relevant projects, for information about a particular project or for help using it please use the standard **BEES** channels.
+
 ## **Tips**
 
 * Check each channels Pinned Messages for useful information about that topic by clicking on the pin icon in the top right of each channel.
