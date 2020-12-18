@@ -14,11 +14,6 @@ The current issuance policy allows anyone to call a function to mint Honey to th
 
 It is worth noting that rate of issuance is an important and [controversial topic](https://forum.1hive.org/t/discussion-honey-issuance-policy/231) among the community and the general consensus is that the issuance policy should be modified. As a result of those ongoing discussions, work has been started by the [Luna Swarm](../../community/swarms/luna.md) to model and formally propose a **dynamic issuance policy** to replace the current policy. 
 
-The new policy would regulate the Honey supply by both issuing and burning to and from the common pool in order to target a specific ratio of the total supply held in the common pool. The two primary goal of the new policy are as follows:
-
-* Better align incentives around value creation by automatically reducing issuance or burning tokens in response to decreased outflows and/or increased inflows from buyback mechanisms.  
-* Make issuance changes more predictable by relying on a clearly defined algorithmic policy rather than needing to update the issuance rate sporadically via ad-hoc decision proposals. 
-
 {% hint style="info" %}
 A formal decision proposal to adopt the dynamic issuance policy along with recommended parameterization is expected sometime in January 2021.
 {% endhint %}
