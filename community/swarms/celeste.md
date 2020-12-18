@@ -31,5 +31,5 @@ Nota: **Miembro del DAO** significa que esta persona tiene peso en el voto del D
 
 ## Propuestas de Financiamiento
 
-Una propuesta de financiamiento fué hecha, y fue aceptada por la comunidad: [https://forum.1hive.org/t/celeste-swarm-funding-proposal/1451](https://forum.1hive.org/t/celeste-swarm-funding-proposal/1451) 
+Una propuesta de financiamiento fue hecha, y aceptada por la comunidad: [https://forum.1hive.org/t/celeste-swarm-funding-proposal/1451](https://forum.1hive.org/t/celeste-swarm-funding-proposal/1451) 
 
