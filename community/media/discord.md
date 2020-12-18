@@ -53,7 +53,7 @@ description: Discord is where the most 1Hive DAO related activity gets buzzing.
 * **🕹arcade**
 * **🚦elevator**
 * **🍱kitchen**
-* **voice channels**
+* **voice-channels**
 
 #### CROSS-POLLINATION:
 
@@ -66,9 +66,15 @@ description: Discord is where the most 1Hive DAO related activity gets buzzing.
 
 #### MISC:
 
-* **Rabbit-Hole**
+* 🐇🕳**rabbit-hole**
 
 ## Roles and Swarms
 
-Roles are self-assigned using the 🧚**roles** channel. Assigning yourself a role gives you access to the swarm working group channel, designated by a hexagon in the channel name. These are under the **SWARMS** heading on 1Hive's Discord.  Although 🌈**design** is not a **SWARM** channel it is a role, so it's included in this section as well. The **SWARMS** include 🌻**gardens-⏣, 🌷tulip-⏣,🌺flora-⏣,🌞celeste-⏣,🐝buzz-⏣,** and **🏵pollen-⏣.**
+Roles are self-assigned using the 🧚**roles** channel. Assigning yourself a role gives you access to the swarm working group channel, designated by a hexagon **⏣** in the channel name. These are under the **SWARMS** heading on 1Hive's Discord. Although 🌈**design** is not a **SWARM** it is a role, so it's included in this section as well. The **SWARM** channels include 🌻**gardens-⏣, 🌷tulip-⏣, 🌺flora-⏣, 🌞celeste-⏣, 🐝buzz-⏣, 🏵pollen-⏣** and 🌈**design-⏣.**
+
+## **Tips**
+
+* Check each channels Pinned Messages for useful information about that topic by clicking on the pin icon in the top right of each channel.
+
+\*\*\*\*
 
