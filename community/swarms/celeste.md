@@ -18,14 +18,14 @@ The 🌞Celeste Swarm members are responsible for building, maintaining and init
 
 | Member | Role |
 | :--- | :--- |
-| @rperez89 | UI developer and DAO member |
-| @fabri | UI developer and DAO member |
-| @willjgriff | Solidity developer and DAO member |
-| @fiore | Designer and DAO member |
-| @lkngtn | Research and DAO member |
-| @crisOG | Dev Ops |
-| @felix | Dev Ops |
-| @onbjerg | Dev Ops |
+| [rperez89](https://github.com/rperez89) | UI developer and DAO member |
+| [fabri](https://github.com/fabriziovigevani) | UI developer and DAO member |
+| [willjgriff](https://github.com/willjgriff) | Solidity developer and DAO member |
+| [fiore](https://forum.1hive.org/u/fioreb/summary) | Designer and DAO member |
+| [lkngtn](https://github.com/lkngtn) | Research and DAO member |
+| [crisOG](https://github.com/crisog) | Dev Ops |
+| [felix](https://github.com/felixbbertrand) | Dev Ops |
+| [onbjerg](https://github.com/onbjerg) | Dev Ops |
 
 Each **DAO member** has equal voting weight in the Aragon DAO used to distribute funds and on launch they will have governance power to update Celeste's config. 
 
