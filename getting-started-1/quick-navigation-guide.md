@@ -4,7 +4,7 @@ Most things in 1Hive are referred to using references to the natural world. Belo
 
 ## Projects
 
-🍯[**Honey**](../projects/honey/) - A DAO that issuances and distributes 1Hive's community currency Honey. Honey holders can create and stake on proposals using the open source frontend hosted at [1hive.org](https://1hive.org).
+[🍯**Honey**](../projects/honey/) - A DAO that issuances and distributes 1Hive's community currency Honey. Honey holders can create and stake on proposals using the open source frontend hosted at [1hive.org](https://1hive.org).
 
 [🍃**Honeyswap**](../projects/honeyswap/) - A fork of Uniswap v2 on xDai enabling Swaps, Flash Loans, and Oracles for the xDai community, a portion of fees from volume on honeyswap is used to buy Honey and send it to the 1Hive common pool. 
 
