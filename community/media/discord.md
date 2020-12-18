@@ -76,5 +76,3 @@ Roles are self-assigned using the 🧚**roles** channel. Assigning yourself a ro
 
 * Check each channels Pinned Messages for useful information about that topic by clicking on the pin icon in the top right of each channel.
 
-\*\*\*\*
-
