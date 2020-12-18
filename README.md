@@ -4,7 +4,7 @@ description: 'Honey is money, for everybody.'
 
 # Welcome to 1Hive
 
-**1Hive** is a decentralized autonomous organization \(DAO\) that issues and distributes a digital currency called **Honey**. ****Anyone who holds Honey is a part of the DAO and can vote with weight equal to how much Honey they hold, in how newly issued Honey is distributed via [Conviction Voting](projects/honey/).
+**1Hive** is a decentralized autonomous organization \(DAO\) that issues and distributes a digital currency called **Honey**. ****Anyone who holds Honey is a part of the DAO and can influence how Honey in the common pool is distributed via [Conviction Voting](projects/honey/).
 
 ## What is a DAO? <a id="what-is-a-dao"></a>
 
@@ -20,9 +20,9 @@ In the case of the 1Hive DAO, a community currency called Honey is used to creat
 
 Because Honey is money. Seriously.
 
-Issuing a digital currency allows a distributed digital community like 1Hive to build an economy around a set of shared values.
+Issuing a digital currency allows a community like 1Hive to build an economy.
 
-Holding a specific currency is a bet on the future growth of that economy. The more people who hold the currency, the more people who will have interest in participating and growing the economy.
+Holding a specific community currency is a bet on the future growth of that communities economy. The more people who hold the currency, the more people who will have interest in participating and growing the economy.
 
 Each community may adopt different social norms and may use different issuance and distribution policies to allocate shared resources. The most effective communities will thrive and grow, competing for the attention and loyalty of individuals. Choosing to hold a specific currency will evolve beyond just a financial decision into a political and social one as well.
 

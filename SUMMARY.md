@@ -21,8 +21,10 @@
   * [Decisions](projects/honey/decisions.md)
   * [Planned Improvements](projects/honey/honey-improvements.md)
 * [Honeyswap](projects/honeyswap/README.md)
-  * [Honeycomb](projects/honeyswap/honeycomb.md)
-* [Honey Faucet](projects/honey-faucet.md)
+  * [For Traders](projects/honeyswap/for-traders.md)
+  * [For Liquidity Providers](projects/honeyswap/for-liquidity-providers.md)
+  * [For Developers](projects/honeyswap/for-developers.md)
+  * [Planned Improvements](projects/honeyswap/planned-improvements.md)
 * [Celeste \(Coming soon\)](projects/celeste.md)
 * [Gardens \(Coming soon\)](projects/gardens.md)
 
