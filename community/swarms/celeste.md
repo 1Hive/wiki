@@ -14,7 +14,7 @@ Los miembros del Enjambre Celeste son los responsables de construir, mantener e 
 
 [Excel sheet](https://docs.google.com/spreadsheets/d/1h2uippeueDD_lg5XTE70l3mCUU9lgxHyxie8OsAbbFg/edit#gid=0) que muestra las horas dedicadas y los pagos realizados.
 
-## Roles and Responsibilities
+## Roles y Responsabilidades.
 
 | Member | Role |
 | :--- | :--- |
