@@ -5,7 +5,7 @@ description: The rules by which we agree to engage in the 1Hive community.
 # Community Covenant
 
 {% hint style="info" %}
-The 1Hive [Community Covenant](https://forum.1hive.org/t/drafting-the-1hive-community-covenant-for-celeste/1548) is currently open for review: 
+The 1Hive Community Covenant is currently [open for review](https://forum.1hive.org/t/drafting-the-1hive-community-covenant-for-celeste/1548).
 {% endhint %}
 
 1Hive is a community of activists seeking to build a future that is more free, fair, open, and humane.
