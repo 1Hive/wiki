@@ -28,3 +28,5 @@ There are various **Projects** and [**Swarms**](../community/swarms/), with goal
 
 [🌜**Luna**](../community/swarms/luna.md) ****- A swarm that is focussed on modeling and simulation of economic principles to help inform concepts and configuration for various applications within the 1Hive ecosystem.
 
+[🐛**Bug Bounty**](../community/swarms/bug-bounty.md) ****- A swarm that manages funds available for the 1Hive Contract Bug Bounty program. It is responsible for interpreting and responding to uncovered exploits.
+
