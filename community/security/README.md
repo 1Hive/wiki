@@ -8,7 +8,7 @@ See the official [Bug Bounty Program](bug-bounty.md) and the [Bug Bounty Swarm](
 
 ## Security Audits
 
-Currently 1Hive does not audit it's code, see this note regarding this:
+Currently 1Hive does not audit it's code, see this post regarding this:
 
 {% embed url="https://forum.1hive.org/t/a-note-on-1hive-contract-audits/975" %}
 
