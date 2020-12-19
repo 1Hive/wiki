@@ -81,4 +81,5 @@ The working group channels are for technical discussion regarding the developmen
 ## **Tips**
 
 * Check each channels Pinned Messages for useful information about that topic by clicking on the pin icon in the top right of each channel.
+* To become verified, necessary to register for pollen, you need to be [BrightId verified](../../guides/brightid.md) and enter `!verify` in the **🤖bot-commands** Discord channel.
 
