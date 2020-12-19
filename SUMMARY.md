@@ -5,7 +5,8 @@
 
 ## Empezando <a id="getting-started-1"></a>
 
-* [Presentate](getting-started-1/introduce-yourself.md)
+* [Presentate](getting-started-1/introduce-yourself/README.md)
+  * [Discord](getting-started-1/introduce-yourself/discord.md)
 * [Cómo Contribuir](getting-started-1/how-can-you-contribute/README.md)
   * [Gana Polen](getting-started-1/how-can-you-contribute/earn-pollen.md)
   * [Premios Fauna](getting-started-1/how-can-you-contribute/premios-fauna.md)
