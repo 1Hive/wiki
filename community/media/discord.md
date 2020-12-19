@@ -61,12 +61,12 @@ description: Discord is where the most 1Hive DAO related activity gets buzzing.
 
 #### CROSS-POLLINATION:
 
-* \*\*\*\*[**🦅aragon**](https://aragon.org/)\*\*\*\*
-* **🐙metagame**
-* **🔆brightid**
-* **🌿token-engineering**
-* **🥕sourcecred**
-* **🦄giveth**
+* **🦅aragon**
+* **🐙metagame** is the game about the game. [This](Https://metagame.wtf) is where to start.
+* **🔆brightid** is the brave new sybil resistance project. Learn about the project and how to prove you're not a bot [here](https://www.brightid.org/).
+* **🌿token-engineering** is working out tokenomics theory and practice. [Here](https://tokenengineeringcommunity.github.io/website/docs/getting-started-welcome/)'s a good place to learn more.
+* **🥕sourcecred** [Here](https://sourcecred.io/docs/)'s where to get started with SourceCred.
+* **🦄giveth** [Giveth](https://giveth.io/join)'s vision is to build the future of giving, starting with a free, open-source platform connecting donors and mutual-aid projects.
 
 #### MISC:
 
