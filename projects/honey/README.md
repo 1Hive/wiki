@@ -4,7 +4,7 @@ description: Honey is a community currency issued and distributed by the 1Hive c
 
 # Honey
 
-Honey is the heart of everything we do, by optimizing how we issue and distribute honey we can grow the 1hive economy, reward contributors, and expand our community. 
+Honey is at the heart of everything we do, by optimizing how we issue and distribute honey we can grow the 1hive economy, reward contributors, and expand our community. 
 
 The issuance and distribution of Honey is regulated by the smart contracts that constitute the 1Hive DAO. You can create, monitor, and stake on proposals using the frontend located at [1hive.org](https://1hive.org/#/).
 

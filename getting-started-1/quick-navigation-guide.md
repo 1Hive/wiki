@@ -1,6 +1,6 @@
 # Navigation Guide
 
-Most things in 1Hive are referred to using references to the natural world. Below is a brief description of various references used to refer to **Projects** and [**Swarms**](../community/swarms/).
+There are various **Projects** and [**Swarms**](../community/swarms/), with goals that range from communicating to developing new protocols and platforms for the DAO. Below is a brief description of them.
 
 ## Projects
 
@@ -26,5 +26,5 @@ Most things in 1Hive are referred to using references to the natural world. Belo
 
 [🦋**Morphosis**](../community/swarms/morphosis.md) ****- A swarm creating educational content and running online courses in various subjects including analytics and development. Morphosis hopes to enable and encourage more contribution to the 1Hive ecosystem.
 
-[🌜**Luna**](../community/swarms/luna.md) ****- A swarm that is focussed on modelling and simulation of economic principles to help inform concepts and configuration for various applications within the 1Hive ecosystem.
+[🌜**Luna**](../community/swarms/luna.md) ****- A swarm that is focussed on modeling and simulation of economic principles to help inform concepts and configuration for various applications within the 1Hive ecosystem.
 
