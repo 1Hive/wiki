@@ -4,6 +4,10 @@ description: Discord is where the most 1Hive DAO related activity gets buzzing.
 
 # Discord
 
+## Join the Discord
+
+{% embed url="https://discord.com/invite/P4rRDUKTAU" %}
+
 ## Channels
 
 #### INFORMATION:
