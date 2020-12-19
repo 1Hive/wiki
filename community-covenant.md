@@ -44,7 +44,7 @@ Ejemplos de comportamiento inaceptable:
 
 ## Ejecución On-chain
 
-El mecanismo de ejecución en cadena dependerá de la finalización de Celeste 
+El mecanismo de ejecución On-chain dependerá de la finalización de Celeste 
 
 La habilidad del protocolo de 1hive para hacer cumplir este pacto se limita a las interacciones directas que los miembros de la comunidad tienen con el protocolo. Específicamente, la capacidad de los miembros de la comunidad para presentar propuestas para asignar la emisión de miel o ajustar los parámetros del protocolo. 
 
