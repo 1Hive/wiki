@@ -12,25 +12,25 @@ These milestones are rough estimates specified and updated by the relevant Swarm
 
 ### **Celeste**
 
-🎯 **Target Date:** Q1 2020
+🎯 **Target Date:** Q1 2021
 
 For more information see [Celeste](../projects/celeste/)\*\*\*\*
 
 ### **Change to Issuance Policy**
 
-🎯 **Target Date:** Q1 2020
+🎯 **Target Date:** Q1 2021
 
 Issuance \(new Honey creation\) was initially set to 60% per year. It was reduced in November of 2020 to 30%. We are now developing a dynamic issuance policy, details can be seen in [Issuance Planned Improvements](../projects/honey/honey-improvements.md#dynamic-issuance-policy).
 
 ### **Honeyswap Landing Page**
 
-🎯 **Target Date:** Q1 2020
+🎯 **Target Date:** Q1 2021
 
 A user friendly landing page for [Honeyswap](../projects/honeyswap/) including links to guides and useful information.
 
 ### 1Hive Gardens
 
-🎯 **Target Date:** Q2-Q3 2020
+🎯 **Target Date:** Q2-Q3 2021
 
 For more information see [Gardens](../projects/gardens.md).
 
