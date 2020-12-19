@@ -24,6 +24,8 @@ Commands can be executed in the **🤖bot-commands** channel which provide usefu
 
 `$help` -  Will display info about depositing to your tip bot account, allowing you tip HNY to other members of the community through Discord. You can react with emojis under the help message for more details.
 
+Further details can be seen in this [forum post](https://forum.1hive.org/t/discord-bot-commands/1298/2).
+
 ## **Tips**
 
 * Check each channels Pinned Messages for useful information about that topic by clicking on the pin icon in the top right of each channel.
