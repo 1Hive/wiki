@@ -68,7 +68,7 @@ On the Discourse forum the total cred a user can mint is dependant on the trust 
 | 4 | Mint 1.5x |
 | 3 | Mint 1.25x |
 | 2 | Mint 1x |
-| 1 | Mint 0x |
+| 1 | Mint 0.1x |
 | 0 | Mint 0x |
 
 ## Rules
