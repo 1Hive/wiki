@@ -14,7 +14,7 @@ These milestones are rough estimates specified and updated by the relevant Swarm
 
 🎯 **Target Date:** Q1 2020
 
-For more information see [Celeste](../projects/celeste.md)\*\*\*\*
+For more information see [Celeste](../projects/celeste/)\*\*\*\*
 
 ### **Change to Issuance Policy**
 
