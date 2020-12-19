@@ -4,7 +4,7 @@
 
 Anyone can come and start contributing. The source of 1Hive's potential is the community, this is where the enormous power of DAOs come from: they can tap into the vast talents members have and benefit everyone by doing so.
 
-#### How to Contribute
+## How to Contribute
 
 Interact, share ideas and join to the discussion in our platforms. Sign up to the weekly Pollen distribution and [earn pollen](../acquiring-honey/earn-pollen.md) which rewards individuals for contributing to Discourse, Discord and/or Github.
 
