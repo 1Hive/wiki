@@ -41,14 +41,14 @@
   * [🐱 Fauna](community/swarms/fauna.md)
   * [🌻 Gardens](community/swarms/gardens.md)
   * [🐛 Bug Bounty](community/swarms/bug-bounty.md)
-* [Discord](community/discord/README.md)
-  * [Channels](community/discord/channels.md)
 * [Media](community/media/README.md)
   * [Social Accounts](community/media/social-accounts.md)
 * [Design](community/design/README.md)
   * [Brand Guidelines](community/design/brand-guidelines.md)
 * [Security](community/security/README.md)
   * [Bug Bounty](community/security/bug-bounty.md)
+* [Discord](community/discord/README.md)
+  * [Channels](community/discord/channels.md)
 * [Milestones](community/1hive-updates.md)
 
 ## Guides
