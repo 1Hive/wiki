@@ -22,7 +22,7 @@ Commands can be executed in the **🤖bot-commands** channel which provide usefu
 
 `!verify` - Opens a bot which helps you register your Discord account with your [verified BrightID](../../guides/brightid.md) account. This is necessary to register for pollen and to mint cred for others in Discord.
 
-`$help` -  Will display info about depositing to your tip bot account, allowing you tip HNY yo other members of the community through Discord. You can react with emojis under the help message for more details.
+`$help` -  Will display info about depositing to your tip bot account, allowing you tip HNY to other members of the community through Discord. You can react with emojis under the help message for more details.
 
 ## **Tips**
 
