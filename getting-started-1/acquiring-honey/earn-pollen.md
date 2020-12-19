@@ -85,3 +85,5 @@ Previous and ongoing [updates to Pollen parameters](https://forum.1hive.org/t/up
 
 [General rules](https://forum.1hive.org/t/pollen-rules-and-a-reporting-system/1155) for engaging in Pollen.
 
+[SourceCred documentation](https://sourcecred.io/docs/) for further information.
+
