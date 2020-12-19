@@ -1,6 +1,6 @@
 # Navigation Guide
 
-There are various **Projects** and [**Swarms**](../community/swarms/), with goals that range from communicating to developing new protocols and platforms for the DAO. Below is a brief description of them.
+There are various **Projects** and [**Swarms**](../community/swarms/), with goals that range from communicating to developing new protocols and platforms for 1Hive. Below is a brief description of them.
 
 ## Projects
 
