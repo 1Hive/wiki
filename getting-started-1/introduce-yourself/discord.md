@@ -10,7 +10,13 @@ description: Discord is where the most 1Hive DAO related activity gets buzzing.
 
 ## Channels
 
-Channels worth explaining include the check-in channel, nominations, memes, bot commands, keepers \(maybe feedback and bug-report\) and mention help channels are for support. Then we can remove the inner channels page.
+Most channels are focussed on discussion around a particular topic, which can be seen in the channel description at the top of the Discord screen. However, some channels are used for purposes other than discussion:
+
+* **🐛onboarding** is for opting into [Pollen](../acquiring-honey/earn-pollen.md), check the pinned message and follow the instructions.
+* **🤖bot-commands** is for summoning Discord bots to give information, register your account with BrightID or setup a tipping account. See [details below](discord.md#bot-commands) for commands that can be used in the bot commands channel.
+* **✅check-in** is for daily/multi-daily/weekly status updates from 1Hive contributors.
+* **🍄nominations** is where you can recognize the work of others, particularly those that you feel are not being properly recognized elsewhere. Pollen is weighted differently in this channel, see the end of the [Pollen Weights](../acquiring-honey/earn-pollen.md#pollen-weights) section for details.
+* 🍯**keepers** is for those with the 🍯**Honey** role which can only be assigned if you own 1 Honey.
 
 ## Roles and Swarms
 
@@ -24,7 +30,7 @@ Commands can be executed in the **🤖bot-commands** channel which provide usefu
 
 `!hny help` - Displays a list of commands available displaying info about Honey
 
-`!verify` - Opens a bot which helps you register your Discord account with your [verified BrightID](../../../guides/brightid.md) account. This is necessary to register for pollen and to mint cred for others in Discord.
+`!verify` - Opens a bot which helps you register your Discord account with your [verified BrightID](../../guides/brightid.md) account. This is necessary to register for pollen and to mint cred for others in Discord.
 
 `$help` -  Will display info about depositing to your tip bot account, allowing you tip HNY to other members of the community through Discord. You can react with emojis under the help message for more details.
 

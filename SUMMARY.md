@@ -6,8 +6,7 @@
 ## Getting Started <a id="getting-started-1"></a>
 
 * [Introduce Yourself](getting-started-1/introduce-yourself/README.md)
-  * [Discord](getting-started-1/introduce-yourself/discord/README.md)
-    * [Channels](getting-started-1/introduce-yourself/discord/channels.md)
+  * [Discord](getting-started-1/introduce-yourself/discord.md)
 * [Contribute](getting-started-1/how-can-you-contribute/README.md)
   * [Calendar](getting-started-1/how-can-you-contribute/calendar.md)
 * [Get Honey](getting-started-1/acquiring-honey/README.md)
