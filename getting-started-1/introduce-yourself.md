@@ -4,9 +4,7 @@ Discord es una de las herramientas principales que usamos para comunicarnos. En 
 
 {% embed url="https://discord.gg/P4rRDUKTAU" %}
 
-El foro es otra plataforma útil que utilizamos para discutir y proponer nuevas ideas, así como para tener conversaciones fuera de contexto. 
-
-¡Únete al foro! Escribe un poco sobre ti y lo que te trajo aquí: 
+Discourse es otra plataforma útil que utilizamos para discutir y proponer nuevas ideas, así como para tener conversaciones fuera de contexto. ¡Únete al foro! Escribe un poco sobre ti y lo que te trajo aquí: 
 
 {% embed url="https://forum.1hive.org/t/bienvenida-para-hispanohablantes-presentate-aqui/713/12" %}
 
