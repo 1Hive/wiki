@@ -1,10 +1,12 @@
 # Introduce Yourself
 
-Discord is the primary way we communicate, we have setup our Discord with channels for all the different areas of research, development and marketing we engage in along with channels for casual discussions. It's also the way we do meetings. Join our Discord and say hi: 
+Discord is one of the main tools we use to communicate. On this platform we catch up with the different projects our community members are working on, discuss and pitch new ideas, arrange meetings, support users experiencing technical issues, reward users who are contributing, and also engage in casual discussions. Join and say hi: 
 
 {% embed url="https://discord.gg/P4rRDUKTAU" %}
 
-Write a bit about yourself and or what brought you here on our forum: 
+Discourse is another useful platform we use to discuss and propose new ideas as well as having off-topic conversations.
+
+ Join the forum! Write a bit about yourself and what brought you here: 
 
 {% embed url="https://forum.1hive.org/t/introduce-yourself-to-1hive-thread/130" %}
 
