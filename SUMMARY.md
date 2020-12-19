@@ -19,7 +19,7 @@
   * [Issuance](projects/honey-pot/issuance.md)
 * [Honeyswap](projects/honeyswap/README.md)
   * [Honeycomb](projects/honeyswap/honeycomb.md)
-* [Honey Faucet](projects/honey-faucet.md)
+* [Faucet de Honey](projects/honey-faucet.md)
 * [Celeste \(Coming soon\)](projects/celeste.md)
 * [Gardens \(Coming soon\)](projects/gardens.md)
 
@@ -38,7 +38,7 @@
   * [Calendar](community/media/calendar.md)
   * [Discord](community/media/discord.md)
   * [Brand Guidelines](community/media/brand-guidelines.md)
-* [Security](community/security.md)
+* [Seguridad](community/security.md)
 
 ## Guides
 
