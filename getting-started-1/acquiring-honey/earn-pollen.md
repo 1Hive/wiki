@@ -59,6 +59,8 @@ All emojis give 1 cred, apart from the below exceptions.
 
 Channels that give 0x cred include: `#✅check-in` ,`#🐸memes` ,`#🤖bot-commands` `#🕹arcade` ,`#🦩lounge` ,`#🍱kitchen` , Fauna channels and all of the Information channels.
 
+The `#🍄nominations` channel only mints cred for users who have been tagged in messages, users sharing a tagged user will not get cred for emoji responses. All cred earned for a specific message will be shared equally amongst all tagged users in that message.
+
 ### Forum
 
 On the Discourse forum the total cred a user can mint is dependent on the trust level of the user.
