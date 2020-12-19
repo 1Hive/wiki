@@ -20,7 +20,7 @@ xDai: 0x0...000
 
 Replacing`justabee`, `justabee#1234` and `0x0...000` with your accounts.
 
-You also have to be [**Verified** ](../../community/media/discord.md#tips)in discord in order to receive weekly pollen distributions.
+You also have to be [**Verified** ](../../community/discord.md#tips)in discord in order to receive weekly pollen distributions.
 
 If you have questions, are interested in how pollen is calculated, or auditing the distributions, just hop on the [`#🏵pollen`](https://discord.gg/y8fPNcNdAa) channel.
 
@@ -38,7 +38,7 @@ The weights that determine the Pollen earned for each action can be seen in the 
 
 ### Discord
 
-On Discord, in order to mint cred for other users through emoji responses, users giving the response must be [Verified](../../community/media/discord.md#tips). Minting to self is disabled and the system also weights the minting amount to others depending on how much cred the minter has earned.
+On Discord, in order to mint cred for other users through emoji responses, users giving the response must be [Verified](../../community/discord.md#tips). Minting to self is disabled and the system also weights the minting amount to others depending on how much cred the minter has earned.
 
 | Total Cred | Mint Weight |
 | :--- | :--- |
