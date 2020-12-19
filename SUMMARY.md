@@ -5,10 +5,12 @@
 
 ## Getting Started <a id="getting-started-1"></a>
 
-* [Introduce Yourself](getting-started-1/introduce-yourself.md)
+* [Introduce Yourself](getting-started-1/introduce-yourself/README.md)
+  * [Discord](getting-started-1/introduce-yourself/discord/README.md)
+    * [Channels](getting-started-1/introduce-yourself/discord/channels.md)
 * [Contribute](getting-started-1/how-can-you-contribute/README.md)
   * [Calendar](getting-started-1/how-can-you-contribute/calendar.md)
-* [Acquire Honey](getting-started-1/acquiring-honey/README.md)
+* [Get Honey](getting-started-1/acquiring-honey/README.md)
   * [Earn Pollen](getting-started-1/acquiring-honey/earn-pollen.md)
   * [Fauna Awards](getting-started-1/acquiring-honey/fauna-awards.md)
 * [Navigation Guide](getting-started-1/quick-navigation-guide.md)
@@ -47,8 +49,6 @@
   * [Brand Guidelines](community/design/brand-guidelines.md)
 * [Security](community/security/README.md)
   * [Bug Bounty](community/security/bug-bounty.md)
-* [Discord](community/discord/README.md)
-  * [Channels](community/discord/channels.md)
 * [Milestones](community/1hive-updates.md)
 
 ## Guides
