@@ -2,7 +2,7 @@
 description: 'HNY: 0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9'
 ---
 
-# Acquiring Honey
+# Acquire Honey
 
 Honey is the community currency of 1Hive, it is also an important community boundary. In order to influence the direction of 1Hive, Honey holders can stake their honey on proposals.
 
