@@ -27,7 +27,7 @@ Los miembros del Enjambre Celeste son los responsables de construir, mantener e 
 | @felix | Desarrollador de operaciones |
 | @onbjerg | Desarrollador de operaciones |
 
-Nota: **Miembro del DAO** significa que esta persona tiene peso en el voto del DAO de Aragón que se usa para distribuir fondos y, en su lanzamiento, tendrán poder de actualizar la configuración de Celeste. Cada miembro de DAO tiene el mismo peso en su voto.
+Nota: **Miembro del DAO** significa que esta persona tiene peso en el voto del DAO de Aragón que se usa para distribuir fondos y, en su lanzamiento, tendrán poder de actualizar la configuración de Celeste. Cada miembro del DAO tiene el mismo peso en su voto.
 
 ## Propuestas de Financiamiento
 
