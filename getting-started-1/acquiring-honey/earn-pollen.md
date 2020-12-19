@@ -24,19 +24,17 @@ You also have to be [**Verified** ](../introduce-yourself/discord.md#tips)in dis
 
 If you have questions, are interested in how pollen is calculated, or auditing the distributions, just hop on the [`#🏵pollen`](https://discord.gg/y8fPNcNdAa) channel.
 
-## Pollen Distribution System
+## Pollen Distribution
 
 Pollen uses SourceCred to maintain a score for individuals dependent on the contributions they have made to Discord, Discourse and GitHub. SourceCred monitors all messages and contributions and applies a multiplier to a base score of 1 cred per action. One of the primary ways of earning cred is when text you write or actions you create are responded too positively by other members through the use of emojis. Writing messages do not earn cred. The weights for Cred distribution are decided by 1Hive community.
 
-Cred earned within 1Hive is only useful within 1Hive, it isn't transferable, scoring is retroactive so if you sign up to pollen after having earned some, you will still receive cred for that period \(although you will only receive a honey reward for the period after registering\) and it is transparent, anyone can see anyone else's score.
+Cred earned within 1Hive is only useful within 1Hive, it isn't transferable and scoring is retroactive so if you sign up to pollen after having earned some, you will still receive cred for that period \(although you will only receive a honey reward for the period after registering\).
 
 The [Pollen Explorer](https://1hive.github.io/pollen/#/explorer) has a leaderboard of Pollen users displaying the cred they have earned throughout their engagement with 1Hive.
 
-### Pollen Weights
-
 The weights that determine the Pollen earned for each action can be seen in the [pollen explorer](https://1hive.github.io/pollen/#/explorer%20) by clicking on "SHOW WEIGHT CONFIGURATION".
 
-### Discord
+### Discord Pollen Weights
 
 On Discord, in order to mint cred for other users through emoji responses, users giving the response must be [Verified](../introduce-yourself/discord.md#tips). Minting to self is disabled and the system also weights the minting amount to others depending on how much cred the minter has earned.
 
@@ -61,7 +59,7 @@ Channels that give 0x cred include: `#✅check-in` ,`#🐸memes` ,`#🤖bot-comm
 
 The `#🍄nominations` channel only mints cred for users who have been tagged in messages, users sharing a tagged user will not get cred for emoji responses. All cred earned for a specific message will be shared equally amongst all tagged users in that message.
 
-### Forum
+### Forum Pollen Weights
 
 On the Discourse forum the total cred a user can mint is dependent on the trust level of the user.
 
