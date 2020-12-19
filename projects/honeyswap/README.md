@@ -8,5 +8,5 @@ Honeyswap is a decentralized exchange built on the [xDai Chain](https://www.xdai
 
 Analytics like volume, liquidity and transactions can be found [here](https://info.honeyswap.org).
 
-1Hive and Honeyswap are integrated,  a portion \(?%\) of the collected fees on the exchange are used to buy the honey token and deposit it to the [common pool](../honey/#economic-overview), so as the exchange's volume increases, buy pressure on honey increases as well as the responsibility of honey holders to allocate tokens in a productive manner through the DAO's [governance](../honey/participation.md).
+1Hive and Honeyswap are integrated, 0.05% of the collected fees on the exchange are used to buy the honey token and deposit it to the [common pool](../honey/#economic-overview), so as the exchange's volume increases, buy pressure on honey increases as well as the responsibility of honey holders to allocate tokens in a productive manner through the DAO's [governance](../honey/participation.md).
 
