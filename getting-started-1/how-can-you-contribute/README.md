@@ -1,10 +1,14 @@
-# How to Contribute
+# Contribute
 
-1Hive is an open community, if you see something that needs doing then get involved and try and fix it. 
+1Hive is an open community, if you would like to help with something, then get involved! We are at the vanguard of decentralized organizations, testing and exploring different alternatives for the future, and we would like you to be part of this adventure too.
 
-You can discuss issues with the relevant [Swarm](../../community/swarms/) and if it doesn't fit anywhere or it's something that requires independent work, you can create a proposal for funding to do it independently.
+Anyone can come and start contributing. The source of 1Hive's potential is the community, this is where the enormous power of DAOs come from: they can tap into the vast talents members have and benefit everyone by doing so.
 
-Sign up to the weekly Pollen distribution and [earn pollen](../acquiring-honey/earn-pollen.md) which rewards individuals for contributing to the Discourse, Discord and Github.
+#### How to Contribute
 
-Contribute to governance by either [creating or voting on a proposal ](../../projects/honey/)in 1hive.org
+Interact, share ideas and join to the discussion in our platforms. Sign up to the weekly Pollen distribution and [earn pollen](../acquiring-honey/earn-pollen.md) which rewards individuals for contributing to Discourse, Discord and/or Github.
+
+You can discuss ideas and plans with the relevant [Swarm](../../community/swarms/) and if it doesn't fit anywhere or it's something that requires independent work, you can create a [proposal](../../projects/honey/participation.md#proposals) for funding to do it independently.
+
+You can also get involved with the DAO's governance by either [creating or voting on a proposal ](../../projects/honey/)in 1hive.org
 
