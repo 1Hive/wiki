@@ -26,7 +26,7 @@ Blog: [https://about.1hive.org/blog/](https://about.1hive.org/blog/)
 | Facebook | [@honeyswapdex](https://www.facebook.com/honeyswapdex/) | [d0sh](https://forum.1hive.org/u/d0sh/summary),[metaverde](https://forum.1hive.org/u/metaverde/summary), [therealmo](https://forum.1hive.org/u/therealmo/summary) |
 | wechat | ID:Boring877 | [boring877](https://forum.1hive.org/u/boring877/summary) |
 | Telegram | [honeyswapDEX](https://t.me/honeyswapDEX) | [therealmo](https://forum.1hive.org/u/therealmo/summary), [solarmkd](https://forum.1hive.org/u/solarmkd/summary) |
-| Youtube |  [1hive](https://www.youtube.com/channel/UCg0yASRY6TmXDryitYvsJOQ) | [lkngtn](https://forum.1hive.org/u/lkngtn), [chuygarcia92](https://forum.1hive.org/u/chuygarcia92/summary), [davidphoenix2020](https://forum.1hive.org/u/davidphoenix2020/summary) |
+| Youtube | [1hive](https://www.youtube.com/channel/UCg0yASRY6TmXDryitYvsJOQ) | [lkngtn](https://forum.1hive.org/u/lkngtn), [chuygarcia92](https://forum.1hive.org/u/chuygarcia92/summary), [davidphoenix2020](https://forum.1hive.org/u/davidphoenix2020/summary) |
 | Kuaishou | @honeyswap | [brandonz](https://forum.1hive.org/u/brandonz/summary) |
 
 
