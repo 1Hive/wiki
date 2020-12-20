@@ -12,7 +12,7 @@
 * [Get Honey](getting-started-1/acquiring-honey/README.md)
   * [Pollen](getting-started-1/acquiring-honey/earn-pollen.md)
   * [Fauna Awards](getting-started-1/acquiring-honey/fauna-awards.md)
-* [Navigation Guide](getting-started-1/quick-navigation-guide.md)
+* [Navigation](getting-started-1/quick-navigation-guide.md)
 
 ## Projects
 
