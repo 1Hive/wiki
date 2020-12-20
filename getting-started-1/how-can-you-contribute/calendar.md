@@ -10,5 +10,5 @@ Anyone is welcome to join the public calls scheduled throughout the week by vari
 Click the small arrow in the top right of the Calendar to filter by topic
 {% endhint %}
 
-{% embed url="https://calendar.google.com/calendar/embed?src=cadcad.org%40gmail.com&ctz=Europe%2FLondon&src=c\_k77c78d1kdt9e1vpk2cvjcc7jg@group.calendar.google.com" %}
+{% embed url="https://calendar.google.com/calendar/embed?src=cadcad.org%40gmail.com&ctz=UTC&src=c\_k77c78d1kdt9e1vpk2cvjcc7jg@group.calendar.google.com" %}
 
