@@ -4,9 +4,9 @@ There are various **Projects** and [**Swarms**](../community/swarms/), with goal
 
 ## Projects
 
-[🍯**Honey**](../projects/honey/) - A DAO that issuances and distributes 1Hive's community currency Honey. Honey holders can create and stake on proposals using the open source frontend hosted at [1hive.org](https://1hive.org).
+[🍯**Honey**](../projects/honey/) - A DAO that issues and distributes 1Hive's community currency, Honey. Honey holders can create and stake on proposals using the open source frontend hosted at [1hive.org](https://1hive.org).
 
-[🍃**Honeyswap**](../projects/honeyswap/) - A fork of Uniswap v2 on xDai enabling Swaps, Flash Loans, and Oracles for the xDai community, a portion of fees from volume on honeyswap is used to buy Honey and send it to the 1Hive common pool. 
+[🍃**Honeyswap**](../projects/honeyswap/) - A fork of Uniswap v2 on xDai enabling Swaps, Flash Loans, and Oracles for the xDai community. A portion of fees from volume on Honeyswap is used to buy Honey and send it to the 1Hive common pool. 
 
 [🌞**Celeste**](../projects/celeste/) - A subjective oracle protocol that incorporates BrightId to make participation less capital intensive. It will be used, among other things, to enforce the [1Hive Community Covenant](../community-covenant.md).
 
@@ -26,7 +26,7 @@ There are various **Projects** and [**Swarms**](../community/swarms/), with goal
 
 [🦋**Morphosis**](../community/swarms/morphosis.md) ****- A swarm creating educational content and running online courses in various subjects including analytics and development. Morphosis hopes to enable and encourage more contribution to the 1Hive ecosystem.
 
-[🌜**Luna**](../community/swarms/luna.md) ****- A swarm that is focussed on modeling and simulation of economic principles to help inform concepts and configuration for various applications within the 1Hive ecosystem.
+[🌜**Luna**](../community/swarms/luna.md) ****- A swarm that is focused on modeling and simulation of economic principles to help inform concepts and configuration for various applications within the 1Hive ecosystem.
 
 [🐛**Bug Bounty**](../community/swarms/bug-bounty.md) ****- A swarm that manages funds available for the 1Hive Contract Bug Bounty program. It is responsible for interpreting and responding to uncovered exploits.
 
