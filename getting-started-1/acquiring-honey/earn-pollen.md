@@ -38,7 +38,7 @@ The weights that determine the Pollen earned for each action can be seen in the 
 
 ### Platform Distribution
 
-Breakdown of each platforms relative distribution of Pollen each week
+A breakdown of each platforms relative distribution of Pollen each week.
 
 | Platform | Percent of Distribution |
 | :--- | :--- |
