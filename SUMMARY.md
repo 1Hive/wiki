@@ -10,11 +10,17 @@
 * [Cómo Contribuir](getting-started-1/how-can-you-contribute/README.md)
   * [Gana Polen](getting-started-1/how-can-you-contribute/earn-pollen.md)
   * [Premios Fauna](getting-started-1/how-can-you-contribute/premios-fauna.md)
-* [Adquiriendo Miel \(Honey\)](getting-started-1/acquiring-honey.md)
+* [Adquiere Miel \(Honey\)](getting-started-1/acquiring-honey.md)
 * [Guía de Navegación Rápida](getting-started-1/quick-navigation-guide.md)
 
 ## Proyectos <a id="projects"></a>
 
+* [Honey](projects/honey/README.md)
+  * [Participación](projects/honey/participacion.md)
+  * [Emisión](projects/honey/emision.md)
+  * [Distribución](projects/honey/distribucion.md)
+  * [Decisiones](projects/honey/decisiones.md)
+  * [Mejoras Planificadas](projects/honey/mejoras-planificadas.md)
 * [Honey Pot](projects/honey-pot/README.md)
   * [Issuance](projects/honey-pot/issuance.md)
 * [Honeyswap](projects/honeyswap/README.md)
