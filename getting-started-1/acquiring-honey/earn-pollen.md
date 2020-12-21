@@ -99,5 +99,3 @@ Previous and ongoing [updates to Pollen parameters](https://forum.1hive.org/t/up
 
 [The Pollen Swarm](../../community/swarms/pollen.md)
 
-Pollen Swarm [Useful Links](../../community/swarms/pollen.md#useful-links)
-
