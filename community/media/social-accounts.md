@@ -1,3 +1,7 @@
+---
+description: Managed by trusted community members.
+---
+
 # Social Accounts
 
 ## Social Accounts and Admins
