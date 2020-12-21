@@ -10,7 +10,9 @@ The 🏵Pollen Swarm manages the 1Hive SourceCred instance. Details can be seen 
 
  [Aragon DAO](https://aragon.1hive.org/#/pollen) holding Pollen funds.
 
- [SourceCred documentation](https://sourcecred.io/docs/)
+[1Hive Pollen GitHub Repository](https://github.com/1Hive/pollen)
+
+[SourceCred documentation](https://sourcecred.io/docs/)
 
 ## Roles and Responsibilities
 

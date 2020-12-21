@@ -1,6 +1,6 @@
 # Pollen
 
-Pollen is a contributor rank used to recognise contributions to 1Hive’s [Discord](https://discord.com/invite/P4rRDUKTAU), [Discourse](https://forum.1hive.org/), and [Github](https://github.com/1Hive) communities, and reward these contributions with weekly distributions of Honey.
+Pollen is a contributor rank used to recognize contributions to 1Hive’s [Discord](https://discord.com/invite/P4rRDUKTAU), [Discourse](https://forum.1hive.org/), and [Github](https://github.com/1Hive) communities, and reward these contributions with weekly distributions of Honey.
 
 ## How do I participate
 
@@ -34,6 +34,8 @@ The [Pollen Explorer](https://1hive.github.io/pollen/#/explorer) has a leaderboa
 
 The weights that determine the Pollen earned for each action can be seen in the [pollen explorer](https://1hive.github.io/pollen/#/explorer%20) by clicking on "SHOW WEIGHT CONFIGURATION".
 
+![](../../.gitbook/assets/image%20%288%29.png)
+
 ### Discord Pollen Weights
 
 On Discord, in order to mint cred for other users through emoji responses, users giving the response must be [Verified](../introduce-yourself/discord.md#tips). Minting to self is disabled and the system also weights the minting amount to others depending on how much cred the minter has earned.
@@ -57,7 +59,7 @@ All emojis give 1 cred, apart from the below exceptions.
 
 Channels that give 0x cred include: `#✅check-in` ,`#🐸memes` ,`#🤖bot-commands` `#🕹arcade` ,`#🦩lounge` ,`#🍱kitchen` , Fauna channels and all of the Information channels.
 
-The `#🍄nominations` channel only mints cred for users who have been tagged in messages, users sharing a tagged user will not get cred for emoji responses. All cred earned for a specific message will be shared equally amongst all tagged users in that message.
+The `#🍄nominations` channel mints 95% of cred for users who have been tagged in messages, users sharing a tagged user get 5% cred for emoji responses. All users tagged will share cred equally amongst all tagged users in that message.
 
 ### Forum Pollen Weights
 
@@ -70,6 +72,14 @@ On the Discourse forum the total cred a user can mint is dependent on the trust 
 | 2 | Mint 1x |
 | 1 | Mint 0.1x |
 | 0 | Mint 0x |
+
+### Additional Weights
+
+\*\*\*\*[**pluginBudgets.json**](https://github.com/1Hive/pollen/blob/master/config/pluginBudgets.json) ****- Payout distribution amount by 'plugin': Discord, Discourse, and GitHub.
+
+[**Grain.json** ](https://github.com/1Hive/pollen/blob/master/config/grain.json)- Payout based on total cred, recent week, and a catch up for any retro active payments that were missed.
+
+\*\*\*\*[**Dependencies.json**](https://github.com/1Hive/pollen/blob/master/config/dependencies.json) - Monthly payout balancer.
 
 ## Rules
 
@@ -86,4 +96,8 @@ Previous and ongoing [updates to Pollen parameters](https://forum.1hive.org/t/up
 [General rules](https://forum.1hive.org/t/pollen-rules-and-a-reporting-system/1155) for engaging in Pollen.
 
 [SourceCred documentation](https://sourcecred.io/docs/) for further information.
+
+[The Pollen Swarm](../../community/swarms/pollen.md)
+
+Pollen Swarm [Useful Links](../../community/swarms/pollen.md#useful-links)
 
