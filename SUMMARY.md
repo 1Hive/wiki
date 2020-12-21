@@ -7,7 +7,7 @@
 
 * [Presentate](getting-started-1/introduce-yourself/README.md)
   * [Discord](getting-started-1/introduce-yourself/discord.md)
-* [Cómo Contribuir](getting-started-1/how-can-you-contribute/README.md)
+* [Contribuir](getting-started-1/how-can-you-contribute/README.md)
   * [Calendario](getting-started-1/how-can-you-contribute/calendario.md)
 * [Adquiere Miel \(Honey\)](getting-started-1/acquiring-honey/README.md)
   * [Pollen](getting-started-1/acquiring-honey/pollen.md)
