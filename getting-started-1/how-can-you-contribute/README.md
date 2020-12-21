@@ -6,5 +6,5 @@ Puedes discutir problemas con el [Swarm](../../community/swarms/) relevante y si
 
 Regístrate en la distribución semanal de polen y [gana polen](earn-pollen.md), que recompensa a las personas por contribuir en el foro, Discord y Github. 
 
-Contribuye a la gobernanza [creando o votando en una propuesta](../../projects/honey-pot/) en 1hive.org
+Contribuye a la gobernanza [creando o votando en una propuesta]() en 1hive.org
 

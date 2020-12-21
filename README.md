@@ -4,7 +4,7 @@ description: 'La miel es dinero, para todos.'
 
 # Bienvenido a 1Hive
 
-**1Hive** es una organización autónoma descentralizada o según sus siglas en inglés "a decentralized autonomous organization \(DAO\)"  que emite y distribuye una moneda digital llamada **Honey**.
+**1Hive** es una organización autónoma descentralizada o según sus siglas en inglés "a decentralized autonomous organization \(DAO\)"  que emite y distribuye una moneda digital llamada **Honey**. Cualquiera que posea Honey es parte del DAO y puede influir en cómo se distribuye Honey en el fondo común a través de la [votación de convicción](projects/honey/).
 
 ## ¿Qué es un DAO? <a id="what-is-a-dao"></a>
 
@@ -14,7 +14,7 @@ Los DAOs super organismos cibernéticos… o poniendolo más simple, protocolos 
 
 Mientras la administración centralizada es un medio poderoso y flexible para escalar la coordinación humana. La llegada de libros de contabilidad descentralizados como Bitcoin y Ethereum ha demostrado lo disruptivos, poderosos y resistentes que pueden ser los protocolos de coordinación **suficientemente descentralizados**. Los DAOs no reemplazan a las empresas, en cambio, alteran el panorama económico al crear mercados y oportunidades novedosos en los que los individuos y empresas pueden participar.
 
-En el caso del DAO 1hive, una moneda comunitaria llamada Honey se utiliza para crear una economía circular donde los bienes públicos y las inversiones que hacen crecer la economía de 1hive pueden financiarse colectivamente con [**votación por convicción**](projects/honey-pot/).
+En el caso del DAO 1hive, una moneda comunitaria llamada Honey se utiliza para crear una economía circular donde los bienes públicos y las inversiones que hacen crecer la economía de 1hive pueden financiarse colectivamente con [**votación por convicción**](projects/honey/).
 
 ## ¿Por qué Miel?
 

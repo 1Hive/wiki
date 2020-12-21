@@ -4,17 +4,17 @@ Most things in 1Hive are referred to using references to the natural world. Belo
 
 ## Projects
 
-\*\*\*\*[**Honey Pot**](../projects/honey-pot/) ****- The central interface for on chain governance of 1Hive and for distributing funds. It uses conviction voting to create a slow organic release of funds from the common pool and displays 1Hive DAO configuration votes.
+\*\*\*\*[**Honey Pot**]() ****- The central interface for on chain governance of 1Hive and for distributing funds. It uses conviction voting to create a slow organic release of funds from the common pool and displays 1Hive DAO configuration votes.
 
 [**Honeyswap**](../projects/honeyswap/) - A fork of Uniswap v2 on xDai, the fees from which are sent to the 1Hive common pool. It includes an analytics dashboard.
 
 \*\*\*\*[**Honeycomb**](../projects/honeyswap/honeycomb.md) ****- Defi liquidity farm's available on xDai. Incentivising liquidity provision on Honeyswap exchange pairs.
 
-\*\*\*\*[**Honey Faucet**](../projects/honey-faucet.md) - A faucet distributing free honey once every 48 hours. It requires the user be verified on [BrightId](../guides/brightid/). The amount that is claimable is dependant on the number of registered users during a particular period.
+\*\*\*\*[**Honey Faucet**]() - A faucet distributing free honey once every 48 hours. It requires the user be verified on [BrightId](../guides/brightid/). The amount that is claimable is dependant on the number of registered users during a particular period.
 
 [**Celeste**](../projects/celeste.md) - A project and swarm working on a decentralized dispute resolution protocol, also referred to as a subjective oracle, based on Aragon Court that incorporates Bright ID to make participation less capital intensive. It will be used, among other things, to enforce the 1Hive Community Covenant.
 
-[**Gardens**](../projects/gardens.md) - A project and swarm developing 1hive.org aka [**Honey Pot**](../projects/honey-pot/) which aspires to become a web3 social network connecting people together and redefining the future of work. Currently it provides an interface for Honey distribution through Conviction Voting, but it will be extended to support the creation and operation of independent swarms.
+[**Gardens**](../projects/gardens.md) - A project and swarm developing 1hive.org aka [**Honey Pot**]() which aspires to become a web3 social network connecting people together and redefining the future of work. Currently it provides an interface for Honey distribution through Conviction Voting, but it will be extended to support the creation and operation of independent swarms.
 
 ## Swarms
 

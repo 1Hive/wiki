@@ -21,11 +21,8 @@
   * [Distribución](projects/honey/distribucion.md)
   * [Decisiones](projects/honey/decisiones.md)
   * [Mejoras Planificadas](projects/honey/mejoras-planificadas.md)
-* [Honey Pot](projects/honey-pot/README.md)
-  * [Issuance](projects/honey-pot/issuance.md)
 * [Honeyswap](projects/honeyswap/README.md)
   * [Honeycomb](projects/honeyswap/honeycomb.md)
-* [Faucet de Honey](projects/honey-faucet.md)
 * [Celeste \(Coming soon\)](projects/celeste.md)
 * [Gardens \(Coming soon\)](projects/gardens.md)
 
