@@ -2,17 +2,17 @@
 
 * [Welcome to 1Hive](README.md)
 * [Community Covenant](community-covenant.md)
+* [Overview](quick-navigation-guide.md)
 
 ## Getting Started <a id="getting-started-1"></a>
 
 * [Introduce Yourself](getting-started-1/introduce-yourself/README.md)
   * [Discord](getting-started-1/introduce-yourself/discord.md)
-* [Contribute](getting-started-1/how-can-you-contribute/README.md)
+  * [Telegram](getting-started-1/introduce-yourself/telegram.md)
+* [Want to Contribute?](getting-started-1/how-can-you-contribute/README.md)
+  * [Pollen](getting-started-1/how-can-you-contribute/earn-pollen.md)
   * [Calendar](getting-started-1/how-can-you-contribute/calendar.md)
-* [Get Honey](getting-started-1/acquiring-honey/README.md)
-  * [Pollen](getting-started-1/acquiring-honey/earn-pollen.md)
-  * [Fauna Awards](getting-started-1/acquiring-honey/fauna-awards.md)
-* [Navigation](getting-started-1/quick-navigation-guide.md)
+  * [Fauna Awards](getting-started-1/how-can-you-contribute/fauna-awards.md)
 
 ## Projects
 
