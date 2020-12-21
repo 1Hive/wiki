@@ -18,7 +18,7 @@ If participants allocate Honey productively, inflows to the common pool will eve
 
 ![Simplified Honey Stock and Flow Diagram](../../.gitbook/assets/honey-2x.png)
 
-One way to think of this system is as a [cybernetic feedback loop ](https://en.wikipedia.org/wiki/Cybernetics)where stakers are sensors, the protocol is the controller, and proposals are the actuators that impact the environment. The impact of proposals may be uncertain and may change over time, but outcomes will be observed  and feedback into the system resulting in adaptation to the environment over time. 
+One way to think of this system is as a [cybernetic feedback loop ](https://en.wikipedia.org/wiki/Cybernetics)where stakers are sensors, the protocol is the controller, and proposals are the actuators that impact the environment. The impact of proposals may be uncertain and may change over time, but outcomes will be observed and feed back into the system resulting in adaptation to the environment over time. 
 
 Increasing the value of Honey is an implicit goal of the system and its participants. Stakers must hold Honey over time to influence proposals and therefore have a vested interest in supporting proposals that maximize the value of Honey, and contributors need Honey to be valuable so that their contributions can sustainably rewarded. 
 
