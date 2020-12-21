@@ -36,6 +36,16 @@ The weights that determine the Pollen earned for each action can be seen in the 
 
 ![](../../.gitbook/assets/image%20%288%29.png)
 
+### Platform Distribution
+
+Breakdown of each platforms relative distribution of Pollen each week
+
+| Platform | Percent of Distribution |
+| :--- | :--- |
+| GitHub | 40% |
+| Discord | 30% |
+| Discourse | 30% |
+
 ### Discord Pollen Weights
 
 On Discord, in order to mint cred for other users through emoji responses, users giving the response must be [Verified](../introduce-yourself/discord.md#tips). Minting to self is disabled and the system also weights the minting amount to others depending on how much cred the minter has earned.
@@ -75,8 +85,6 @@ On the Discourse forum the total cred a user can mint is dependent on the trust 
 
 ### Additional Weights
 
-\*\*\*\*[**pluginBudgets.json**](https://github.com/1Hive/pollen/blob/master/config/pluginBudgets.json) ****- Payout distribution amount by 'plugin': Discord, Discourse, and GitHub.
-
 [**Grain.json** ](https://github.com/1Hive/pollen/blob/master/config/grain.json)- Payout based on total cred, recent week, and a catch up for any retro active payments that were missed.
 
 \*\*\*\*[**Dependencies.json**](https://github.com/1Hive/pollen/blob/master/config/dependencies.json) - Monthly payout balancer.
@@ -96,6 +104,4 @@ Previous and ongoing [updates to Pollen parameters](https://forum.1hive.org/t/up
 [General rules](https://forum.1hive.org/t/pollen-rules-and-a-reporting-system/1155) for engaging in Pollen.
 
 [SourceCred documentation](https://sourcecred.io/docs/) for further information.
-
-[The Pollen Swarm](../../community/swarms/pollen.md)
 
