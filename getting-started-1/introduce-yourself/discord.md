@@ -1,23 +1,23 @@
 ---
-description: Discord is where the most 1Hive DAO related activity gets buzzing.
+description: Discord es donde la actividad relacionada con el DAO de 1Hive es discutida.
 ---
 
 # Discord
 
 
 
-Discord is one of the main tools we use to communicate. On this platform we catch up with the different projects our community members are working on, discuss and pitch new ideas, arrange meetings, support users experiencing technical issues, reward users who are contributing, and also engage in casual discussions. Join and say hi: 
+Discord es una de las herramientas principales que usamos para comunicarnos. En esta plataforma nos ponemos al día con los diferentes proyectos en los que los miembros de nuestra comunidad están trabajando, discutimos y presentamos nuevas ideas, organizamos reuniones, apoyamos a los usuarios que experimentan problemas técnicos, recompensamos a los usuarios que están contribuyendo y también participamos en discusiones casuales. Únete y saluda:
 
 {% embed url="https://discord.com/invite/P4rRDUKTAU" %}
 
-## Channels
+## Canales
 
-Most channels are focussed on discussion around a particular topic, which can be seen in the channel description at the top of the Discord screen. However, some channels are used for purposes other than discussion:
+La mayoría de los canales se centran en la discusión sobre un tema en particular, que puede ser observado en la descripción del canal en la parte superior de la pantalla de Discord. Sin embargo, algunos canales se utilizan para fines distintos:
 
-* **🐛onboarding** is for opting into [Pollen](../how-can-you-contribute/earn-pollen.md), check the pinned message and follow the instructions.
-* **🤖bot-commands** is for summoning Discord bots to give information, register your account with BrightID or setup a tipping account. See [details below](../../community/media/discord.md#bot-commands) for commands that can be used in the bot commands channel.
-* **✅check-in** is for daily/multi-daily/weekly status updates from 1Hive contributors.
-* **🍄nominations** is where you can recognize the work of others, particularly those that you feel are not being properly recognized elsewhere. Pollen is weighted differently in this channel, see the end of the [Pollen Weights](../how-can-you-contribute/earn-pollen.md#pollen-weights) section for details.
+* **🐛onboarding** es para optar a [Pollen](), reevisa el mensaje anclado y sigue las instrucciones.
+* **🤖bot-commands** es para convocar a los bots de Discord para recibir información, registrar tu cuenta con BrightID o configurar una cuenta de propinas. Ve los [detalles abajo](discord.md#bot-commands) para comandos que se pueden usar en el canal. 
+* **✅check-in** Es para actualizaciones diarias/multi-diarias/semanales de los contribuyentes de 1Hive.
+* **🍄nominations** es donde puedes reconocer el trabajo de otros, particularmente aquellos que sientes que no están siendo reconocidos adecuadamente en otros lugares. El polen se pondera de manera diferente en este canal; consulta el final de la sección Pesos del polen para obtener más detalles. is where you can recognize the work of others, particularly those that you feel are not being properly recognized elsewhere. Pollen is weighted differently in this channel, see the end of the [Pollen Weights]() section for details.
 * 🍯**keepers** is for those with the 🍯**Honey** role which can only be assigned if you own 1 Honey.
 
 ## Roles and Swarms

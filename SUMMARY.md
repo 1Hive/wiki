@@ -8,9 +8,10 @@
 * [Presentate](getting-started-1/introduce-yourself/README.md)
   * [Discord](getting-started-1/introduce-yourself/discord.md)
 * [Cómo Contribuir](getting-started-1/how-can-you-contribute/README.md)
-  * [Gana Polen](getting-started-1/how-can-you-contribute/earn-pollen.md)
-  * [Premios Fauna](getting-started-1/how-can-you-contribute/premios-fauna.md)
-* [Adquiere Miel \(Honey\)](getting-started-1/acquiring-honey.md)
+  * [Calendario](getting-started-1/how-can-you-contribute/calendario.md)
+* [Adquiere Miel \(Honey\)](getting-started-1/acquiring-honey/README.md)
+  * [Pollen](getting-started-1/acquiring-honey/pollen.md)
+  * [Premios Fauna](getting-started-1/acquiring-honey/premios-fauna.md)
 * [Guía de Navegación Rápida](getting-started-1/quick-navigation-guide.md)
 
 ## Proyectos <a id="projects"></a>
