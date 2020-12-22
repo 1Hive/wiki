@@ -1,8 +1,8 @@
 ---
 description: >-
   1Hive and Honey are community driven. Community members are encouraged to
-  participate in the sense-making of the 1Hive DAO by submitting, discussing,
-  and staking on proposals.
+  participate in the sense-making of the 1Hive DAO by submitting, discussing and
+  staking on proposals.
 ---
 
 # Participation
