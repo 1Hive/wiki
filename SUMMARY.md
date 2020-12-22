@@ -2,7 +2,7 @@
 
 * [Welcome to 1Hive](README.md)
 * [Community Covenant](community-covenant.md)
-* [Terminology](quick-navigation-guide.md)
+* [Terminology Overview](quick-navigation-guide.md)
 
 ## Getting Started <a id="getting-started-1"></a>
 
