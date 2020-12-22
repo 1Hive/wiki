@@ -10,8 +10,8 @@
   * [Discord](getting-started-1/introduce-yourself/discord.md)
 * [How to Contribute](getting-started-1/how-can-you-contribute/README.md)
   * [Pollen](getting-started-1/how-can-you-contribute/pollen.md)
-  * [Calendar](getting-started-1/how-can-you-contribute/calendar.md)
   * [Fauna Awards](getting-started-1/how-can-you-contribute/fauna-awards.md)
+  * [Calendar](getting-started-1/how-can-you-contribute/calendar.md)
 
 ## Projects
 
