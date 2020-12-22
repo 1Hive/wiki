@@ -1,8 +1,8 @@
-# Welcome to 1Hive FOR NOOBS!
+# Welcome to 1Hive NEW!
 
 1Hive is an organisation that builds and experiments with transparent and inclusive organisational infrastructure. Part of the experiment, and to sustain development, involves building an economy around a currency called Honey, which is used to influence the direction of the community. Anyone can buy honey online or earn it through 1Hive and can use it to vote on funding proposals and protocol changes with a weight that is equal to the Honey they hold.
 
-1Hive has been distributing Honey to contributors for over a year. Up until recently it was worth 0 but then it was made available on an exchange at which point it gained a value. 1Hive has never done a crowdsale to raise funds to operate. However, since there was interest in our protocol, people bought the Honey token from the exchange which increased its value. Since the 1Hive protocol creates Honey, allowing Honey holders to control its distribution. This meant the organisation could sustain itself.
+1Hive has been distributing Honey to contributors for over a year. Up until recently it was worth 0 but then it was made available on an exchange at which point it gained a value. 1Hive has never done a crowdsale to raise funds to operate. However, since there was interest in our protocol, people bought the Honey token from the exchange which increased its value. Since the 1Hive protocol creates Honey, allowing Honey holders to control its distribution, this meant the organisation could sustain itself.
 
 ## Distribution
 
@@ -19,4 +19,8 @@ The next step for 1Hive is to generalise the infrastructure we build and experim
 We hope that this will encourage and give more opportunities to people to contribute to causes they care about. Since having a say in a Garden is as simple as buying its token, individuals can very easily donate and have a stake in a cause they believe is worth pursuing. They are then incentivised to further that cause in the hope of increasing its token's value. This is not too dissimilar to equity in traditional businesses but with significantly less overhead and significantly greater inclusivity.
 
 To begin with it is expected that Gardens will be created for software based projects and online communities, but ultimately it is hoped it could be used for any causes that belong in the public domain.
+
+## Getting Started
+
+1Hive is an open community, you do not need to ask permission to join or become a member. If you see something you think should be improved, you can make a proposal to get Honey and make it happen.
 
