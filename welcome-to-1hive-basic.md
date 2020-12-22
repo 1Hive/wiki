@@ -12,5 +12,5 @@ The vision of 1Hive is to generalise the infrastructure we build and experiment 
 
 We hope that this will encourage and give more opportunities to people to contribute to causes they care about. Since having a say in a Garden is as simple as buying its token, individuals can very easily donate and have a stake in a cause they believe is worth pursuing. They are then incentivised to further that cause in the hope of increasing its token's value. This is not too dissimilar to equity in traditional businesses but with significantly less overhead and significantly greater inclusivity.
 
-It is expected to begin with that Gardens will be created for software based projects and online communities but ultimately it is hoped it could be used for anything causes that belong in the public domain.
+To begin with it is expected that Gardens will be created for software based projects and online communities but ultimately it is hoped it could be used for any causes that belong in the public domain.
 
