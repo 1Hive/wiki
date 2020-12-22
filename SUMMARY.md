@@ -9,7 +9,7 @@
 * [Introduce Yourself](getting-started-1/introduce-yourself/README.md)
   * [Discord](getting-started-1/introduce-yourself/discord.md)
   * [Telegram](getting-started-1/introduce-yourself/telegram.md)
-* [Want to Contribute?](getting-started-1/how-can-you-contribute/README.md)
+* [How to Contribute](getting-started-1/how-can-you-contribute/README.md)
   * [Pollen](getting-started-1/how-can-you-contribute/pollen.md)
   * [Calendar](getting-started-1/how-can-you-contribute/calendar.md)
   * [Fauna Awards](getting-started-1/how-can-you-contribute/fauna-awards.md)

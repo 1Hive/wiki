@@ -1,4 +1,4 @@
-# Want to Contribute?
+# How to Contribute
 
 1Hive is an open community, if you would like to help with something, then get involved! We are at the vanguard of decentralized organizations, testing and exploring different alternatives for the future, and we would like you to be part of this adventure too.
 
