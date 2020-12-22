@@ -12,7 +12,12 @@ See the [xDai documentation](https://www.xdaichain.com/) for more details.
 
 See [this guide](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup) from the xDai documentation to connect your [MetaMask](https://metamask.io/) extension to the xDai chain.
 
-Note 1Hive has an alternative rpc url should the xDai rpc url fail to work: [https://xDai.1hive.com](https://xdai.1hive.com/) 
+**Alternative RPCs:**
+
+* [https://dai.poa.network/](https://dai.poa.network/) 
+* [https://xdai.poanetwork.dev/](https://xdai.poanetwork.dev/)  
+* [https://xdai.1hive.org/](https://xdai.1hive.org/) 
+* [https://rpc.xdaichain.com/](https://rpc.xdaichain.com/)
 
 ## xDai Faucet
 

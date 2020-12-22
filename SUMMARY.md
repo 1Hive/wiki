@@ -55,5 +55,6 @@
 * [xDai](guides/xdai.md)
 * [BrightID](guides/brightid.md)
 * [Wiki Contribution](guides/wiki-contribution.md)
+* [Troubleshooting](guides/troubleshooting.md)
 * [FAQ](guides/faq.md)
 
