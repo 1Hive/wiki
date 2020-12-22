@@ -1,4 +1,4 @@
-# Terminology Overview
+# Terminology
 
 There are various **Projects** and [**Swarms**](community/swarms/), with goals that range from communicating to developing new protocols and platforms for 1Hive.
 
