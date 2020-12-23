@@ -6,7 +6,9 @@
 
 ## Distribution
 
-The current distribution of Honey is still fairly concentrated amongst the original contributors. As time progresses it is expected that Honey distribution will become more evenly spread out given its high availability. Further to this 1Hive is building a service called Celeste which will be used to prevent large Honey holders from forcing through bad decisions that aren't in line with 1Hive's established goals. 1Hive also strive's to minimise any decisions that require Honey holders to vote. We do this by integrating as many configuration updates as possible into the 1Hive protocol, which will update automatically in response to various events.
+The current distribution of Honey is still fairly concentrated amongst the original contributors. As time progresses it is expected that Honey distribution will become more evenly spread out given its high availability and due its use as payment for 1Hive related work.
+
+Further to this 1Hive is building a service called Celeste which will be used to prevent large Honey holders from forcing through bad decisions that aren't in line with 1Hive's established goals. 1Hive also strive's to minimise any decisions that require Honey holders to vote. We do this by integrating as many configuration updates as possible into the 1Hive protocol, which will update automatically in response to various events.
 
 ## Celeste
 
