@@ -6,7 +6,7 @@
 
 By optimizing how we issue and distribute Honey we hope to create a future that is more free, fair, open, and humane. ‌
 
-## People and Power Dynamics
+## Power Dynamics
 
 As an open community, anyone can join and participate in 1Hive. The barriers to entry are extremely low, simply show up and start to contribute. We already have several programs which reward contribution with Honey including the [Honey Faucet](https://faucet.1hive.org) and [Pollen](../getting-started-1/how-can-you-contribute/pollen.md) that don’t require any upfront capital, and we have fostered a culture that encourages community mentorship, inclusion, and taking initiative.
 
