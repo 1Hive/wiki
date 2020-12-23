@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Bienvenido a 1Hive](README.md)
+* [Bienvenido a 1Hive ¡NUEVO!](bienvenido-a-1hive-nuevo.md)
 * [Pacto Comunitario](community-covenant.md)
 
 ## Empezando <a id="getting-started-1"></a>
