@@ -4,7 +4,7 @@ There are various **Projects** and [**Swarms**](community/swarms/), with goals t
 
 ## Projects
 
-[🍯**Honey**](projects/honey/) - A DAO that issues and distributes 1Hive's community currency, Honey. Honey holders can create and stake on proposals using the open source frontend hosted at [1hive.org](https://1hive.org).
+[🍯**Honey**](projects/honey/) - A protocol that issues and distributes 1Hive's community currency, Honey. Honey holders can create and stake on proposals using the open source frontend hosted at [1hive.org](https://1hive.org).
 
 [🍃**Honeyswap**](projects/honeyswap/) - A fork of Uniswap v2 on xDai enabling Swaps, Flash Loans, and Oracles for the xDai community. A portion of fees from volume on Honeyswap is used to buy Honey and send it to the 1Hive common pool. 
 
