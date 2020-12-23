@@ -20,7 +20,7 @@ Esperamos que esto anime y brinde más oportunidades a las personas para contrib
 
 Para empezar, se espera que Gardens se cree para proyectos basados ​​en software y comunidades en línea, pero en última instancia se espera que se pueda usar para cualquier causa que pertenezca al dominio público.
 
-## Getting Started
+## Empezando <a id="getting-started"></a>
 
 1hive es una comunidad abierta, no necesitas pedir permiso para unirte o convertirte en miembro. Si ves algo que crees que debería mejorarse, puedes hacer una propuesta para conseguir miel \(HNY\) y hacerlo realidad. 
 
