@@ -6,9 +6,9 @@ description: Honey is a community currency issued and distributed by the 1Hive c
 
 Honey is at the heart of everything we do, by optimizing how we issue and distribute honey we can grow the 1hive economy, reward contributors, and expand our community. 
 
-The issuance and distribution of Honey is regulated by the smart contracts that constitute the 1Hive DAO. You can create, monitor, and stake Honey on proposals using the frontend located at [1hive.org](https://1hive.org/#/).
+The issuance and distribution of Honey is regulated by the smart contracts. You can create, monitor, and stake Honey on proposals using the frontend located at [1hive.org](https://1hive.org/#/).
 
-You can also access the 1Hive DAO through the Aragon Client interface at [aragon.1hive.org](https://aragon.1hive.org/#/0xe9869a0bbc8fb8c61b7d81c33fa2ba84871b3b0e) 
+You can interact with these contracts through the Aragon Client interface at [aragon.1hive.org](https://aragon.1hive.org/#/0xe9869a0bbc8fb8c61b7d81c33fa2ba84871b3b0e) or run either interface locally yourself. 
 
 ## Economic Overview
 
