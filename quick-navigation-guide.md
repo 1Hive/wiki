@@ -10,9 +10,9 @@ There are various **Projects** and [**Swarms**](community/swarms/), with goals t
 
 [🌞**Celeste**](projects/celeste/) - A subjective oracle protocol that incorporates BrightId to make participation less capital intensive. It will be used, among other things, to enforce the [1Hive Community Covenant](community-covenant.md).
 
-[🌻**Gardens**](projects/gardens.md) - A platform where communities can issue their own currencies and existing token projects can engage their community by sponsoring community directed development efforts. 
-
 ## Swarms
+
+[🌻**Gardens**](community/swarms/gardens.md) - A swarm that manages the development of the Gardens Template. A platform where communities can issue their own currencies and existing token projects can engage their community by sponsoring community directed development efforts. 
 
 🌷**Tulip** - A swarm working on trading and DeFi infrastructure including Honeyswap, a fork of uniswap v2 that will incentivize liquidity provision using Honey. And other “Bee-Fi” related projects.
 
