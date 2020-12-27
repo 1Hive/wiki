@@ -14,10 +14,10 @@ Discord es una de las herramientas principales que usamos para comunicarnos. En 
 
 La mayoría de los canales se centran en la discusión sobre un tema en particular, que puede ser observado en la descripción del canal en la parte superior de la pantalla de Discord. Sin embargo, algunos canales se utilizan para fines distintos:
 
-* **🐛onboarding** es para optar a [Pollen](../acquiring-honey/pollen.md), revisa el mensaje anclado y sigue las instrucciones.
+* **🐛onboarding** es para optar a [Pollen](../how-can-you-contribute/pollen.md), revisa el mensaje anclado y sigue las instrucciones.
 * **🤖bot-commands** es para convocar a los bots de Discord para recibir información, registrar tu cuenta con BrightID o configurar una cuenta de propinas. Ve los [detalles abajo](discord.md#bot-commands) para comandos que se pueden usar en el canal. 
 * **✅check-in** Es para actualizaciones diarias/multi-diarias/semanales de los contribuyentes de 1Hive.
-* **🍄nominations** es donde puedes reconocer el trabajo de otros, particularmente aquellos que sientes que no están siendo reconocidos adecuadamente en otros lugares. El polen se pondera de manera diferente en este canal; consulta el final de la sección [Pesos del pollen](../acquiring-honey/pollen.md) para obtener más detalles.
+* **🍄nominations** es donde puedes reconocer el trabajo de otros, particularmente aquellos que sientes que no están siendo reconocidos adecuadamente en otros lugares. El polen se pondera de manera diferente en este canal; consulta el final de la sección [Pesos del pollen](../how-can-you-contribute/pollen.md) para obtener más detalles.
 * 🍯**keepers** es para aquellos con el rol 🍯**Honey** que solo puede ser asignado si tienes 1 Honey.
 
 ## Roles y Swarms
