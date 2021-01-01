@@ -6,8 +6,6 @@ Pollen is a contributor rank used to recognize contributions to 1Hive’s [Disco
 
 You have to be [**Verified** ](../introduce-yourself/discord.md#tips)on 1Hive's Discord in order to receive weekly Pollen distributions. Then, as soon as you start interacting on 1Hive’s Discord, Discourse, and Github communities you’ll start earning Pollen, which gets added to your registered wallet as sweet sweet Honey.
 
-Pollen is computed using **SourceCred** to create and analyze a graph of interactions between community members. While not a perfect representation of the value of contributions, Pollen can help reward the interactions that are important but too granular to warrant creating proposals for or claiming from a Swarm.
-
 In order to receive weekly pollen distributions you’ll need to register your accounts on supported platforms and link them to your xDai address. You can do this by posting the below in 1hive Discord’s `#🐛onboarding` channel:
 
 ```text
@@ -24,7 +22,9 @@ If you have questions, are interested in how pollen is calculated, or auditing t
 
 ## Pollen Distribution
 
-Pollen uses SourceCred to maintain a score for individuals dependent on the contributions they have made to Discord, Discourse, and GitHub. SourceCred monitors all messages and contributions and applies a multiplier to a base score of 1 cred per action. One of the primary ways of earning cred is when text you write or actions you create are responded too positively by other members through the use of emojis. Writing messages do not earn cred. The weights for Cred distribution are decided by 1Hive community.
+Pollen is computed using **SourceCred** to create and analyze a graph of interactions between community members. While not a perfect representation of the value of contributions, Pollen can help reward the interactions that are important but too granular to warrant creating proposals for or claiming from a Swarm.
+
+SourceCred monitors all messages and contributions to Discord, Discourse and GitHub and applies a multiplier to a base score of 1 cred per action. One of the primary ways of earning cred is when text you write or actions you create are responded too positively by other members through the use of emojis. Writing messages do not earn cred. The weights for Cred distribution are decided by 1Hive community.
 
 Cred earned within 1Hive is only useful within 1Hive. It isn't transferable and scoring is retroactive so if you sign up to pollen after having earned some, you will still receive cred for that period \(although you will only receive a honey reward for the period after registering\).
 
@@ -33,6 +33,26 @@ The [Pollen Explorer](https://1hive.github.io/pollen/#/explorer) has a leaderboa
 The weights that determine the Pollen earned for each action can be seen in the [pollen explorer](https://1hive.github.io/pollen/#/explorer%20) by clicking on "SHOW WEIGHT CONFIGURATION".
 
 ![](../../.gitbook/assets/image%20%288%29.png)
+
+### Total Distribution
+
+The weekly Honey distribution is capped at $15,000 or 33 Honey if 33 Honey is worth less than $15,000. 5% of the weekly distribution goes directly to the SourceCred team.
+
+![Figure 1. Weekly distribution in Honey based on USD value](../../.gitbook/assets/image%20%2814%29.png)
+
+### Distribution Rate
+
+Weekly payout is determined by a contributor's recent contribution's as well as their total contribution. 
+
+* **Weekly contribution** is the amount distributed for Pollen earned by users in the last week.
+* **Total contribution** is the amount distributed for all Pollen earned by users up to the distribution date.
+* **Decay Rate** is the rate at which the total contribution calculation decays for each previous week. Eg for a decay rate of 40%, the previous week is weighted at 100%, the second previous week is weighted at 60%, the third previous week is weighted at 36%, etc.
+
+| Distribution Parameter | Allocation & Rate |
+| :--- | :--- |
+| Weekly Contribution | 25 HNY |
+| Total Contribution | 8 HNY |
+| Decay Rate | 40% |
 
 ### Platform Distribution
 
@@ -80,12 +100,6 @@ On the Discourse forum the total cred a user can mint is dependent on the trust 
 | 2 | Mint 1x |
 | 1 | Mint 0.1x |
 | 0 | Mint 0x |
-
-### Additional Weights
-
-[**Grain.json** ](https://github.com/1Hive/pollen/blob/master/config/grain.json)- Payout based on total cred, recent week, and a catch up for any retro active payments that were missed.
-
-\*\*\*\*[**Dependencies.json**](https://github.com/1Hive/pollen/blob/master/config/dependencies.json) - Monthly payout balancer.
 
 ## Rules
 
