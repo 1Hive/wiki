@@ -10,8 +10,6 @@ Liquidity providers are profitable when collected fees &gt; impermanent loss
 
 The ROI for providing liquidity is highest when the ratio of liquidity to volume is high, and the pair of assets are highly correlated. 
 
-
-
 ### Impermanent Loss
 
 Impermanent loss is a temporary loss of funds occurring when providing liquidity. It’s very often explained as a difference between holding an asset versus providing liquidity in that asset. Impermanent loss is usually observed in standard liquidity pools where the liquidity provider has to provide both assets in a correct ratio, and one of the assets is volatile in relation to the other.
