@@ -2,11 +2,21 @@
 
 ## Liquidity Provider ROI
 
-Liquidity Providers are rewarded with swap fees for maintaining a constant 50:50 split between two assets. If one asset appreciates with respect to the other, holding this position represents an opportunity cost often referred to as impermanent loss. 
+Liquidity providers are rewarded 0.25% and every swap is proportionally distributed to the liquidity providers of that pool
 
-Swap fees are split among all liquidity providers in a pool proportionally to their share of liquidity in the pool, and the amount of fees captured is a function of the trading volume on the pair. 
+Liquidity providers experience[ impermanent loss ](for-liquidity-providers.md#impermanent-loss)when providing liquidity. Any temporary loss becomes permanent when liquidity is removed from the pool.
+
+Liquidity providers are profitable when collected fees &gt; impermanent loss
 
 The ROI for providing liquidity is highest when the ratio of liquidity to volume is high, and the pair of assets are highly correlated. 
+
+
+
+### Impermanent Loss
+
+Impermanent loss is a temporary loss of funds occurring when providing liquidity. It’s very often explained as a difference between holding an asset versus providing liquidity in that asset. Impermanent loss is usually observed in standard liquidity pools where the liquidity provider has to provide both assets in a correct ratio, and one of the assets is volatile in relation to the other.
+
+In the example of an wETH/xDAI 50/50 pair if wETH goes up in value, the pool has to rely on arbitrageurs continually ensuring that the pool price reflects the real-world price to maintain the same value of both tokens in the pool. This basically leads to a situation where profit from the token that appreciated in value is taken away from the liquidity provider. At this point, if the LP decides to withdraw their liquidity, the impermanent loss becomes permanent.
 
 
 
