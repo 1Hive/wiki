@@ -51,5 +51,5 @@ Each of the above members have equal voting weight within the Buzz DAO to manage
 ## Funding Proposals
 
 One funding proposal was made which was accepted by the community:  
-[https://forum.1hive.org/t/proposal-buzz-dao/1645/13](https://forum.1hive.org/t/proposal-buzz-dao/1645/13).
+[https://forum.1hive.org/t/proposal-buzz-dao/1645/](https://forum.1hive.org/t/proposal-buzz-dao/1645).
 
