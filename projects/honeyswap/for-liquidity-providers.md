@@ -6,7 +6,7 @@ Liquidity providers are rewarded 0.25% and every swap is proportionally distribu
 
 Liquidity providers experience[ impermanent loss ](for-liquidity-providers.md#impermanent-loss)when providing liquidity. Any temporary loss becomes permanent when liquidity is removed from the pool.
 
-Liquidity providers are profitable when collected fees &gt; impermanent loss
+Liquidity providers are profitable when collected fees &gt; impermanent loss.
 
 The ROI for providing liquidity is highest when the ratio of liquidity to volume is high, and the pair of assets are highly correlated. 
 
