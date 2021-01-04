@@ -1,4 +1,4 @@
-# Welcome to 1Hive NEW!
+# Welcome to 1Hive \(Alt\)
 
 1Hive is an organisation that builds and experiments with transparent and inclusive organisational infrastructure. Part of the experiment, and to sustain development, involves building an economy around a currency called Honey, which is used to influence the direction of the community. Anyone can buy honey online or earn it through 1Hive and can use it to vote on funding proposals and protocol changes with a weight that is equal to the Honey they hold.
 
