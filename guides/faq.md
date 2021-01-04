@@ -12,13 +12,6 @@ In the case of the 1Hive DAO, a community currency called Honey is used to creat
 **Does 1Hive have a roadmap?**  
 We have rough [milestones](../community/1hive-updates.md) updated by individual swarms.
 
-## xDai
-
-**Are transaction fees really less than $0.01 \($1 = 1 xDai\)?**   
-Yes, setting Gas Price = 1 should be enough to confirm all transactions.
-
-![](../.gitbook/assets/image%20%289%29.png)
-
 ## Tokenomics
 
 **What is the Honey \(HNY\) token address?**  
@@ -47,4 +40,11 @@ The common pool holds the Honey the DAO has available to use and can only be wit
 
 **What is Honey's Issuance Policy?**  
 30% at this time, see [issuance page](../projects/honey/issuance.md) for more details.
+
+## xDai
+
+**Are transaction fees really less than $0.01 \($1 = 1 xDai\)?**   
+Yes, setting Gas Price = 1 should be enough to confirm all transactions.
+
+![](../.gitbook/assets/image%20%289%29.png)
 
