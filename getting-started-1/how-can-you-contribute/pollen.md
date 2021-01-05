@@ -1,10 +1,14 @@
+---
+description: Earn Honey for contributions
+---
+
 # Pollen
 
 Pollen is a contributor rank used to recognize contributions to 1Hive’s [Discord](https://discord.com/invite/P4rRDUKTAU), [Discourse](https://forum.1hive.org/), and [Github](https://github.com/1Hive) communities, and reward these contributions with weekly distributions of Honey.
 
 ## How do I participate
 
-You have to be [**Verified** ](../introduce-yourself/discord.md#tips)on 1Hive's Discord in order to receive weekly Pollen distributions. Then, as soon as you start interacting on 1Hive’s Discord, Discourse, and Github communities you’ll start earning Pollen, which gets added to your registered wallet as sweet sweet Honey.
+You have to be [**Verified** ](../discord.md#tips)on 1Hive's Discord in order to receive weekly Pollen distributions. Then, as soon as you start interacting on 1Hive’s Discord, Discourse, and Github communities you’ll start earning Pollen, which gets added to your registered wallet as sweet sweet Honey.
 
 In order to receive weekly pollen distributions you’ll need to register your accounts on supported platforms and link them to your xDai address. You can do this by posting the below in 1hive Discord’s `#🐛onboarding` channel:
 
@@ -66,7 +70,7 @@ A breakdown of each platforms relative distribution of Pollen each week.
 
 ### Discord Pollen Weights
 
-On Discord, in order to mint cred for other users through emoji responses, users giving the response must be [Verified](../introduce-yourself/discord.md#tips). Minting to self is disabled and the system also weights the minting amount to others depending on how much cred the minter has earned.
+On Discord, in order to mint cred for other users through emoji responses, users giving the response must be [Verified](../discord.md#tips). Minting to self is disabled and the system also weights the minting amount to others depending on how much cred the minter has earned.
 
 | Total Cred | Mint Weight |
 | :--- | :--- |
