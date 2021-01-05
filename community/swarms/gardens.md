@@ -10,7 +10,9 @@ Gardens are a social, financial, and technical foundation for online communities
 
 ## Useful Links 
 
- [Aragon DAO](https://aragon.1hive.org/#/gardensswarm/) holding Gardens funds.
+[Aragon DAO](https://aragon.1hive.org/#/gardensswarm/) holding Gardens funds.
+
+[Excel sheet](https://docs.google.com/spreadsheets/d/1oRDecU-weSTOLv061N5O7VAJcDfU5XGqmu21ntTXOos/edit#gid=1361585578%20) showing hours spent and payments made.
 
 ## Roles and Responsibilities
 
