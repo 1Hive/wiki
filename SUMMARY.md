@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome to 1Hive](README.md)
-* [Welcome to 1Hive \(Alt\)](welcome-to-1hive-basic.md)
+* [Welcome to 1Hive \(Put in FAQ?\)](welcome-to-1hive-basic.md)
 * [Community Covenant](community-covenant.md)
 * [Terminology Overview](quick-navigation-guide.md)
 
