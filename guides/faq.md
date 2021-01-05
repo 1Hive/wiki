@@ -10,7 +10,7 @@ While centralized administration is a powerful and flexible means to scale human
 In the case of the 1Hive DAO, a community currency called Honey is used to create a circular economy where public goods and investments that grow the 1Hive economy can be collectively funded with [**conviction voting**](../projects/honey/).
 
 **Does 1Hive have a roadmap?**  
-We have rough [milestones](../community/1hive-updates.md) updated by individual swarms.
+We have rough [milestones](../1hive-updates.md) updated by individual swarms.
 
 ## Tokenomics
 

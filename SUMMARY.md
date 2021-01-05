@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Welcome to 1Hive](README.md)
-* [Welcome to 1Hive \(Put bits in FAQ?\)](welcome-to-1hive-basic.md)
 * [Community Covenant](community-covenant.md)
 * [Terminology Overview](quick-navigation-guide.md)
+* [Milestones](1hive-updates.md)
 
 ## Getting Started <a id="getting-started-1"></a>
 
@@ -48,7 +48,6 @@
   * [Brand Guidelines](community/design/brand-guidelines.md)
 * [Security](community/security/README.md)
   * [Bug Bounty](community/security/bug-bounty.md)
-* [Milestones](community/1hive-updates.md)
 
 ## Guides
 

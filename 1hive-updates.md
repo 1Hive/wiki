@@ -14,25 +14,25 @@ These milestones are rough estimates specified and updated by the relevant Swarm
 
 🎯 **Target Date:** Q1 2021
 
-For more information see [Celeste](../projects/celeste/)\*\*\*\*
+For more information see [Celeste](projects/celeste/)\*\*\*\*
 
 ### **Change to Issuance Policy**
 
 🎯 **Target Date:** Q1 2021
 
-Issuance \(new Honey creation\) was initially set to 60% per year. It was reduced in November of 2020 to 30%. We are now developing a dynamic issuance policy, details can be seen in [Issuance Planned Improvements](../projects/honey/honey-improvements.md#dynamic-issuance-policy).
+Issuance \(new Honey creation\) was initially set to 60% per year. It was reduced in November of 2020 to 30%. We are now developing a dynamic issuance policy, details can be seen in [Issuance Planned Improvements](projects/honey/honey-improvements.md#dynamic-issuance-policy).
 
 ### **Honeyswap Landing Page**
 
 🎯 **Target Date:** Q1 2021
 
-A user friendly landing page for [Honeyswap](../projects/honeyswap/) including links to guides and useful information.
+A user friendly landing page for [Honeyswap](projects/honeyswap/) including links to guides and useful information.
 
 ### 1Hive Gardens
 
 🎯 **Target Date:** Q2-Q3 2021
 
-For more information see [Gardens](../projects/gardens.md).
+For more information see [Gardens](projects/gardens.md).
 
 ### **Honeyswap Limit Orders**
 
@@ -57,4 +57,10 @@ This will enable 1Hive to bridge HNY back to the Ethereum mainnet. Currently it 
 ### xDai General Roadmap
 
 1Hive is currently running on the xDai network. Any developments that happen on xDai could have an effect on the 1Hive ecosystem. See [the xDai roadmap](https://www.xdaichain.com/about-xdai/roadmap).
+
+## Weekly Recap
+
+See the forum posts below for the most recent updates from various swarms.
+
+[1Hive Weekly Recap \(28 Dec - 4 Jan\)](https://forum.1hive.org/t/1hive-weekly-recap-cw-52-28-dec-4-jan/1765) 
 
