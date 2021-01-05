@@ -20,11 +20,5 @@ Since decisions are used infrequently and only to make technical changes to the 
 
 Once a vote is created it will show up in the frontend as a _decision._ Voting on each decision is open for 2 weeks. In order to pass there must be an **approval quorum** of atleast 10 percent of the total supply voting in favor, and over 50% of voters in support. If a vote is approved, there is a 48 hour delay before the vote can be enacted, allowing people to react to the outcome and make decisions before the effects of the vote are realized. 
 
-Additionally, the entire balance of Honey for accounts which vote in support of a decision are locked as soon as they vote yes, preventing all transfers from their address until after the vote has concluded. This restriction helps to ensure that people that vote in favor of a decision have a strong belief that approving the decision is both necessary and beneficial to the community because they will be locked in and exposed  to any changes in value associated with a controversial decision being forced through, while people who vote against are free to exit by selling their Honey. 
-
-
-
-
-
-
+Additionally, the entire balance of Honey for accounts which vote in support of a decision are locked as soon as they vote yes, preventing all transfers from their address until after the vote has concluded. This restriction helps to ensure that people that vote in favor of a decision have a strong belief that approving the decision is both necessary and beneficial to the community because they will be locked in and exposed  to any changes in value associated with a controversial decision being forced through, while people who vote against are free to exit by selling their Honey.
 

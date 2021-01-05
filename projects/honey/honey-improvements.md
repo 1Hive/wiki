@@ -19,7 +19,5 @@ The [Luna Swarm](../../community/swarms/luna.md) is working on modeling and spec
 
 Suggestions, Proposals, and Decisions will be made _disputable_, this will mean that proposers will be required to deposit Honey as collateral and other members can challenge them if they do not adhere to the [Community Covenant](../../community-covenant.md) by invoking [Celeste](../../community/swarms/celeste.md). 
 
-The integration work is underway and is plan to happen at the same time as the launch of Celeste. 
-
-
+The integration work is underway and is plan to happen at the same time as the launch of Celeste.
 
