@@ -14,7 +14,7 @@ The 🦋Morphosis Swarm provides education and courses for 1hive members to lear
 
 [Excel sheet](https://docs.google.com/spreadsheets/d/1c8xdLYi8SkElAyGNANBTd3Qe6wTxDTBTgaw1uIAqb1o/edit?usp=sharing) showing hours spent and payments made.
 
-[Morphosis meeting calendar.](https://calendar.google.com/calendar/u/0/embed?src=qmoau5kjdknsu1kmk23as8vrl0@group.calendar.google.com)
+[Morphosis meeting calendar.](https://calendar.google.com/calendar/u/0/embed?src=c_k77c78d1kdt9e1vpk2cvjcc7jg@group.calendar.google.com&ctz)
 
 ## Roles and Responsibilities
 
