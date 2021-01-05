@@ -4,11 +4,11 @@ description: Upcoming milestones
 
 # Milestones
 
+## 1Hive Milestones
+
 {% hint style="warning" %}
 These milestones are rough estimates specified and updated by the relevant Swarm. It is kept up-to-date at the best of the ability of each Swarm responsible. For a more accurate status of each project it is best to check out the public discussion on [Discord](https://discord.com/invite/P4rRDUKTAU), [Discourse](https://forum.1hive.org/), [Telegram](https://t.me/honeyswapDEX) and other social channels.
 {% endhint %}
-
-## 1Hive Milestones
 
 ### **Celeste**
 
