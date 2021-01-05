@@ -1,5 +1,5 @@
 ---
-description: Completed and estimated milestones
+description: Upcoming milestones
 ---
 
 # Milestones
