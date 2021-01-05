@@ -38,7 +38,7 @@ We use the golden ratio for the proportions of the logo and in the development o
 ![](../../.gitbook/assets/group.png)
 
 {% hint style="info" %}
-Circles, rectangles and different forms we use are **multiplied or divided by 1,618** to respect the proportions of the golden ratio.
+The size of circles, rectangles and different forms we use are **multiplied or divided by 1,618** to respect the proportions of the golden ratio.
 {% endhint %}
 
 ## Color Palette
