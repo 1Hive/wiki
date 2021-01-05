@@ -2,11 +2,11 @@
 
 * [Welcome to 1Hive](README.md)
 * [Community Covenant](community-covenant.md)
-* [Terminology Overview](quick-navigation-guide.md)
 * [Milestones](1hive-updates.md)
 
 ## Getting Started <a id="getting-started-1"></a>
 
+* [Terminology](getting-started-1/quick-navigation-guide.md)
 * [Discord](getting-started-1/discord.md)
 * [Calendar](getting-started-1/calendar.md)
 * [Contributing](getting-started-1/how-can-you-contribute/README.md)

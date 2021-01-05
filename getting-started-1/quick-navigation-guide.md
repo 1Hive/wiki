@@ -1,10 +1,10 @@
-# Navigation
+# Terminology
 
 There are various **Projects** and [**Swarms**](../community/swarms/), with goals that range from communicating to developing new protocols and platforms for 1Hive.
 
 ## Projects
 
-[🍯**Honey**](../projects/honey/) - A DAO that issues and distributes 1Hive's community currency, Honey. Honey holders can create and stake on proposals using the open source frontend hosted at [1hive.org](https://1hive.org).
+[🍯**Honey**](../projects/honey/) - A protocol that issues and distributes 1Hive's community currency, Honey. Honey holders can create and stake on proposals using the open source frontend hosted at [1hive.org](https://1hive.org).
 
 [🍃**Honeyswap**](../projects/honeyswap/) - A fork of Uniswap v2 on xDai enabling Swaps, Flash Loans, and Oracles for the xDai community. A portion of fees from volume on Honeyswap is used to buy Honey and send it to the 1Hive common pool. 
 
@@ -27,6 +27,8 @@ There are various **Projects** and [**Swarms**](../community/swarms/), with goal
 [🦋**Morphosis**](../community/swarms/morphosis.md) ****- A swarm creating educational content and running online courses in various subjects including analytics and development. Morphosis hopes to enable and encourage more contribution to the 1Hive ecosystem.
 
 [🌜**Luna**](../community/swarms/luna.md) ****- A swarm that is focused on modeling and simulation of economic principles to help inform concepts and configuration for various applications within the 1Hive ecosystem.
+
+🌍**Terra** - A swarm dedicated to translating 1hive projects, documentation and resources.
 
 [🐛**Bug Bounty**](../community/swarms/bug-bounty.md) ****- A swarm that manages funds available for the 1Hive Contract Bug Bounty program. It is responsible for interpreting and responding to uncovered exploits.
 
