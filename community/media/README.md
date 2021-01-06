@@ -14,5 +14,3 @@ A Buzz DAO has recently been created. Since decentralization is the cornerstone 
 
 Blog: [https://about.1hive.org/blog/](https://about.1hive.org/blog/)
 
-
-

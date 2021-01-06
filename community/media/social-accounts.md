@@ -23,5 +23,3 @@ description: Managed by trusted community members.
 | Youtube | [1hive](https://www.youtube.com/channel/UCg0yASRY6TmXDryitYvsJOQ) | [lkngtn](https://forum.1hive.org/u/lkngtn), [chuygarcia92](https://forum.1hive.org/u/chuygarcia92/summary), [davidphoenix2020](https://forum.1hive.org/u/davidphoenix2020/summary) |
 | Kuaishou | @honeyswap | [brandonz](https://forum.1hive.org/u/brandonz/summary) |
 
-
-
