@@ -20,7 +20,7 @@ Para más información [Celeste](projects/celeste.md)\*\*\*\*
 
 🎯 **Fecha Objecivo:** Q1 2021
 
-La emisión \(nueva creación de Honey\) se fijó inicialmente en un 60% anual. Se redujo en noviembre de 2020 al 30%. Ahora se está desarrollando una política de emisión dinámica, los detalles se pueden ver en Issuance [Issuance Planned Improvements]().
+La emisión \(nueva creación de Honey\) se fijó inicialmente en un 60% anual. Se redujo en noviembre de 2020 al 30%. Ahora se está desarrollando una política de emisión dinámica, los detalles se pueden ver en [Issuance](projects/honey/mejoras-planificadas.md#politica-de-emision-dinamica).
 
 ### **Honeyswap Landing Page**
 
