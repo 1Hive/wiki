@@ -6,12 +6,12 @@
 
 ## Empezando <a id="getting-started-1"></a>
 
-* [Presentate](getting-started-1/introduce-yourself/README.md)
-  * [Discord](getting-started-1/introduce-yourself/discord.md)
+* [Discord](getting-started-1/discord.md)
+* [Presentate](getting-started-1/introduce-yourself.md)
+* [Calendario](getting-started-1/calendario.md)
 * [Como Contribuir](getting-started-1/how-can-you-contribute/README.md)
   * [Pollen](getting-started-1/how-can-you-contribute/pollen.md)
   * [Premios Fauna](getting-started-1/how-can-you-contribute/premios-fauna.md)
-  * [Calendario](getting-started-1/how-can-you-contribute/calendario.md)
 
 ## Proyectos <a id="projects"></a>
 
