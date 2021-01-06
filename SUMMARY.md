@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to 1Hive](README.md)
+* [1Hive'a Hoşgeldiniz](README.md)
 * [Community Covenant](community-covenant.md)
 * [Milestones](1hive-updates.md)
 
