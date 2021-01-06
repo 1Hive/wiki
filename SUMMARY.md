@@ -38,7 +38,7 @@
   * [🌻 Gardens](community/swarms/gardens.md)
   * [🐛 Bug Bounty](community/swarms/bug-bounty.md)
 * [Media](community/media/README.md)
-  * [Calendar](community/media/calendar.md)
+  * [Redes Sociales](community/media/redes-sociales.md)
 * [Diseño](community/diseno.md)
 * [Seguridad](community/security.md)
 
