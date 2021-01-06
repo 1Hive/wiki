@@ -16,5 +16,3 @@ However, we did have an audit for Dandelion. ConsenSys Diligence conducted a sec
 
 {% embed url="https://consensys.net/diligence/audits/2019/12/dandelion-organizations/" %}
 
-
-
