@@ -39,8 +39,7 @@
   * [🐛 Bug Bounty](community/swarms/bug-bounty.md)
 * [Media](community/media/README.md)
   * [Calendar](community/media/calendar.md)
-  * [Discord](community/media/discord.md)
-  * [Brand Guidelines](community/media/brand-guidelines.md)
+* [Diseño](community/diseno.md)
 * [Seguridad](community/security.md)
 
 ## Guides
