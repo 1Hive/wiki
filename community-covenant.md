@@ -1,60 +1,60 @@
 ---
-description: The rules by which we agree to engage in the 1Hive community.
+description: 1Hive topluluğuna katılırken kabul ettiğimiz kurallar.
 ---
 
-# Community Covenant
+# Topluluk Sözleşmesi
 
 {% hint style="info" %}
-The 1Hive Community Covenant is currently [open for review](https://forum.1hive.org/t/drafting-the-1hive-community-covenant-for-celeste/1548).
+1Hive Topluluk Sözleşmesi şu anda [incelemeye ve önerilere açıktır](https://forum.1hive.org/t/drafting-the-1hive-community-covenant-for-celeste/1548). 
 {% endhint %}
 
-1Hive is a community of activists seeking to build a future that is more free, fair, open, and humane.
+1Hive, daha özgür, adil, açık ve insancıl bir gelecek inşa etmeyi hedefleyen aktivistlerden oluşan bir topluluktur.
 
-1Hive is also an economic protocol, similar to Bitcoin or Ethereum, where a digital currency, Honey, is issued and distributed programmatically. Unlike Bitcoin or Ethereum, the 1Hive protocol does not narrowly define the set of activities that are valuable but instead relies on community members to guide the distribution process by creating and staking on Honey distribution proposals.
+1Hive aynı zamanda, Bitcoin ve Ethereum gibi dijital bir para birimi olan Honey'nin ihraç edilip programlı olarak dağıtımının yapıldığı ekonomik bir protokoldür. Bitcoin ve Ethereum'un aksine, 1Hive protokolü değerli eylemleri dar bir şekilde tanımlamamakta, onun yerine topluluk üyelerinin Honey dağıtım teklifleri oluşturup bunlara oy vermesi yoluyla dağıtım sürecini yönlendirmesine olanak sağlamaktadır.
 
-The goal of the 1Hive protocol is to foster a healthy community economy by allocating a steady stream of Honey towards development, maintenance, and improvement of the common goods that bring the most value to the 1Hive community.
+1Hive protokolünün amacı; 1Hive topluluğuna en çok değer katan ortak ürünlerin geliştirilmesi, bakımı ve iyileştirilmesine yönelik düzenli bir Honey akışı oluşturarak sağlıklı bir topluluk ekonomisi oluşturmaktır. 
 
-The growth of the 1Hive economy is directly related to the communities ability to foster an inclusive and welcoming culture that people feel proud and delighted to adopt as their own. When someone chooses to buy or hold Honey and participate in the Honey economy they are implicitly supporting the communities culture, values, and norms.
+1Hive ekonomisinin büyümesi toplulukların, insanların kendilerininmiş gibi benimsemekten gurur duyacağı ve memnun olacağı, kapsayıcı ve samimi bir şekilde katılımcılığı destekleyen bir kültür oluşturma becerisiyle doğrudan ilişkildir. Birisi Honey satın almayı veya elinde tutmayı ve Honey ekonomisine katılmayı tercih ettiğinde, aynı zamanda toplulukların kültürünü, değerlerini ve normlarını da desteklemiş olmaktadır.
 
-To this end, the 1Hive protocol depends on a social contract, which sets expectations for how members should engage both with the protocol and with one another.
+Bu açıdan, 1Hive protokolü üyelerin hem protokolle hem de birbiriyle nasıl etkileşimde bulunması gerektiğine yönelik beklentileri belirleyen bir toplumsal sözleşmeye bağlıdır.
 
-## The Pledge
+## Yemin
 
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+Üyeler, katkıda bulunanlar ve liderler olarak topluluğumuza katılımın; yaş, beden, görülür ve görülmez engellilik, etnisite, cinsiyet özellikleri, cinsel kimlik ve ifade, deneyim ve eğitim düzeyi, sosyo-ekonomik statü, milliyet, kişisel görünüş, ırk, din veya cinsel yönelimine bakılmaksızın herkes için tacizsiz bir deneyim oluşturacağına yemin ederiz.
 
-We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+Açık, misafirperver, farklılıklara açık, kapsayıcı ve sağlıklı bir topluluğa katkıda bulunacak şekillerde hareket etmeye ve bu şekilde etkileşimde bulunmaya yemin ederiz.
 
-## Our Standards
+## Standartlarımız
 
-Examples of behavior that contributes to a positive environment for our community include:
+Aşağıdakiler, topluluğumuz için olumlu bir ortam oluşturulmasına katkı sağlayan davranış örnekleri 
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the overall community
+* Diğer insanlara empati ve şefkatle yaklaşmak
+* Farklı fikirlere, bakış açılarına ve deneyimlere saygılı olmak
+* Yapıcı geri bildirimler verip bu geri bildirimleri kabul etmek
+* Sorumluluk almak ve hatalarımızdan etkilenenlerden özür dilemek ve deneyimlerden ders çıkarmak
+* Yalnızca birey olarak değil, topluluğun tamamı için en iyi olana odaklanmak
 
-Examples of unacceptable behavior include:
+Aşağıdakiler ise kabul edilmeyecek davranış örnekleridir:
 
-* The use of sexualized language or imagery, and sexual attention or advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others’ private information, such as a physical or email address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
+* Küfürlü dil ve görseller kullanmak ve her türlü cinsel ilgi veya tacizde bulunmak
+* Trollük, aşağılayıcı yorumlarda bulunmak, kişisel veya siyasi saldırılar yapmak
+* Açıktan veya özelden taciz
+* Açıkça rızasını almaksızın başkalarının fiziksel adresleri veya e-posta adresleri gibi özel bilgilerini ifşa etmek
+* Profesyonel bir ortamda makulen uygunsuz olarak değerlendirilebilecek diğer davranışlar
 
-## On-chain enforcement
+## Blokzincir-Üzerinde Uygulama
 
-The on-chain mechanism for enforcement will depend on the completion of Celeste.
+Blockzincir üzerinde uygulama, Celeste'nin tamamlanmasına bağlıdır.
 
-The ability for the 1Hive protocol to enforce this covenant is limited to the direct interactions that community members have with the protocol, specifically the ability for community members to submit proposals to allocate Honey issuance or adjust protocol parameters.
+1Hive protokolünün bu sözleşmeyi uygulama becerisi, topluluk üyelerinin protokolle yaptıkları doğrudan etkileşimle, özellikle de topluluk üyelerinin Honey tahsis edilmesi veya protokol parametrelerinin düzenlenmesi için teklif gönderme becerisiyle sınırlıdır.
 
-A community member will be required to stake Honey when submitting a proposal, attesting that the impact of the proposal could be reasonably considered to align with 1Hive’s social contract. A dispute can be created by another community member if they disagree with the proposers attestation by challenging the proposal and staking an equivalent amount of Honey. If after being challenged the proposal is not withdrawn, a decentralized oracle will be used to settle the dispute.
+Bir teklif gönderirken, topluluk üyesinin söz konusu teklifin makulen 1Hive'ın toplumsal sözleşmesiyle uyum içerisinde olarak değerlendirileceğini onayladığını belirtecek şekilde Honey kilitlemesi gerekecektir. Bir başka topluluk üyesi, ilk teklifi yapanın teklifine katılmadığı durumda eşit miktarda Honey yatırarak teklife itiraz edebilecek ve böylece bir ihtilaf oluşturulabilecektir. İtiraz edildikten sonra teklifin geri çekilmemesi halinde, ihtilafın çözülmesi için merkeziyetsiz bir oracle kullanılacaktır.
 
-Participants in the dispute resolution protocol are expected to review the proposal, this covenant, and related past disputes in order to provide a judgement that they feel best aligns with the established norms and intention of the 1Hive community.
+İhtilaf çözüm protokolündeki katılımcıların, bir yargıya varmadan önce 1Hive topluluğunun mevcut normları ve amaçlarıyla en uygun kararı verebilmeleri açısından teklifi, bu sözleşmeyi ve geçmişteki ilgili ihtilafları incelemeleri beklenmektedir.
 
-If the oracle responds in favor of the proposer the proposal will be unlocked and the challenger’s stake will be transferred to the proposer. On the other hand, if the dispute resolves in favor of the challenger the proposal will be removed from consideration and the proposers stake will be given to the challenger.
+Oracle'ın ilk teklif yapan lehinde karar vermesi halinde, kilitlenen teklif açılacak ve itirazda bulunanın talepte bulunmak için yatırdığı Honey ilk teklifi yapana devredilecektir. Öte yandan, ihtilafın itirazda bulunan lehine çözümlenmesi halinde, teklif incelemeye alınmayacak ve ilk teklifi yapanın yatırdığı Honey itirazda bulunana verilecektir.
 
-## Off-chain enforcement
+## Blokzincir Dışı Uygulama
 
-While there is no canonical off-chain forum that represents the 1Hive community, there are community spaces including the 1Hive [GitHub](https://github.com/1Hive), [Discourse](https://forum.1hive.org/), and Discord communities, and others forums which may emerge in the future which are expected to adhere to this covenant.
+1Hive topluluğunu temsil eden net bir blokzincir dışı forum bulunmamasına rağmen, 1Hive [Github](https://github.com/1Hive), [Discourse](https://forum.1hive.org/) ve Discord toplulukları bulunmaktadır ve gelecekte işbu sözleşmeye bağlı olması gerekecek diğer forumlar ortaya çıkabilecektir.
 

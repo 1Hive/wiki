@@ -1,12 +1,12 @@
 # Table of contents
 
 * [1Hive'a Hoşgeldiniz](README.md)
-* [Community Covenant](community-covenant.md)
-* [Milestones](1hive-updates.md)
+* [Topluluk Sözleşmesi](community-covenant.md)
+* [Kilometre Taşları](1hive-updates.md)
 
-## Getting Started <a id="getting-started-1"></a>
+## Başlarken <a id="getting-started-1"></a>
 
-* [Terminology](getting-started-1/quick-navigation-guide.md)
+* [Terminoloji](getting-started-1/quick-navigation-guide.md)
 * [Discord](getting-started-1/discord.md)
 * [Calendar](getting-started-1/calendar.md)
 * [Contributing](getting-started-1/how-can-you-contribute/README.md)
