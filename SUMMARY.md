@@ -3,17 +3,17 @@
 * [Welcome to 1Hive](README.md)
 * [Community Covenant](community-covenant.md)
 
-## Getting Started <a id="getting-started-1"></a>
+## 🌱 Getting Started <a id="getting-started-1"></a>
 
 * [Terminology](getting-started-1/terminology.md)
 * [Discord](getting-started-1/discord.md)
+* [Pollen](getting-started-1/pollen.md)
 * [Calendar](getting-started-1/calendar.md)
 * [Contributing](getting-started-1/contributing/README.md)
-  * [Pollen](getting-started-1/contributing/pollen.md)
   * [Buzz Bounty](getting-started-1/contributing/buzz-bounty.md)
   * [Fauna Awards](getting-started-1/contributing/fauna-awards.md)
 
-## Projects
+## ✨ Projects
 
 * [Honey](projects/honey/README.md)
   * [Participation](projects/honey/participation.md)
@@ -31,7 +31,7 @@
 * [Gardens \(Coming soon\)](projects/gardens.md)
 * [Milestones](projects/milestones.md)
 
-## Community
+## 🌳 Community
 
 * [Swarms](community/swarms/README.md)
   * [🌞 Celeste](community/swarms/celeste.md)
@@ -49,7 +49,7 @@
 * [Security](community/security/README.md)
   * [Bug Bounty](community/security/bug-bounty.md)
 
-## Guides
+## 🐑 Guides
 
 * [xDai](guides/xdai.md)
 * [BrightID](guides/brightid.md)

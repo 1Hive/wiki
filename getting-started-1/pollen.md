@@ -8,7 +8,7 @@ Pollen is a contributor rank used to recognize contributions to 1Hive’s [Disco
 
 ## How do I participate
 
-You have to be [**Verified** ](../discord.md#tips)on 1Hive's Discord in order to receive weekly Pollen distributions. Then, as soon as you start interacting on 1Hive’s Discord, Discourse, and Github communities you’ll start earning Pollen, which gets added to your registered wallet as sweet sweet Honey.
+As soon as you start interacting on 1Hive’s Discord, Discourse, and Github communities you’ll start earning Pollen, which gets added to your registered wallet as sweet sweet Honey.
 
 In order to receive weekly pollen distributions you’ll need to register your accounts on supported platforms and link them to your xDai address. You can do this by posting the below in 1hive Discord’s `#🐛onboarding` channel:
 
@@ -36,13 +36,13 @@ The [Pollen Explorer](https://1hive.github.io/pollen/#/explorer) has a leaderboa
 
 The weights that determine the Pollen earned for each action can be seen in the [pollen explorer](https://1hive.github.io/pollen/#/explorer%20) by clicking on "SHOW WEIGHT CONFIGURATION".
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 ### Total Distribution
 
 The weekly Honey distribution is capped at $15,000 or 33 Honey if 33 Honey is worth less than $15,000. 5% of the weekly distribution goes directly to the SourceCred team.
 
-![Figure 1. Weekly distribution in Honey based on USD value](../../.gitbook/assets/image%20%2814%29.png)
+![Figure 1. Weekly distribution in Honey based on USD value](../.gitbook/assets/image%20%2814%29.png)
 
 ### Distribution Rate
 
@@ -70,7 +70,7 @@ A breakdown of each platforms relative distribution of Pollen each week.
 
 ### Discord Pollen Weights
 
-On Discord, in order to mint cred for other users through emoji responses, users giving the response must be [Verified](../discord.md#tips). Minting to self is disabled and the system also weights the minting amount to others depending on how much cred the minter has earned.
+On Discord, in order to mint cred for other users through emoji responses, users giving the response must be [Verified](discord.md#tips). Minting to self is disabled and the system also weights the minting amount to others depending on how much cred the minter has earned.
 
 | Total Cred | Mint Weight |
 | :--- | :--- |
