@@ -2,7 +2,6 @@
 
 * [Welcome to 1Hive](README.md)
 * [Community Covenant](community-covenant.md)
-* [Milestones](1hive-updates.md)
 
 ## Getting Started <a id="getting-started-1"></a>
 
@@ -30,6 +29,7 @@
 * [Celeste \(Coming soon\)](projects/celeste/README.md)
   * [User Process](projects/celeste/user-process.md)
 * [Gardens \(Coming soon\)](projects/gardens.md)
+* [Milestones](projects/1hive-updates.md)
 
 ## Community
 
