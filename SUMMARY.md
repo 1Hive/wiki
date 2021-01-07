@@ -5,13 +5,13 @@
 
 ## Getting Started <a id="getting-started-1"></a>
 
-* [Terminology](getting-started-1/quick-navigation-guide.md)
+* [Terminology](getting-started-1/terminology.md)
 * [Discord](getting-started-1/discord.md)
 * [Calendar](getting-started-1/calendar.md)
-* [Contributing](getting-started-1/how-can-you-contribute/README.md)
-  * [Pollen](getting-started-1/how-can-you-contribute/pollen.md)
-  * [Buzz Bounty](getting-started-1/how-can-you-contribute/buzz-swarm-bounty.md)
-  * [Fauna Awards](getting-started-1/how-can-you-contribute/fauna-awards.md)
+* [Contributing](getting-started-1/contributing/README.md)
+  * [Pollen](getting-started-1/contributing/pollen.md)
+  * [Buzz Bounty](getting-started-1/contributing/buzz-bounty.md)
+  * [Fauna Awards](getting-started-1/contributing/fauna-awards.md)
 
 ## Projects
 
@@ -20,7 +20,7 @@
   * [Issuance](projects/honey/issuance.md)
   * [Distribution](projects/honey/distribution.md)
   * [Decisions](projects/honey/decisions.md)
-  * [Planned Improvements](projects/honey/honey-improvements.md)
+  * [Planned Improvements](projects/honey/planned-improvements.md)
 * [Honeyswap](projects/honeyswap/README.md)
   * [For Traders](projects/honeyswap/for-traders.md)
   * [For Liquidity Providers](projects/honeyswap/for-liquidity-providers.md)
@@ -29,7 +29,7 @@
 * [Celeste \(Coming soon\)](projects/celeste/README.md)
   * [User Process](projects/celeste/user-process.md)
 * [Gardens \(Coming soon\)](projects/gardens.md)
-* [Milestones](projects/1hive-updates.md)
+* [Milestones](projects/milestones.md)
 
 ## Community
 

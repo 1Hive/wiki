@@ -7,7 +7,7 @@ description: Upcoming milestones
 ## 1Hive Milestones
 
 {% hint style="warning" %}
-These milestones are rough estimates specified and updated by the relevant Swarm. It is kept up-to-date at the best of the ability of each Swarm responsible. For a more accurate status of each project it is best to check out the public discussion on [Discord](https://discord.com/invite/P4rRDUKTAU), [Discourse](https://forum.1hive.org/), [Telegram](https://t.me/honeyswapDEX) and other social channels and the [weekly recaps](1hive-updates.md#weekly-recap).
+These milestones are rough estimates specified and updated by the relevant Swarm. It is kept up-to-date at the best of the ability of each Swarm responsible. For a more accurate status of each project it is best to check out the public discussion on [Discord](https://discord.com/invite/P4rRDUKTAU), [Discourse](https://forum.1hive.org/), [Telegram](https://t.me/honeyswapDEX) and other social channels and the [weekly recaps](milestones.md#weekly-recap).
 {% endhint %}
 
 ### **Celeste**
@@ -20,7 +20,7 @@ For more information see [Celeste](celeste/)\*\*\*\*
 
 🎯 **Target Date:** Q1 2021
 
-Issuance \(new Honey creation\) was initially set to 60% per year. It was reduced in November of 2020 to 30%. We are now developing a dynamic issuance policy, details can be seen in [Issuance Planned Improvements](honey/honey-improvements.md#dynamic-issuance-policy).
+Issuance \(new Honey creation\) was initially set to 60% per year. It was reduced in November of 2020 to 30%. We are now developing a dynamic issuance policy, details can be seen in [Issuance Planned Improvements](honey/planned-improvements.md#dynamic-issuance-policy).
 
 ### **Honeyswap Landing Page**
 

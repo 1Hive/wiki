@@ -12,10 +12,10 @@ Discord is one of the main tools we use to communicate. On this platform we catc
 
 Most channels are focussed on discussion around a particular topic, which can be seen in the channel description at the top of the Discord screen. However, some channels are used for purposes other than discussion:
 
-* **🐛onboarding** is for opting into [Pollen](how-can-you-contribute/pollen.md), check the pinned message and follow the instructions.
+* **🐛onboarding** is for opting into [Pollen](contributing/pollen.md), check the pinned message and follow the instructions.
 * **🤖bot-commands** is for summoning Discord bots to give information, register your account with BrightID or setup a tipping account. See [details below](discord.md#bot-commands) for commands that can be used in the bot commands channel.
 * **✅check-in** is for daily/multi-daily/weekly status updates from 1Hive contributors.
-* **🍄nominations** is where you can recognize the work of others, particularly those that you feel are not being properly recognized elsewhere. Pollen is weighted differently in this channel, see the end of the [Discord Pollen Weights](how-can-you-contribute/pollen.md#discord-pollen-weights) section for details.
+* **🍄nominations** is where you can recognize the work of others, particularly those that you feel are not being properly recognized elsewhere. Pollen is weighted differently in this channel, see the end of the [Discord Pollen Weights](contributing/pollen.md#discord-pollen-weights) section for details.
 * 🍯**keepers** is for those with the 🍯**Honey** role which can only be assigned if you own 1 Honey.
 
 ## Roles and Swarms
