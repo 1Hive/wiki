@@ -5,7 +5,7 @@
 * [Pacto Comunitario](community-covenant.md)
 * [Metas](metas.md)
 
-## Empezando <a id="getting-started-1"></a>
+## 🌱Empezando <a id="getting-started-1"></a>
 
 * [Discord](getting-started-1/discord.md)
 * [Presentate](getting-started-1/introduce-yourself.md)
@@ -14,7 +14,7 @@
   * [Pollen](getting-started-1/how-can-you-contribute/pollen.md)
   * [Premios Fauna](getting-started-1/how-can-you-contribute/premios-fauna.md)
 
-## Proyectos <a id="projects"></a>
+## ✨Proyectos <a id="projects"></a>
 
 * [Honey](projects/honey/README.md)
   * [Participación](projects/honey/participacion.md)
@@ -27,7 +27,7 @@
 * [Celeste \(Coming soon\)](projects/celeste.md)
 * [Gardens \(Coming soon\)](projects/gardens.md)
 
-## Community
+## 🌳Community
 
 * [Swarms](community/swarms/README.md)
   * [🌞 Celeste](community/swarms/celeste.md)
@@ -43,7 +43,7 @@
 * [Diseño](community/diseno.md)
 * [Seguridad](community/security.md)
 
-## Guides
+## 🐑Guías <a id="guides"></a>
 
 * [xDai](guides/xdai.md)
 * [BrightId](guides/brightid/README.md)
