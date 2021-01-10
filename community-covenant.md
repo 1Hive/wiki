@@ -56,5 +56,5 @@ If the oracle responds in favor of the proposer the proposal will be unlocked an
 
 ## Off-chain enforcement
 
-While there is no canonical off-chain forum that represents the 1Hive community, there are community spaces including the 1Hive [GitHub](https://github.com/1Hive), [Discourse](https://forum.1hive.org/), and Discord communities, and others forums which may emerge in the future which are expected to adhere to this covenant.
+While there is no canonical off-chain forum that represents the 1Hive community, there are community spaces including the 1Hive Discord, Forum and Github communities, and others forums which may emerge in the future which are expected to adhere to this covenant.
 

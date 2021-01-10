@@ -6,7 +6,7 @@ Anyone can come and start contributing. The source of 1Hive's potential is the c
 
 ## How to Contribute
 
-Interact, share ideas, and join the discussion in our platforms. Sign up to the weekly [Pollen distribution](../pollen.md) and earn pollen, which rewards individuals for contributing to Discourse, Discord, and/or Github.
+Interact, share ideas, and join the discussion in our platforms. Sign up to the weekly [Pollen distribution](../pollen.md) and earn pollen, which rewards individuals for contributing to Discord, the Forum and Github.
 
 Check out our existing and upcoming projects and discuss ideas with the relevant [Swarm](../../community/swarms/). If you have a new idea and it doesn't fit anywhere you can create a [proposal](../../projects/honey/participation.md) for funding and create a new swarm or work on it independently.
 

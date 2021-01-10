@@ -4,11 +4,11 @@ description: Earn Honey for contributions
 
 # Pollen
 
-Pollen is a contributor rank used to recognize contributions to 1Hive’s [Discord](https://discord.com/invite/P4rRDUKTAU), [Discourse](https://forum.1hive.org/), and [Github](https://github.com/1Hive) communities, and reward these contributions with weekly distributions of Honey.
+Pollen is a contributor rank used to recognize contributions to 1Hive’s [Discord](https://discord.com/invite/P4rRDUKTAU), [Forum](https://forum.1hive.org/), and [Github](https://github.com/1Hive) communities, and reward these contributions with weekly distributions of Honey.
 
 ## How do I participate
 
-As soon as you start interacting on 1Hive’s Discord, Discourse, and Github communities you’ll start earning Pollen, which gets added to your registered wallet as sweet sweet Honey.
+As soon as you start interacting on 1Hive’s Discord, Forum, and Github communities you’ll start earning Pollen, which gets added to your registered wallet as sweet sweet Honey.
 
 In order to receive weekly pollen distributions you’ll need to register your accounts on supported platforms and link them to your xDai address. You can do this by posting the below in 1hive Discord’s `#🐛onboarding` channel:
 
@@ -28,7 +28,7 @@ If you have questions, are interested in how pollen is calculated, or auditing t
 
 Pollen is computed using **SourceCred** to create and analyze a graph of interactions between community members. While not a perfect representation of the value of contributions, Pollen can help reward the interactions that are important but too granular to warrant creating proposals for or claiming from a Swarm.
 
-SourceCred monitors all messages and contributions to Discord, Discourse and GitHub and applies a multiplier to a base score of 1 cred per action. One of the primary ways of earning cred is when text you write or actions you create are responded too positively by other members through the use of emojis. Writing messages do not earn cred. The weights for Cred distribution are decided by 1Hive community.
+SourceCred monitors all messages and contributions to Discord, the Forum and GitHub and applies a multiplier to a base score of 1 cred per action. One of the primary ways of earning cred is when text you write or actions you create are responded too positively by other members through the use of emojis. Writing messages do not earn cred. The weights for Cred distribution are decided by 1Hive community.
 
 Cred earned within 1Hive is only useful within 1Hive. It isn't transferable and scoring is retroactive so if you sign up to pollen after having earned some, you will still receive cred for that period \(although you will only receive a honey reward for the period after registering\).
 
@@ -66,7 +66,7 @@ A breakdown of each platforms relative distribution of Pollen each week.
 | :--- | :--- |
 | GitHub | 40% |
 | Discord | 30% |
-| Discourse | 30% |
+| Forum | 30% |
 
 ### Discord Pollen Weights
 
@@ -95,7 +95,7 @@ The `#🍄nominations` channel mints 95% of cred for users who have been tagged 
 
 ### Forum Pollen Weights
 
-On the Discourse forum the total cred a user can mint is dependent on the trust level of the user.
+On the Forum the total cred a user can mint is dependent on the trust level of the user.
 
 | Trust level | Mint Weight |
 | :--- | :--- |
