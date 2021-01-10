@@ -18,7 +18,7 @@ There are various **Projects** and [**Swarms**](../community/swarms/), with goal
 
 [🐝**Buzz**](../community/swarms/buzz.md) - A swarm focussed on communicating, documenting, and generally spreading awareness about 1Hive and Honey to help cross-pollinate our ideas to the rest of the world. Also makes honey memes.
 
-[🏵**Pollen**](../community/swarms/pollen.md) - A swarm and system that maintains our SourceCred instance to distribute Honey based on contributions in Discord, Discourse \(the Forum\) and Github.
+[🏵**Pollen**](../community/swarms/pollen.md) - A swarm and system that maintains our SourceCred instance to distribute Honey based on contributions in Discord, the Forum and Github.
 
 🌺**Flora** - A swarm working on dev ops, infrastructure and node operations. Flora is currently exploring running a validators and emerging roll-up chains.
 

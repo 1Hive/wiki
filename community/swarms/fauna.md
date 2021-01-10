@@ -4,7 +4,7 @@ description: Platform moderation
 
 # 🐱 Fauna
 
-The 🐱Fauna Swarm are active individuals who monitor and moderate the various chat platforms and ensure users maintain the [community covenant](../../community-covenant.md). They also regularly provide support for users through help channels and elsewhere. The chat platforms moderated include but are not limited to Discord, Discourse and Telegram.
+The 🐱Fauna Swarm are active individuals who monitor and moderate the various chat platforms and ensure users maintain the [community covenant](../../community-covenant.md). They also regularly provide support for users through help channels and elsewhere. The chat platforms moderated include but are not limited to Discord, the Forum and Telegram.
 
 ## Useful Links 
 
