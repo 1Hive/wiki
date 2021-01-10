@@ -10,5 +10,5 @@ A variety of social media platforms are used to communicate and organize within 
 
 ### Future steps
 
-A Buzz DAO has recently been created. Since decentralization is the cornerstone of 1Hive, media communication should be managed for and by the community. We look forward to sharing experiences in this innovative idea of decentralized promotion.
+The [Buzz Swarm](../swarms/buzz.md) was recently created for managing media and communication. Since decentralization is the cornerstone of 1Hive, media and communication should be managed for and by the community. See the [original marketing proposal](https://drive.google.com/file/d/1giD4QcVfHNUaAwcXWqEdV4jI2CUSQH24/view) for details about the initial plan. We look forward to sharing experiences in this innovative idea of decentralized promotion.
 
