@@ -20,7 +20,7 @@ discord: justabee#1234
 xDai: 0x0...000
 ```
 
-Replacing`justabee`, `justabee#1234` and `0x0...000` with your accounts.
+Replacing`justabee`, `justabee#1234` and `0x0...000` with your accounts. Note `Discourse` refers to [the Forum](https://forum.1hive.org/).
 
 If you have questions, are interested in how pollen is calculated, or auditing the distributions, just hop on the [`#🏵pollen`](https://discord.gg/y8fPNcNdAa) channel.
 
