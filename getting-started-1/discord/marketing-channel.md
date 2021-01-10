@@ -12,7 +12,7 @@ To partake in this channel you are required to react with a checkmark in the ðŸ§
 
 ## For Content Curators:
 
-1.  Create or find content that you think is worth spreading. If creating your own then consider using 1Hive hashtags \(\#1Hive \#Honeyswap etc\).
+1. Create or find content that you think is worth spreading. If creating your own then consider using 1Hive hashtags \(**\#1Hive**, **\#Honeyswap** etc\).
 2. Create your request in the \#marketing channel on discord linking your content. Use this source of promotion wisely as you are only allowed to post once every 6 hours.
 3. If the requestâ€™s total up votes minus down votes are more than 33% of the Discord members with the Marketing Curator role \(needed for access to the channel\) you will see a blue checkmark emoji under your request and your request will be posted to the relevant 1Hive social media accounts. If 24 hours pass and you have not received the 33% required, your request will be removed.
 
