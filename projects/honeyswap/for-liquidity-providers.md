@@ -16,3 +16,7 @@ Impermanent loss is a temporary loss of funds occurring when providing liquidity
 
 In the example of an wETH/xDAI 50/50 pair if wETH goes up in value, the pool has to rely on arbitrageurs continually ensuring that the pool price reflects the real-world price to maintain the same value of both tokens in the pool. This basically leads to a situation where profit from the token that appreciated in value is taken away from the liquidity provider. At this point, if the LP decides to withdraw their liquidity, the impermanent loss becomes permanent.
 
+## Liquidity Farming
+
+In the past we deployed liquidity farms at [hny.farm](http://hny.farm). Liquidity providers of Honeyswap exchange pairs could stake their LP tokens to the Honey Farms in return for Honey \(funded by proposals\) to encourage keeping liquidity in Honeyswap. However, the general consensus amongst the community was that the Honey farms weren't worth maintaining so they haven't continued to be funded.
+
