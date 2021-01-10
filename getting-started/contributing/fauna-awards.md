@@ -1,5 +1,5 @@
 ---
-description: Awards for providing help and support
+description: Rewards for providing help and support
 ---
 
 # Fauna Awards
