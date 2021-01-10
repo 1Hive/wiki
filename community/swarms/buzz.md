@@ -10,11 +10,11 @@ The Buzz Swarm creates and maintains documentation associated with the 1Hive DAO
 
 ## Useful Links
 
- [Aragon DAO](https://aragon.1hive.org/#/buzzdao/) holding Buzz funds.
+[Aragon DAO](https://aragon.1hive.org/#/buzzdao/) holding Buzz funds.
 
- [Buzz documentation.](https://drive.google.com/file/d/1giD4QcVfHNUaAwcXWqEdV4jI2CUSQH24/view?usp=sharing)
+[Buzz Marketing Plan](https://drive.google.com/file/d/1giD4QcVfHNUaAwcXWqEdV4jI2CUSQH24/view).
 
- [Excel sheet](https://docs.google.com/spreadsheets/d/1UNrQMLVDWS-r7z6Z5MLNRSRP70f_gjbG5DYVceDLrXU/edit#gid=0) showing payment of Buzz.
+[Excel sheet](https://docs.google.com/spreadsheets/d/1UNrQMLVDWS-r7z6Z5MLNRSRP70f_gjbG5DYVceDLrXU/edit#gid=0) showing payment of Buzz.
 
 ## Roles and Responsibilities
 
