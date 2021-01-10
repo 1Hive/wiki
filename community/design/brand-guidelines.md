@@ -67,7 +67,7 @@ See this [Figma file](http://figma.com/file/6o6Ik2f0D6HiLzRWwgeOQd/Brand-guideli
 
 ## Downloadable Assets
 
-\(Link to folder with assets\)
+[1Hive Design Assets](https://mega.nz/folder/t8dmmJZL) including logos, titles and ubuntu font. Requires the decryption key `giPbW4M9wRTApPF0J6VkgA`
 
-\(Link to ubuntu font google\)
+[Community contributed graphics and animations](http://bit.ly/2X7bOER).
 
