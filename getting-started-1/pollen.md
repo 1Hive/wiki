@@ -70,7 +70,7 @@ A breakdown of each platforms relative distribution of Pollen each week.
 
 ### Discord Pollen Weights
 
-On Discord, in order to mint cred for other users through emoji responses, users giving the response must be [Verified](discord.md#tips). Minting to self is disabled and the system also weights the minting amount to others depending on how much cred the minter has earned.
+On Discord, in order to mint cred for other users through emoji responses, users giving the response must be [Verified](discord/#tips). Minting to self is disabled and the system also weights the minting amount to others depending on how much cred the minter has earned.
 
 | Total Cred | Mint Weight |
 | :--- | :--- |

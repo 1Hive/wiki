@@ -6,7 +6,8 @@
 ## 🌱Getting Started <a id="getting-started-1"></a>
 
 * [Terminology](getting-started-1/terminology.md)
-* [Discord](getting-started-1/discord.md)
+* [Discord](getting-started-1/discord/README.md)
+  * [Marketing Channel](getting-started-1/discord/marketing-channel.md)
 * [Pollen](getting-started-1/pollen.md)
 * [Calendar](getting-started-1/calendar.md)
 * [Contributing](getting-started-1/contributing/README.md)
