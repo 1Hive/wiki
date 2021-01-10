@@ -4,7 +4,7 @@ description: Sourcecred management
 
 # 🏵 Pollen
 
-The 🏵Pollen Swarm manages the 1Hive SourceCred instance. Details can be seen in [Earn Pollen](../../getting-started-1/pollen.md). The Swarm is responsible for ensuring the system isn't easily exploitable, keeping parameters up-to-date and distributing pollen rewards. 
+The 🏵Pollen Swarm manages the 1Hive SourceCred instance. Details can be seen in [Earn Pollen](../../getting-started/pollen.md). The Swarm is responsible for ensuring the system isn't easily exploitable, keeping parameters up-to-date and distributing pollen rewards. 
 
 ## Useful Links
 

@@ -3,16 +3,16 @@
 * [Welcome to 1Hive](README.md)
 * [Community Covenant](community-covenant.md)
 
-## 🌱Getting Started <a id="getting-started-1"></a>
+## 🌱Getting Started
 
-* [Terminology](getting-started-1/terminology.md)
-* [Discord](getting-started-1/discord/README.md)
-  * [Marketing Channel](getting-started-1/discord/marketing-channel.md)
-* [Pollen](getting-started-1/pollen.md)
-* [Calendar](getting-started-1/calendar.md)
-* [Contributing](getting-started-1/contributing/README.md)
-  * [Buzz Bounty](getting-started-1/contributing/buzz-bounty.md)
-  * [Fauna Awards](getting-started-1/contributing/fauna-awards.md)
+* [Terminology](getting-started/terminology.md)
+* [Discord](getting-started/discord/README.md)
+  * [Marketing Channel](getting-started/discord/marketing-channel.md)
+* [Pollen](getting-started/pollen.md)
+* [Calendar](getting-started/calendar.md)
+* [Contributing](getting-started/contributing/README.md)
+  * [Buzz Bounty](getting-started/contributing/buzz-bounty.md)
+  * [Fauna Awards](getting-started/contributing/fauna-awards.md)
 
 ## ✨Projects
 
