@@ -10,7 +10,7 @@ Interact, share ideas, and join the discussion in our platforms. Sign up to the 
 
 Check out our existing and upcoming projects and discuss ideas with the relevant [Swarm](../../community/swarms/). If you have a new idea and it doesn't fit anywhere you can create a [proposal](../../projects/honey/participation.md) for funding and create a new swarm or work on it independently.
 
-Check out the [Buzz Bounties](buzz-bounty.md) for various tasks, generally media and communication related, that will be awarded with Honey.
+Check out the [Buzz Bounties](../../community/media/buzz-bounty.md) for various tasks, generally media and communication related, that will be awarded with Honey.
 
 Help out around the community and you may be spotted by one of the [Fauna](../../community/swarms/fauna.md) members and be considered for the [Fauna Awards](fauna-awards.md).
 

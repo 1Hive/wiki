@@ -11,7 +11,6 @@
 * [Pollen](getting-started/pollen.md)
 * [Calendar](getting-started/calendar.md)
 * [Contributing](getting-started/contributing/README.md)
-  * [Buzz Bounty](getting-started/contributing/buzz-bounty.md)
   * [Fauna Awards](getting-started/contributing/fauna-awards.md)
 
 ## ✨Projects
@@ -45,6 +44,7 @@
   * [🐛 Bug Bounty](community/swarms/bug-bounty.md)
 * [Media](community/media/README.md)
   * [Social Accounts](community/media/social-accounts.md)
+  * [Buzz Bounty](community/media/buzz-bounty.md)
 * [Design](community/design/README.md)
   * [Brand Guidelines](community/design/brand-guidelines.md)
 * [Security](community/security/README.md)
