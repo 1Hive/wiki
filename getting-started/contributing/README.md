@@ -12,5 +12,5 @@ Check out our existing and upcoming projects and discuss ideas with the relevant
 
 Check out the [Buzz Bounties](../../community/media/buzz-bounty.md) for various tasks, generally media and communication related, that will be awarded with Honey.
 
-Provide help and advice around the community and you may be spotted by one of the [Fauna](../../community/swarms/fauna.md) members considered for a [Fauna Award](fauna-awards.md).
+Provide help and advice around the community and you may be spotted by one of the [Fauna](../../community/swarms/fauna.md) members and considered for a [Fauna Award](fauna-awards.md).
 
