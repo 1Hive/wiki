@@ -1,6 +1,6 @@
 # Contributing
 
-1Hive is an open community, if you would like to help with something, then get involved! We are the vanguard of decentralized organizations, testing and exploring different alternatives for the future, and we would like you to be part of this adventure too.
+1Hive is an open community, if you would like to help with something, then get involved! We are the vanguard of decentralized organizations, testing and exploring different alternatives for the future, and we would love for you to be a part of this adventure too.
 
 Anyone can come and start contributing. The source of 1Hive's potential is the community, this is where the enormous power of DAOs come from: they can tap into the vast talents members have and benefit everyone by doing so.
 
