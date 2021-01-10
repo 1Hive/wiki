@@ -12,5 +12,3 @@ A variety of social media platforms are used to communicate and organize within 
 
 A Buzz DAO has recently been created. Since decentralization is the cornerstone of 1Hive, media communication should be managed for and by the community. We look forward to sharing experiences in this innovative idea of decentralized promotion.
 
-Blog: [https://about.1hive.org/blog/](https://about.1hive.org/blog/)
-
