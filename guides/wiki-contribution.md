@@ -1,10 +1,10 @@
 ---
-description: A guide to updating this 1Hive Wiki.
+description: A guide to updating the 1Hive Wiki.
 ---
 
 # Wiki Contribution
 
-1Hive is a large sprawling ecosystem of many different projects that are continually in development. Maintaining a Wiki is important to ensure that there is a concise overview of the state of 1hive. Everyone is encouraged to contribute to the 1hive wiki. 
+1Hive is a large sprawling ecosystem of many different projects that are continually in development. Maintaining a Wiki is important to ensure that there is a concise overview of the state of 1hive. Everyone is encouraged to contribute to the 1Hive wiki. 
 
 At the very least one member from each swarm will have write access to update the wiki to ensure details about their swarm and associated projects are accurate. Anyone without write access is still able to update a page on the wiki, or the wiki's structure, through Github using a pull request.
 

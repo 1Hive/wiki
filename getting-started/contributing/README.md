@@ -14,3 +14,5 @@ Check out the [Buzz Bounties](../../community/media/buzz-bounty.md) for various 
 
 Provide help and advice around the community and you may be spotted by one of the [Fauna](../../community/swarms/fauna.md) members and considered for a [Fauna Award](fauna-awards.md).
 
+If there's something you think should be added or updated in the 1Hive Wiki then consider making a [Wiki Contribution](../../guides/wiki-contribution.md).
+
