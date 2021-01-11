@@ -58,7 +58,7 @@ Each of the above members, swarm team and advisors, have equal voting weight wit
 
 **Sem** - Led the development of Conviction Voting Aragon App
 
-Fiore - 1hive designer
+**Fiore** - 1hive designer
 
 **Viviane** - Dev. Contributed to Conviction Voting frontend
 
