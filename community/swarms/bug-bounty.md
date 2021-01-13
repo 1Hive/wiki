@@ -1,28 +1,28 @@
 ---
-description: Bug reward management
+description: Gestion de recompensas por Bugs
 ---
 
 # 🐛 Bug Bounty
 
-The 🐛Bug Bounty Swarm manages the funds available through the [Bug Bounty Program](../security/bug-bounty.md). It is currently made up of 1Hive Seed group members who have been working on 1Hive for over a year and have a strong degree of trust in each other.
+El Swarm 🐛Bug Bounty administra los fondos disponibles a través del Programa Bug Bounty. Actualmente está formado por miembros del grupo 1Hive Seed que han estado trabajando en 1Hive durante más de un año y tienen un alto grado de confianza entre ellos.
 
-## Useful Links 
+## Links Útiles 
 
- [Aragon DAO](https://aragon.1hive.org/#/1hivebounty/) holding the bug bounty funds.
+ [Aragon DAO](https://aragon.1hive.org/#/1hivebounty/) contienes los fondos de bug bounty.
 
-## Roles and Responsibilities
+## Roles y Responsabilidades
 
-| Member | Role |
+| Miembros | Roles |
 | :--- | :--- |
-| [willjgriff](https://forum.1hive.org/u/willjgriff) | Seed and DAO member |
-| [rperez89](https://forum.1hive.org/u/rperez89) | Seed and DAO member |
-| [fabriv](https://forum.1hive.org/u/fabriv) | Seed and DAO member |
-| [lkngtn](https://forum.1hive.org/u/lkngtn) | Seed and DAO member |
-| [onbjerg](https://forum.1hive.org/u/onbjerg) | Seed and DAO member |
+| [willjgriff](https://forum.1hive.org/u/willjgriff) | Seed y miembro del DAO  |
+| [rperez89](https://forum.1hive.org/u/rperez89) | Seed y miembro del DAO  |
+| [fabriv](https://forum.1hive.org/u/fabriv) | Seed y miembro del DAO  |
+| [lkngtn](https://forum.1hive.org/u/lkngtn) | Seed y miembro del DAO  |
+| [onbjerg](https://forum.1hive.org/u/onbjerg) | Seed y miembro del DAO  |
 
-Each of the above members have equal voting weight within the bug bounty DAO to distribute rewards.
+Cada uno de los miembros mencionados anteriormente tienen el mismo peso de voto dentro del DAO de recompensas por errores para distribuir las recompensas.
 
-## Funding Proposals
+## Propuestas de Financiamiento
 
-One funding proposal was made which was accepted by the community: [https://forum.1hive.org/t/funding-for-the-bug-bounty-swarm-dao/1392](https://forum.1hive.org/t/funding-for-the-bug-bounty-swarm-dao/1392).
+Se hizo una propuesta de financiamiento que fue aceptada por la comunidad: [https://forum.1hive.org/t/funding-for-the-bug-bounty-swarm-dao/1392](https://forum.1hive.org/t/funding-for-the-bug-bounty-swarm-dao/1392).
 
