@@ -1,16 +1,16 @@
 ---
-description: 1Hive is a community
+description: 1Hive es una comunidad
 ---
 
 # Media
 
-We use various channels for discussion:
+Usamos varios canales para discutir:
 
 Telegram, Discord, Discourse.
 
 
 
-Twitter, Reddit, Instagram accounts and details regarding management.
+Twitter, Reddit, Instagram cuentas y detalles de gestión.
 
 Blog: [https://about.1hive.org/blog/](https://about.1hive.org/blog/)
 
