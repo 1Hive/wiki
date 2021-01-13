@@ -1,6 +1,2 @@
----
-description: hny.farm
----
-
-# Honeycomb
+# Para Traders
 
