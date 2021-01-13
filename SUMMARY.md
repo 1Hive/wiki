@@ -29,7 +29,7 @@
 * [Celeste \(Coming soon\)](projects/celeste.md)
 * [Gardens \(Coming soon\)](projects/gardens.md)
 
-## 🌳Community
+## 🌳Comunidad <a id="community"></a>
 
 * [Swarms](community/swarms/README.md)
   * [🌞 Celeste](community/swarms/celeste.md)

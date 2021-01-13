@@ -27,7 +27,7 @@ El 🦋Morphosis Swarm ofrece educación y cursos para que los miembros de 1hive
 | [solarmkd](https://forum.1hive.org/u/solarmkd) | Miembro del DAO  |
 | [blazar](https://forum.1hive.org/u/blazar) | Miembro del DAO  |
 
-Cada **miembro del DAO** igual peso de voto en el DAO de Aragón y los roles evolucionarán a medida que Morphosis se establezca más.
+Cada uno de los miembros mencionados anteriormente tienen el mismo peso de voto en el DAO de Aragón y los roles evolucionarán a medida que Morphosis se establezca más.
 
 ## Propuestas de Financiamiento
 

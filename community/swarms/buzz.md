@@ -28,7 +28,7 @@ El Swarm Buzz crea y mantiene la documentación asociada con el DAO 1Hive , incl
 | [davidphoenix2020](https://forum.1hive.org/u/davidphoenix2020/summary) | SEO Y Desarrollador Líder |
 | [metaverde](https://forum.1hive.org/u/metaverde/summary) | Community Manager |
 
-Cada uno de los miembros anteriores tiene el mismo peso de voto dentro del DAO Buzz para administrar los fondos. 
+Cada uno de los miembros mencionados anteriormente tienen el mismo peso de voto dentro del DAO Buzz para administrar los fondos. 
 
 ### Buzz Contributors
 

@@ -29,7 +29,7 @@ El swarm de Luna anima a todos los interesados a participar para experimentar co
 | [jeffemmett](https://forum.1hive.org/u/jeffemmett/summary) | Investigador en [Commons Stack](https://commonsstack.org/) |
 | [Jessicazartler](https://forum.1hive.org/u/jessicazartler/summary) | Comunicaciones en [TE Commons](https://tecommons.org/) |
 
-Los miembros mencionados anteriormente tienen los mismos derechos de voto en el DAO de Aragón. 
+Los miembros mencionados anteriormente tienen los mismos derechos de voto en el DAO Aragón. 
 
 ## Propuestas de Financiamiento
 
