@@ -21,7 +21,7 @@ The 🐱Fauna Swarm are active individuals who monitor and moderate the various 
 | [befitsandpiper](https://forum.1hive.org/u/befitsandpiper/summary) | English/Spanish UTC -4 |
 | [harry](https://forum.1hive.org/u/harry/summary) | English/Dutch/Spanish  UTC +1 |
 | [blazar](https://forum.1hive.org/u/blazar/summary) | English UTC -7 |
-| [escanor](https://forum.1hive.org/u/escanor/summary) | English/Spanish  |
+| [escanor](https://forum.1hive.org/u/escanor/summary) | English/Spanish/Portuguese/German |
 | [luigy](https://forum.1hive.org/u/luigy/summary) | English/Portuguese |
 | [eth\_man/RogueTwo](https://forum.1hive.org/u/eth_man/summary) | English |
 | [crisog](https://forum.1hive.org/u/crisog/summary) | Spanish/English UTC -4 |
