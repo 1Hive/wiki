@@ -12,7 +12,7 @@ Honey'i nasıl ihraç edip dağıtacağımızı optimize ederek, daha özgür, a
 
 ## Güç Dinamikleri
 
-Açık bir topluluk olması bakımından, herkes 1Hive'a katılıp katkıda bulunabilir. Giriş engelleri son derece düşüktür; yapılması gereken tek şey gelip katkıda bulunmaya başlamaktır. Şu anda hâlihazırda [Honey Faucet](https://faucet.1hive.org) ve [Pollen](getting-started-1/how-can-you-contribute/pollen.md) gibi herhangi bir başlangıç sermayesi gerektirmeyen yöntemlerle katkıda bulunanları [Honey](projects/honey/) ile ödüllendirecek birkaç programımız bulunmakta; ayrıca topluluk mentorluğu, kaynaştırma ve inisiyatif almayı destekleyen bir kültür oluşturmayı da başardık.
+Açık bir topluluk olması bakımından, herkes 1Hive'a katılıp katkıda bulunabilir. Giriş engelleri son derece düşüktür; yapılması gereken tek şey gelip katkıda bulunmaya başlamaktır. Şu anda hâlihazırda [Honey Faucet](https://faucet.1hive.org) ve [Pollen](getting-started-1/pollen.md) gibi herhangi bir başlangıç sermayesi gerektirmeyen yöntemlerle katkıda bulunanları [Honey](projects/honey/) ile ödüllendirecek birkaç programımız bulunmakta; ayrıca topluluk mentorluğu, kaynaştırma ve inisiyatif almayı destekleyen bir kültür oluşturmayı da başardık.
 
 Bununla birlikte, en nihayetinde 1Hive'ın başarısı ortak havuzdaki kaynakların etkin ve üretken bir şekilde tahsis edilmesine bağlıdır. Dolayısıyla, net kurallar ve sınırlar belirlememiz, bu kuralları adil ve şeffaf bir şekilde uygulamamız ve ihtilafların çözülmesi için makul bir süreç tesis etmemiz elzemdir \(bkz. [Ostrom](https://www.onthecommons.org/magazine/elinor-ostroms-8-principles-managing-commmons)\).
 

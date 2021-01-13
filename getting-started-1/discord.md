@@ -16,10 +16,10 @@ Kanalların çoğu, Discord ekranının üst kısmındaki kanal açıklamasında
 
 Most channels are focussed on discussion around a particular topic, which can be seen in the channel description at the top of the Discord screen. However, some channels are used for purposes other than discussion:
 
-* **🐛onboarding** [Pollen](how-can-you-contribute/pollen.md)'e giriş yapmak için kullanılan kanaldır. Yukarıya tutturulmuş mesaja bakıp talimatları izleyebilirsiniz.
+* **🐛onboarding** [Pollen](pollen.md)'e giriş yapmak için kullanılan kanaldır. Yukarıya tutturulmuş mesaja bakıp talimatları izleyebilirsiniz.
 * **🤖bot-commands** bilgi almak, hesabınızı BrightID'yle kaydettirmek ve tipping bot'u için bir hesap oluşturmak için Discord botlarını çağırdığımız kanaldır. Bot commands kanalında kullanılabileceğiniz komutlar için aşağıdaki [ilgili bölüme](discord.md#bot-komutlari) bakabilirsiniz.
 * **✅check-in** 1Hive'a katkıda bulunanların günlük/birkaç günlük/haftalık durum güncelemelerini paylaştığı kanaldır.
-* **🍄nominations** özellikle diğer yerlerde dikkat çekmediğini düşündüğünüz, başkalarının yaptığı işleri takdir etmek için kullanılan kanaldır. Bu kanalda, pollen ağırlığı diğer kanallara göre daha farklı işlemekte. [Discord Pollen Ağırlıkları](how-can-you-contribute/pollen.md#discord-pollen-weights) bölümüne bakarak ayrıntıları öğrenebilirsiniz.
+* **🍄nominations** özellikle diğer yerlerde dikkat çekmediğini düşündüğünüz, başkalarının yaptığı işleri takdir etmek için kullanılan kanaldır. Bu kanalda, pollen ağırlığı diğer kanallara göre daha farklı işlemekte. [Discord Pollen Ağırlıkları](pollen.md#discord-pollen-weights) bölümüne bakarak ayrıntıları öğrenebilirsiniz.
 * 🍯**keepers** yalnızca en az 1 Honey bulunduranlara verilen 🍯**Honey** rolüne sahip kişilerin erişebildiği kanaldır.
 
 ## Roller ve Swarmlar

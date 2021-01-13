@@ -8,9 +8,9 @@
 
 * [Terminoloji](getting-started-1/quick-navigation-guide.md)
 * [Discord](getting-started-1/discord.md)
-* [Calendar](getting-started-1/calendar.md)
-* [Contributing](getting-started-1/how-can-you-contribute/README.md)
-  * [Pollen](getting-started-1/how-can-you-contribute/pollen.md)
+* [Pollen](getting-started-1/pollen.md)
+* [Takvim](getting-started-1/calendar.md)
+* [Katkıda Bulunma](getting-started-1/how-can-you-contribute/README.md)
   * [Buzz Bounty](getting-started-1/how-can-you-contribute/buzz-swarm-bounty.md)
   * [Fauna Awards](getting-started-1/how-can-you-contribute/fauna-awards.md)
 

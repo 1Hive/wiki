@@ -1,16 +1,16 @@
-# Contributing
+# Katkıda Bulunma
 
-1Hive is an open community, if you would like to help with something, then get involved! We are the vanguard of decentralized organizations, testing and exploring different alternatives for the future, and we would like you to be part of this adventure too.
+1Hive açık bir topluluktur. Bir konuda yardımcı olmak istiyorsanız, buyrun gelin! Bizler, gelecek için çeşitli alternatifleri test eden ve keşfeden merkeziyetsiz organizasyonların öncü birliğiyiz ve sizin de bu maceranın bir parçası olmanızdan memnuniyet duyarız.
 
-Anyone can come and start contributing. The source of 1Hive's potential is the community, this is where the enormous power of DAOs come from: they can tap into the vast talents members have and benefit everyone by doing so.
+Herkes gelip katkıda bulunmaya başlayabilir. 1Hive potansiyelinin temel kaynağı, topluluğun kendisidir. DAO'ların devasa gücünü topluluktan alır. DAO'lar aracılığıyla uçsuz bucaksız yetenekli üyelere ulaşılabilir ve bundan herkesin yararına bir iş ortaya çıkmış olur.
 
-## How to Contribute
+## Nasıl Katkıda Bulunurum?
 
-Interact, share ideas, and join the discussion in our platforms. Sign up to the weekly Pollen distribution and [earn pollen](pollen.md), which rewards individuals for contributing to Discourse, Discord, and/or Github.
+Platformlarımızla etkileşimde bulunun, fikirlerinizi paylaşın, tartışmalara katılın. Haftalık Pollen dağıtımına kayıt olup [pollen kazanın](../pollen.md). Pollen ile Discorse, Discord ve/veya Github üzerinde katkıda bulunan kişiler ödüllendirilir.
 
-You can discuss new ideas with the relevant [Swarm](../../community/swarms/) and if it doesn't fit anywhere or it's something that requires independent work, you can create a [proposal](../../projects/honey/participation.md#proposals) for funding to do it independently.
+İlgili [Swarm ](../../community/swarms/)ile yeni fikirler tartışabilir, fikrinize uygun bir yer bulamazsanız veya bağımsız bir iş yapılmasını gerektiriyorsa, bunu bağımsız olarak yapmak için bir [teklif ](../../projects/honey/participation.md)oluşturabilirsiniz.
 
-Check out the [Buzz Bounties](buzz-swarm-bounty.md) for media and communication related work.
+Medya, iletişim ve pazarlama işlerine ilişkin [Buzz Bounties](buzz-swarm-bounty.md) kısmına bakabilirsiniz.
 
-Help out around the community and you may be spotted by one of the [Fauna](../../community/swarms/fauna.md) members and [awarded for your help](fauna-awards.md).
+Toplulukta insanlara yardımcı olun, böylece [Fauna](../../community/swarms/fauna.md) üyeleri tarafından fark edilerek [yardımcı olduğunuzdan dolayı ödüllendirilebilirsiniz](fauna-awards.md).
 

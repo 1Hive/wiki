@@ -1,16 +1,16 @@
 ---
-description: Earn Honey for contributions
+description: Katkıda bulunarak Honey kazanabilirsiniz
 ---
 
 # Pollen
 
-Pollen is a contributor rank used to recognize contributions to 1Hive’s [Discord](https://discord.com/invite/P4rRDUKTAU), [Discourse](https://forum.1hive.org/), and [Github](https://github.com/1Hive) communities, and reward these contributions with weekly distributions of Honey.
+Pollen; 1Hive'ın [Discord](https://discord.com/invite/P4rRDUKTAU), [Discourse](https://forum.1hive.org/) ve [Github](https://github.com/1Hive) topluluklarında yapılan katkıları belirlemek ve bu katkıları haftalık Honey dağıtımı ile ödüllendirmek için kullanılan bir sıralama sistemidir.
 
-## How do I participate
+## Nasıl Katılırım?
 
-You have to be [**Verified** ](../discord.md#tips)on 1Hive's Discord in order to receive weekly Pollen distributions. Then, as soon as you start interacting on 1Hive’s Discord, Discourse, and Github communities you’ll start earning Pollen, which gets added to your registered wallet as sweet sweet Honey.
+Haftalık Pollen dağıtımlarından pay almak için, 1Hive Discord'unda [Verified ](discord.md#bot-komutlari)olmalısınız. Ardından, 1Hive'ın Discord, Discourse ve Github topluluklarıyla etkileşimde bulunmaya başlar başlamaz kayıt olurken verdiğiniz cüzdan adresinizde Honey'e dönüşecek şekilde Pollen kazanmaya da başlamış olursunuz.
 
-In order to receive weekly pollen distributions you’ll need to register your accounts on supported platforms and link them to your xDai address. You can do this by posting the below in 1hive Discord’s `#🐛onboarding` channel:
+Haftalık pollen dağıtımlarından pay almak için, desteklenen platfomlardaki hesaplarınızı kaydettirerek bunları xDai adresinize bağlamanız gerekmektedir. Bunu da, 1Hive Discord'un `#🐛onboarding` kanalına aşağıdaki formatta bilgilerinizi girerek yapabilirsiniz:
 
 ```text
 #🏵pollen
@@ -20,29 +20,31 @@ discord: justabee#1234
 xDai: 0x0...000
 ```
 
-Replacing`justabee`, `justabee#1234` and `0x0...000` with your accounts.
+Bu örnekteki`justabee`, `justabee#1234` ve`0x0...000` ile kendi hesaplarınızı değiştirmeniz yeterlidir.
 
-If you have questions, are interested in how pollen is calculated, or auditing the distributions, just hop on the [`#🏵pollen`](https://discord.gg/y8fPNcNdAa) channel.
+Aklınıza takılan bir soru olursa, pollenin nasıl hesaplandığını ya da dağıtımların nasıl denetlendiğini merak ediyorsanız, [`#🏵pollen`](https://discord.gg/y8fPNcNdAa) kanalına gelip sorabilirsiniz.
 
-## Pollen Distribution
+## Pollen Dağıtımı
 
-Pollen is computed using **SourceCred** to create and analyze a graph of interactions between community members. While not a perfect representation of the value of contributions, Pollen can help reward the interactions that are important but too granular to warrant creating proposals for or claiming from a Swarm.
+Pollen, topluluk üyeleri arasındaki etkileşimlerin bir grafiği oluşturulup bu grafiğin analizinin yapılması için **SourceCred** kullanılarak hesaplanır. Yapılan katkıların değerini en iyi şekilde temsil etmemesine rağmen, Pollen bir teklif oluşturmak için veya Swarm'dan talep etmek için nispeten küçük olmasına rağmen aynı zamanda da önemli olan etkileşimlerin ödüllendirilmesine yardımcı olmaktadır.
 
-SourceCred monitors all messages and contributions to Discord, Discourse and GitHub and applies a multiplier to a base score of 1 cred per action. One of the primary ways of earning cred is when text you write or actions you create are responded too positively by other members through the use of emojis. Writing messages do not earn cred. The weights for Cred distribution are decided by 1Hive community.
+Sourcecred; Discord, Discourse ve Github'daki bütün mesajları ve yapılan katkıları izler ve eylem 1 baz puana bir çarpan uygular. Cred kazanmanın temel yöntemlerinden biri, yazdığınız bir metnin veya oluşturduğunuz eylemlerin diğer kullanıcıların emoji kullanımı yoluyla pozitif olarak karşılanmasıdır. Mesaj yazmak, cred kazandırmaz. Cred dağıtımının ağırlıklarına 1Hive topluluğu karar verir.
 
-Cred earned within 1Hive is only useful within 1Hive. It isn't transferable and scoring is retroactive so if you sign up to pollen after having earned some, you will still receive cred for that period \(although you will only receive a honey reward for the period after registering\).
+1Hive'da kazanılan Cred, yalnızca 1Hive içerisinde işe yarar. Başka bir yere devredilebilir değildir ve puanlamalar geriye dönüktür. Dolayısıyla, bir miktar cred kazandıktan sonra pollen'e kaydolmanız halinde geçmişte kazandığınız cred'ler de hesabınıza eklenmiş olur \(ancak honey ödemelerini yalnızca kayıt olduktan sonraki dönem için alırsınız\).
 
-The [Pollen Explorer](https://1hive.github.io/pollen/#/explorer) has a leaderboard of Pollen users displaying the cred they have earned throughout their engagement with 1Hive.
+[Pollen Explorer](https://1hive.github.io/pollen/#/explorer), 1Hive ile etkileşimde bulundukları süre boyunca Pollen'e kayıtlı kullanıcıların cred puanlarını gösteren bir skor tahtasıdır.
+
+Her bir eylem için kazanılan Pollen'i belirleyen ağırlıklara pollen explorer üzerinde "SHOW WEIGHT CONFIGURATION" kısmına tıklayarak bakabilirsiniz.
 
 The weights that determine the Pollen earned for each action can be seen in the [pollen explorer](https://1hive.github.io/pollen/#/explorer%20) by clicking on "SHOW WEIGHT CONFIGURATION".
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
-### Total Distribution
+### Toplam Dağıtım
 
 The weekly Honey distribution is capped at $15,000 or 33 Honey if 33 Honey is worth less than $15,000. 5% of the weekly distribution goes directly to the SourceCred team.
 
-![Figure 1. Weekly distribution in Honey based on USD value](../../.gitbook/assets/image%20%2814%29.png)
+![Figure 1. Weekly distribution in Honey based on USD value](../.gitbook/assets/image%20%2814%29.png)
 
 ### Distribution Rate
 
@@ -70,7 +72,7 @@ A breakdown of each platforms relative distribution of Pollen each week.
 
 ### Discord Pollen Weights
 
-On Discord, in order to mint cred for other users through emoji responses, users giving the response must be [Verified](../discord.md#tips). Minting to self is disabled and the system also weights the minting amount to others depending on how much cred the minter has earned.
+On Discord, in order to mint cred for other users through emoji responses, users giving the response must be [Verified](discord.md#tips). Minting to self is disabled and the system also weights the minting amount to others depending on how much cred the minter has earned.
 
 | Total Cred | Mint Weight |
 | :--- | :--- |
