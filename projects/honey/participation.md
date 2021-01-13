@@ -19,7 +19,7 @@ You can filter the feed by proposal type or status, and can sort based on suppor
 
 Suggestions, including the _abstain proposal,_ are proposals which do not request funds from the common pool. They can be used to draw collective attention to specific issues, without committing or requesting funds be allocated to the issue. 
 
-Suggestions can accumulate support, but they will never pass. Instead, supporting a suggestion will increase the amount of support required for all other distribution proposals to pass. So if you think that the community is spending money unproductively supporting the _abstain proposal,_ or creating a new signaling proposal that makes the case for how you think the community should actually be allocating resources can have a meaninful influence on behavior of the system. 
+Suggestions can accumulate support, but they will never pass. Instead, supporting a suggestion will increase the amount of support required for all other distribution proposals to pass. So if you think that the community is spending money unproductively supporting the _abstain proposal,_ or creating a new signaling proposal that makes the case for how you think the community should actually be allocating resources can have a meaningful influence on behavior of the system. 
 
 ### Proposals 
 
