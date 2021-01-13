@@ -29,13 +29,13 @@ The working group channels are for technical discussion regarding the developmen
 
 Commands can be executed in the **🤖bot-commands** channel which provide useful information or register your account with various services.
 
-`!hny help` - Displays a list of commands available displaying info about Honey
+`!hny help` - Displays a list of commands used for displaying info about 1Hive.
 
-`!verify` - Opens a bot which helps you register your Discord account with your [verified BrightID](../../guides/brightid.md) account. This is necessary to register for pollen and to mint cred for others in Discord.
+`!verify` - Opens a bot which helps you register your Discord account with your [verified BrightID](../../guides/brightid.md) account. In the past this was necessary to register for pollen and to mint cred for others in Discord. Currently it is unused but may be again in the future.
 
-`$help` -  Will display info about depositing/withdrawing to/from your tip bot account, allowing you tip HNY to other members of the community through Discord. You can react with emojis under the help message for more details.
+`$help` -  Enables you to connect with your tip bot account. It will show info about depositing/withdrawing to/from your tip bot account, allowing you tip HNY to other members of the community through Discord. You can react with emojis under the help message for more details.
 
-Further details can be seen in this [forum post](https://forum.1hive.org/t/discord-bot-commands/1298/2).
+Further details about Bot Commands can be seen in this [forum post](https://forum.1hive.org/t/discord-bot-commands/1298/2).
 
 ## **Tips**
 
