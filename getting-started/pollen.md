@@ -22,7 +22,7 @@ xDai: 0x0...000
 
 Replacing`justabee`, `justabee#1234` and `0x0...000` with your accounts. Note `Discourse` refers to [the Forum](https://forum.1hive.org/).
 
-If you have questions, are interested in how pollen is calculated, or auditing the distributions, just hop on the [`#🏵pollen`](https://discord.gg/y8fPNcNdAa) channel.
+If you have questions, are interested in how pollen is calculated, or auditing the distributions, just hop on the [🏵**pollen**](https://discord.com/invite/y8fPNcNdAa) channel.
 
 ## Pollen Distribution
 
@@ -89,9 +89,11 @@ All emojis give 1 cred, apart from the below exceptions.
 | 💩 | 0x |
 | 👎 | 0x |
 
-Channels that give 0x cred include: `#✅check-in` ,`#🐸memes` ,`#🤖bot-commands` `#🕹arcade` ,`#🦩lounge` ,`#🍱kitchen` , Fauna channels and all of the Information channels.
+Channels that give 0 cred include: ✅**check-in**, ****🐸**memes**, **🤖bot-commands**, **🕹arcade**, **🦩lounge**, **🍱kitchen**, ****Fauna channels and all of the Information channels.
 
-The `#🍄nominations` channel mints 95% of cred for users who have been tagged in messages, users sharing a tagged user get 5% cred for emoji responses. All users tagged will share cred equally amongst all tagged users in that message.
+The 🐝**marketing** channel gives 0.25x the standard cred weight.
+
+The 🍄**nominations** channel mints 95% of cred for users who have been tagged in messages, users sharing a tagged user get 5% cred for responses. All users tagged will share cred equally amongst all tagged users in that message.
 
 ### Forum Pollen Weights
 
