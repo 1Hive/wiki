@@ -8,7 +8,7 @@ El Swarm 🐛Bug Bounty administra los fondos disponibles a través del Programa
 
 ## Links Útiles 
 
- [Aragon DAO](https://aragon.1hive.org/#/1hivebounty/) contienes los fondos de bug bounty.
+ [Aragon DAO](https://aragon.1hive.org/#/1hivebounty/) contiene los fondos de Bug Bounty
 
 ## Roles y Responsabilidades
 
