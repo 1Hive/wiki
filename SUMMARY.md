@@ -42,7 +42,8 @@
   * [🐛 Bug Bounty](community/swarms/bug-bounty.md)
 * [Media](community/media/README.md)
   * [Redes Sociales](community/media/redes-sociales.md)
-* [Diseño](community/diseno.md)
+* [Diseño](community/diseno/README.md)
+  * [Directrices de la marca](community/diseno/directrices-de-la-marca.md)
 * [Seguridad](community/security.md)
 
 ## 🐑Guías <a id="guides"></a>
