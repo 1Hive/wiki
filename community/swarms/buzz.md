@@ -20,7 +20,7 @@ El Swarm Buzz crea y mantiene la documentación asociada con el DAO 1Hive , incl
 
 ### Miembros del DAO Buzz
 
-| Miembros | Rol |
+| Miembros | Roles |
 | :--- | :--- |
 | [d0sh](https://forum.1hive.org/u/d0sh/summary) | Jefe de Marketing |
 | [blazar](https://forum.1hive.org/u/blazar/summary) | Especialista en Marketing y Gerente de Documentos |
@@ -32,7 +32,7 @@ Cada uno de los miembros anteriores tiene el mismo peso de voto dentro del DAO B
 
 ### Buzz Contributors
 
-| Miembros | Rol |
+| Miembros | Roles |
 | :--- | :--- |
 | [escanor](https://forum.1hive.org/u/escanor/summary) | Administrador |
 | [sp7290](https://forum.1hive.org/u/sp7290/summary) | Administrador |

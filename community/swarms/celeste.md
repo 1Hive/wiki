@@ -16,7 +16,7 @@ Los miembros del Enjambre Celeste son los responsables de construir, mantener e 
 
 ## Roles y Responsabilidades.
 
-| Member | Role |
+| Miembros | Roles |
 | :--- | :--- |
 | @rperez89 | Desarrollador de UI \(interfaz de usuario\) y miembro del DAO |
 | @fabri | Desarrollador de UI \(interfaz de usuario\) y miembro del DAO |

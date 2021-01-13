@@ -22,7 +22,7 @@ El swarm de Luna anima a todos los interesados a participar para experimentar co
 
 ## Roles y Responsabilidades
 
-| Members | Roles |
+| Miembros | Roles |
 | :--- | :--- |
 | [lkngtn](https://forum.1hive.org/u/lkngtn) | Investigador en 1Hive |
 | [mzargham](https://forum.1hive.org/u/mzargham/summary) | Fundador de [BlockScience](https://block.science/) |
