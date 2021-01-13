@@ -31,9 +31,11 @@ Commands can be executed in the **🤖bot-commands** channel which provide usefu
 
 `!hny help` - Displays a list of commands used for displaying info about 1Hive.
 
-`!verify` - Opens a bot which helps you register your Discord account with your [verified BrightID](../../guides/brightid.md) account. In the past this was necessary to register for pollen and to mint cred for others in Discord. Currently it is unused but may be again in the future.
+`!join` - If you have more than 1HNY, then you can execute this and follow the guide in the chat to give you access to the 🍯**keepers** channel.
 
 `$help` -  Enables you to connect with your tip bot account. It will show info about depositing/withdrawing to/from your tip bot account, allowing you tip HNY to other members of the community through Discord. You can react with emojis under the help message for more details.
+
+`!verify` - Opens a chat which helps you register your Discord account with your [verified BrightID](../../guides/brightid.md) account. In the past this was necessary to register for pollen and to mint cred for others in Discord. Currently it is unused but may be used again in the future.
 
 Further details about Bot Commands can be seen in this [forum post](https://forum.1hive.org/t/discord-bot-commands/1298/2).
 
