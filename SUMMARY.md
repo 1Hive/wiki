@@ -8,7 +8,9 @@
 ## 🌱Empezando <a id="getting-started-1"></a>
 
 * [Discord](getting-started-1/discord.md)
+* [Terminología](getting-started-1/terminologia.md)
 * [Presentate](getting-started-1/introduce-yourself.md)
+* [Pollen](getting-started-1/pollen.md)
 * [Calendario](getting-started-1/calendario.md)
 * [Como Contribuir](getting-started-1/how-can-you-contribute/README.md)
   * [Pollen](getting-started-1/how-can-you-contribute/pollen.md)
