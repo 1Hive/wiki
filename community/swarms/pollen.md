@@ -16,7 +16,7 @@ El Swarm 🏵Pollen  administra la instancia de 1Hive SourceCred. Los detalles s
 
 ## Roles y Responsabilidades
 
-| Member | Role |
+| Miembros | Roles |
 | :--- | :--- |
 | [befitsandpiper](https://forum.1hive.org/u/befitsandpiper/summary) | Operador primario y miembro del DAO |
 | [lkngtn](https://forum.1hive.org/u/lkngtn) | Miembro del DAO  |
