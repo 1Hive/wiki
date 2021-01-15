@@ -30,7 +30,3 @@ Gardens enables tokenized communities to more easily leverage conviction voting,
 * Proposal metadata, user profiles, and comments will be all be stored on IPFS allowing alternative interfaces to be created and offered in a decentralized and permissionless fashion. 
   * To remain visible on the interface that is made available on 1hive.org, users and communities would need to adhere to the 1hive community covenant. 
 
-
-
-
-
