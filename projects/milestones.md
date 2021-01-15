@@ -24,9 +24,9 @@ Issuance \(new Honey creation\) was initially set to 60% per year. It was reduce
 
 ### **Honeyswap Landing Page**
 
-🎯 **Target Date:** Q1 2021
+🎯 **Target Date:** Q1 2021 \(Completed on 1/13/2021\)
 
-A user friendly landing page for [Honeyswap](honeyswap/) including links to guides and useful information.
+A user friendly landing page for [Honeyswap](honeyswap/) including links to guides and useful information. See the new page at [honeyswap.org](https://honeyswap.org/#/swap)
 
 ### 1Hive Gardens
 

@@ -2,6 +2,9 @@
 
 ## General questions
 
+**When Farm?**  
+At this time farms are inactive and there are no farm proposals set to pass.
+
 **What is a DAO?**  
 Decentralized Autonomous Organizations are coordination protocols that enable humans to work together towards a common goal by regulating interactions through rules defined in software. DAO's are unique because they put automation at the center and humans at the edges. There is no CEO, nor managers. Administration, where it must exist, is viewed as a design flaw and ruthlessly minimized.
 
@@ -41,7 +44,19 @@ The common pool holds the Honey the DAO has available to use and can only be wit
 **What is Honey's Issuance Policy?**  
 30% at this time, see [issuance page](../projects/honey/issuance.md) for more details.
 
-## xDai
+## xDai & Honeyswap
+
+**Setup Metamask**  
+[https://honeyswap.org/setup-wallet](https://honeyswap.org/setup-wallet)
+
+**Bridge Any Token**  
+[https://honeyswap.org/xdai-bridges](https://honeyswap.org/xdai-bridges)
+
+**Provide Liquidity on Honeyswap**  
+[https://honeyswap.org/liquidity-pool](https://honeyswap.org/liquidity-pool)
+
+**Understanding Yield Farming on Honeycomb**  
+[https://honeyswap.org/yield-farming](https://honeyswap.org/yield-farming)
 
 **Are transaction fees really less than $0.01 \($1 = 1 xDai\)?**   
 Yes, setting Gas Price = 1 should be enough to confirm all transactions.
