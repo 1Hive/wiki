@@ -4,6 +4,12 @@ description: Upcoming milestones
 
 # Milestones
 
+## Weekly Recap
+
+See the forum posts below for the most recent updates from various swarms.
+
+[1Hive Weekly Recap \(28 Dec - 4 Jan\)](https://forum.1hive.org/t/1hive-weekly-recap-cw-52-28-dec-4-jan/1765) 
+
 ## 1Hive Milestones
 
 {% hint style="warning" %}
@@ -57,10 +63,4 @@ This will enable 1Hive to bridge HNY back to the Ethereum mainnet. Currently it 
 ### xDai General Roadmap
 
 1Hive is currently running on the xDai network. Any developments that happen on xDai could have an effect on the 1Hive ecosystem. See [the xDai roadmap](https://www.xdaichain.com/about-xdai/roadmap).
-
-## Weekly Recap
-
-See the forum posts below for the most recent updates from various swarms.
-
-[1Hive Weekly Recap \(28 Dec - 4 Jan\)](https://forum.1hive.org/t/1hive-weekly-recap-cw-52-28-dec-4-jan/1765) 
 
