@@ -2,10 +2,10 @@
 
 ## General questions
 
-**Will there be an HNY Airdrop?**  
-At the moment, there are no plans for an airdrop. Members of the 1Hive community can earn HNY through the [Faucet](https://faucet.1hive.org/#/) and through [Pollen](https://1hive.gitbook.io/1hive/getting-started/pollen) by offering their contribution and participation on Discord, the Forum and Github.
+**Will there be a Honey Airdrop?**  
+At the moment there are no plans for an airdrop. Members of the 1Hive community can earn Honey through the [Faucet](https://faucet.1hive.org/#/) and through [Pollen](https://1hive.gitbook.io/1hive/getting-started/pollen) by participating on Discord, the Forum and Github.
 
-As of now, the majority of the community believes that airdropping HNY would not have a beneficial impact on the price and the sustainability of the project.
+As of now, the majority of the community believes that airdropping Honey would not have a beneficial impact on the price and sustainability of the project.
 
 **Will the faucet be topped up? What happens once it is over?**  
 The [Faucet](https://faucet.1hive.org/#/) pays out 5% of its balance every 48h; Therefore, it never truly “ends”. However, there are discussions about topping it up in order to have it as an incentive for newcomers. You can read and share your opinions about this topic [here](https://forum.1hive.org/t/temporarily-suspend-the-faucet/1580/2). So far over 600 HNY has been distributed through the faucet.
@@ -26,17 +26,17 @@ In the case of the 1Hive DAO, a community currency called Honey is used to creat
 **Does 1Hive have a roadmap?**  
 We have rough [milestones](../projects/milestones.md) updated by individual swarms.
 
-**Can I stake HNY?**  
-Currently it is not possible to stake HNY. This feature will become available through [Celeste](https://1hive.gitbook.io/1hive/projects/celeste) once it is launched.
+**Can I stake Honey?**  
+Currently it is not possible to stake Honey. This feature will become available through [Celeste](https://1hive.gitbook.io/1hive/projects/celeste) once it is launched.
 
-**When will HNY be on Uniswap?**   
-The reverse omnibridge enabling moving HNY to Mainnet to add to Uniswap will most likely land on the Ethereum Mainnet in Q1-Q2 2021.
+**When will Honey be on Uniswap?**   
+The reverse omnibridge enabling moving Honey to Mainnet to add to Uniswap will most likely land on the Ethereum Mainnet in Q1-Q2 2021.
 
 **I saw a "Matic" channel on Discord. Are we leaving xDai?**   
-Currently there are no plans to leave xDai, but 1Hive is exploring what opportunities may exist to extend the community and ecosystem of products to additional networks including Matic and the Ethereum mainnet.
+Currently there are no plans to leave xDai, but 1Hive is exploring what opportunities may exist to extend the community and ecosystem of products to additional networks including Matic and in development roll-up chains such as Arbitrum.
 
-**Is there any incentive for holding HNY?**  
-Until staking becomes a reality with [Celeste](https://1hive.gitbook.io/1hive/projects/celeste), holding HNY is primarily used for voting on proposals and to [provide liquidity](https://link.medium.com/Zb26x6KQWcb).
+**Is there any incentive for holding Honey?**  
+Until staking becomes a reality with [Celeste](https://1hive.gitbook.io/1hive/projects/celeste), holding Honey is primarily used for voting on proposals and to [provide liquidity](https://link.medium.com/Zb26x6KQWcb).
 
 ## Tokenomics
 
@@ -59,17 +59,17 @@ Market cap can be found here on [CoinGecko](https://www.coingecko.com/en/coins/h
 Market cap = \(Total Supply - Common Pool\) x Honey Price 
 
 **What is Honey's current Issuance Policy?**  
-The inflation rate is currently set at 30% per year. At first, the inflation rate was 60% but the community voted to change it. A dynamic inflation rate has been developed and is likely to be integrated in Q1/Q2. See [issuance page](../projects/honey/issuance.md) for more details.
+The inflation rate is currently set to 30% per year. At first, the inflation rate was 60% but the community voted to change it. A dynamic inflation rate has been developed and is likely to be integrated in Q1/Q2. See [issuance page](../projects/honey/issuance.md) for more details.
 
-**Who gets this annual 30%?**  
-The inflation rate is used to fill the Common Pool, which holds the HNY the DAO has available to use and can only be withdrawn from by passing Honey proposals.
+**Where does the newly inflated currency go?**  
+The inflation rate is used to fill the Common Pool, which holds the Honey the DAO has available to use and can only be withdrawn from by passing Honey proposals.
 
 The common pool is used to fund pollen, faucet, bounties and collaboration with other projects that may happen in the future. 
 
 **What is the common pool address and where can the token transfers be viewed?**  
 [0x05e42c4Ae51BA28d8aCF8c371009AD7138312CA4](https://blockscout.com/poa/xdai/address/0x05e42c4Ae51BA28d8aCF8c371009AD7138312CA4/token-transfers)
 
-**Where can I  see the holding and transactions of HNY?**  
+**Where can I see details about Honey?**  
 [Blockscout](https://blockscout.com/poa/xdai/) is where you can track any transaction on the xDai chain. [Here](https://blockscout.com/poa/xdai/address/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/transactions) is where you can track HNY’s ones.
 
 ## xDai & Honeyswap
@@ -104,13 +104,13 @@ Yes, any ERC20, ERC677 and ERC827 can be swapped, by following a few easy steps 
 **I am new in the community, what should I do?**  
 First of all, welcome! Be sure to follow us on [Telegram](https://t.me/honeyswapDEX), [Discord](https://discord.com/invite/xTZjbRjc8t), [Twitter](https://twitter.com/Honeyswap), and to introduce yourself on our [Forum](https://forum.1hive.org/t/introduce-yourself-to-1hive-thread/130/7). Additionally, if you follow a few easy steps, 1Hive is welcoming you with the [Welcome Bounty!](https://docs.google.com/forms/d/e/1FAIpQLSdP3pTX_BLKqLCmkC84YyDj8PVK5wfOSSaym93SJj5KX6RP2w/viewform) You can earn 1xDai, which will be enough for the faucet and countless transactions! ****
 
-**I can’t claim my HNY through the faucet. Transaction is failing**  
+**I can’t claim my HNY through the faucet, the transaction is failing.**  
 Please, make sure to have at least 0.5 xDai in your wallet! 
 
-**I bridged my token but I do not see it on Metamask. What’s wrong?**  
+**I bridged my token but I do not see it on MetaMask. What’s wrong?**  
 Don’t worry, your tokens are safe. Being on the xDai chain you’ll need to add a new Token address to your MetaMask extension.
 
-To add a token first find the token address from one of these lists:  [Bridged Tokens - Blockscout](https://blockscout.com/poa/xdai/bridged-tokens) / [Token List](https://tokenlists.org/token-list?url=https://tokens.honeyswap.org). Then open Metamask -&gt; Add Token -&gt; Custom Token -&gt; Copy Paste the Token Address.
+To add a token first find the token address from one of these lists:  [Bridged Tokens - Blockscout](https://blockscout.com/poa/xdai/bridged-tokens) / [Token List](https://tokenlists.org/token-list?url=https://tokens.honeyswap.org). Then open Metamask → Add Token → Custom Token → Copy Paste the Token Address.
 
 **How can I withdraw my Honeyswap V2 liquidity using LP Tokens?**  
 You can do so by going on [Honeyswap](https://app.honeyswap.org/#/swap) → Pool → Remove Liquidity \(It may take a few moments to load\).
