@@ -93,8 +93,8 @@ Generally yes, remember to set the Gas Price to 1 GWEI in your wallet when submi
 
 ![](../.gitbook/assets/image%20%289%29.png)
 
-**If the fees are so little, how much can I earn by providing liquidity?   
-I COULD USE SOME TECHNICAL HELP TO EXPLAIN THIS ONE**
+**If the fees are so little, how much can I earn by providing liquidity?**   
+Fees earned in Honeyswap trades are 0.25% of the value of the trade that has occurred. They are not related to the gas fees paid to the network \(in our case xDAI\) to execute the trade transaction. Liquidity providers receive none of the networks gas fees but 0.25% of the value of trades split between all liquidity providers in that pair.
 
 **Can any ERC-20 token be bridged to Honeyswap?**   
 Yes, any ERC20, ERC677 and ERC827 can be swapped, by following a few easy steps and by using the [omnibridge](https://omni.xdaichain.com/).
