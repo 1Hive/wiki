@@ -49,7 +49,8 @@
   * [Recompensas de Buzz](community/media/buzz-bounty.md)
 * [Diseño](community/diseno/README.md)
   * [Directrices de la marca](community/diseno/directrices-de-la-marca.md)
-* [Seguridad](community/security.md)
+* [Seguridad](community/security/README.md)
+  * [Bug Bounty](community/security/bug-bounty.md)
 
 ## 🐑Guías <a id="guides"></a>
 

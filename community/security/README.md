@@ -4,7 +4,7 @@
 
 1Hive has an ongoing Bug Bounty program where community members can report any bugs or vulnerabilities they discover in contracts for a reward of up to **$40,000**. Find more information on the bounty criteria and application process on the Bug Bounty page.
 
-See [Bug Bounty Swarm](swarms/bug-bounty.md) and official bug bounty program description in the link below for more details.
+See [Bug Bounty Swarm](../swarms/bug-bounty.md) and official bug bounty program description in the link below for more details.
 
 {% embed url="https://forum.1hive.org/t/1hive-contract-bug-bounty-program/1391" %}
 
