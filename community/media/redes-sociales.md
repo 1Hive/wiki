@@ -4,7 +4,7 @@ description: Administrado por miembros de confianza de la comunidad.
 
 # Redes Sociales
 
-Las cuentas sociales de 1Hive son administradas por varias personas de la comunidad. Al usar el canal de Discord de Marketing, los usuarios pueden hacer sugerencias para que se realicen publicaciones y la comunidad puede votar por ellas. Los detalles se pueden encontrar en la sección Discord de marketing.
+Las cuentas sociales de 1Hive son administradas por varias personas de la comunidad. Al usar el canal de Discord de Marketing, los usuarios pueden hacer sugerencias para que se realicen publicaciones y la comunidad puede votar por ellas. Los detalles se pueden encontrar en la sección [Canal de marketing](../../getting-started-1/discord/canal-de-marketing.md).
 
 ## Redes Sociales y Administradores
 
