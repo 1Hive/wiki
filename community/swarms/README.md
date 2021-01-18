@@ -1,3 +1,7 @@
+---
+description: Enjambres
+---
+
 # Swarms
 
 1Hive no tiene una jerarquía administrativa, las personas son libres de ir y venir, contribuir mucho o poco, tomar iniciativas y defenderlas o simplemente participar y brindar soporte casual. 
