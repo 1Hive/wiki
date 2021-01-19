@@ -68,7 +68,7 @@ Un desglose de la distribución relativa de polen de cada plataforma cada semana
 | Discord | 30% |
 | Forum | 30% |
 
-### Discord Pollen Weights
+### Pesos del Pollen en Discord
 
 On Discord, in order to mint cred for other users through emoji responses, users must have received some cred in the past. Minting to self is disabled and the system also weights the minting amount to others depending on how much cred the minter has earned.
 
