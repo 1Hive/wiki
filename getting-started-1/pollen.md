@@ -48,8 +48,8 @@ La distribución semanal de Honey tiene un límite de $15,000 o 33 Honey si 33 H
 
 El pago semanal está determinado por la contribución reciente de un contribuyente, así como por su contribución total.
 
-* La **contribución semanal** es la cantidad distribuida por el polen ganado por los usuarios en la última semana. 
-* La **contribución total** es la cantidad distribuida por todo el polen ganado por los usuarios hasta la fecha de distribución. 
+* La **contribución semanal** es la cantidad distribuida por el pollen ganado por los usuarios en la última semana. 
+* La **contribución total** es la cantidad distribuida por todo el pollen ganado por los usuarios hasta la fecha de distribución. 
 * La **tasa de decaimiento** es la tasa a la que decae el cálculo de la contribución total para cada semana anterior. Por ejemplo, para una tasa de deterioro del 40%, la semana anterior se pondera al 100%, la segunda semana anterior se pondera al 60%, la tercera semana anterior se pondera al 36%, etc.
 
 | Parametro de Distribución | Asignación y Tasa |
@@ -60,7 +60,7 @@ El pago semanal está determinado por la contribución reciente de un contribuye
 
 ### Distribución por Plataforma
 
-Un desglose de la distribución relativa de polen de cada plataforma cada semana.
+Un desglose de la distribución relativa de pollen de cada plataforma cada semana.
 
 | Plataforma | Porcentaje de Distribución |
 | :--- | :--- |
@@ -68,11 +68,11 @@ Un desglose de la distribución relativa de polen de cada plataforma cada semana
 | Discord | 30% |
 | Forum | 30% |
 
-### Pesos del Pollen en Discord
+### Pesos de Pollen en Discord
 
-On Discord, in order to mint cred for other users through emoji responses, users must have received some cred in the past. Minting to self is disabled and the system also weights the minting amount to others depending on how much cred the minter has earned.
+En Discord, para generar cred para otros usuarios a través de emojis, los usuarios deben haber recibido algo de cred en el pasado. Generar cred a uno mismo está deshabilitado y el sistema también pondera la cantidad de generación de cred  a otros dependiendo de cuánto cred haya ganado.
 
-| Total Cred | Mint Weight |
+| Cred Total | Peso de Acuñado \(mint\) |
 | :--- | :--- |
 | 120+ Cred  | 1x |
 | 90+ Cred | 0.75x |
@@ -80,26 +80,26 @@ On Discord, in order to mint cred for other users through emoji responses, users
 | 30+ Cred  | 0.25x |
 | 0 to 30 Cred  | 0x |
 
-All emojis give 1 cred, apart from the below exceptions.
+Todos los emojis dan 1 cred aparte de las siguientes excepciones.
 
-| Emoji | Mint Weight |
+| Emojis | Peso de Acuñado \(mint\) |
 | :--- | :--- |
 |  🍯 + `:Honeypot:` \(custom emoji\) | 2x |
 | 🐝 + `:Honeybee:` \(custom emoji\) | 2x |
 | 💩 | 0x |
 | 👎 | 0x |
 
-Channels that give 0 cred include: ✅**check-in**, ****🐸**memes**, **🤖bot-commands**, **🕹arcade**, **🦩lounge**, **🍱kitchen**, **Fauna** channels and all of the **Information** channels.
+Los canales que dan 0 cred incluyen: ✅**check-in**, ****🐸**memes**, **🤖bot-commands**, **🕹arcade**, **🦩lounge**, **🍱kitchen**, **Fauna** y todos los canales de **Información**.
 
-The 🐝**marketing** channel gives 0.25x the standard cred weight.
+El canal de  🐝**marketing** channel da 0.25x del peso de cred estandar.
 
-The 🍄**nominations** channel mints 95% of cred for users who have been tagged in messages. Users sharing a tagged user get 5% cred for responses. All users tagged will share cred equally amongst all tagged users in that message.
+El canal  🍄**nominations** genera 95% de cred a los usuarios que han sido etiquetados en mensajes. Los usuarios que comparten un usuario etiquetado obtienen un 5% de cred por las respuestas. Todos los usuarios etiquetados compartirán cred por igual entre todos los usuarios etiquetados en ese mensaje. 
 
-### Forum Pollen Weights
+### Peso de Pollen en el Foro
 
-On the Forum the total cred a user can mint is dependent on the trust level of the user.
+En el Foro, el cred total que un usuario puede generar depende del nivel de confianza del usuario.
 
-| Trust level | Mint Weight |
+| Nivel de Confianza | Peso de Acuñado \(mint\) |
 | :--- | :--- |
 | 4 | 1.5x |
 | 3 | 1.25x |
@@ -107,19 +107,19 @@ On the Forum the total cred a user can mint is dependent on the trust level of t
 | 1 | 0.1x |
 | 0 | 0x |
 
-## Rules
+## Reglas
 
-Due to the infancy of the SourceCred software there are still some ways to exploit it. Various parameter changes have minimized this risk but 1Hive still imposes the following rules, which are known and monitored by many in the community.
+Debido a lo joven  del software SourceCred, todavía hay algunas formas de explotarlo. Varios cambios de parámetros han minimizado este riesgo, pero 1Hive aún impone las siguientes reglas, que son conocidas y monitoreadas por muchos en la comunidad.
 
-1. **One account per user policy** A user is not allowed to own and operate multiple accounts.
-2. **No reactions/likes trading allowed** Entering agreements with other users to like/react to each other’s posts is not allowed. Reactions/Likes trading is defined by a pattern of 2 or more users mutually reacting to most or all of each other’s posts, regardless of the quality of the content.
-3. **Bug use / Exploits / Manipulation** If you find a bug or exploit in the system, please report it immediately. Those using a bug or exploit to their advantage may risk account deactivation.
+1. **Política de una cuenta por usuario** Un usuario no puede tener ni operar varias cuentas. 
+2. No se permite el intercambio de reacciones No se permite entablar acuerdos con otros usuarios para reacciones a las publicaciones de los demás. El intercambio de reacciones se define por un patrón de 2 o más usuarios que reaccionan mutuamente a la mayoría o todas las publicaciones de los demás, independientemente de la calidad del contenido.
+3. Abuso de errores / Exploits / Manipulación Si encuentras un bug o una vulnerabilidad en el sistema, infórmalo de inmediato. Aquellos que utilizan un bug o un exploit en su beneficio corren el riesgo de que su cuenta sea desactivada.
 
-## Useful Links
+## Links Útiles
 
-Previous and ongoing [updates to Pollen parameters](https://forum.1hive.org/t/updates-to-sourcecred/726).
+Actualizaciones previas y en curso de los [parámetros de pollen](https://forum.1hive.org/t/updates-to-sourcecred/726).
 
-[General rules](https://forum.1hive.org/t/pollen-rules-and-a-reporting-system/1155) for engaging in Pollen.
+[Reglas generales](https://forum.1hive.org/t/pollen-rules-and-a-reporting-system/1155) para participar en polen.
 
-[SourceCred documentation](https://sourcecred.io/docs/) for further information.
+[Documentación de SourceCred](https://sourcecred.io/docs/) para obtener más información.
 
