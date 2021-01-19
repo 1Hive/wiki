@@ -1,36 +1,41 @@
 ---
-description: Using the xDai sidechain.
+description: Usando la red lateral de xDai
 ---
 
 # xDai
 
-The **xDai sidechain** is a stable payments blockchain designed for fast and inexpensive stable transactions. **xDai** is used for transactions, payments and fees, and **STAKE** is used to support Proof-of-Stake consensus.
+La **red lateral xDai** es una cadena de bloques de pagos estable diseñada para transacciones estables rápidas y económicas. **xDai** se usa para transacciones, pagos y tarifas, y **STAKE** se usa para respaldar el consenso de Proof-of-Stake, traducido Prueba de participación.
 
-See the [xDai documentation](https://www.xdaichain.com/) for more details.
+Consulta la [documentación de xDai](https://www.xdaichain.com/) para más detalles.
 
-## Connecting via MetaMask
+## Conectándose via MetaMask
 
-See [this guide](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup) from the xDai documentation to connect your [MetaMask](https://metamask.io/) extension to the xDai chain.
+Consulta [esta guía](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup) de la documentación de xDai para conectar tu billetera [MetaMask](https://metamask.io/) a la red xDai. 
 
-Note 1Hive has an alternative rpc url should the xDai rpc url fail to work: [https://xDai.1hive.com](https://xdai.1hive.com/) 
+**RPCs Alternativos:**
 
-## xDai Faucet
+* [https://dai.poa.network/](https://dai.poa.network/) 
+* [https://xdai.poanetwork.dev/](https://xdai.poanetwork.dev/)  
+* [https://xdai.1hive.org/](https://xdai.1hive.org/) 
+* [https://rpc.xdaichain.com/](https://rpc.xdaichain.com/)
 
-For anyone interested in experimenting with xDai before bridging tokens from the Ethereum mainnet, you can use the xDai faucet to claim 0.01 xDai \(~ 1 cent\) for free, which is enough to execute a few transactions on xDai. Anyone can top-up the xDai faucet balance.
+## Faucet de xDai 
+
+Para cualquiera interesado en experimentar con xDai antes hacer puenteo \(bridging\) de los tokens de la red principal de Ethereum, puedes usar la faucet de xDAi para reclamar 0.01 xDai \(~ 1 centavo\) gratis, lo que es suficiente para ejecutar algunas transacciones en xDai. Cualquiera puede recargar la faucet de xDai.
 
 {% embed url="https://xdai-faucet.top/" %}
 
-## Bridging Tokens from Ethereum
+## Bridging de Tokens desde Ethereum
 
-To convert DAI on the Ethereum network to xDai that lives on the xDai network use the [dai-bridge](https://dai-bridge.poa.network/).
+Para convertir DAI en la red Ethereum a XDAI que vive en la red xDai usa el [dai-bridge](https://dai-bridge.poa.network/).
 
-To convert ERC20 tokens on the Ethereum network to ERC20 tokens on the xDai network use the [omnibridge](https://xdai-omnibridge.web.app/).
+Para convertir tokens ERC20 en la red Ethereum a tokens ERC20 en la red xDai usa el [omnibridge](https://xdai-omnibridge.web.app/).
 
-## Other Info
+## Otra Información
 
-Ensure that no matter what MetaMask sets your gas cost to, that you always set it to 1. xDai gas cost is always 1 Gwei, paying less than this it's unlikely your transaction will be accepted, paying more than this will waste xDai. The gas limit should typically be left as it is.
+Asegúrate de que, independientemente de lo que MetaMask establezca en el costo del gas, siempre lo coloques en 1. El costo del gas xDai es siempre de 1 Gwei, pagando menos que esto, es poco probable que su transacción sea aceptada, pagar más que esto desperdiciará xDai. Normalmente, el límite de gas debe dejarse como está. 
 
-The xDai [Block Explorer](https://blockscout.com/poa/xdai), similar to Etherscan, can be used to see transactions and accounts.
+El xDai [Block Explorer](https://blockscout.com/poa/xdai), similar a Etherscan, se puede utilizar para ver transacciones y cuentas. 
 
-If you need help getting connected or using any of the above services, come to the [`#⛈help`](https://discord.gg/3AjG7XvRJZ)Discord channel.
+Si necesitas ayuda para conectarte o utilizar cualquiera de los servicios anteriores, visita el canal [`#⛈help-es`](https://discord.gg/3AjG7XvRJZ).
 
