@@ -4,13 +4,13 @@ description: Gana Honey por tus contribuciones
 
 # Pollen
 
-El polen es un rango de contribuyente que se utiliza para reconocer las contribuciones a las comunidades de [Discord](https://discord.com/invite/P4rRDUKTAU), [Forum](https://forum.1hive.org/), y [Github](https://github.com/1Hive) de 1Hive, y recompensar estas contribuciones con distribuciones semanales de Honey. 
+El pollen \(polen\) es un rango de contribuyente que se utiliza para reconocer las contribuciones a las comunidades de [Discord](https://discord.com/invite/P4rRDUKTAU), [Forum](https://forum.1hive.org/), y [Github](https://github.com/1Hive) de 1Hive, y recompensar estas contribuciones con distribuciones semanales de Honey. 
 
 ## Como participo
 
-Tan pronto como comiences a interactuar en las comunidades de Discord, Forum y Github de 1Hive, comenzarás a ganar polen, que se agrega a tu billetera registrada como dulce dulce Honey. 
+Tan pronto como comiences a interactuar en las comunidades de Discord, Forum y Github de 1Hive, comenzarás a ganar pollen, que se agrega a tu billetera registrada como dulce dulce Honey. 
 
-Para recibir distribuciones de polen semanales, deberás crear cuentas en plataformas compatibles y vincularlas a tu dirección xDai. Puedes hacer esto publicando lo siguiente en el canal [🐛**onboarding**](https://discord.gg/eYwxwv4nzk) de 1hive Discord:
+Para recibir distribuciones de pollen semanales, deberás crear cuentas en plataformas compatibles y vincularlas a tu dirección xDai. Puedes hacer esto publicando lo siguiente en el canal [🐛**onboarding**](https://discord.gg/eYwxwv4nzk) de 1hive Discord:
 
 ```text
 #🏵pollen
@@ -22,29 +22,29 @@ xDai: 0x0...000
 
 Reemplazando`justabee`, `justabee#1234` y `0x0...000` con tus cuentas. Nota `Discourse` se refiere [al Foro](https://forum.1hive.org/).
 
-Si tiene preguntas, estás interesado en cómo se calcula el polen o quieres auditar las distribuciones, simplemente acceda al canal [🏵**pollen**](https://discord.com/invite/y8fPNcNdAa)**.**
+Si tiene preguntas, estás interesado en cómo se calcula el pollen o quieres auditar las distribuciones, simplemente acceda al canal [🏵**pollen**](https://discord.com/invite/y8fPNcNdAa)**.**
 
-## Pollen Distribution
+## Distribución de Pollen
 
-Pollen is computed using **SourceCred** to create and analyze a graph of interactions between community members. While not a perfect representation of the value of contributions, Pollen can help reward the interactions that are important but too granular to warrant creating proposals for or claiming from a Swarm.
+El pollen se calcula utilizando **SourceCred** para crear y analizar un gráfico de interacciones entre los miembros de la comunidad. Si bien no es una representación perfecta del valor de las contribuciones, Pollen puede ayudar a recompensar las interacciones que son importantes pero demasiado granulares para justificar la creación de propuestas o reclamos de un Swarm.
 
-SourceCred monitors all messages and contributions to Discord, the Forum and GitHub and applies a multiplier to a base score of 1 cred per action. One of the primary ways of earning cred is when text you write or actions you create are responded too positively by other members through the use of emojis. Writing messages alone do not earn cred. The weights for Cred distribution are decided by the 1Hive community.
+SourceCred monitorea todos los mensajes y contribuciones a Discord, el Foro y GitHub y aplica un multiplicador a una puntuación base de 1 cred por acción. Una de las principales formas de ganar cred es cuando el texto que escribes o las acciones que creas son respondidas de manera positiva por otros miembros mediante el uso de emojis. Escribir mensajes por sí solo no gana cred. Los pesos para la distribución de Cred los decide la comunidad de 1Hive. 
 
-Cred earned within 1Hive is only useful within 1Hive. It isn't transferable and scoring is retroactive so if you sign up to pollen after having earned some, you will still receive cred for that period \(although you will only receive a honey reward for your cred for the period after registering\).
+El cred obtenido en 1Hive solo es útil dentro de 1Hive. No es transferible y la puntuación es retroactiva, por lo que si te registras en pollen después de haber ganado algo, aún recibirás cred por ese período \(aunque solo recibirás una recompensa de Honey por tu crédito por el período después de registrarte\).
 
-The [Pollen Explorer](https://1hive.github.io/pollen/#/explorer) has a leaderboard of Pollen users displaying the cred they have earned throughout their engagement with 1Hive.
+[El Explorador de Pollen](https://1hive.github.io/pollen/#/explorer) tiene una tabla de clasificación de usuarios de Pollen que muestran el cred que se han ganado a lo largo de su compromiso con 1Hive.
 
-The weights that determine the Pollen earned for each action can be seen in the [pollen explorer](https://1hive.github.io/pollen/#/explorer%20) by clicking on "SHOW WEIGHT CONFIGURATION".
+Los pesos que determinan el Pollen ganado por cada acción se pueden ver en el [explorador de pollen](https://1hive.github.io/pollen/#/explorer) haciendo clic en "SHOW WEIGHT CONFIGURATION".
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
-### Total Distribution
+### Distribución Total
 
-The weekly Honey distribution is capped at $15,000 or 33 Honey if 33 Honey is worth less than $15,000. 5% of the weekly distribution goes directly to the SourceCred team.
+La distribución semanal de Honey tiene un límite de $15,000 o 33 Honey si 33 Honey vale menos de $15,000. El 5% de la distribución semanal va directamente al equipo de SourceCred. 
 
-![Figure 1. Weekly distribution in Honey based on USD value](../.gitbook/assets/image%20%2814%29.png)
+![Figura 1. Distribuci&#xF3;n semanal en Honey basada en el valor del USD](../.gitbook/assets/image%20%2814%29.png)
 
-### Distribution Rate
+### Tasa de Distribución
 
 Weekly payout is determined by a contributor's recent contribution's as well as their total contribution. 
 
