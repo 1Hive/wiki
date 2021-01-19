@@ -16,6 +16,8 @@ The Buzz Swarm creates and maintains documentation associated with the 1Hive DAO
 
 [Excel sheet](https://docs.google.com/spreadsheets/d/1UNrQMLVDWS-r7z6Z5MLNRSRP70f_gjbG5DYVceDLrXU/edit#gid=0) showing payment of Buzz.
 
+[Buzz meeting calendar.](https://calendar.google.com/calendar/u/0/embed?src=c_k77c78d1kdt9e1vpk2cvjcc7jg@group.calendar.google.com&ctz)
+
 ## Roles and Responsibilities
 
 ### Buzz DAO Members
