@@ -10,7 +10,11 @@ Interactúa, comparte ideas y únete a la discusión en nuestras plataformas. Re
 
 Puedes discutir ideas y planes con el [Swarm](../../community/swarms/) correspondiente. Si tienes una nueva idea y no encaja en ningún lado o es algo que requiere un trabajo independiente, puedes crear una [propuesta](../../projects/honey/participacion.md) de financiamiento para hacerlo de forma independiente. 
 
-También puedes involucrarse con la governanza del DAO [creando o votando una propuesta](../../projects/honey/) en 1hive.org
+Consulta los [Bounties de Buzz](../../community/media/buzz-bounty.md) para varias tareas, generalmente relacionadas con los medios y la comunicación, que serán premiadas con Honey. 
+
+Brinda ayuda y consejos en la comunidad y es posible que uno de los miembros de [Fauna](../../community/swarms/fauna.md) te detecte y seas considerado para un [Premio Fauna](premios-fauna.md).
+
+Si hay algo que crees que debería agregarse o actualizarse en la Wiki de 1Hive Wiki, considera hacer una[ Contribución al Wiki](../../guides/wiki-contribution.md).
 
 
 
