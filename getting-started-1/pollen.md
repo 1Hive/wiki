@@ -112,8 +112,8 @@ En el Foro, el cred total que un usuario puede generar depende del nivel de conf
 Debido a lo joven  del software SourceCred, todavía hay algunas formas de explotarlo. Varios cambios de parámetros han minimizado este riesgo, pero 1Hive aún impone las siguientes reglas, que son conocidas y monitoreadas por muchos en la comunidad.
 
 1. **Política de una cuenta por usuario** Un usuario no puede tener ni operar varias cuentas. 
-2. No se permite el intercambio de reacciones No se permite entablar acuerdos con otros usuarios para reacciones a las publicaciones de los demás. El intercambio de reacciones se define por un patrón de 2 o más usuarios que reaccionan mutuamente a la mayoría o todas las publicaciones de los demás, independientemente de la calidad del contenido.
-3. Abuso de errores / Exploits / Manipulación Si encuentras un bug o una vulnerabilidad en el sistema, infórmalo de inmediato. Aquellos que utilizan un bug o un exploit en su beneficio corren el riesgo de que su cuenta sea desactivada.
+2. **No se permite el intercambio de reacciones** No se permite entablar acuerdos con otros usuarios para reacciones a las publicaciones de los demás. El intercambio de reacciones se define por un patrón de 2 o más usuarios que reaccionan mutuamente a la mayoría o todas las publicaciones de los demás, independientemente de la calidad del contenido.
+3. **Abuso de errores / Exploits / Manipulación** Si encuentras un bug o una vulnerabilidad en el sistema, infórmalo de inmediato. Aquellos que utilizan un bug o un exploit en su beneficio corren el riesgo de que su cuenta sea desactivada.
 
 ## Links Útiles
 
