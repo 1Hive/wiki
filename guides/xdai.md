@@ -21,7 +21,7 @@ Consulta [esta guía](https://www.xdaichain.com/for-users/wallets/metamask/metam
 
 ## Faucet de xDai 
 
-Para cualquiera interesado en experimentar con xDai antes hacer puenteo \(bridging\) de los tokens de la red principal de Ethereum, puedes usar la faucet de xDAi para reclamar 0.01 xDai \(~ 1 centavo\) gratis, lo que es suficiente para ejecutar algunas transacciones en xDai. Cualquiera puede recargar la faucet de xDai.
+Para cualquiera interesado en experimentar con xDai antes hacer puenteo \(bridging\) de los tokens de la red principal de Ethereum, puedes usar la faucet de xDAi para reclamar 0.01 xDai \(~1 centavo\) gratis, lo que es suficiente para ejecutar algunas transacciones en xDai. Cualquiera puede recargar la faucet de xDai.
 
 {% embed url="https://xdai-faucet.top/" %}
 
