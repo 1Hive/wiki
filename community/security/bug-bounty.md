@@ -4,29 +4,29 @@ description: Programa de recompensas por errores de contrato inteligente
 
 # Bug Bounty
 
-This program covers all currently deployed 1hive related smart contracts on the xDai network that are actively being used from the [1Hive Github organisation](https://github.com/1Hive/). Contracts that 1hive uses that are not built by 1hive community members may also be considered depending on the extent to which they have been used within the 1hive ecosystem and the consequences they could produce. This evaluation will be at the discretion of the bug bounty swarm members using the [CVSS Risk Rating scale ](https://www.first.org/cvss/calculator/3.0)and funds available are held in an Aragon DAO. The members and a link to the DAO holding the funds can be seen in the [Bug Bounty Swarm](../swarms/bug-bounty.md) details.
+Este programa cubre todos los contratos inteligentes relacionados con 1hive que se encuentran implementados en la red xDai que se están utilizando activamente desde la [organización de 1Hive Github](https://github.com/1Hive/). Los contratos que usa 1Hive que no son construidos por miembros de la comunidad de 1hive también pueden ser considerados, dependiendo de la medida en que se hayan utilizado dentro del ecosistema de la comunidad y las consecuencias que podrían producir. Esta evaluación quedará a discreción de los miembros del Bounty Swarm usando la [escala de calificación de riesgo CVSS](https://www.first.org/cvss/calculator/3.0) y los fondos disponibles se mantienen en un DAO de Aragon. Los miembros y un enlace al DAO que tiene los fondos pueden ser vistos en los detalles de [Bug Bounty Swarm](../swarms/bug-bounty.md).
 
-## Requirements
+## Requisitos
 
-* Disclosure of issues must be made directly to one of the bug bounty swarm members. DM’s via discord is fine.
-* Any evidence of disclosure to other parties will forfeit the reward.
-* Exploiting the vulnerability prior to disclosing it will forfeit the reward.
-* Disclosure should include details of how to reproduce the bug in as clear a way as possible. A more detailed report could increase the reward.
-* Reporting a bug that has already been reported will not earn a reward.
-* Front-end bugs will not earn a reward.
+* La revelación de los bugs debe hacerse directamente a uno de los miembros del Bounty Swarm. Un DM a través de la discord está bien. 
+* Cualquier evidencia de divulgación a otras partes hará que se pierda la recompensa. 
+* Aprovechar la vulnerabilidad antes de revelarla hará que se pierda la recompensa. 
+* La divulgación debe incluir detalles sobre cómo reproducir el error de la manera más clara posible. Un informe más detallado podría aumentar la recompensa. 
+* Informar un error que ya se ha informado no obtendrá una recompensa.
+* Los errores de front-end no obtendrán recompensas.
 
-## Rewards
+## Recompensas
 
-The severity of an issue will be determined by a score created using the CVSS Risk Rating scale [https://www.first.org/cvss/calculator/3.0](https://www.first.org/cvss/calculator/3.0). It will likely also involve some subjective understanding of the potential impact it could make on the 1hive ecosystem.
+La gravedad de un problema se determinará mediante una puntuación creada utilizando la escala de calificación de riesgo CVSS [https://www.first.org/cvss/calculator/3.0](https://www.first.org/cvss/calculator/3.0). Es probable que también implique una comprensión subjetiva del impacto potencial que podría tener en el ecosistema de 1Hive.
 
-| Risk Rating | Payment |
+| Calificación de Riesgo | Pago |
 | :---: | :---: |
-| Critical \(9.0-10.0\): | Up to $40,000 in HNY |
-| High \(7.0-8.9\): | Up to $10,000 in HNY |
-| Medium \(4.0-6.9\): | Up to $2,000 in HNY |
-| Low \(0.1-3.9\): | Up to $1,000 in HNY |
+| Critico \(9.0-10.0\): | Hasta $40,000 en HNY |
+| Alto \(7.0-8.9\): | Hasta $10,000 en HNY |
+| Medio \(4.0-6.9\): | Hasta $2,000 en HNY |
+| Bajo \(0.1-3.9\): | Hasta $1,000 en HNY |
 
-For reference, I would have scored the exploit detailed here [Story of a Bee - Why Farming was Delayed](https://forum.1hive.org/t/story-of-a-bee-why-farming-was-delayed/875) with 9.3 earning it up to $40,000 in HNY, the exact amount would likely need to be discussed but I would have proposed it be closer to the upper limit. The scoring I have chosen can be seen here: [https://www.first.org/cvss/calculator/3.0\#CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:N/I:H/A:L 3](https://www.first.org/cvss/calculator/3.0#CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:N/I:H/A:L)
+Como referencia, habríamos puntuado el exploit que se detalla aquí [Historia de una abeja: por qué se retrasó el Farming](https://forum.1hive.org/t/story-of-a-bee-why-farming-was-delayed/875) con 9.3 ganando hasta $ 40,000 en HNY, la cantidad exacta probablemente debería discutirse, pero habríamos propuesto que estuviera más cerca límite. La puntuación que hemos elegido se puede ver aquí: [https://www.first.org/cvss/calculator/3.0\#CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:N/I:H/A:L 3](https://www.first.org/cvss/calculator/3.0#CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:N/I:H/A:L)
 
-It should be known that 1hive is interested in maintaining secure infrastructure and is willing to make fair payouts for finding bugs that could affect funds and users. These requirements and rates have been discussed and agreed upon by the community here [1Hive Contract Bug Bounty Program Proposal ](https://forum.1hive.org/t/1hive-contract-bug-bounty-program-proposal/978)and here [Final 1Hive Contract Bug Bounty Program Proposal ](https://forum.1hive.org/t/final-1hive-contract-bug-bounty-program-proposal/1339)so as a bug hunter you can be assured when it comes to claiming a reward you will receive it, provided you act as outlined above.
+Debe saberse que 1hive está interesado en mantener una infraestructura segura y está dispuesto a hacer pagos justos por encontrar errores/bugs que podrían afectar los fondos y los usuarios. Estos requisitos y tarifas han sido discutidos y acordados por la comunidad aquí [Propuesta del programa de recompensa de errores de contrato en 1Hive](https://forum.1hive.org/t/1hive-contract-bug-bounty-program-proposal/978) y aquí [Propuesta final del programa de recompensas por errores del contrato en 1Hive](https://forum.1hive.org/t/final-1hive-contract-bug-bounty-program-proposal/1339) para que, como cazador de bugs, puedas estar seguro de que cuando se trata de reclamar una recompensa, la recibirás, siempre que actúes como se describe anteriormente.
 
