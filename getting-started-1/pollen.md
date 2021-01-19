@@ -46,23 +46,23 @@ La distribución semanal de Honey tiene un límite de $15,000 o 33 Honey si 33 H
 
 ### Tasa de Distribución
 
-Weekly payout is determined by a contributor's recent contribution's as well as their total contribution. 
+El pago semanal está determinado por la contribución reciente de un contribuyente, así como por su contribución total.
 
-* **Weekly contribution** is the amount distributed for Pollen earned by users in the last week.
-* **Total contribution** is the amount distributed for all Pollen earned by users up to the distribution date.
-* **Decay Rate** is the rate at which the total contribution calculation decays for each previous week. Eg for a decay rate of 40%, the previous week is weighted at 100%, the second previous week is weighted at 60%, the third previous week is weighted at 36%, etc.
+* La **contribución semanal** es la cantidad distribuida por el polen ganado por los usuarios en la última semana. 
+* La **contribución total** es la cantidad distribuida por todo el polen ganado por los usuarios hasta la fecha de distribución. 
+* La **tasa de decaimiento** es la tasa a la que decae el cálculo de la contribución total para cada semana anterior. Por ejemplo, para una tasa de deterioro del 40%, la semana anterior se pondera al 100%, la segunda semana anterior se pondera al 60%, la tercera semana anterior se pondera al 36%, etc.
 
-| Distribution Parameter | Allocation & Rate |
+| Parametro de Distribución | Asignación y Tasa |
 | :--- | :--- |
-| Weekly Contribution | 25 HNY |
-| Total Contribution | 8 HNY |
-| Decay Rate | 40% |
+| Contribución Semanal | 25 HNY |
+| Contribución Total | 8 HNY |
+| Tasa de Decaimiento | 40% |
 
-### Platform Distribution
+### Distribución por Plataforma
 
-A breakdown of each platforms relative distribution of Pollen each week.
+Un desglose de la distribución relativa de polen de cada plataforma cada semana.
 
-| Platform | Percent of Distribution |
+| Plataforma | Porcentaje de Distribución |
 | :--- | :--- |
 | GitHub | 40% |
 | Discord | 30% |
