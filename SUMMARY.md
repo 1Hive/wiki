@@ -3,7 +3,6 @@
 * [Bienvenido a 1Hive](README.md)
 * [Bienvenido a 1Hive ¡NUEVO!](bienvenido-a-1hive-nuevo.md)
 * [Pacto Comunitario](community-covenant.md)
-* [Metas](metas.md)
 
 ## 🌱Empezando <a id="getting-started-1"></a>
 
@@ -32,6 +31,7 @@
   * [Mejoras planificadas](projects/honeyswap/mejoras-planificadas.md)
 * [Celeste \(Coming soon\)](projects/celeste.md)
 * [Gardens \(Coming soon\)](projects/gardens.md)
+* [Metas](projects/metas.md)
 
 ## 🌳Comunidad <a id="community"></a>
 

@@ -14,25 +14,25 @@ Estas mitos son estimaciones aproximadas especificadas y actualizadas por el swa
 
 🎯 **Fecha Objetivo:** Q1 2021
 
-Para más información [Celeste](projects/celeste.md)\*\*\*\*
+Para más información [Celeste](celeste.md)\*\*\*\*
 
 ### **Cambio a la Política de Emisión**
 
 🎯 **Fecha Objetivo:** Q1 2021
 
-La emisión \(nueva creación de Honey\) se fijó inicialmente en un 60% anual. Se redujo en noviembre de 2020 al 30%. Ahora se está desarrollando una política de emisión dinámica, los detalles se pueden ver en [Issuance](projects/honey/mejoras-planificadas.md#politica-de-emision-dinamica).
+La emisión \(nueva creación de Honey\) se fijó inicialmente en un 60% anual. Se redujo en noviembre de 2020 al 30%. Ahora se está desarrollando una política de emisión dinámica, los detalles se pueden ver en [Issuance](honey/mejoras-planificadas.md#politica-de-emision-dinamica).
 
 ### **Página de Destino de Honeyswap**
 
 🎯 **Fecha Objetivo:** Q1 2021
 
-Una página de inicio fácil de usar para [Honeyswap](projects/honeyswap/) que incluye enlaces a guías e información útil. 
+Una página de inicio fácil de usar para [Honeyswap](honeyswap/) que incluye enlaces a guías e información útil. 
 
 ### 1Hive Gardens
 
 🎯 **Fecha Objetivo:** Q2-Q3 2021
 
-Para más información [Gardens](projects/gardens.md).
+Para más información [Gardens](gardens.md).
 
 ### **Honeyswap Limit Orders**
 
