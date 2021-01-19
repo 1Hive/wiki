@@ -1,16 +1,16 @@
 ---
-description: Earn Honey for contributions
+description: Gana Honey por tus contribuciones
 ---
 
 # Pollen
 
-Pollen is a contributor rank used to recognize contributions to 1Hive’s [Discord](https://discord.com/invite/P4rRDUKTAU), [Forum](https://forum.1hive.org/), and [Github](https://github.com/1Hive) communities, and reward these contributions with weekly distributions of Honey.
+El polen es un rango de contribuyente que se utiliza para reconocer las contribuciones a las comunidades de [Discord](https://discord.com/invite/P4rRDUKTAU), [Forum](https://forum.1hive.org/), y [Github](https://github.com/1Hive) de 1Hive, y recompensar estas contribuciones con distribuciones semanales de Honey. 
 
-## How do I participate
+## Como participo
 
-As soon as you start interacting on 1Hive’s Discord, Forum, and Github communities you’ll start earning Pollen, which gets added to your registered wallet as sweet sweet Honey.
+Tan pronto como comiences a interactuar en las comunidades de Discord, Forum y Github de 1Hive, comenzarás a ganar polen, que se agrega a tu billetera registrada como dulce dulce Honey. 
 
-In order to receive weekly pollen distributions you’ll need to create accounts on supported platforms and link them to your xDai address. You can do this by posting the below in 1hive Discord’s [🐛**onboarding**](https://discord.gg/eYwxwv4nzk) channel:
+Para recibir distribuciones de polen semanales, deberás crear cuentas en plataformas compatibles y vincularlas a tu dirección xDai. Puedes hacer esto publicando lo siguiente en el canal [🐛**onboarding**](https://discord.gg/eYwxwv4nzk) de 1hive Discord:
 
 ```text
 #🏵pollen
@@ -20,9 +20,9 @@ discord: justabee#1234
 xDai: 0x0...000
 ```
 
-Replacing`justabee`, `justabee#1234` and `0x0...000` with your accounts. Note `Discourse` refers to [the Forum](https://forum.1hive.org/).
+Reemplazando`justabee`, `justabee#1234` y `0x0...000` con tus cuentas. Nota `Discourse` se refiere [al Foro](https://forum.1hive.org/).
 
-If you have questions, are interested in how pollen is calculated, or auditing the distributions, just hop on the [🏵**pollen**](https://discord.com/invite/y8fPNcNdAa) channel.
+Si tiene preguntas, estás interesado en cómo se calcula el polen o quieres auditar las distribuciones, simplemente acceda al canal [🏵**pollen**](https://discord.com/invite/y8fPNcNdAa)**.**
 
 ## Pollen Distribution
 
