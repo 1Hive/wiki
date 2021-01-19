@@ -20,7 +20,7 @@ La mayoría de los canales se centran en la discusión sobre un tema en particul
 
 ## Roles y Swarms
 
-Los roles se autoasignan mediante el canal **🧚roles**. Asignarse un rol le da acceso al canal del grupo de trabajo del swarm, designado por un hexágono **⏣** en el nombre del canal. Estos están bajo el encabezado **SWARMS** en el discord de  1Hive. Aunque **🌈design** no es un **SWARM**, es un rol, por lo que también se incluye en esta sección. Los **SWARMs** incluyen **🌻gardens-⏣**, **🌷tulip-⏣**, **🌺flora-⏣**, **🌞celeste-⏣**, **🐝buzz-⏣**, **🏵pollen-⏣** y **🌈design-⏣**.
+Los roles se autoasignan mediante el canal **🧚roles**. Asignarse un rol le da acceso al canal del grupo de trabajo del swarm, designado por un hexágono **⏣** en el nombre del canal. Estos están bajo el encabezado **SWARMS** en el discord de 1Hive.
 
 Los canales del grupo de trabajo son para discusiones técnicas sobre el desarrollo de proyectos relevantes, para obtener información sobre un proyecto en particular o para ayudar a utilizarlo, por favor,  usa los canales estándar de **BEES**. 
 
