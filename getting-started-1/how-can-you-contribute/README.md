@@ -6,7 +6,7 @@ Cualquiera puede venir y empezar a contribuir. La fuente del potencial de 1Hive 
 
 ## ¿Cómo Contribuir?
 
-Interactúa, comparte ideas y únete a la discusión en nuestras plataformas. Regístrate en la distribución semanal de polen y [gana polen]() que recompensa a las personas por contribuir a Discourse, Discord y / o Github. 
+Interactúa, comparte ideas y únete a la discusión en nuestras plataformas. Regístrate en la [distribución semanal de polen](../pollen.md) y gana polen que recompensa a las personas por contribuir a Discourse, Discord y / o Github. 
 
 Puedes discutir ideas y planes con el [Swarm](../../community/swarms/) correspondiente. Si tienes una nueva idea y no encaja en ningún lado o es algo que requiere un trabajo independiente, puedes crear una [propuesta](../../projects/honey/participacion.md) de financiamiento para hacerlo de forma independiente. 
 
