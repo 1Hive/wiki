@@ -21,9 +21,9 @@ Most channels are focussed on discussion around a particular topic, which can be
 
 ## Roles and Swarms
 
-Roles are self-assigned using the 🧚**roles** channel. Assigning yourself a role gives you access to the swarm **working group channel**, designated by a hexagon **⏣** in the channel name. These are under the **SWARMS** heading on 1Hive's Discord. Although 🌈**design** is not a **SWARM** it is a role, so it's included in this section as well. The **SWARM** channels include 🌻**gardens-⏣, 🌷tulip-⏣, 🌺flora-⏣, 🌞celeste-⏣, 🐝buzz-⏣, 🏵pollen-⏣** and 🌈**design-⏣.**
+Roles are self-assigned using the [🧚**roles**](https://discord.gg/63Z3MrEcM7) channel. Assigning yourself a role gives you access to the swarm **working group channel**, designated by a hexagon **⏣** in the channel name. These are under the **SWARMS** heading on 1Hive's Discord.
 
-The working group channels are for technical discussion regarding the development of relevant projects, for information about a particular project or for help using it please use the standard **BEES** channels.
+The working group channels are for technical discussion regarding the development of relevant projects, for information about a particular project or for help using it please use the **BEES** channels.
 
 ## **Bot Commands**
 
