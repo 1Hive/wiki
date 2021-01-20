@@ -1,18 +1,18 @@
-# For Liquidity Providers
+# Likidite Sağlayıcılar İçin
 
-## Liquidity Provider ROI
+## Likidite Sağlayıcı Yatırım Getirisi
 
-Liquidity providers are rewarded 0.25% and every swap is proportionally distributed to the liquidity providers of that pool
+Likidite sağlayıcılar, %0.25 işlem ücretiyle ödüllendirilir ve her bir alım satım işllemi söz konusu havuzdaki likidite sağlayıcılara orantısal olarak dağıtılır.
 
-Liquidity providers experience[ impermanent loss ](for-liquidity-providers.md#impermanent-loss)when providing liquidity. Any temporary loss becomes permanent when liquidity is removed from the pool.
+Likidite sağlayıcılar, likidite sağlarken geçici zarara maruz kalırlar. Bu geçici zarar, likidite havuzdan çıkarıldığında kalıcı hale dönüşür.
 
-Liquidity providers are profitable when collected fees &gt; impermanent loss.
+Likidite sağlayıcılar, elde edilen işlem ücretleri &gt; geçici zarar durumunda kârda olurlar.
 
-The ROI for providing liquidity is highest when the ratio of liquidity to volume is high, and the pair of assets are highly correlated. 
+Likidite sağlarken elde edilen yatırım getirisi, likiditenin hacme oranının yüksek olduğu ve token çifti arasındaki korelasyonun da yüksek olduğu durumda en yüksek seviyededir.
 
-### Impermanent Loss
+### Geçici Zarar \(Impermanent Loss\)
 
-Impermanent loss is a temporary loss of funds occurring when providing liquidity. It’s very often explained as a difference between holding an asset versus providing liquidity in that asset. Impermanent loss is usually observed in standard liquidity pools where the liquidity provider has to provide both assets in a correct ratio, and one of the assets is volatile in relation to the other.
+Impermanent Loss \(Geçici Zarar\), likidite sağlarken meydana gelen geçici zarardır. Genellikle, bir varlığı tutmak ile söz konusu varlık için likidite sağlamak arasındaki fark olarak açıklanır. Geçici zarar, genellikle likidite sağlayıcının doğru oranda iki varlığı da sağlaması gereken standart likidite havuzlarında, bu varlıklardan birinin diğerine göre daha volatil olması halinde meydana gelir.
 
-In the example of an wETH/xDAI 50/50 pair if wETH goes up in value, the pool has to rely on arbitrageurs continually ensuring that the pool price reflects the real-world price to maintain the same value of both tokens in the pool. This basically leads to a situation where profit from the token that appreciated in value is taken away from the liquidity provider. At this point, if the LP decides to withdraw their liquidity, the impermanent loss becomes permanent.
+wETH/xDai 50/50 çiftini örnek verecek olursak, wETH'nin değerinin artması halinde havuz, havuzdaki fiyatın havuzda bulunan tokenlerin ikisi için de aynı değeri koruduğu gerçek piyasa fiyatını yansıtması açısından arbitrajcılara güvenmek durumundadır. Bu da değeri artan tokenden elde edilen kârın likidite sağlayıcıdan alınması durumuna yol açar. Bu noktada, likidite sağlayıcı likiditeyi geri çekmeye karar verirse bu geçici zarar kalıcı hale gelir.
 

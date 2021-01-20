@@ -1,62 +1,62 @@
 # User Process
 
-The below is an attempt to begin documenting the process that the 1Hive DAO and Celeste will use in order to decide the outcome of challenged actions. After doing research to understand the process myself I felt it would be useful to share some of what I’ve learnt. I think it’s especially useful for those interested in becoming a keeper \(previously “juror”\), and those interested in using Celeste to get answers to questions.
+Aşağıda, 1Hive DAO ve Celeste'in karşı çıkılan eylemlerin sonucuna karar vermede kullanacağı süreci açıklamaya çalışacağım. Süreci kendim anlayabilmek için araştırma yaptıktan sonra, öğrendiklerimi paylaşmanın faydalı olacağını hissettim. Bence, bu özellikle koruyucu \(önceden "jüri üyesi"\) olmayı düşünenler ve Celeste'i kullanma niyetinde olanların sorularına cevap bulabilmesi için yardımcı olacak.
 
-The term **action** is used to define the question that needs to be decided by Celeste. Within the 1Hive DAO, actions could be conviction voting proposals or standard votes \(referred to on the 1Hive UI as decisions\). In the 1Hive context Celeste will not decide on the outcome of a conviction voting proposal or standard vote, but whether that vote belongs within the 1Hive DAO. For example, if someone creates a proposal to take a large amount of money from the common pool without any obvious benefit to the community and they currently own a large amount of HNY, there is no way for other HNY holders to prevent them from staking their HNY to that proposal and stealing the money. With Celeste this proposal could be challenged and should Celeste deem it not inline with the [Community Covenant](../../community-covenant.md), it will be cancelled.
+**Aksiyon \(action\)** terimi, Celeste ile karara bağlanması gereken soruyu tanımlamak için kullanılmakta. 1Hive DAO içerisinde, aksiyonlar kanaat oylamasına tabi olan teklifler veya standart oylamalar olabilir \(1Hive Kullanıcı Arayüzünde "kararlar" olarak belirtilenler\). 1Hive bağlamında, Celeste kanaat oylamasına tabi tekliflerin veya standart oyların sonucuna değil, söz konusu oyun 1Hive DAO'ya ait olup olmadığına karar vermiş olacak. Örneğin, birisi ortak havuzdan topluluğa görünürde herhangi bir fayda sağlamaksızın büyük miktarda para almak için teklif oluşturması ve mevcutta elinde büyük miktarda HNY bulunması halinde, elinde HNY bulunduran diğer kişilerin ilk teklifi yapan kişinin HNY stake ederek para çalmasını engellemesi için bir yöntem yok. Celeste ile birlikte, bu teklife karşı çıkılacak ve Celeste bunun [Topluluk Sözleşmesi](../../community-covenant.md)'ne uygun olmadığına karar verirse teklif iptal edilmiş olacak.
 
-## Steps in the Process
+## Sürecin Adımları
 
-There are many steps involved in the process from creating disputable actions to an outcome regarding them being decided. This diagram briefly displays the steps involved. The description below it goes into more details, including cost requirements for each party. In some cases time and amounts have been specified. However, these aren’t final and are likely to change. Some terminology is also likely to change between now and release.
+Bu süreç içerisinde, tartışmaya açılabilir aksiyonlardan karara bağlanan sonuca kadar bir sürü adım bulunmakta. Aşağıdaki şema, kısaca mevcut adımları gösteriyor. Aşağıdaki açıklamalarda , her bir taraf için gerekli maliyet dahil daha ayrıntılı bilgileri ekledim. Bazı durumlarda, zaman ve tutarlar belirlenmiş oluyor. Bununla birlikte, bu rakamlar nihai değil ve muhtemelen değiştirilecek. Terimlerden bazılarının da Celeste yayınlanana kadar değiştirilmesi mümkün.
 
-![Celeste user flow](https://forum.1hive.org/uploads/default/optimized/1X/f5ac9f29b90317689b95d93e6a4242e046852468_2_207x500.png)
+![Celeste kullan&#x131;c&#x131; ak&#x131;&#x15F;&#x131;](https://forum.1hive.org/uploads/default/optimized/1X/f5ac9f29b90317689b95d93e6a4242e046852468_2_207x500.png)
 
-### Creating an action
+### Aksiyon Oluşturma
 
-To create an action \(proposal or vote\) a user must first deposit the action collateral amount of 0.3 HNY. When the action is finalised/executed/cancelled the action creator can claim the collateral back. However, if the action is successfully challenged the action collateral is awarded to the challenger.
+Bir aksiyon oluşturmak için \(teklif veya oylama\) kullanıcı öncelikle 0.3 HNY tutarındaki aksiyon teminatını yatırmak zorundadır. Aksiyon sonuçlandığında/uygulamaya konduğunda/iptal edildiğinde, aksiyonu oluşturan bu teminatı geri alma talebinde bulunabilecek. Bununla birlikte, aksiyona başarılı bir şekilde karşı çıkılması durumunda, aksiyon teminatı karşı çıkana verilecek.
 
-### Challenging an action
+### Aksiyona Karşı Çıkma
 
-Actions can be challenged anytime they are available for being voted on. In the case of conviction voting proposals they can be challenged even after voting has finished and they are executable, but not after they have been executed. The challenger will specify a settlement amount which would be accepted if the original action creator did not want to raise the action to Celeste. The settlement amount must be less than or equal to actions original collateral requirement. The challenger will pay a challenge amount of 0.3 HNY \(which is returned to them if they win the challenge or send to the original actions creator should they lose\) plus Celeste fees \(returned to them should they win the challenge\).
+Aksiyonlara oy verilebildiği sürece karşı çıkılabilir. Kanaat oylamasına tabi tekliflere, oylama bittikten ve uygulamaya konulabilir hale geldikten sonra dahi karşı çıkılabilir; ancak uygulamaya konduktan sonra karşı çıkmak mümkün değildir. Karşı çıkan, ilk aksiyon oluşturucunun aksiyonu Celeste'e taşımayı istememesi halinde kabul edilmesi gerekecek bir mutabakat tutarı belirleyecektir. Mutabakat tutarı, aksiyonun ilk teminat gerekliliğinden daha düşük veya buna eşit olacaktır. Karşı çıkan, karşı çıkma tutarı olan 0.3 HNY'i \(kazanması halinde kendilerine geri ödenecek veya kaybetmeleri halinde ilk aksiyon oluşturucuya verilecek\) ve Celeste harcını ödeyecektir \(kazanmaları halinde kendilerine geri ödenecek\).
 
-### Settling an action
+### Aksiyonun Çözümlenmesi
 
-Within 3 days of the challenge being created, the original action creator has the chance to settle the action. This will cancel the action, award the challenger with the settlement amount and return all funds the challenger previously payed to the challenger.
+Karşı çıkma eyleminin oluşturulmasından itibaren 3 gün içerisinde, orijinal aksiyon oluşturucunun aksiyonu çözüme kavuşturma şansı olacaktır. Bu, aksiyonu iptal edecek, karşı çıkana mutabakat tutarını kazandıracak ve karşı çıkanın önceden karşı çıkan tarafından ödenen bütün fonların geri ödenmesi ile sonuçlanacaktır.
 
-### Disputing an action
+### Aksiyona İtiraz Etme
 
-Should the action creator disagree with the challenge, they can choose to dispute it, raising it to Celeste to decide an outcome. The action creator, who has already paid the action collateral, will now pay Celeste fees \(returned to them should they win the dispute\).
+Aksiyon oluşturucunun karşı çıkanla aynı fikirde olmaması halinde, buna itiraz ederek sonuca bağlanmak üzere Celeste'e taşımayı tercih edebilir. Aksiyon teminatını hâli hazırda ödemiş olan aksiyon oluşturan şimdi de Celeste harcını ödeyecek \(itirazı kazanması halinde kendilerine geri ödenecek\).
 
-### Evidence period
+### Kanıt Sunma Süresi
 
-Now a dispute has been raised to Celeste to decide, there is an evidence period of 7 days, within which both action creator and challenger can submit evidence to the court. If both parties finalise the submission of their evidence before the 7 days passes then the following draft stage is available from that point.
+İhtilaf karar için Celeste'e taşındığında, hem aksiyon oluşturucunun hem de karşı çıkanın mahkemeye kanıt sunabileceği 7 günlük bir kanıt sunma süresi olacaktır. Tarafların ikisi de sundukları kanıtları 7 günden önce tamamlarsa, aşağıdaki koruyucu seçme aşamasına geçilecektir.
 
-### Registering as a keeper - prior to the above operations and before drafting
+### Koruyucu olarka kaydolma - yukarıdaki işlemler ve koruyucu seçme öncesinde
 
-Anyone can register as a keeper in Celeste by staking HNY. The more HNY a keeper stakes, the more likely they will be picked to decide a dispute. However, using BrightId there will be a max stake per keeper which will reduce as more HNY is staked to Celeste. keepers are rewarded $10 in HNY for each dispute they make a decision on plus a passive reward once every 30 days for remaining staked. This reward will be determined by conviction voting proposals.
+HNY stake eden herkes Celeste üzerinde koruyucu olarak kaydolabilir. Koruyucu ne kadar HNY stake ederse, bir ihtilafta karar vermek için seçilme ihtimali de o kadar fazla olacaktır. Bununla birlikte, BrightID kullanıldığından dolayı, koruyucu başına maksimum stake belirlenecek, bu da Celeste üzerinde stake edilen HNY arttıkça maksimum stake de azalacaktır. Koruyuculara karar verdikleri her bir ihtilaf için HNY olarak 10$ artı HNY stake ettikleri süre boyunca 30 günde bir pasif olarak kazanacakları bir ödeme yapılacaktır. Bu ödeme, kanaat oylamasına tabi tekliflerle belirlenecektir.
 
-### Drafting keepers
+### Koruyucuların Seçilmesi
 
-Once evidence has been submitted, draft\(\) needs to be called on Celeste by anyone in order to prepare it to allow keepers to decide an outcome. Part of the Celeste fees, paid earlier, include a draft\(\) call fee which will be sent to whoever calls draft\(\) for a particular dispute. The first draft will employ 3 keepers.
+Kanıtların sunulmasından sonra, koruyucuların sonuca karar vermelerine olanak sağlaması amacıyla Celeste'in hazırlanması için herhangi birisi tarafından draft\(\) çağrılmalıdır. Önceden ödenen Celeste harçlarının bir kısmı, belirli bir ihtilaf için draft\(\) çağrısında bulunan kişiye gönderilecek draft\(\) harcını da içermektedir. İlk draft, 3 koruyucuyu görevlendirecektir.
 
-### Adjudicating
+### Hüküm Verme
 
-Drafted keepers must now vote on the outcome of the dispute using a commit - reveal process. They have 2 days to commit a decision, then 2 days to reveal their decision. If a keeper leaks their decision before revealing it, this can be submitted to Celeste and that keeper will be slashed. If they don’t vote they will be slashed. If they vote opposite to the majority they will be slashed. The slashed funds will be awarded to the keepers who vote for the majority outcome.
+Görevlendirilen koruyucular, artık bir teslim et-açıkla süreci kullanarak ihtilafın sonucuna ilişkin oy vermek zorundadırlar. Kararı teslim etmek için 2 gün, ardından kararlarını açıklamak için 2 günleri olacaktır. Bir koruyucunun kararını açıklamadan önce sızdırması halinde, bu durum Celeste'e ibraz edilirse söz konusu koruyucu cezalandırılacaktır. Çoğunluğa karşı oy vermeleri halinde de cezalandırılacaktırlar. Cezalandırılarak kesilen fonlar, çoğunluk oyuna sahip koruyuculara verilecektir.
 
-### Appealing
+### Temyiz
 
-Once a decision has been made by the keepers there is a 2 day period to allow anyone who opposes the outcome to appeal it. To appeal a ruling requires a deposit of 3x the Celeste fees for employing a new round of keepers. This deposit minus Celeste fees is forfeit to the appeal confirmer \(as described below\) if the appeal is unsuccessful. If the appeal is not confirmed, the outcome they appealed for becomes the winning outcome for this dispute.
+Koruyucular tarafından bir karar verdildikten sonra, sonuca karşı çıkan herkesin temyiz etmesine olanak sağlayan 2 günlük bir süre olacaktır. Hükmü temyize götürmek, yeni bir tur koruyucu görevlendirmek için Celeste harcının 3 katının yatırılmasını gerektirmektedir. Bu tutar eksi Celeste harçları, temyizin başarısız olması halinde temyizi onaylayandan kesilecektir \(aşağıda açıklandığı şekilde\). Temyizin kabul edilmemesi halinde, temyiz edilen sonuç bu ihtilafın kazananı olacaktır.
 
-### Confirming appeal
+### Temyizin Onaylanması
 
-If someone disagrees with the appeal they can confirm it, raising it to a second round of disputes \(going from the drafting keepers stage above\) which will employ 9 keepers, raised by a factor of 3 for each new round of a dispute up to a total of 4 rounds. To confirm an appeal requires a deposit of 2x the Celeste fees for this round. This deposit minus Celeste fees is forfeit to the appeal creator if the appeal is successful.
+Temyizle aynı fikirde olan birisi onaylayabilir ve böylece ikinci bir ihtilaf turuna taşınmış olur \(yukarıdaki koruyucu görevlendirmeden itibaren\). Bu turda, 3 katsayısı ile artırılacak şekilde 9 koruyucu olur ve bir ihtilaf için toplamda 4 tur gerçekleştirilebilir. Temyizi onaylamak için bu turda Celeste harcının 2 katı yatırılmalıdır. Yatırılan bu tutar eksi Celeste haçları, temyizin başarılı olması halinde temyizi oluşturandan kesilecektir. 
 
-### Final appeal round
+### Son Temyiz Turu
 
-There can only be a max of 4 appeal rounds, 5 rounds total including the initial round. The 5th round will be the final appeal round, at which point every keeper is employed too adjudicate a dispute. Their vote weight is determined by the amount they have staked at that point, unlike previous rounds where each keepers vote weight was the same. The amount they can be slashed increases proportional to their vote weight.
+İlk tur da dahil olacak şekilde, toplam 5 tur ve maksimum 4 temyiz turu olabilir. 5'inci tur, nihai temyiz turu olacaktır; bu noktada koruyucuların hepsi ihtilafı karara bağlamak için görevlendirileceklerdir. Bu noktada, her bir koruyucunun oy ağırlığının eşit olduğu bir önceki turların aksine bu noktada oy ağırlığı stake ettikleri tutara göre belirlenecektir. Cezalandırılarak kendilerinden kesilecek tutar, oy ağırlıkları oranında artacaktır.
 
-### Ruling
+### Mahkeme Kararı
 
-Once 2 days have passed after an adjudication period and no appeal has been made, or the final appeal round has ended, the majority ruling becomes the outcome and a function can be executed which will either cancel or unpause the action associated with it. At this stage, as we know the outcome, we can settle all the owed amounts for the action creator and challenger, keepers and slashed keepers, appealers and appeal confirmers. There is a function settlePenalties\(\) which similar to draft\(\) has a reward for being called, paid by the Celeste fees, which prepares Celeste for keepers and appealers to claim the funds owed to them.
+Hüküm süresinden itibaren 2 gün geçtiğinde ve herhangi bir temyiz başvurusu yapılmadığında veya nihai temyiz turu sonlandığında, çoğunluk kararı, hükmü oluşturacak ve buna ilişkin aksiyonu iptal edecek veya devam ettiecek bir fonksiyon çalıştırılabilecektir. Bu aşamada, sonucu bildiğimizden dolayı borçlanılan tutarların tamamını aksiyon oluşturucuya ve karşı çıkana, koruyuculara ve cezalandırılan koruyuculara, temyizde bulunanlara ve temyizi onaylayanlara alınacaklar ve verilecekler olarak çözümleyebiliriz. Çağrıldığında draft\(\)'a benzer şekilde Celeste haçlarıyla ödenen bir ödemeye sahip olan settlePenalties\(\) fonksiyonu bulunmaktadır; bu da Celeste'i koruyucular ve temyizde bulunanlar için kendilerine ödenmesi gereken fonları almaları için hazırlamaktadır.
 
-For more in depth details on operating as keeper see the links referenced here: [https://help.aragon.org/category/47-aragoncourt](https://help.aragon.org/category/47-aragoncourt) The 1Hive UI will be very similar.
+Koruyucu olarak görev alma konusunda daha ayrıntılı bilgi için şurada bahsi geçen bağlantılara bakabilirsiniz:[https://help.aragon.org/category/47-aragoncourt](https://help.aragon.org/category/47-aragoncourt) 1Hive Kullanıcı Arayüzü de buna benzeyecek.
 

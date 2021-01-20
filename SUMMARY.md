@@ -2,7 +2,6 @@
 
 * [1Hive'a Hoşgeldiniz](README.md)
 * [Topluluk Sözleşmesi](community-covenant.md)
-* [Kilometre Taşları](1hive-updates.md)
 
 ## Başlarken <a id="getting-started-1"></a>
 
@@ -24,13 +23,14 @@
   * [Kararlar](projects/honey/decisions.md)
   * [Planlanan İyileştirmeler](projects/honey/honey-improvements.md)
 * [Honeyswap](projects/honeyswap/README.md)
-  * [For Traders](projects/honeyswap/for-traders.md)
-  * [For Liquidity Providers](projects/honeyswap/for-liquidity-providers.md)
-  * [For Developers](projects/honeyswap/for-developers.md)
-  * [Planned Improvements](projects/honeyswap/planned-improvements.md)
-* [Celeste \(Coming soon\)](projects/celeste/README.md)
+  * [Borsacılar İçin](projects/honeyswap/for-traders.md)
+  * [Likidite Sağlayıcılar İçin](projects/honeyswap/for-liquidity-providers.md)
+  * [Geliştiriciler İçin](projects/honeyswap/for-developers.md)
+  * [Planlanan İyileştirmeler](projects/honeyswap/planned-improvements.md)
+* [Celeste \(Yakında\)](projects/celeste/README.md)
   * [User Process](projects/celeste/user-process.md)
 * [Gardens \(Coming soon\)](projects/gardens.md)
+* [Kilometre Taşları](projects/1hive-updates.md)
 
 ## Community
 

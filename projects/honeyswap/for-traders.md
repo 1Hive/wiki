@@ -1,40 +1,40 @@
-# For Traders
+# Borsacılar İçin
 
-## Consider the total cost to trade 
+## Toplam İşlem Maliyetini Düşünün
 
-Prices and Liquidity vary between exchanges, to make sure you are getting the best deal it's important to consider the _**total cost to trade**_. This includes not just the spot price, but transaction overhead \(such as gas fees\), trade overhead \(broker, liquidity, and platform fees\), as well as the slippage given the size of your trade and the available liquidity on each exchange. 
+Borsalar arasında fiyat ve likidite değişkenlik göstermektedir. En iyi fiyatı aldığınızdan emin olmak için, _**toplam işlem maliyetinin**_ göz önünde bulundurulmaıs önemlidir. Bunun içerisinde spot fiyatla birlikte genel işlem masrafları \(gas fees gibi\), genel alım satım masrafları \(broker, likidite ve platform işlem ücretleri\) ve yaptığınız işlemin boyutuna ve borsada bulunan likiditeye bağlı olarak işlemdeki kayma oranı bulunmaktadır. 
 
 $$
-Total Cost = Spot Price + Gas Fee + Platform Fee + Slippage
+Toplam Maliyet = Spot Fiyat + Gas Fee + Platform Ücreti + Kayma
 $$
 
-Honeyswap is on xDai and so the transaction overhead is negligible. Compared to Uniswap and other Ethereum based decentralized exchanges, where transaction overhead can often be between 5 and 20 dollars per trade depending on network congestion, trading on Honeyswap can reduce your transaction overhead significantly. 
+Honeyswap, xDai üzerinde çalışmaktadır; dolayısıyla genel işlem ücretleri yok denecek kadar azdır. Genel işlem ücretleri ağdaki yoğunluğua bağlı olarak işlem başına genellikle 5 ila 20 dolar arasında değişen genel alım işlem masrafları bulunan Uniswap ve diğer Ethereum bazlı merkeziyetsiz borsalarla karşılaştırılacak olursa, Honeyswap üzerinde alım satım yapmak genel işlem masraflarınızı önemli ölçüde düşürecektir.
 
-Honeyswap has the same trade overhead as Uniswap, a 0.3% fee on each trade. For reference maker and taker fees on Coinbase are currently 0.5%. 
+Honeyswap'taki genel allım satım masrafları Uniswap'taki ile aynıdır: Her bir işlemden %0.3 alım satım ücreti alınır. Referans olması açısından, şu anda Coinbase'deki piyasa yapıcı \(maker\) ve piyasa alıcı \(taker\) ücretleri %0.5'tir.
 
-Honeyswap is still a very small exchange and liquidity for many assets is much lower than on other exchanges so traders may experience greater price slippage which must be factored into their total cost to trade. This effect is greater the larger the size of the trade.  
+Honeyswap, hâlâ oldukça küçük bir borsa olduğundan dolayı tokenlerin çoğunda likidite diğer borsalara göre epey düşüktür. Dolayısıyla işlem yapanlar, yine toplam işlem maliyetine eklenmesi gereken fiyat kaymasıyla karşılaşabilirler. Bu etki, işleminizin boyutuna göre artmaktadır.
 
-Bottom line, **If you are interested in making many small trades then Honeyswap will often have a much lower total cost to trade than other alternatives.** 
+Sonuç olarak, **bir sürü küçük alım satım işlemi yapmak gibi bir niyetiniz varsa Honeyswap diğer alternatiflere gööre çok daha düşük bir toplam işlem maliyeti sunmaktadır.**
 
-### Spot price
+### Spot fiyatı
 
-Honeyswap is an automated market maker \(AMM\) exchange. This means the price is determined through buy and sell exchanges. 
+Honeyswap, otomatik piyasa yapıcı \(Automated Market Maker\) bir borsadır. Bu da, fiyatın alım ve satım borsaları aracılığıyla belirlendiği anlamına gelmektedir.
 
 ### Gas Fees
 
-On xDai the gas price never needs to be higher than 1 GWEI. See how much you have [spent in fees on the Ethereum Mainnet.](https://fees.wtf/) 
+xDai üzerinde, gas ücretlerinin 1 GWEI'den yüksek olmasına gerek yoktur. Şu linkten, daha önce Ethereum Mainnet üzerinde yaptığınız işlemler için ne kadar gas harcadığınızı görebilirsiniz.  
 
-| Networks | Average Fee |
+| Networks | Ortalama İşlem Ücreti |
 | :--- | :--- |
 | Eth Mainnet | $3 |
 | xDai | $0.0004 |
 | Matic | $0.000001 |
 
-### Broker, Liquidity, and Platform Fees
+### Broker, Likidite, Platform Ücretleri
 
-Honeyswap platform fees are 0.3%. This is competitive with most exchanges. 0.25% go to the liquidity providers and 0.05% goes back as revenue to the 1Hive common pool.
+Honeyswap platformunda işlem ücretleri, %0.3'tür. Bu, borsaların çoğuyla rekabetçi bir orandır. Bunun %0.25'i likidite sağlayıcılara giderken %0.5'i ise 1Hive ortak havuzuna gelir olarak geri 
 
-| Exchanges | Taker | Maker |
+| Borsalar | Taker | Maker |
 | :--- | :--- | :--- |
 | Binance | 0.10% | 0.1% |
 | OKEX | 0.15% | 0.10% |
@@ -44,15 +44,15 @@ Honeyswap platform fees are 0.3%. This is competitive with most exchanges. 0.25%
 | **Honeyswap** | **0.30%** | 0.30% |
 | Coinbase Pro | 0.50% | 0.50% |
 
-### Slippage
+### Fiyat Kayması
 
-Slippage is the difference in price paid relative to the spot price. Slippage is a function of trading volume, trade size, and liquidity. For you to have the lowest possible slippage you want trading volume and trade size to be low, and liquidity to be high.
+Kayma, spot fiyata göre ödenen fiyatta meydana gelen değişiklitir. Kayma, ticaret hacminin, ticaret boyutunun ve likiditenin belirleyici olduğu bir fonksiyondur. Fiyat kaymasının en düşük şekilde gerçekleşmesi için ticaret hacmi ile ticaret boyutunun düşük, likiditenin ise yüksek olması istenir.
 
-## Tools
+## Araçlar
 
-[Honeyswap](https://honeyswap.org/#/swap) - Used to make trades on xDai.
+[Honeyswap](https://honeyswap.org/#/swap) - xDai üzerinde alım satım yapmak için kullanılır.
 
-[Honeyswap Analytics](https://info.honeyswap.org) - See charts, trade volume, pool liquidity, and other platform analytics. 
+[Honeyswap Analytics](https://info.honeyswap.org) - Platforma ilişkin tablolar, ticaret hacmi, havuz likiditesi ve diğer analitik veriler için.
 
-[Coingecko](https://www.coingecko.com/en) - Honeyswap data is integrated into coingeckos token market dataset.  
+[Coingecko](https://www.coingecko.com/en) - Honeyswap verileri, Coingecko'nun token piyasa veri setine entegre edilmiştir.
 

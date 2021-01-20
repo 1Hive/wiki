@@ -1,55 +1,55 @@
 ---
-description: An in development subjective oracle.
+description: Şu anda geliştirilen subjektif oracle.
 ---
 
-# Celeste \(Coming soon\)
+# Celeste \(Yakında\)
 
-We have been talking about Celeste and how important it is to 1hive, but there hasn’t been a good source of high level information as to what it is, how it works, and why it’s important all in one place.
+Celeste hakkında ve Celeste'in 1Hive için ne kadar önemli olduğu hakkında konuşuyorduk; ancak Celeste'in ne olduğuna, nasıl işlediğine ve niçin önemli olduğuna dair üst düzey bir bilgi kaynağı yoktu.
 
-## What is it
+## Celeste Nedir?
 
-Celeste is a Subjective Oracle, enabling smart contracts to ask questions and receive answers, it can be used to resolve subjective disputes, settle prediction markets, moderate content, and more by enabling developers of decentralized applications to construct and arbitrate challenge-response games.
+Celeste, akıllı sözleşmelerin sorular sorup yanıtlar almasına olanak sağlayan Subjektif bir Oracle'dır; subjektif ihtilafların çözümlenmesinde, tahmin piyasalarının karara bağlanmasında, içeriklerin moderasyonunda ve daha bir sürü konuda merkeziyetsiz uygulama geliştiricilere kimlik sorma-yanıt verme oyunlarıyla geliştirme ve arbitraj yapma olanağı sunmaktadır.
 
-By invoking Celeste, a developer can align incentives between parties by ensuring that it is common knowledge that defectors from an agreed upon strategy will be punished.
+Geliştiriciler, Celeste'e başvurarak üzerinde anlaşmaya varılan bir stratejiden dönenlerin cezalandırılacağının herkes tarafından bilinen bir şey olduğunu güvence altına alarak farklı taraflar arasındaki teşvikleri işbirliği haline dönüştürebilir.
 
-On a technical level, Celeste is a fork of [Aragon Court](https://aragon.org/court), which is used for decentralized dispute resolution. The main difference between Celeste and Aragon Court, besides being on xDai and using Honey as its staking token, is that we have chosen to integrate brightID in order to limit how much stake individuals can add to the system.
+Teknik düzeyde, Celeste merkeziyetsiz ihtilaf çözümü için kullanıl [Aragon Court](https://aragon.org/court)'un bir fork'udur. Celeste ile Aragon Court arasındaki temel fark, xDai üzerinde olmak ve staking token olarak Honey kullanmanın yanı sıra kişilerin sistemdeki oy haklarını sınırlandırmak için BrightID'yi entegre etmeyi tercih etmiş olmasıdır.
 
-## How it works
+## İşleyiş Nasıldır?
 
-In order to understand how celeste works, its helpful to first understand the general pattern of an optimistic, or challenge-response game.
+Celeste'in nasıl işlediğini anlayabilmekaçısından öncelikle optimist ve kimlik sor-yanıt ver oyununun genel örüntüsü hakkında bilgi sahibi olmak faydalı olacaktır.
 
-Let’s say we want to create an escrow workflow for 1hive’s proposal process. Alice creates a proposal saying they will work on a project that is broken up into milestones, funds are placed into escrow and released upon request as milestones are completed. When Alice completes the first milestone, she can place a deposit as collateral in order to request the associated funds are released along with proof that the milestone was completed as expected. We can then, from a smart contract perspective, _optimistically_ assume that Alice is honest and completed the work as expected even though the smart contract has no way to validate that the work was actually completed, so long as no one is willing to dispute the action by putting up an equal amount of collateral and block the withdrawal.
+Diyelim ki 1Hive'ın teklif süreci için bloke hesaplı bir iş akışı oluşturmak istedik. Alice de kilometre taşları olarak bölünmüş şekilde bir proje üzerinde çalışmak istediğini söyleyerek bir teklif oluşturdu; fonlar bloke hesaba yerleştirildi ve kilometre taşları tamamlandıkça talep üzerine Alice'e iletildi. Alice ilk kilometre taşını tamamladığında, söz konusu kilometre taşının beklendiği şekilde tamamlandığını gösteren bir kanıtla birlikte ilgili fonları talep etmek üzere bir teminat yatırabilir. Ardından biz de, akıllı sözleşme perspektifinden, optimistik bir şekilde Alice'in dürüst olduğunu ve her ne kadar akıllı sözleşme işin gerçekten tamamlanıp tamamlanmadığını doğrulayamasa dahi herhangi birisi eşik miktarda teminat yatırıp Alice'in para çekmesini bloke etmek üzere ihtilafa girişmeye niyetlenmediği sürece işin gerçekten tamamlandığını varsayabiliriz.
 
-This same pattern can be used in a wide range of use cases, where there is public knowledge of what is true, but where it is not practical or simply impossible to compute that in a smart contract because the determination or judgement required is subjective in nature.
+Bu örüntüyü neyin doğru olduğuna dair herkes tarafından bilinen bir konu söz konusu olduğunda ama verilmesigereken kararın doğası gereği subjektif oluşundan dolayı akıllı bir sözleşmede hesaplanması pratik olmayan ya da imkansız olan geniş çapta bir sürü duruma uyarlamak mümkündür. 
 
-A naive solution to this problem is to just have people vote when there is a need to provide subjective information to a smart contract. But having everyone participate in a vote every time would be incredibly inefficient, what we want to do instead is to create a system where the first person interacting has a strong incentive to provide the contract with the proper information, and a sufficient disincentive to provide incorrect information.
+Bu probleme getirilebilecek çözümlerden biri, bir akıllı sözleşmeye subjektif bir bilgi sağlama ihtiyacı duyulduğunda insanlara oy verdirmek olabilir. Ancak her seferinde herkesin oy verme işlemine katılması gerçekten çok verimsizdir; onun yerine biz, etkileşimde bulunan ilk kişinin sözleşmeye uygun bilgi sağlaması için güçlü bir istek duyacağı ve yanlış bilgi vermemek için de yeterli bir caydırıcı faktör bulunacak bir sistem kurmak istiyoruz.
 
-Coming back to the example of escrow, when Alice makes the request to withdraw funds and attests that she has completed the work, Bob observes the request and determines that the proof that Alice has provided is insufficient, and chooses to challenge the withdrawal by putting up collateral and offering Alice the opportunity to withdraw their request or to add additional collateral in order to escalate and resolve the dispute by invoking Celeste.
+Yukarıdaki bloke hesaplı örneğe geri dönecek olursak, Alice fon çekmek için talepte bulunup işi tamamladığını iddia ettiğinde, Bob bu talebi fark edip Alice'in sunduğu kanıtın yetersiz olduğuna karar vermiş olsun ve Alice'in para çekme talebine karşı çıkmak için teminat yatırıp Alice'e hem talep ettiği tutarı hem de Celeste'e başvurarak ihtilafı oluşturup çözmek üzere ekstra teminat yatırmasını istesin.
 
-In most cases there won’t be any need for disputes, the fact that the disputes can be escalated will be enough in most cases to ensure that participants act honestly, but in the event that there is a dispute, participants who have staked honey in Celeste will be drafted to provide a resolution.
+Çoğu durumda, ihtilafa gerek olmayacaktır; ihtilafların ortaya çıkabilme ihtimali dahi çoğu durumda katılımcıların dürüst davranmaları için yeterli olacaktır. Bununla birlikte, ihtilaf oluşması halinde, Celeste'e honey stake eden katılımcılardan bir çözüm sağlamaları istenecektir.
 
-The protocol selects participants \(keepers\) to evaluate a dispute and provide a resolution. They are selected proportionally to amount of honey they have staked. We assume that the majority of drafted participants will provide the correct result, but allow anyone to appeal this decision to a larger group of keepers, until we reach a final appeal round where all actively staked keepers can participate in the resolution. As things are appealed the cost in terms of both time, capital, and attention increases, and as it does we can also expect the precedent set by the decision to have a greater impact and either build or erode significant trust in the mechanism as a whole. Essentially the process is designed to minimize the need to create disputes and to resolve disputes with minimal need for escalation, but as disputes do get escalated the the incentive to provide the most appropriate response is amplified.
+Protokol, ihtilafı değerlendirmek ve biz çözüm sunmak üzere katılımcılar seçecektir \(koruyucular\). Bu kişiler, stake ettikleri honey miktarı oranında seçileceklerdir. Görevlendirilen katılımcıların çoğunluğunun doğru sonucu sunacaklarını varsayıyoruz; ancak herkesin daha büyük bir koruyucu grubu ile bu kararı da aktif olarak honey stake eden bütün koruyucuların çözüm için katılım gösterebileceği son bir temyiz turuna ulaşana kadar temyiz etme hakkı olacak. Temyiz sayısı arttıkça; zaman, sermaye ve dikkat açısından maliyet artacak ve maliyet arttığından dolayı verilecek kararın oluşturacağı emsalin daha büyük etki yaratacağını ve mekanizmaya dair önemli bir güven oluşturabileceğini veya erozyona uğratabileceğini bekleyebiliriz. Temel olarak, süreç ihtilaf oluşturma ihtiyacını minimuma indirmek ve ihtilafların da çok büyümeden çözüme kavuşturulması için tasarlandı. Ancak ihtilaflar ortaya çıktığında en uygun yanıtın verilmesi için kullanılan teşvik de artırılmış olacak.
 
-By incorporating brightID in Celeste we improve upon purely stake based incentives by ensuring that influence over outcomes are broadly distributed and represent a greater number of unique perspectives in the eventual outcomes, making the mechanism more resilient to attacks and making the subjective resolutions more legitimate.
+BrightID'yi Celeste'e entegre ederek, sonuçlar üzerindeki etkinin daha geniş bir dağılıma sahip olduğu ve nihai sonuç üzerinde daha fazla sayıda özgün bakış açısının temsil edildiğini sağlama alarak tamamen stake bazlı teşviklerden daha iyi, saldırılara karşı daha sağlam ve subjektif kararları daha meşru hale getiren bir sistem oluşturmuş oluyoruz.
 
-## Why its important
+## Niçin Önemli?
 
-There are a bunch of new and interesting opportunities that can be built on Celeste, we can use it to settle prediction markets, create escrow type workflows, curate and categorize tokens on honeyswap, and even help validate computation that happens off-chain.
+Celeste üzerinde geliştirilebilecek bir sürü yeni ve ilginç fırsat bulunmakta. Celeste'i tahmin piyasalarının karara bağlanmasında, bloke hesap tarzı iş akışlarının oluşturulmasında, honeyswap üzerinde token oluşturma ve kategorize etmede ve hatta chain dışında gerçekleşen hesaplamaların doğrulanmasına yardımcıolmada dahi kullanabiliriz.
 
-However, the most important initial use case for 1hive is integrating celeste with conviction voting mechanism that we use to distribute honey, so that we can enable the community to dispute and block proposals that may have sufficient support to execute but which do not align with the expections of the community defined in the community covenant.
+Bununla birlikte, 1Hive için en önemli ilk kullanım alanı, honey dağıtımında kullandığımız kanaat oyu mekanizmalarına entegre etmektir. Böylece, uygulamaya geçirilmek için yeterli desteğe sahip olmasına rağmen topluluk sözleşmesinde tanımlanan topluluk beklentileriyle bağdaşmayan tekliflere topluluğun karşı çıkması ve bunları bloke etmesi amacıyla kullanıma sunabiliriz.
 
-Additionally, from a purely economic perspective, Celeste is really valuable to 1hive for two reasons.
+Ayrıca, tamamen ekonomik perspektiften bakacak olursak, Celeste 1Hive için iki temel nedenden dolayı gerçekten değerlidir.
 
-1. People will need to stake honey to participate as a keeper, and pay fees in honey in order to create and appeal disputes. As demand to use celeste increases, we will see demand to buy and hold honey increase.
-2. Because we are limiting the amount of honey individuals can stake in Celeste, we can expect that by promoting adoption of Celeste we will see the gini-coefficient of Honey decrease resulting in a more resilient and decentralized community.
+1. Koruyucu olarak katılım göstermek için insanlar honey stake etmek ve ihtilaflar oluşturup bu ihtilafları temyize götürmek için honey cinsinden ücret ödemek zorunda olacaklardır. Celeste kullanımına ilişkin talep arttıkça, honey satın alma ve elde tutma talebinin de arttığını göreceğiz.
+2. Celeste üzerinde her bir kişinin stake edebileceği honey miktarını sınırlandırdığımızdan dolayı, Celeste'in benimsenmesini teşvik ederek Honey'nin gini katsayısının düştüğünü göreceğiz ve bu da sonuçta daha sağlam ve daha merkeziyetsiz bir ekonomiye yol açacak.
 
-## When will it be ready
+## Ne Zaman Hazır Olacak?
 
-Celeste has been under active development for some time. There is still lots to do, but we expect to be able to launch Celeste and upgrade the 1hive DAO so that conviction proposals and decisions can be disputed before the end of the year. Keep an eye on the Celeste swarm in discord if you’d like to get involved or follow progress, we should have additional progress, updates, and roll out plans to share over the coming weeks.![:sun\_with\_face:](https://forum.1hive.org/images/emoji/apple/sun_with_face.png?v=9)![:sun\_with\_face:](https://forum.1hive.org/images/emoji/apple/sun_with_face.png?v=9)![:sun\_with\_face:](https://forum.1hive.org/images/emoji/apple/sun_with_face.png?v=9)
+Celeste bir süredir aktif olarak geliştirilmekte. Hâlâ yapılacak bir sürü iş var; ancak Celeste'i yıl bitmeden hizmete sunacağımızı ve 1Hive DAO'yu da kanaat teklifleri ve kararlarının tatrışmaya açılabileceği şekilde güncellemeyi umut ediyoruz. Sürece dahil olmak veya süreci takip etmek isterseniz gözünüz Discord'daki Celeste Swarm'ında olsun. Önümüzdeki haftalarda ekstra güncellemeler, ilerlemeler ve açılış planlarını paylaşabiliriz.![:sun\_with\_face:](https://forum.1hive.org/images/emoji/apple/sun_with_face.png?v=9)![:sun\_with\_face:](https://forum.1hive.org/images/emoji/apple/sun_with_face.png?v=9)![:sun\_with\_face:](https://forum.1hive.org/images/emoji/apple/sun_with_face.png?v=9)
 
-## **Useful Links**
+## Faydalı Bağlantılar
 
-Discussion about Celeste:
+Celeste hakkında tartışmalar:
 
 {% embed url="https://forum.1hive.org/t/celeste-a-brief-primer/1483" %}
 

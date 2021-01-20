@@ -14,25 +14,25 @@ Bu kilo metre taşları, ilgili Swarm tarafından kabaca yapılan öngörülerdi
 
 🎯 **Hedef Tarih:** Q1 2021
 
-Ayrıntılı bilgi için bkz. [Celeste](projects/celeste/)\*\*\*\*
+Ayrıntılı bilgi için bkz. [Celeste](celeste/)\*\*\*\*
 
 ### **Honey İhraç Politikasında Değişiklik**
 
 🎯 **Hedef Tarih:** Q1 2021
 
-Honey ihracı, başlangıçta yıllık %60 olarak belirlenmişti. 2020 yılının Kasım ayında %30 olacak şekilde düşürüldü. Şu anda, dinamik bir ihraç politikası geliştiriliyor. Ayrıntılara [Issuance Planned Improvements](projects/honey/honey-improvements.md#dynamic-issuance-policy) sayfasında bakabilirsiniz.
+Honey ihracı, başlangıçta yıllık %60 olarak belirlenmişti. 2020 yılının Kasım ayında %30 olacak şekilde düşürüldü. Şu anda, dinamik bir ihraç politikası geliştiriliyor. Ayrıntılara [Issuance Planned Improvements](honey/honey-improvements.md#dynamic-issuance-policy) sayfasında bakabilirsiniz.
 
 ### **Honeyswap Açılış Sayfası**
 
 🎯 **Hedef Tarih:** Q1 2021
 
-[Honeyswap](projects/honeyswap/) için, rehber metinler ve faydalı bilgilere de bağlantılar bulunacak kullanıcı dostu bir açılış sayfası üzerinde çalışılıyor.
+[Honeyswap](honeyswap/) için, rehber metinler ve faydalı bilgilere de bağlantılar bulunacak kullanıcı dostu bir açılış sayfası üzerinde çalışılıyor.
 
 ### 1Hive Gardens
 
 🎯 **Hedef Tarih:** Q2-Q3 2021
 
-Ayrıntılı bilgi için bkz. [Gardens](projects/gardens.md).
+Ayrıntılı bilgi için bkz. [Gardens](gardens.md).
 
 ### **Honeyswap Limit Order'lar**
 
