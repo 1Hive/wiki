@@ -1,23 +1,21 @@
 ---
-description: >-
-  Some possible improvements that are being worked on or researched by the
-  community
+description: Topluluğun üzerinde çalıştığı ve araştırdı bazı muhtemel iyileştirmeler
 ---
 
-# Planned Improvements
+# Planlanan İyileştirmeler
 
-## Dynamic issuance policy
+## Dinamik İhraç Politikası
 
-The new policy would regulate the Honey supply by both **issuing** and **burning** to and from the common pool in order to target a specific ratio of the total supply held in the common pool. The two primary goals of the new policy are as follows:
+Bu yeni politika, ortak havuzda tutulan toplam arzın spesifik bir oranda bulunması açısından ortak havuzda Honey ihraç ederek veya yok ederek \(issuing ve burning\) Honey arzını düzenleyecektir. Bu yeni politikanın iki temle hedefi aşağıdaki şekilde özetlenebilir:
 
-* Better align incentives around value creation by automatically reducing issuance or burning tokens in response to decreased outflows and/or increased inflows from buyback mechanisms.  
-* Make issuance changes more predictable by relying on a clearly defined algorithmic policy rather than needing to update the issuance rate sporadically via ad-hoc decision proposals. 
+* Azalan çıkışlara ve/veya geri alım mekanizmalarından dolayı artan girişlere karşılık ihracı otomatik olarak azaltarak veya token burn ederek değer yaratım teşviklerini daha iyi dengelemek.
+* İhraç oranını düzensiz bir şekilde geçici karar teklifleri yoluyla güncellemeye gerek duymak yerine net bir şekilde tanımlanmış algorirtma politikasına dayalı olarak ihraç değişikliklerini daha öngörül 
 
-The [Luna Swarm](../../community/swarms/luna.md) is working on modeling and specifying the new policy, with the intention to submit a formal proposal for implementation in January 2021. 
+[Luna Swarm](../../community/swarms/luna.md), yeni politikanın belirlenmesi için modellemeler üzerine çalışıyor ve uygulamaya konacak resmi teklifi 2021 yılının Ocak ayı içerisinde hazırlamayı hedefliyor.
 
-## Celeste integration 
+## Celeste Entegrasyonu
 
-Suggestions, Proposals, and Decisions will be made _disputable_, this will mean that proposers will be required to deposit Honey as collateral and other members can challenge them if they do not adhere to the [Community Covenant](../../community-covenant.md) by invoking [Celeste](../../community/swarms/celeste.md). 
+Öneriler, Teklifler ve Kararlar tartışmaya açılabilr hale getirilecek. Bu da teklifte bulunanların teminat olarak Honey yatırmasını gerektirecek ve teklifte bulunanların [Topluluk Sözleşmesi](../../community-covenant.md)'ne uymamaları halinde diğer üyeler [Celeste](../celeste/)'i çağırarak karşı çıkabileceklerdir.
 
-The integration work is underway and is plan to happen at the same time as the launch of Celeste.
+Entegrasyon çalışması şu anda devam etmekte ve Celeste'nin lansmanı ile aynı anda gerçekleştirilmesi planlanmakta.
 

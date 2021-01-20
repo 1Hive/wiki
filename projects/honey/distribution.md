@@ -1,22 +1,22 @@
 ---
 description: >-
-  Conviction voting is used to regulate the distribution of Honey from the
-  common pool.
+  Ortak havuzdan Honey dağıtımının düzenlenmesi için kanaat oylaması
+  kullanılmaktadır.
 ---
 
-# Distribution
+# Dağıtım
 
-## Conviction Voting
+## Kanaat Oylaması
 
-Conviction Voting allows proposals to be created and considered continuously and simultaneously. Participants can signal their preferences for the proposals they support, but they are not able to “double count” their influence across multiple proposals. 
+Kanaat Oylaması, tekliflerin sürekli ve eş zamanlı olarak oluşturulmasına ve değerlendirilmesine olanak sağlamaktadır. Katılımcılar, destekledikleri teklifleri tercih ettiklerini belirtebilmekle birlikte birden fazla teklif üzerinde kendi oy haklarının "çifte etki" yaratması söz konusu değildir.
 
-When they start supporting a proposal, the support \(called conviction\) does not immediately apply, but instead must charge up over time according to an exponential decay function or half-life.
+Bir teklifi desteklemeye başladıklarında, destek \(yani kanaat\) hemen uygulanmaz; onun yerine üstsel azalma fonksiyonu veya yarılanma süresine göre zaman içerisinde hesaba kaydedilmelidir.
 
-Currently there are two types of proposals that impact Honey distribution, signaling proposals which **do not** request honey, and funding proposals which **do** request honey.
+Şu anda, Honey dağıtımın etkileyen iki tür teklif bulunmaktadır: Honey talep etmeyen sinyal teklifleri ve honey talebinde bulunan fonlama teklifleri.
 
-For funding proposals, there is an execution threshold that is determined based on the proportion of funds requested relative to the funds available in the common pool. The greater the proportion, the greater the threshold required.
+Fonlama teklifleri için, ortak havuzda bulunan fonlara bağlı olarak talep edilen fon oranına bağlı belirlenen bir yürürlüğe koyma eşiği bulunmaktadır. Bu oran ne kadar yüksek olursa gereken eşik de o kadar yüksektir.
 
-For a deeper dive on the conviction voting, check out this [cadCAD model](https://github.com/BlockScience/Aragon_Conviction_Voting) exploring the mechanism.
+Kanaat oylaması konusuna daha derinden dalmak istiyorsanız, bu mekanizmayı ineleyen şu [cadCAD model](https://github.com/1Hive/conviction-voting-cadcad)'e bakabilirsiniz.
 
-The conviction voting implementation 1Hive uses has been developed in collaboration with [Aragon](https://aragon.org/), [Commons Stack](https://commonsstack.org/), and [Block Science](https://block.science/).
+1Hive'da kullanılan kanaat oylaması uygulaması; [Aragon](https://aragon.org/), [Commons Stack](https://commonsstack.org/) ve [Block Science](https://block.science/) işbirliğiyle geliştirilmiştir.
 

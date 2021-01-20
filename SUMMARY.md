@@ -15,14 +15,14 @@
   * [Buzz Bounty](getting-started-1/how-can-you-contribute/buzz-swarm-bounty.md)
   * [Fauna Awards](getting-started-1/how-can-you-contribute/fauna-awards.md)
 
-## Projects
+## Projeler <a id="projects"></a>
 
 * [Honey](projects/honey/README.md)
-  * [Participation](projects/honey/participation.md)
-  * [Issuance](projects/honey/issuance.md)
-  * [Distribution](projects/honey/distribution.md)
-  * [Decisions](projects/honey/decisions.md)
-  * [Planned Improvements](projects/honey/honey-improvements.md)
+  * [Katılım](projects/honey/participation.md)
+  * [İhraç](projects/honey/issuance.md)
+  * [Dağıtım](projects/honey/distribution.md)
+  * [Kararlar](projects/honey/decisions.md)
+  * [Planlanan İyileştirmeler](projects/honey/honey-improvements.md)
 * [Honeyswap](projects/honeyswap/README.md)
   * [For Traders](projects/honeyswap/for-traders.md)
   * [For Liquidity Providers](projects/honeyswap/for-liquidity-providers.md)

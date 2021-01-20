@@ -1,24 +1,24 @@
 ---
 description: >-
-  Changes to protocol parameters or smart contract updates requires making
-  discrete, binary choice decisions via voting.
+  Protokol parametreleri değişiklikleri veya akıllı sözleşme güncellemeleri için
+  oylama aracılığıyla ayrık, evet-hayır şeklinde kararlar gerekmektedir.
 ---
 
-# Decisions
+# Kararlar
 
-## Decision Surface
+## Karar Yüzeyi
 
-From a design perspective, 1Hive aims to minimize the need to make discrete decisions, favoring bottom up decision making and local autonomy of participants. Therefore, we do **not** use decisions for day to day operations or determining strategic direction. However, we have a process for making these types of decisions so that we have some ability to make changes to the protocol and parameters over time.  
+Tasarım perspektifinden, 1Hive ayrık kararlara ihtiyaç duyulmasını minimuma indirmeyi, karar almayı tabandan başlatarak katılımcıların yerel özerkliğinini teşvik etmeyi amaçlamaktadır. Dolayısıyla, gündelik işlemler için veya stratejik yönümüzü belirlemek için kararlardan faydalanmıyoruz. Bununla birlikte, zaman içerisinde protokol ve parametreler üzerinde değişiklik yapabilmek için bu tarz kararlar için de bir sürecimiz bulunmakta.
 
-The 1Hive DAO is made up of smart contracts that regulate how Honey is issued and distributed. As a young project we expect there will be a need to upgrade or change parameters that influence how these contracts work. We expect that the need for such changes will become increasing rare, and perhaps eventually become so rare they are deemed unnecessary, but for now it is seems prudent to retain the ability to upgrade contracts via decision votes. If and when the community deems appropriate a decision vote can be used to remove the capability of making any future decisions. 
+1Hiva DAO, Honey'nin nasıl ihraç edildiğini ve dağıtıldığını düzenleyen akıllı sözleşmelerden oluşmaktadır. Nispeten yeni bir proje olarak, bu sözleşmelerin nasıl çalıştığını belirleyen parametrelerin iyileştirilmesi veya değiştirilmesine ihtiyaç duyulacağını düşünüyoruz. Bu tarz değişikliklere duyulan ihtiyacın kademeli olarak azalacağını ve belki de sonunda o kadar nadiren ihtiyaç duyulacağından dolayı gereksiz olarak bile görülebileceğini de düşünmekteyiz. Ancak şu anda, karar oyları yoluyla sözleşmelerin iyileştirilebilmesi kabiliyetinin bulundurulmasının mantıklı olduğunu görmekteyiz. Topluluğun uygun görmesi halinde, gelecekte herhangi bir karar verme yetkisinin kaldırılması için bir karar oyu kullanılabilir. 
 
-## Decision Process
+## Karar Süreci
 
-The decision process is made purposely difficult and biased towards the status quo. Making changes to the protocol and parameters is by design a fairly arduous process that should not be undertaken lightly. 
+Karar süreci, kasıtlı olarak meşakatli ve mevcut statükoyu koruyacak şekilde tasarlanmıştır. Protokolde ve parametrelerde değişiklik yapmak, kolayca girişlemeyecek kadar zahmetli bir süreç.
 
-Since decisions are used infrequently and only to make technical changes to the protocol or parameters **there is no user interface for the creation of a decision**. A technical user must prepare a transaction which creates a decision vote, its best practice for such transactions to be reviewed by many people publicly before they are submitted. The account that submits a decision is required to send **5 Honey to the common pool** as part of the vote creation process, they can make a proposal to request reimbursement but there is no guarantee that such a proposal will be supported especially if the creation of decision vote was not expected or broadly supported by the community. 
+Kararlar nadiren ve yalnızca protokol veya parametrelerde teknik değişiklikler yapmak için kullanıldığındandolayı, **karar oluşturma için bir kullanıcı arayüzü bulunmamaktadır**. Karar oyu oluşturacak şekilde teknik bilgiye sahip bir kullanıcı bir işlem hazırlamalıdır; bu tarz işlemler için en iyi uygulama ibraz edilmeden önce herkese açık şekilde epey kişi tarafından gözden geçirilecektir. Bir karar oyu ibrazında bulunan hesap, oy oluşturma sürecinin bir parçası olarak **ortak havuza 5 honey göndermek** zorundadır. Bu kişi, geri ödeme \(5 Honey'nin iadesi\) için bir teklif oluşturabilir; ancak özellikle karar oyunun beklenen bir oylama olmaması veya topluluk tarafından geniş bir destek görmemesi durumlarında böyle bir teklifin destekleneceği hususunda bir güvence vermek mümkün değildir.
 
-Once a vote is created it will show up in the frontend as a _decision._ Voting on each decision is open for 2 weeks. In order to pass there must be an **approval quorum** of atleast 10 percent of the total supply voting in favor, and over 50% of voters in support. If a vote is approved, there is a 48 hour delay before the vote can be enacted, allowing people to react to the outcome and make decisions before the effects of the vote are realized. 
+Oy oluşturulduğunda, arayüzde decision \(karar\) olarak görülecektir. Her bir karar için oylama 2 hafta boyunca açık kalır. Bu kararın geçmesi için, toplam Honey arzının en az %10'unun lehte oy verdiği bir **onay yeter sayısı** bulunmalı ve oy verenlerin %50'sinden fazlasının da desteklemesi gerekmektedir. Oy onaylandığında, söz konusu oyun uygulamaya konması için 48 saatlik bir gecikme süresi bulunur. Bu süre, herkesin sonuca tepki vermesi ve oyun etkilerinin yerine getirilmesinden önce karar vermesine olanak tanır.
 
-Additionally, the entire balance of Honey for accounts which vote in support of a decision are locked as soon as they vote yes, preventing all transfers from their address until after the vote has concluded. This restriction helps to ensure that people that vote in favor of a decision have a strong belief that approving the decision is both necessary and beneficial to the community because they will be locked in and exposed  to any changes in value associated with a controversial decision being forced through, while people who vote against are free to exit by selling their Honey.
+Ayrıca, bir kararı destekleyen hesapların bütün Honey bakiyesi "evet" oyu verdikleri anda kilitlenir ve oylama sonuçlanana kadar adreslerinden herhangi bir transfer yapmalarının önüne geçilir. Bu kısıtlama, bir karar için lehte oy veren kişilerin bu kararın onaylanmasının topluluk için hem gerekli hem de faydalı olduğuna ilişkin güçlü bir inanca sahip olduklarından emin olmaya yardımcı olmaktadır; çünkü tartışmalı bir karar zorla geçirilmeye çalışıldığında hesapları kilitli olacağından dolayı Honey'nin değerindeki değişimlere açık hale geleceklerdir. Öte yandan, karara karşı oy veren kişiler ise Honey'lerini satarak çıkış yapabileceklerdir.
 

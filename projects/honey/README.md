@@ -1,24 +1,26 @@
 ---
-description: Honey is a community currency issued and distributed by the 1Hive community.
+description: >-
+  Honey, 1Hive topluluğu tarafından ihraç edilen ve dağıtımı yapılan topluluk
+  para birimidir.
 ---
 
 # Honey
 
-Honey is at the heart of everything we do, by optimizing how we issue and distribute Honey we can grow the 1Hive economy, reward contributors, and expand our community. 
+Honey, yaptığımız her şeyin merkezini oluşturur. Honey ihracını ve dağıtımını optimize ederek 1Hive ekonomisini büyütebilir, katkıda bulunanları ödüllendirebilir ve topluluğumuzu genişletebiliriz.
 
-The issuance and distribution of Honey is regulated by the smart contracts. You can create, monitor, and stake Honey on proposals using the frontend located at [1hive.org](https://1hive.org/#/).
+Honey ihracı ve dağıtımı, akıllı sözleşmeler yoluyla düzenlenir. [1hive.org](https://1hive.org/#/) adresinde  bulunan önyüz aracılığıyla Honey ile teklifler oluşturabilir, oluşturulan teklifleri izleyebilir veya tekliflere destek verebilirsiniz.
 
-You can interact with these contracts through the Aragon Client interface at [aragon.1hive.org](https://aragon.1hive.org/#/0xe9869a0bbc8fb8c61b7d81c33fa2ba84871b3b0e) or run either interface locally yourself. 
+Bu sözleşmelerle, [aragon.1hive.org](https://aragon.1hive.org/#/0xe9869a0bbc8fb8c61b7d81c33fa2ba84871b3b0e) adresinde bulunan Aragon İstemci arayüzü aracılığıyla etkileşime geçebilir veya bu arayüzü lokal sunucunuzda kendiniz de çalıştırabilirsiniz.
 
-## Economic Overview
+## Ekonomik Değerlendirme
 
-The value of Honey is determined by supply and demand. The supply is managed by a policy and demand can be influenced by participating in the process of staking on proposals which allocate and distribute Honey from the common pool to contributors.
+Honey'nin değeri, arz ve talep ile belirlenir. Arz bir politika ile yönetilirken talep ise ortak havuzdan katkıda bulunanlara Honey dağıtımını belirleyen ve tahsis eden teklifler üzerinde Honey stake ederek katılımda bulunma sürecinden etkilenir.
 
-If participants allocate Honey productively, inflows to the common pool will eventually exceed outflows, demand will outpace supply, and the value of Honey will increase. Conversely if Honey is allocated unproductively the circulating supply of Honey will increase without a corresponding increase in demand and the value of Honey will decrease. 
+Katılımcıların Honey tahsisini verimli bir şekilde yapmaları durumunda, ortak havuza giren Honey miktarı en nihayetinde havuzdan çıkan miktarı aşacağından dolayı, talep arzı geçecek ve Honey'nin değeri de artacaktır. Öte yandan, Honey verimsiz bir şekilde tahsis edildiğinde dolaşımdaki Honey arzı artarken talepte bir artış yaşanmayacağından dolayı da Honey'nin değeri düşec 
 
-![Simplified Honey Stock and Flow Diagram](../../.gitbook/assets/honey-2x.png)
+![Basitle&#x15F;tirilmi&#x15F; Honey Sto&#x11F;u ve Ak&#x131;&#x15F; Diyagram&#x131;](../../.gitbook/assets/honey-2x.png)
 
-One way to think of this system is as a [cybernetic feedback loop ](https://en.wikipedia.org/wiki/Cybernetics)where stakers are sensors, the protocol is the controller, and proposals are the actuators that impact the environment. The impact of proposals may be uncertain and may change over time, but outcomes will be observed and feed back into the system resulting in adaptation to the environment over time. 
+Bu sistem, bir anlamda Honey stake edenlerin sensör, protokolün kontrolör ve tekliflerin de çevreyi etkileyen sürücüler olduğu bir [sibernetik geribesleme döngüsü](https://tr.wikipedia.org/wiki/Sibernetik) olarak da görülebilir. Tekliflerin etkisi belirsiz olabilir ve zaman içerisinde değişebilir; ancak çıktılar gözlemlenecek ve sisteme geribesleme olarak gelecek, en sonunda da zaman içerisinde çevreye bir adaptasyon ile sonuçlanacaktır.
 
-Increasing the value of Honey is an implicit goal of the system and its participants. Stakers must hold Honey over time to influence proposals and therefore have a vested interest in supporting proposals that maximize the value of Honey, and contributors need Honey to be valuable so that their contributions can sustainably rewarded. 
+Honey'nin değerini artırmak, bu sistemin ve katılımcılarının dolaylı olarak üstlendiği bir rol olarak görülebilir. Honey stake edenler, teklifler üzerinde söz sahibi olabilmek adına zaman içerisinde Honey'i ellerinde tutmalı ve dolayısıyla Honey'nin değerini maksimuma çıkaracak teklifleri desteklemek isteyecekler ve katkıda bulunanlar da yaptıkları katkıların yeterince ödüllendirilebilmesi adına Honey'nin değerli olmasını isteyeceklerdir.
 

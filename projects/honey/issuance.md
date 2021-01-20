@@ -1,18 +1,18 @@
 ---
 description: >-
-  Honey does not have a fixed supply, an issuance policy controls the rate at
-  which Honey is minted over time.
+  Honey sabit bir arza sahip değildir, Honey'nin zaman içerisinde hangi oranda
+  ihraç edileceği bir ihraç politikası ile belirlenir.
 ---
 
-# Issuance
+# İhraç
 
-Issuance refers to the process that mints new Honey. Honey is currently set to increase in supply at a rate of **30% per year.** As Honey is added to the supply it is put straight into the Common Pool, where it is available for distribution via proposals. The issuance rate can be adjusted via [decision proposals](decisions.md). 
+Yeni Honey basımı işlemi, ihraç olarak ifade edilir. Şu anda Honey arzı yılda %30 oranında artacak şekilde belirlenmiştir. Mevcut arza Honey eklendiğinde, doğrudan Ortak Havuza gider ve buradan teklifler yoluyla dağıtılabilir. İhraç oranı, [karar teklifleri](decisions.md) yoluyla düzenlenebilir.
 
-The current issuance policy allows anyone to call a function to mint Honey to the common pool and the amount of Honey issued depends on the issuance rate parameter and number of blocks which has passed since the last time the function was called. Therefore the rate of compounding depends on how frequently this function is called.
+Mevcut ihraç politikası, herkesin ortak havuza Honey basması için bir fonksiyon çağırmasına olanak sağlamakta ve ihraç edilen Honey miktarı, ihraç oranı parametresi ve ilgili fonksiyonun en son çağrıldığı zamandan itibaren geçen blok sayısına bağlıdır. Dolayısıyla, artış oranı bu fonskiyonun hangi sıklıkta çağrıldığına bağlıdır.
 
-It is worth noting that rate of issuance is an important and [controversial topic](https://forum.1hive.org/t/discussion-honey-issuance-policy/231) among the community and the general consensus is that the issuance policy should be modified. As a result of those ongoing discussions, work has been started by the [Luna Swarm](../../community/swarms/luna.md) to model and formally propose a [**dynamic issuance policy**](honey-improvements.md#dynamic-issuance-policy) to replace the current policy. 
+Bununla birlikte, ihraç oranının topluluk içerisinde önemli ve [tartışmalı bir konu](https://forum.1hive.org/t/discussion-honey-issuance-policy/231) başlığı olduğu ve ihraç politikasının tadil edilmesi konusunda genel bir mutabakat oluştuğu da ifade edilmelidir. Devam eden bu tartışmalar sonucunda, [Luna Swarm](../../community/swarms/luna.md) tarafından mevcut politikanın yerine geçecek [dinamik bir ihraç politikasının](honey-improvements.md) resmi olarak teklif edilmesi için modelleme çalışmaları başlatılmıştır.
 
 {% hint style="info" %}
-A formal decision proposal to adopt the dynamic issuance policy along with recommended parameterization is expected sometime in January 2021.
+Önerilen parametrelendirmelerle birlikte dinamik ihraç politikasının benimsenmesine ilişkin resmi bir karar teklifinin 2021 yılının Ocak ayında hazırlanması beklenmektedir.
 {% endhint %}
 

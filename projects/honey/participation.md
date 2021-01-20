@@ -1,55 +1,53 @@
 ---
 description: >-
-  1Hive and Honey are community driven. Community members are encouraged to
-  participate in the sense-making of the 1Hive DAO by submitting, discussing and
-  staking on proposals.
+  1Hive ve Honey are topluluk tarafından yönlendirilmektedir. Topluluk
+  üyelerinin teklifler oluşturarak, tartışarak ve tekliflere oy vererek 1Hive
+  DAO'daki anlam yaratımına katılmaları teşvik edilir.
 ---
 
-# Participation
+# Katılım
 
-## Exploring the proposal feed
+## Teklif akışına bakış
 
-At any given time there will be many proposals that have been submitted and are under active consideration. Users can explore all proposals using the open source frontend interface hosted at [1hive.org](https://1hive.org/#/home) and decide which proposals they want to support. Of course, more technical users can run the frontend locally, or interact with the contracts directly. 
+Her zaman, oluşturulan ve aktif olarak değerlendirilen bir sürü teklf bulunacaktır. Kullanıcılar, bütün bu tekliflere [1hive.org](https://1hive.org/#/home) adresinde barındırılan açık kaynaklı arayüzü kullanarak bakabilir, hangi teklifleri desteklemek istediklerine karar verebilirler. Elbette, teknik bilgisine güvenen kullanıcılar önyüzü yerel olarak çalıştırarak sözleşmelerle doğrudan etkileşimde de bulunabilirler. 
 
 ![Proposal Feed](../../.gitbook/assets/image%20%285%29.png)
 
-You can filter the feed by proposal type or status, and can sort based on support or recency. The feed contains different types of proposals and its important to understand the difference between proposal types. 
+Bu akışı teklif türü ve durumuna göre filtreleyebilir, destek durumu veya eklenme tarihine göre sıralayabilirsiniz. Akışta, farklı türde teklifler bulunur ve teklif türleri arasındaki farkın bilinmesi önemlidir.
 
-### Suggestions
+### Öneriler
 
-Suggestions, including the _abstain proposal,_ are proposals which do not request funds from the common pool. They can be used to draw collective attention to specific issues, without committing or requesting funds be allocated to the issue. 
+_Çekimser teklif_ dahil, öneriler ortak havuzdan fon talebinde bulunmayan tekliflerdir. Bu teklifler, belirli konularda herhangi bir fon talebinde bulunmaksızın topluluğun bu konulara dikkatini çekmek için kullanılabilir. Öneriler, destek toplayabilir ancak fon isteyen teklifler gibi belirli bir yürürlüğe girip uygulanma durumu söz konusu değildir. Onun yerine, bir öneriyi desteklemek diğer dağıtım tekliflerinin yürürlüğe girmesi için gereken destek miktarını artıracaktır. Dolayısıyla, topluluğun verimsiz bir şekilde para harcadığını düşünüyorsanız, çekimser teklifi destekleyerek veya topluluğun kaynakları ne şekilde tahsis etmesi gerektiğini düşündüğünüzü belirten bir sinyal teklifi oluşturarak sistemin davranışı üzerinde anlamlı bir etki yaratabilirsiniz.
 
-Suggestions can accumulate support, but they will never pass. Instead, supporting a suggestion will increase the amount of support required for all other distribution proposals to pass. So if you think that the community is spending money unproductively supporting the _abstain proposal,_ or creating a new signaling proposal that makes the case for how you think the community should actually be allocating resources can have a meaninful influence on behavior of the system. 
+### Teklifler
 
-### Proposals 
+Akıştaki başlıkların her biri teklif türü olmasına rağmen, Proposal \(Teklif\) türü, özellikle ortak havuzdan Honey dağıtımı yapılmasını talep eden teklifler için kullanılmaktadır.
 
-While all of the items in the feed are types of proposals, the Proposal type is used specifically for proposals that request Honey be distributed from the common pool. 
+Bu tekliflerde bir yürürlüğe girme eşiği olacak ve teklife yeterince destek gelmesi halinde herhangi biri tarafından uygulamaya alınabilecektir. Uygulamaya alındığında, talep edilen miktarda Honey ortak havuzdan teklifte lehtar adres olarak gösterilen adrese aktarılacaktır.
 
-These proposals will have an activation threshold, and can be executed by anyone once enough relative support has accumulated to that proposal. When executed the requested amount of Honey will be transferred from the common pool to the beneficiary address. 
+Eşik ve destek birikimi dinamikleri, Honey'nin ortak havuzdan ne hızda dağıtılacağını düzenler. Bu mekanizma, [Dağıtım ](distribution.md)sayfasında daha ayrıntılı olarak açıklanmıştır.
 
-The threshold and dynamics of support accumulation regulate how quickly Honey can be distributed from the common pool. The mechanism is discussed in greater depth on the [Distribution page](distribution.md). 
+### Kararlar
 
-### Decisions
+Teklifler ve Öneriler, 1hive içerisinde yönetişimin temel yöntemleridir. Bununla birlikte, zaman zaman ayrıca bir karar vermek zorunda kalınabilmektedir. Bunlara, akıllı sözleşmelerin iyileştirilmesi veya politikanın parametrelendirilmesindeki ayarlamalar örnek olarak gösterilebilir.
 
-Proposals and Suggestions are the primary means of governance within 1Hive, however, occasionally there is an unavoidable need to make a discrete decision. For example upgrading smart contracts or adjusting the parameterization of a policy. 
+Bu durumlarda, daha geleneksel bir oylama süreci kullanılır. Bu oylamada, ayrı bir eylem teklif edilir ve evet-hayır şeklinde bir oylama yapılır. Belirli bir süre içerisinde oylamaya izin verilir, yeter sayıya ve destek eşiğine ulaşılması halinde teklif kabul edilerek eylem yerine getirilir.
 
-In these instances a more traditional voting process is used, where a descrete action is proposed and voted on in a binary fashion. Votes are open for a fixed period of time, and if quorum and support threshold are reached the vote passes and the action is executed. 
+## Teklif Oluşturma
 
-## Submitting proposals
+Teklif oluşturmadan önce, öncelikle [forum.1hive.org](https://forum.1hive.org/) üzerinde bir forum paylaşımı oluşturmanız gerekmektedir. Bu şekilde teklifinizi ve teklifin mantığını açıklayabilirsiniz. Ayrıca, topluluk üyeleri arasında bir tartışma alanı da sağlanmış olur. Teklif \(proposal\) kategorisinde bir teklif oluşturduğunuzda, önünüze bütün gerekli bilgileri içeren bir şablon gelir.
 
-Before submitting a proposal, you should first make a forum post on [forum.1hive.org](https://forum.1hive.org/). This is where you can provide a detailed description of your proposal and its rationale. It also provides a venue for discussion and debate among community members. Creating a proposal in the proposal category will prompt you with a template layout including all required information.
+Şu anda bunu yapmamanız halinde, teklifinizi geri çekmeniz istenecektir. İlerleyen zamanlarda, prosedürlere uygun hareket etmemeniz halinde kaybedebileceğiniz şekilde bir miktar Honey stake etmeniz istenecektir.
 
-Currently if you fail to do this, you will simply be asked to withdraw your proposal, in the future you will be required to put up stake which could be lost if you don’t follow the appropriate procedure.
+Teklif başlığınızı oluşturduğunuzda, [1hive.org](https://1hive.org) adresine girip hesabınıa bağlandıktan sonra`New proposal'a` tıklayarak teklifinizi oluşturabilirsiniz.
 
-Once you have created your proposal thread, you can create your proposal by going to [1hive.org](www.1hive.org), connecting your account, and clicking `New proposal`.
+Kısa ve açıklayıcı bir başlıkla birlikte forumdaki ilgili başlığınıza bağlantı vermeyi unutmayın.
 
-Be sure to provide a short but descriptive title, and link to your forum post.
+## **1hive.org Terminolojisi**
 
-## **Terminology on 1hive.org**
+**Common Pool \(Ortak Havuz\),** topluluk tarafından kolektif olarak bulundurulan ve teklifler aracılığıyla dağıtılabilecek tokenleri ifade etmektedir.
 
-**Common Pool** refers to the tokens held collectively by the community and which are available for distribution via proposals.
+**Token Supply \(Token Arzı\),** şu anda mevcut olan bütün tokenlerdir**.**
 
-**Token Supply** is all of the tokens currently in existence.
-
-**Active** is the supply that is currently staked to proposals.
+**Active \(Aktif\),** şu anda tekliflere stake edilen token miktarıdır.
 
