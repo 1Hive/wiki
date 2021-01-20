@@ -8,7 +8,7 @@ Pollen; 1Hive'ın [Discord](https://discord.com/invite/P4rRDUKTAU), [Discourse](
 
 ## Nasıl Katılırım?
 
-Haftalık Pollen dağıtımlarından pay almak için, 1Hive Discord'unda [Verified ](discord.md#bot-komutlari)olmalısınız. Ardından, 1Hive'ın Discord, Discourse ve Github topluluklarıyla etkileşimde bulunmaya başlar başlamaz kayıt olurken verdiğiniz cüzdan adresinizde Honey'e dönüşecek şekilde Pollen kazanmaya da başlamış olursunuz.
+Haftalık Pollen dağıtımlarından pay almak için, 1Hive Discord'unda [Verified ](discord/#bot-komutlari)olmalısınız. Ardından, 1Hive'ın Discord, Discourse ve Github topluluklarıyla etkileşimde bulunmaya başlar başlamaz kayıt olurken verdiğiniz cüzdan adresinizde Honey'e dönüşecek şekilde Pollen kazanmaya da başlamış olursunuz.
 
 Haftalık pollen dağıtımlarından pay almak için, desteklenen platfomlardaki hesaplarınızı kaydettirerek bunları xDai adresinize bağlamanız gerekmektedir. Bunu da, 1Hive Discord'un `#🐛onboarding` kanalına aşağıdaki formatta bilgilerinizi girerek yapabilirsiniz:
 
@@ -72,7 +72,7 @@ A breakdown of each platforms relative distribution of Pollen each week.
 
 ### Discord Pollen Weights
 
-On Discord, in order to mint cred for other users through emoji responses, users giving the response must be [Verified](discord.md#tips). Minting to self is disabled and the system also weights the minting amount to others depending on how much cred the minter has earned.
+On Discord, in order to mint cred for other users through emoji responses, users giving the response must be [Verified](discord/#tips). Minting to self is disabled and the system also weights the minting amount to others depending on how much cred the minter has earned.
 
 | Total Cred | Mint Weight |
 | :--- | :--- |

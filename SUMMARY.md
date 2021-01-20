@@ -7,7 +7,8 @@
 ## Başlarken <a id="getting-started-1"></a>
 
 * [Terminoloji](getting-started-1/quick-navigation-guide.md)
-* [Discord](getting-started-1/discord.md)
+* [Discord](getting-started-1/discord/README.md)
+  * [Marketing Kanalı](getting-started-1/discord/marketing-kanali.md)
 * [Pollen](getting-started-1/pollen.md)
 * [Takvim](getting-started-1/calendar.md)
 * [Katkıda Bulunma](getting-started-1/how-can-you-contribute/README.md)
