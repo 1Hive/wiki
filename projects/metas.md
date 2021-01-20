@@ -7,7 +7,7 @@ description: Próximas metas
 ## Metas de 1Hive
 
 {% hint style="warning" %}
-Estas mitos son estimaciones aproximadas especificadas y actualizadas por el swarm correspondiente. Se mantiene actualizado lo mejor que se pueda por cada swarm responsable. Para obtener un estado más preciso de cada proyecto, es mejor consultar la discusión pública en [Discord](https://discord.com/invite/P4rRDUKTAU), [Discourse](https://forum.1hive.org/), [Telegram](https://t.me/honeyswapDEX) y otros canales sociales y los [resúmenes semanales](metas.md#resumen-semanal). 
+Estas metas son estimaciones aproximadas especificadas y actualizadas por el swarm correspondiente. Se mantiene actualizado lo mejor que se pueda por cada swarm responsable. Para obtener un estado más preciso de cada proyecto, es mejor consultar la discusión pública en [Discord](https://discord.com/invite/P4rRDUKTAU), [Discourse](https://forum.1hive.org/), [Telegram](https://t.me/honeyswapDEX) y otros canales sociales y los [resúmenes semanales](metas.md#resumen-semanal). 
 {% endhint %}
 
 ### **Celeste**
