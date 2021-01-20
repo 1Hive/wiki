@@ -1,5 +1,5 @@
 ---
-description: 'La miel es dinero, para todos.'
+description: 'Honey es dinero, para todos.'
 ---
 
 # Bienvenido a 1Hive
@@ -16,9 +16,9 @@ Mientras la administración centralizada es un medio poderoso y flexible para es
 
 En el caso del DAO 1hive, una moneda comunitaria llamada Honey se utiliza para crear una economía circular donde los bienes públicos y las inversiones que hacen crecer la economía de 1hive pueden financiarse colectivamente con [**votación por convicción**](projects/honey/).
 
-## ¿Por qué Miel?
+## ¿Por qué Honey?
 
-Porque la miel es dinero. En serio.
+Porque Honey es dinero. En serio.
 
 La emisión de una moneda digital permite a una comunidad digital distribuida como lo es 1hive, construir una economía en torno a un conjunto de valores compartidos. 
 
@@ -30,7 +30,7 @@ Este tipo de competencia es buena para todos y, con suerte, debería conducir a 
 
 ## Empezando <a id="getting-started"></a>
 
-1hive es una comunidad abierta, no necesitas pedir permiso para unirte o convertirte en miembro. Si ves algo que crees que debería mejorarse, puedes hacer una propuesta para conseguir miel \(HNY\) y hacerlo realidad. 
+1hive es una comunidad abierta, no necesitas pedir permiso para unirte o convertirte en miembro. Si ves algo que crees que debería mejorarse, puedes hacer una propuesta para conseguir Honey \(HNY\) y hacerlo realidad. 
 
-También puedes ganar miel simplemente participando en la comunidad de github, discord y discourse \(el foro\) a través de Pollen, registrándose y reclamando miel a través de la faucet de BrightId, o proporcionando liquidez en honeyswap y depositando tus tokens LP en honeycomb. Si bien alentamos a las personas a tomar iniciativa como individuos, también nos gusta trabajar juntos. Se han formado swarms autoorganizados, traducido enjambres,  en torno a proyectos específicos \(por ejemplo, honeyswap, celeste, gardens\) o áreas de trabajo \(por ejemplo, diseño, comunicaciones, ingeniería\). Si eres nuevo en 1hive y quieres contribuir, una buena forma de empezar es encontrar un swarm que te interese y preguntar cómo podrías ayudar.
+También puedes ganar Honey simplemente participando en la comunidad de github, discord y discourse \(el foro\) a través de Pollen, registrándose y reclamando Honey a través de la faucet de BrightId, o proporcionando liquidez en honeyswap y depositando tus tokens LP en honeycomb. Si bien alentamos a las personas a tomar iniciativa como individuos, también nos gusta trabajar juntos. Se han formado swarms autoorganizados, traducido enjambres,  en torno a proyectos específicos \(por ejemplo, honeyswap, celeste, gardens\) o áreas de trabajo \(por ejemplo, diseño, comunicaciones, ingeniería\). Si eres nuevo en 1hive y quieres contribuir, una buena forma de empezar es encontrar un swarm que te interese y preguntar cómo podrías ayudar.
 
