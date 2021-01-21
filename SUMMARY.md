@@ -25,7 +25,6 @@
   * [For Traders](projects/honeyswap/for-traders.md)
   * [For Liquidity Providers](projects/honeyswap/for-liquidity-providers.md)
   * [For Developers](projects/honeyswap/for-developers.md)
-  * [Planned Improvements](projects/honeyswap/planned-improvements.md)
 * [Celeste \(Coming soon\)](projects/celeste/README.md)
   * [User Process](projects/celeste/user-process.md)
 * [Gardens \(Coming soon\)](projects/gardens.md)

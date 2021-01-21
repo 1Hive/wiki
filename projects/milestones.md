@@ -9,8 +9,7 @@ description: Upcoming milestones
 See the forum posts below for the most recent updates from various swarms.
 
 [1Hive Weekly Recap \(4th Jan - 11th Jan\)](https://forum.1hive.org/t/1hive-weekly-recap-cw-53-4th-jan-11th-jan/1815)   
-[1Hive Weekly Recap \(28 Dec - 4 Jan\)](https://forum.1hive.org/t/1hive-weekly-recap-cw-52-28-dec-4-jan/1765)   
-
+[1Hive Weekly Recap \(28 Dec - 4 Jan\)](https://forum.1hive.org/t/1hive-weekly-recap-cw-52-28-dec-4-jan/1765)
 
 ## 1Hive Milestones
 
@@ -41,12 +40,6 @@ A user friendly landing page for [Honeyswap](honeyswap/) including links to guid
 🎯 **Target Date:** Q2-Q3 2021
 
 For more information see [Gardens](gardens.md).
-
-### **Honeyswap Limit Orders**
-
-🎯 **Target Date:** Unknown
-
-For more information see [GitHub](https://github.com/1Hive/honeyswap-limit-order-contracts).
 
 ## External Milestones important for 1Hive
 
