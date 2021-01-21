@@ -38,6 +38,7 @@
   * [🦋 Morphosis](community/swarms/morphosis.md)
   * [🐝 Buzz](community/swarms/buzz.md)
   * [🏵 Pollen](community/swarms/pollen.md)
+  * [🌺 Flora](community/swarms/flora.md)
   * [🐱 Fauna](community/swarms/fauna.md)
   * [🌻 Gardens](community/swarms/gardens.md)
   * [🐛 Bug Bounty](community/swarms/bug-bounty.md)
