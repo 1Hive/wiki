@@ -47,6 +47,8 @@
   * [Buzz Bounty](community/media/buzz-bounty.md)
 * [Design](community/design/README.md)
   * [Brand Guidelines](community/design/brand-guidelines.md)
+* [Courses](community/courses/README.md)
+  * [Data Analysis](community/courses/data-analysis.md)
 * [Security](community/security/README.md)
   * [Bug Bounty](community/security/bug-bounty.md)
 
