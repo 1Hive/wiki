@@ -48,7 +48,7 @@ Once a decision has been made by the keepers there is a 2 day period to allow an
 
 ### Confirming appeal
 
-If someone disagrees with the appeal they can confirm it, raising it to a second round of disputes \(going from the drafting keepers stage above\) which will employ 9 keepers, raised by a factor of 3 for each new round of a dispute up to a total of 4 rounds. To confirm an appeal requires a deposit of 2x the Celeste fees for this round. This deposit minus Celeste fees is forfeit to the appeal creator if the appeal is successful.
+If someone disagrees with the appeal they can confirm it, raising it to a second round of disputes \(going from the [drafting keepers](user-process.md#drafting-keepers) stage above\) which will employ 9 keepers, raised by a factor of 3 for each new round of a dispute up to a total of 4 rounds. To confirm an appeal requires a deposit of 2x the Celeste fees for this round. This deposit minus Celeste fees is forfeit to the appeal creator if the appeal is successful.
 
 ### Final appeal round
 
