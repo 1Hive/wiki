@@ -16,7 +16,7 @@ Most channels are focussed on discussion around a particular topic, which can be
 * **🤖bot-commands** is for summoning Discord bots to give information, register your account with BrightID or setup a tipping account. See [details below](./#bot-commands) for commands that can be used in the bot commands channel.
 * **✅check-in** is for daily/multi-daily/weekly status updates from 1Hive contributors.
 * **🍄nominations** is where you can recognize the work of others, particularly those that you feel are not being properly recognized elsewhere. Pollen is weighted differently in this channel, see the end of the [Discord Pollen Weights](../pollen.md#discord-pollen-weights) section for details.
-* 🐝**marketing** is for curating content that is posted to the 1Hive social media channels, details can be seen in the [Marketing Channel](marketing-channel.md) section.
+* 🐝**marketing** is for curating content that is posted to the 1Hive social media channels, details can be seen in the [Marketing Channel](marketing-curation.md) section.
 * 🍯**keepers** is for those with the 🍯**Honey** role which can only be assigned if you own 1 Honey.
 
 ## Roles and Swarms

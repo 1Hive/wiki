@@ -7,7 +7,7 @@
 
 * [Terminology](getting-started/terminology.md)
 * [Discord](getting-started/discord/README.md)
-  * [Social Curation](getting-started/discord/marketing-channel.md)
+  * [Social Curation](getting-started/discord/marketing-curation.md)
 * [Pollen](getting-started/pollen.md)
 * [Calendar](getting-started/calendar.md)
 * [Contributing](getting-started/contributing/README.md)
