@@ -4,12 +4,13 @@ description: Upcoming milestones
 
 # Milestones
 
-## Weekly Recap
+## Recaps
 
 See the forum posts below for the most recent updates from various swarms.
 
 [1Hive Weekly Recap \(4th Jan - 11th Jan\)](https://forum.1hive.org/t/1hive-weekly-recap-cw-53-4th-jan-11th-jan/1815)   
-[1Hive Weekly Recap \(28 Dec - 4 Jan\)](https://forum.1hive.org/t/1hive-weekly-recap-cw-52-28-dec-4-jan/1765)
+[1Hive Weekly Recap \(28 Dec - 4 Jan\)](https://forum.1hive.org/t/1hive-weekly-recap-cw-52-28-dec-4-jan/1765)  
+[1Hive Biweekly Recap \(January 11th to January 25th\)](https://forum.1hive.org/t/1hive-biweekly-recap-january-11th-to-january-25th/2001)
 
 ## 1Hive Milestones
 
