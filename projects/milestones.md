@@ -39,7 +39,7 @@ A user friendly landing page for [Honeyswap](honeyswap/) including links to guid
 
 🎯 **Target Date:** Q2-Q3 2021
 
-For more information see [Gardens](gardens.md).
+For more information see [Gardens](gardens/).
 
 ## External Milestones important for 1Hive
 

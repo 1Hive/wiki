@@ -10,7 +10,7 @@ There are various **Projects** and [**Swarms**](../community/swarms/), with goal
 
 [🌞**Celeste**](../projects/celeste/) - A subjective oracle protocol that incorporates BrightId to make participation less capital intensive. It will be used, among other things, to enforce the [1Hive Community Covenant](../community-covenant.md).
 
-[🌻**Gardens**](../projects/gardens.md) - A platform where communities can issue their own currencies and existing token projects can engage their community by sponsoring community directed development efforts. 
+[🌻**Gardens**](../projects/gardens/) - A platform where communities can issue their own currencies and existing token projects can engage their community by sponsoring community directed development efforts. 
 
 ## Swarms
 

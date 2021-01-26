@@ -21,12 +21,12 @@ Gardens enables tokenized communities to more easily leverage conviction voting,
 
 * Users will be able to bring an existing ERC20 token or create a new one for their community. 
   * If using an existing ERC20 token, the common pool could be funded via a configurable fee associated with staking or unstaking tokens, or through donations \(eg directing a portion of on-chain cashflow to the common pool\). 
-  * If creating a new token, the common pool is funded via a dynamic supply policy just like Honey
-* Users will be able to draft and adopt written community guidelines used for moderating proposals 
-  * When creating a proposal users will stake tokens, and other users can challenge them if the proposals violate the communities guidelines. In the event of such a dispute [Celeste](https://app.gitbook.com/@1hive/s/1hive/projects/celeste) could be invoked to provide a resolution.  
-* Users will be able to browse, discover, and join \(by purchasing tokens on honeyswap\) communities on an interface provided on 1hive.org
-  * The ranking of communities in this list will be determined by the amount of Honey held in the corresponding liquidity pools on Honeyswap
-* Individual communities pages will be accessible at 1hive.org/\#/&lt;communityname&gt;
-* Proposal metadata, user profiles, and comments will be all be stored on IPFS allowing alternative interfaces to be created and offered in a decentralized and permissionless fashion. 
-  * To remain visible on the interface that is made available on 1hive.org, users and communities would need to adhere to the 1hive community covenant. 
+  * If creating a new token, the common pool is funded via a dynamic supply policy just like Honey.
+* Users will be able to draft and adopt written community guidelines used for moderating proposals.
+  * When creating a proposal users will stake tokens, and other users can challenge them if the proposals violate the communities guidelines. In the event of such a dispute [Celeste](../celeste/) could be invoked to provide a resolution. 
+* Users will be able to browse, discover, and join \(by purchasing tokens on Honeyswap\) communities on an interface provided on [1hive.org](www.1hive.org).
+  * The ranking of communities in this list will be determined by the amount of Honey held in the corresponding liquidity pools on Honeyswap.
+* Individual communities pages will be accessible at 1hive.org/\#/&lt;community-name&gt;
+* Proposal metadata, user profiles, and comments will all be stored on IPFS allowing alternative interfaces to be created and offered in a decentralized and permissionless fashion. 
+  * To remain visible on the interface that is made available on 1hive.org, users and communities would need to adhere to the 1Hive Community Covenant. 
 
