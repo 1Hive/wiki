@@ -4,7 +4,7 @@ description: Managed by trusted community members.
 
 # Social Accounts
 
-1Hive social accounts are managed by multiple individuals from the community. Using the Marketing Discord channel users can make suggestions for posts to be made and the community can vote on them. Details can be found in [Marketing Discord section](../../getting-started/discord/marketing-channel.md).
+1Hive social accounts are managed by multiple individuals from the community. Using the 🐝[**social-curation**](https://discord.gg/wKM3NnFfsS) **** Discord channel users can make suggestions for posts to be made and the community can vote on them. Details can be found in [Marketing Discord section](../../getting-started/discord/marketing-channel.md).
 
 ## Accounts and Admins
 
