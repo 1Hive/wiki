@@ -1,29 +1,29 @@
 ---
-description: Community curated social media.
+description: Redes sociales filtradas por la comunidad.
 ---
 
 # Social Curation
 
-The marketing channel on Discord allows users to make requests to spread content on 1Hive social media channels. Requests are voted on by Discord members and executed if enough Discord members approve. Posts in this channel will receive reduced [Pollen]() from reactions.
+El canal  🐝[**social-curation**](https://discord.gg/wKM3NnFfsS) en Discord permite a los usuarios realizar solicitudes para difundir contenido en los canales de redes sociales de 1Hive. Las solicitudes son votadas por los miembros de Discord y ejecutadas si suficientes miembros de Discord las aprueban. Las publicaciones en este canal recibirán [Pollen](https://1hive.gitbook.io/1hive/getting-started/pollen) reducido de reacciones.
 
-The goal of this channel is to increase organic traffic while also rewarding content creators. You can read more about the theory behind this channel in the [decentralized marketing and sales strategy post](https://forum.1hive.org/t/decentralized-marketing-and-sales-strategy-for-1hive-buzz/1400).
+El objetivo de este canal es aumentar el tráfico orgánico y, al mismo tiempo, recompensar a los creadores de contenido. Puedes leer más sobre la teoría detrás de este canal en la [publicación de estrategia de ventas y marketing descentralizado](https://forum.1hive.org/t/decentralized-marketing-and-sales-strategy-for-1hive-buzz/1400).
 
-To partake in this channel you are required to react with a checkmark in the 🧚**roles** channel under the [marketing curation post](https://discord.com/channels/698287700834517064/774020443727462410/796880461410336798)**.**
+Para participar en este canal, tienes que reaccionar con marca de verificación o visto \(checkmark\) en el canal **🧚roles** debajo de la publicación de [marketing curation](https://discord.com/channels/698287700834517064/774020443727462410/796880461410336798).
 
-## For Content Curators:
+## Para filtradores de contenido:: <a id="for-content-curators"></a>
 
-1. Create or find content that you think is worth spreading. If creating your own then consider using 1Hive hashtags \(**\#1Hive**, **\#Honeyswap** etc\).
-2. Create a request in the [🐝**marketing**](https://discord.gg/MK3ktanzJG) ****channel on discord linking your content. The request can be for retweets and likes from 1Hive channels to posts you would like to see on specific channels. Use this source of promotion wisely as you are only allowed to post once every 6 hours.
-3. If the request’s total up votes minus down votes are more than 33% of the Discord members with the Marketing Curator role \(needed for access to the channel\) you will see a blue checkmark emoji under your request and your request will be posted to the relevant 1Hive social media accounts. If 24 hours pass and you have not received the 33% required, your request will be removed.
+1. Crea o encuentra contenido que crees que vale la pena difundir. Si estás creando tu propio contenido, considera usar hashtags de 1Hive \(\# 1Hive, \#Honeyswap, etc.\). 
+2. Crea una solicitud en el canal 🐝[**social-curation**](https://discord.gg/wKM3NnFfsS) en discord vinculando con un link de tu  contenido. La solicitud puede ser para retweets y me gusta de canales de 1Hive a publicaciones que le gustaría ver en canales específicos. Utiliza esta fuente de promoción sabiamente, ya que solo puedes publicar una vez cada 6 horas. 
+3. Si el total de votos positivos menos los votos negativos de la solicitud son más del 33% de los miembros de Discord con el rol de marketing-marketing \(necesario para acceder al canal\), podrás ver un emoji de marca de verificación azul debajo de tu solicitud y tu solicitud se publicará en las redes sociales de 1hive. Si pasan 24 horas y no recibiste el 33% requerido, tu solicitud será eliminada.
 
-## For Voters:
+## Para Votantes: <a id="for-voters"></a>
 
-Vote on the posts made in the channel by clicking thumbs up or thumbs down depending on your likeness of the content curated. Try not to vote for both as clicking both emojis turns your vote into neutral!
+Vota en  las publicaciones realizadas en el canal haciendo clic en el pulgar hacia arriba o el pulgar hacia abajo según tu gusto con el contenido filtrado. ¡Intenta no votar por ambos, ya que al hacer clic en ambos emojis conviertes tu voto en neutro!
 
-## For Social Admins:
+## Para los administradores de redes sociales: <a id="for-social-admins"></a>
 
-1. Social admins monitor the marketing channel and wait for a blue checkmark to appear under a request.
-2. If a blue checkmark appears under a request, social admins managing the relevant channels must oblige to the request from the post made.
+1. Los administradores de redes sociales monitorean el canal 🐝[**social-curation**](https://discord.gg/wKM3NnFfsS) ****y esperan a que aparezca una marca de verificación azul debajo de una solicitud.
+2. Si aparece una marca de verificación azul debajo de una solicitud, los administradores de las redes sociales deben cumplir con la solicitud de la publicación realizada.
 
-Optional: Admins from other social accounts can also share the content if it pertains to their channel.
+Opcional: los administradores de otras redes sociales también pueden compartir el contenido si pertenece a su canal.
 
