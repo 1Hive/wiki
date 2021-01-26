@@ -28,7 +28,7 @@
 * [Celeste \(Coming soon\)](projects/celeste/README.md)
   * [User Process](projects/celeste/user-process.md)
 * [Gardens \(Coming soon\)](projects/gardens/README.md)
-  * [Alternative Overview](projects/gardens/alt-overview.md)
+  * [Technical Overview](projects/gardens/alt-overview.md)
 * [Milestones](projects/milestones.md)
 
 ## 🌳Community
