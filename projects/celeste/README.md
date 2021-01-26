@@ -6,6 +6,8 @@ description: An in development subjective oracle.
 
 We have been talking about Celeste and how important it is to 1hive, but there hasn’t been a good source of high level information as to what it is, how it works, and why it’s important all in one place.
 
+TLDR: Celeste answers questions by asking them to a random selection of users. The users do not know each other but must answer the same as the majority. Anyone not answering the same as the majority will lose money, anyone answering along with the majority will make money. It is expected this will lead users to answer in accordance with established community values and norms. Within the 1Hive protocol Celeste will not be used to decide a vote’s outcome but will be used to decide whether or not a vote belongs within the organisation.
+
 ## What is it
 
 Celeste is a Subjective Oracle, enabling smart contracts to ask questions and receive answers, it can be used to resolve subjective disputes, settle prediction markets, moderate content, and more by enabling developers of decentralized applications to construct and arbitrate challenge-response games.
