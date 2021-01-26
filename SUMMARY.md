@@ -8,7 +8,7 @@
 
 * [Terminología](getting-started-1/terminologia.md)
 * [Discord](getting-started-1/discord/README.md)
-  * [Canal de Marketing](getting-started-1/discord/canal-de-marketing.md)
+  * [Social Curation](getting-started-1/discord/social-curation.md)
 * [Pollen](getting-started-1/pollen.md)
 * [Calendario](getting-started-1/calendario.md)
 * [Como Contribuir](getting-started-1/how-can-you-contribute/README.md)

@@ -91,7 +91,7 @@ Todos los emojis dan 1 cred aparte de las siguientes excepciones.
 
 Los canales que dan 0 cred incluyen: ✅**check-in**, ****🐸**memes**, **🤖bot-commands**, **🕹arcade**, **🦩lounge**, **🍱kitchen**, **Fauna** y todos los canales de **Información**.
 
-El canal de  🐝**marketing** channel da 0.25x del peso de cred estandar.
+El canal de  🐝**social-curation** channel da 0.25x del peso de cred estandar.
 
 El canal  🍄**nominations** genera 95% de cred a los usuarios que han sido etiquetados en mensajes. Los usuarios que comparten un usuario etiquetado obtienen un 5% de cred por las respuestas. Todos los usuarios etiquetados compartirán cred por igual entre todos los usuarios etiquetados en ese mensaje. 
 
