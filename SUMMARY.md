@@ -3,7 +3,7 @@
 * [Bem-vindo a 1Hive](README.md)
 * [O Pacto Comunitário](community-covenant.md)
 
-## 🌱Getting Started
+## 🌱Começando <a id="getting-started"></a>
 
 * [Terminologia](getting-started/terminology.md)
 * [Discord](getting-started/discord/README.md)
@@ -12,7 +12,7 @@
 * [Calendário](getting-started/calendar.md)
 * [Contribuindo](getting-started/contributing.md)
 
-## ✨Projects
+## ✨Projetos <a id="projects"></a>
 
 * [Honey](projects/honey.md)
 * [Honeyswap](projects/honeyswap/README.md)
@@ -20,7 +20,7 @@
   * [Para Provedores de Liquidez](projects/honeyswap/for-liquidity-providers.md)
   * [Para Programadores](projects/honeyswap/for-developers.md)
 
-## 🌳Community
+## 🌳Comunidade <a id="community"></a>
 
 * [Enxames \( Swarms\)](community/swarms/README.md)
   * [🌻 Gardens](community/swarms/gardens.md)
@@ -37,7 +37,7 @@
   * [Buzz Bounty](community/media/buzz-bounty.md)
 * [Design](community/design.md)
 
-## 🐑Guides
+## 🐑Guias <a id="guides"></a>
 
 * [Contribuições na Wiki](guides/wiki-contribution.md)
 * [Perguntas Frequentes](guides/faq.md)
