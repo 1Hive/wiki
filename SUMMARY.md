@@ -10,8 +10,7 @@
   * [Social Curation](getting-started/discord/social-curation.md)
 * [Pollen](getting-started/pollen.md)
 * [Calendar](getting-started/calendar.md)
-* [Contributing](getting-started/contributing/README.md)
-  * [Fauna Awards](getting-started/contributing/fauna-awards.md)
+* [Contributing](getting-started/contributing.md)
 
 ## ✨Projects
 
