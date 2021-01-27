@@ -19,7 +19,7 @@ O valor de Honey é definido por oferta e demanda. O fornecimento é gerenciado 
 Se os participantes alocarem Honey de uma forma produtiva, o fluxo de entrada de recursos comunitários irá eventualmente exceder a saída dos mesmos, a demanda será maior que o fornecimento e o valor da Honey irá aumentar. Por outro lado, se Honey for alocado de uma forma improdutiva, o fornecimento circulante de Honey irá aumentar sem um crescimento correspondente na demanda e o valor da Honey irá diminuir.  
 
 
-![Diagrama simplificado de fluxo e estoque da Honey](../../.gitbook/assets/honey-2x.png)
+![Diagrama simplificado de fluxo e estoque da Honey](../.gitbook/assets/honey-2x.png)
 
 Uma forma de racionalizar esse sistema seria um [ciclo de feedback cibernético](https://en.wikipedia.org/wiki/Cybernetics) onde alocadores são os censores, o protocolo é o controlador e as propostas são os agentes atuantes dos impactos no ecossistema. O impacto das propostas pode ser incerto e pode mudar com o tempo, mas os resultados serão observados e inseridos novamente no sistema resultando na adaptação do ecossistema com o passar do tempo.
 
