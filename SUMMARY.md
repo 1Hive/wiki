@@ -6,6 +6,8 @@
 ## 🌱Getting Started
 
 * [Terminologia](getting-started/terminology.md)
+* [Discord](getting-started/discord/README.md)
+  * [Curadoria Social](getting-started/discord/curadoria-social.md)
 * [Pollen](getting-started/pollen.md)
 * [Calendário](getting-started/calendar.md)
 * [Contribuindo](getting-started/contributing.md)
