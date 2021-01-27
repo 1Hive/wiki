@@ -1,10 +1,11 @@
-# Swarms
+# Enxames \( Swarms\)
 
-1Hive doesn’t have a management hierarchy, people are free to come and go, contribute a lot or a little, to take up and champion initiatives or to simply hop in and provide casual support.
+1Hive não tem uma hierarquia de gestão, as pessoas são livres para irem e virem, contribuírem muito ou pouco, para assumir iniciativas ou simplesmente para apoiar casualmente.
 
-Swarms are self-organizing working groups within the 1hive community. They do not have any formal authority, they are simply social structures intended to help connect community members, focus discussions, and get things done.
+Os enxames são grupos de trabalhos auto organizados dentro da comunidade 1Hive. Não formam nenhuma autoridade formal, são simples estruturas sociais com a intenção de ajudar e conectar membros da comunidade, discutir determinados assuntos e resolver as coisas!
 
-Swarms can form around horizontal work areas or vertical project initiatives or themes. Rather than a strict structure, swarms are what they need to be and nothing more or less. In some cases a swarm is just a channel in discord, in other cases it may have an associated multisig, typically an Aragon DAO, or similar structure to store funds.
+Enxames podem se formar ao redor de áreas de trabalho horizontais ou projetos e temas verticais. Em vez de formar uma estrutura rígida, os enxames são o que necessitam ser, nada mais nada menos. Em alguns casos um enxame é apenas um canal no discord, em outros casos possui uma carteira multi-assinatura associada, normalmente uma DAO Aragon ou outra estrutura similar para armazenar fundos.
 
-Anyone who has an interest in a particular area of the 1Hive ecosystem is encouraged to find the relevant Swarm and get involved to find where they can start contributing.
+Qualquer um interessado em uma área específica do ecossistema 1Hive é encorajado a encontrar um enxame e envolver-se para descobrir de que forma contribuir.  
+
 

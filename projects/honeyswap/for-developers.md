@@ -1,10 +1,11 @@
-# For Developers
+# Para Programadores
 
-## HoneySwap
+## **HoneySwap**
 
-HoneySwap is a modified deployment of UniSwap on xDai.
+Honeyswap é uma implantação modificada de Uniswap em xDai  
 
-### Contracts
+
+## **Contratos**
 
 **UniswapV2Factory**:[`0xA818b4F111Ccac7AA31D0BCc0806d64F2E0737D7`](https://blockscout.com/poa/xdai/address/0xA818b4F111Ccac7AA31D0BCc0806d64F2E0737D7)\*\*\*\*
 
@@ -12,37 +13,43 @@ HoneySwap is a modified deployment of UniSwap on xDai.
 
 ### Front-end
 
-The front-end is deployed at [honeyswap.org](https://honeyswap.org) and the source code can be found [here](https://github.com/1Hive/uniswap-interface). The major modifications are rebranding and a modified token list set.
+O front-end é implementado em [honeyswap.org](https://honeyswap.org/) e o código fonte pode ser encontrado [aqui](https://github.com/1Hive/uniswap-interface). As maiores modificações são rebranding e uma lista de tokens modificada.  
+
 
 ### Info.honeyswap.org
 
-A uniswap.info fork for Honeyswap. It can be viewed at [info.honeyswap.org](https://info.honeyswap.org).
+Um fork da uniswap.info para Honeyswap. Pode ser visto em [info.honeyswap.org](https://info.honeyswap.org/).  
 
-### Subgraphs
 
-The fork is powered by forks of two subgraphs:
+## **Subgrafo**
 
-[Uniswap v2 Subgraph](https://thegraph.com/explorer/subgraph/1hive/uniswap-v2): A fork of the official Uniswap v2 subgraph with adjustments to use xDai as the base currency and a modified set of whitelisted tokens. Source code can be found [here](https://github.com/1Hive/uniswap-v2-subgraph).
+Um fork formado por divisões de dois subgrafos:
 
-[Ethereum Blocks](https://thegraph.com/explorer/subgraph/1hive/xdai-blocks): A fork of the Blocklytics Ethereum Blocks subgraph with no modifications, deployed for xDai. Source code can be found [here](https://github.com/1Hive/ethereum-blocks).
+[Uniswap v2 subgrafo](https://thegraph.com/explorer/subgraph/1hive/uniswap-v2): Um fork do subgrafo oficial uniswap v2 com ajustes para usar xDai como moeda base e uma lista modificada de tokens aprovados. o código fonte pode ser encontrado [aqui](https://github.com/1Hive/uniswap-v2-subgraph).
+
+​
+
+[Ethereum Blocks](https://thegraph.com/explorer/subgraph/1hive/xdai-blocks): Um fork do subgrafo Blocklytics Ethereum Blocks sem modificações, implementado em xDai. O código fonte pode ser encontrado [aqui](https://github.com/1Hive/ethereum-blocks).  
+
 
 ### Front-end
 
-The front-end is a fork of the official uniswap.info source code with modifications to use Blockscout instead of Etherscan along with minor adjustments to use the appropriate token lists and factory addresses.
+O front-end  é um fork do código fonte da uniswap.info com modificações para utlizaçāo do Blockscout ao invés do Etherscan, junto com ajustes menores para a utlizaçāo de tokens e seus respectivos endereços de contrato.
 
- The source code for the front-end can be found [here](https://github.com/1Hive/uniswap-info/).
+O código fonte pode ser encontrado [aqui](https://github.com/1Hive/uniswap-info/).  
+
 
 ### Honeymaker
 
-Honeymaker is a SushiMaker deployment and accompanying bot that converts LP shares on Honeyswap into Honey for the Honey Common Pool.
+Honeymaker é uma implementação de SushiMaker e um bot que o acompanha e converte compartilhamentos de LP no Honeyswap em Honey para os recursos comunitários.
 
-SushiMaker is deployed at [`0x076b64f9F966e3bBD0FCdC79D490Ab71cF961bb0`](https://blockscout.com/poa/xdai/address/0x076b64f9F966e3bBD0FCdC79D490Ab71cF961bb0).
+Sushimaker está implementado em[ 0x076b64f9F966e3bBD0FCdC79D490Ab71cF961bb0](https://blockscout.com/poa/xdai/address/0x076b64f9F966e3bBD0FCdC79D490Ab71cF961bb0).
 
-The bot periodically calls the `convert` function on the SushiMaker contract for selected pairs on Honeyswap to convert the LP shares to Honey.
+O bot ativa periodicamente a função convert no contrato do SushiMaker para determinados pares no Honeyswap para converter LP em Honey.
 
-The source code for the bot can be found [here](https://github.com/1hive/honeymaker).
+O código fonte pode ser encontrado aqui.
 
-### Useful Links
+## **Links Úteis**
 
-The [Common pool](https://thegraph.com/explorer/subgraph/onbjerg/honey) Subgraph.
+[Subgraf da Common pool](https://thegraph.com/explorer/subgraph/onbjerg/honey) \( recursos comunitários\).
 

@@ -1,24 +1,28 @@
 ---
-description: Honey is a community currency issued and distributed by the 1Hive community.
+description: Honey é uma moeda comunitária emitida e distribuída pela comunidade 1Hive.
 ---
 
 # Honey
 
-Honey is at the heart of everything we do, by optimizing how we issue and distribute Honey we can grow the 1Hive economy, reward contributors, and expand our community. 
+Honey é a essência de tudo que fazemos, otimizando como emitimos e distribuímos Honey podemos fazer a economia da 1Hive crescer, recompensando contribuidores e expandindo nossa comunidade.  
 
-The issuance and distribution of Honey is regulated by the smart contracts. You can create, monitor, and stake Honey on proposals using the frontend located at [1hive.org](https://1hive.org/#/).
 
-You can interact with these contracts through the Aragon Client interface at [aragon.1hive.org](https://aragon.1hive.org/#/0xe9869a0bbc8fb8c61b7d81c33fa2ba84871b3b0e) or run either interface locally yourself. 
+A emissão e distribuição da Honey é regulamentada por smart contracts. Você pode criar, monitorar e alocar Honey em propostas usando a plataforma da [1Hive.org](https://1hive.org/#/)
 
-## Economic Overview
+Você pode interagir com estes contratos através da interface Aragon Client em [aragon.1hive.org](https://aragon.1hive.org/#/0xe9869a0bbc8fb8c61b7d81c33fa2ba84871b3b0e) ou executando qualquer interface local.  
 
-The value of Honey is determined by supply and demand. The supply is managed by a policy and demand can be influenced by participating in the process of staking on proposals which allocate and distribute Honey from the common pool to contributors.
 
-If participants allocate Honey productively, inflows to the common pool will eventually exceed outflows, demand will outpace supply, and the value of Honey will increase. Conversely if Honey is allocated unproductively the circulating supply of Honey will increase without a corresponding increase in demand and the value of Honey will decrease. 
+## **Visão Econômica Geral** 
 
-![Simplified Honey Stock and Flow Diagram](../../.gitbook/assets/honey-2x.png)
+O valor de Honey é definido por oferta e demanda. O fornecimento é gerenciado por uma política e a demanda pode ser influenciada pela participação no processo de apoiar propostas que alocam e distribuem Honey dos recursos comunitários aos contribuintes.
 
-One way to think of this system is as a [cybernetic feedback loop ](https://en.wikipedia.org/wiki/Cybernetics)where stakers are sensors, the protocol is the controller, and proposals are the actuators that impact the environment. The impact of proposals may be uncertain and may change over time, but outcomes will be observed and feed back into the system resulting in adaptation to the environment over time. 
+Se os participantes alocarem Honey de uma forma produtiva, o fluxo de entrada de recursos comunitários irá eventualmente exceder a saída dos mesmos, a demanda será maior que o fornecimento e o valor da Honey irá aumentar. Por outro lado, se Honey for alocado de uma forma improdutiva, o fornecimento circulante de Honey irá aumentar sem um crescimento correspondente na demanda e o valor da Honey irá diminuir.  
 
-Increasing the value of Honey is an implicit goal of the system and its participants. Stakers must hold Honey over time to influence proposals and therefore have a vested interest in supporting proposals that maximize the value of Honey, and contributors need Honey to be valuable so that their contributions can sustainably rewarded. 
+
+![Diagrama simplificado de fluxo e estoque da Honey](../../.gitbook/assets/honey-2x.png)
+
+Uma forma de racionalizar esse sistema seria um [ciclo de feedback cibernético](https://en.wikipedia.org/wiki/Cybernetics) onde alocadores são os censores, o protocolo é o controlador e as propostas são os agentes atuantes dos impactos no ecossistema. O impacto das propostas pode ser incerto e pode mudar com o tempo, mas os resultados serão observados e inseridos novamente no sistema resultando na adaptação do ecossistema com o passar do tempo.
+
+Aumentar o valor de Honey é um objetivo implícito do sistema e de seus participantes. participantes devem possuir Honey ao longo do tempo para influenciar propostas e, assim, ter interesse em apoiar propostas que maximizem o valor da Honey, contribuintes precisam que Honey seja valioso para que suas contribuições sejam recompensadas de forma sustentável.  
+
 

@@ -1,22 +1,23 @@
-# For Liquidity Providers
+# Para Provedores de Liquidez
 
-## Liquidity Provider Return on Investment \(ROI\)
+## **Provedor de Liquidez Retorno de Investimento \(ROI\)**
 
-Liquidity providers are rewarded 0.25% and every swap is proportionally distributed to the liquidity providers of that exchange pair.
+Provedores de liquidez são recompensados 0.25%, e toda negociação é distribuída proporcionalmente aos provedores de um determinado par de ativos em negociação.
 
-Liquidity providers experience impermanent loss when providing liquidity. Any temporary loss becomes permanent when liquidity is removed from the pool.
+Provedores de liquidez podem sofrer perdas impermanentes quando eles provêem liquidez. Qualquer prejuízo temporário se torna permanente quando a liquidez é removida.
 
-Liquidity providers are profitable when collected fees &gt; impermanent loss.
+Provedores de liquidez se encontram em lucro quando o valor de taxas recebidas é maior que a perda impermanente.
 
-The ROI for providing liquidity is highest when the ratio of liquidity to volume is high, and the pair of assets are highly correlated. 
+O ROI por prover liquidez é maior quando a relação entre liquidez e volume é alta, e o par de ativos está altamente correlacionado.
 
-## Impermanent Loss
+## **Prejuízo Impermanente**
 
-Impermanent loss is a temporary loss of funds occurring when providing liquidity. It’s very often explained as a difference between holding an asset versus providing liquidity in that asset. Impermanent loss is usually observed in standard liquidity pools where the liquidity provider has to provide both assets in a correct ratio, and one of the assets is volatile in relation to the other.
+O prejuízo impermanente é a perda temporária de fundos ocorrida durante o fornecimento de liquidez. Muitas vezes, é explicado como a diferença entre possuir um ativo e  fornecer liquidez a esse ativo. O prejuízo impermanente é geralmente observado como um padrão em fundos de liquidez onde o provedor deve prover dois ativos na proporção correta, sendo um deles volátil em relação ao outro.  
 
-In the example of an wETH/xDAI 50/50 pair if wETH goes up in value, the pool has to rely on arbitrageurs continually ensuring that the pool price reflects the real-world price to maintain the same value of both tokens in the pool. This basically leads to a situation where profit from the token that appreciated in value is taken away from the liquidity provider. At this point, if the LP decides to withdraw their liquidity, the impermanent loss becomes permanent.
+No exemplo, um par de wETH/xDAI 50/50, caso wETH aumente em valor, o coletivo de investimento deve contar com arbitragistas continuamente garantindo que o preço do conjunto reflita o preço real para que assim seja mantido o mesmo valor de ambos os tokens dentro do mesmo fundo de liquidez. Isso basicamente nos leva a situação onde o lucro gerado pelo token valorizado é retirado do provedor de liquidez. Nesse ponto, caso o LP \( provedor de liquidez\) decida remover sua liquidez, a perda impermanente torna-se prejuízo.  
 
-## Liquidity Farming
 
-In the past we deployed liquidity farms at [hny.farm](http://hny.farm). Liquidity providers of Honeyswap exchange pairs could stake their LP tokens to the Honey Farms in return for Honey \(funded by proposals\) to encourage keeping liquidity in Honeyswap. However, the general consensus amongst the community was that the Honey farms weren't worth maintaining so they haven't continued to be funded.
+## **Fazendas de Liquidez**
+
+No passado implantamos fazendas de liquidez em [hny.farm](http://hny.farm/). Provedores de liquidez de pares de câmbio na Honeyswap puderam enviar seus LP tokens a fazendas, em troca de Honey \( fazendas financiadas por propostas\) para incentivar a liquidez de pares na Honeyswap. No entanto, após uma análise dos resultados, o consenso geral da comunidade foi que não estavam a gerar o efeito desejado e o financiamento foi suspenso.
 

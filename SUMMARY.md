@@ -1,16 +1,16 @@
 # Table of contents
 
 * [Bem-vindo a 1Hive](README.md)
-* [Community Covenant](community-covenant.md)
+* [O Pacto Comunitário](community-covenant.md)
 
 ## 🌱Getting Started
 
-* [Terminology](getting-started/terminology.md)
+* [Terminologia](getting-started/terminology.md)
 * [Discord](getting-started/discord/README.md)
   * [Marketing Channel](getting-started/discord/marketing-channel.md)
 * [Pollen](getting-started/pollen.md)
-* [Calendar](getting-started/calendar.md)
-* [Contributing](getting-started/contributing/README.md)
+* [Calendário](getting-started/calendar.md)
+* [Contribuindo](getting-started/contributing/README.md)
   * [Fauna Awards](getting-started/contributing/fauna-awards.md)
 
 ## ✨Projects
@@ -22,9 +22,9 @@
   * [Decisions](projects/honey/decisions.md)
   * [Planned Improvements](projects/honey/planned-improvements.md)
 * [Honeyswap](projects/honeyswap/README.md)
-  * [For Traders](projects/honeyswap/for-traders.md)
-  * [For Liquidity Providers](projects/honeyswap/for-liquidity-providers.md)
-  * [For Developers](projects/honeyswap/for-developers.md)
+  * [Para Traders](projects/honeyswap/for-traders.md)
+  * [Para Provedores de Liquidez](projects/honeyswap/for-liquidity-providers.md)
+  * [Para Programadores](projects/honeyswap/for-developers.md)
 * [Celeste \(Coming soon\)](projects/celeste/README.md)
   * [User Process](projects/celeste/user-process.md)
 * [Gardens \(Coming soon\)](projects/gardens/README.md)
@@ -33,7 +33,7 @@
 
 ## 🌳Community
 
-* [Swarms](community/swarms/README.md)
+* [Enxames \( Swarms\)](community/swarms/README.md)
   * [🌻 Gardens](community/swarms/gardens.md)
   * [🌺 Flora](community/swarms/flora.md)
   * [🌞 Celeste](community/swarms/celeste.md)
@@ -43,7 +43,7 @@
   * [🌜 Luna](community/swarms/luna.md)
   * [🐱 Fauna](community/swarms/fauna.md)
   * [🐛 Bug Bounty](community/swarms/bug-bounty.md)
-* [Media](community/media/README.md)
+* [Meios de comunicação](community/media/README.md)
   * [Social Accounts](community/media/social-accounts.md)
   * [Buzz Bounty](community/media/buzz-bounty.md)
 * [Design](community/design/README.md)
@@ -57,7 +57,7 @@
 
 * [xDai](guides/xdai.md)
 * [BrightID](guides/brightid.md)
-* [Wiki Contribution](guides/wiki-contribution.md)
+* [Contribuições na Wiki](guides/wiki-contribution.md)
 * [Troubleshooting](guides/troubleshooting.md)
-* [FAQ](guides/faq.md)
+* [Perguntas Frequentes](guides/faq.md)
 

@@ -1,38 +1,42 @@
-# For Traders
+# Para Traders
 
-## Consider the total cost to trade 
+## **Considere o custo total de cada negociação**
 
-Prices and Liquidity vary between exchanges, to make sure you are getting the best deal it's important to consider the _**total cost to trade**_. This includes not just the spot price, but transaction overhead \(such as gas fees\), trade overhead \(broker, liquidity, and platform fees\), as well as the slippage given the size of your trade and the available liquidity on each exchange. 
+Preços e liquidez variam entre bolsas ou casas de câmbio, para ter certeza que você está no melhor negócio é importante considerar o custo total da negociação. Isso inclui não só o preço à vista, mas também as despesas gerais da transação como taxas de gás, gastos na plataforma \( corretora, liquidez e taxas\), assim como slippage devido ao tamanho da negociação e disponibilidade de liquidez em cada exchange.   
+
 
 $$
-Total Cost = Spot Price + Gas Fee + Platform Fee + Slippage
+Custo Total = Valor à Vista  + Taxa de Gás + Taxa da Plataforma + Slippage
 $$
 
-Honeyswap is on xDai and so the transaction overhead is negligible. Compared to Uniswap and other Ethereum based decentralized exchanges, where transaction overhead can often be between 5 and 20 dollars per trade depending on network congestion, trading on Honeyswap can reduce your transaction overhead significantly. 
+Honeyswap funciona na xDai Chain, portanto, o custo de transações na rede é insignificante. Comparado com Uniswap e outras bolsas em Ethereum, onde o custo de transações frequentemente varia entre 5 a 20 dólares por transação dependendo do congestionamento da rede, negociações na Honeyswap reduzem os custos significativamente. Honeyswap tem as mesmas taxas da Uniswap, uma taxa de 0.3% em cada negociação. As taxas de compra e venda na Coinbase atualmente são de 0.5%. Honeyswap ainda é uma casa de câmbio muito pequena e a liquidez de muitos ativos é muito menor do que em outras bolsas, isso pode causar aos traders uma slippage maior de preço que deve ser considerada nos custos totais de cada transação. Este efeito é maior em grandes negociações. 
 
-Honeyswap has the same trade overhead as Uniswap, a 0.3% fee on each trade. For reference maker and taker fees on Coinbase are currently 0.5%. 
+Resumindo, se você estiver interessado em fazer muitas transações de valor pequeno, Honeyswap geralmente terá um valor total de custo por negociação comparado a outras alternativas.  
 
-Honeyswap is still a very small exchange and liquidity for many assets is much lower than on other exchanges so traders may experience greater price slippage which must be factored into their total cost to trade. This effect is greater the larger the size of the trade.  
 
-Bottom line, **If you are interested in making many small trades then Honeyswap will often have a much lower total cost to trade than other alternatives.** 
+## **Valor à vista** 
 
-### Spot price
+Honeyswap é uma bolsa com formador de mercado automático \( AMM\). Isso significa que o preço é determinado através de negociações de compra e venda.  
 
-Honeyswap is an automated market maker \(AMM\) exchange. This means the price is determined through buy and sell exchanges. 
 
-### Gas Fees
+## **Taxas de Gás**
 
-On xDai the gas price never needs to be higher than 1 GWEI. See how much you have [spent in fees on the Ethereum Mainnet.](https://fees.wtf/) 
 
-| Networks | Average Fee |
+
+Na xDai Chain, o preço da taxa de gás nunca precisa ser maior que 1 GWEI. Veja quanto você já gastou em [taxas utilizando Ethereum Mainnet](https://fees.wtf/).
+
+| Redes | Taxa Média |
 | :--- | :--- |
 | Eth Mainnet | $3 |
 | xDai | $0.0004 |
 | Matic | $0.000001 |
 
-### Broker, Liquidity, and Platform Fees
+**Corretora, Liquidez e Plataforma**  
 
-Honeyswap platform fees are 0.3%. This is competitive with most exchanges. 0.25% go to the liquidity providers and 0.05% goes back as revenue to the 1Hive common pool.
+
+
+
+As taxas da Honeyswap são de 0.3%. Um valor que compete com o mercado atual. 0.25% vão para provedores de liquidez e 0.05% é devolvido para os recursos comunitários.
 
 | Exchanges | Taker | Maker |
 | :--- | :--- | :--- |
@@ -41,18 +45,19 @@ Honeyswap platform fees are 0.3%. This is competitive with most exchanges. 0.25%
 | Bitfinex | 0.20% | 0.10% |
 | Kraken | 0.26% | 0.16% |
 | Uniswap | 0.30% | 0.30% |
-| **Honeyswap** | **0.30%** | 0.30% |
+| Honeyswap | 0.30% | 0.30% |
 | Coinbase Pro | 0.50% | 0.50% |
 
-### Slippage
+## **Slippage**
 
-Slippage is the difference in price paid relative to the spot price. Slippage is a function of trading volume, trade size, and liquidity. For you to have the lowest possible slippage you want trading volume and trade size to be low, and liquidity to be high.
+Slippage é a diferença entre o preço pago e o preço visível atual. Slippage é uma função do volume de negociações, tamanho e da liquidez. Para você ter um slippage mínimo você precisa de um volume e tamanho de negociação pequenos, e alta liquidez.
 
-## Tools
+## **Ferramentas**
 
-[Honeyswap](https://honeyswap.org/#/swap) - Used to make trades on xDai.
+[Honeyswap](https://honeyswap.org/#/swap) - Usada para fazer negociações em xDAI.
 
-[Honeyswap Analytics](https://info.honeyswap.org) - See charts, trade volume, pool liquidity, and other platform analytics. 
+​[Honeyswap Analytics](https://info.honeyswap.org/) - Acompanhe gráficos, volume de negociações, liquidez depositada e outras opções de análise
 
-[Coingecko](https://www.coingecko.com/en) - Honeyswap data is integrated into coingeckos token market dataset.  
+​[Coingecko](https://www.coingecko.com/en) - Os dados da Honey Swamp estão integrados no banco de dados de mercado da Coingecko.  
+ 
 

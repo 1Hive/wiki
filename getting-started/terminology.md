@@ -1,34 +1,37 @@
-# Terminology
+# Terminologia
 
-There are various **Projects** and [**Swarms**](../community/swarms/), with goals that range from communicating to developing new protocols and platforms for 1Hive.
+São vários Projetos e Enxames, com objetivos que vão da comunicação ao desenvolvimento de novos protocolos para a 1Hive.
 
-## Projects
+## **Projetos**
 
-[🍯**Honey**](../projects/honey/) - A protocol that issues and distributes 1Hive's community currency, Honey. Honey holders can create and stake on proposals using the open source frontend hosted at [1hive.org](https://1hive.org).
+**​**[🍯Honey](https://1hive.gitbook.io/1hive/projects/honey) -Um protocolo que emite a moeda da comunidade 1Hive. Os proprietários de Honey podem criar e apoiar propostas usando a plataforma de código open source hospedada na [1hive.org](https://1hive.org/)
 
-[🍃**Honeyswap**](../projects/honeyswap/) - A fork of Uniswap v2 on xDai enabling Swaps, Flash Loans, and Oracles for the xDai community. A portion of fees from volume on Honeyswap is used to buy Honey and send it to the 1Hive common pool. 
+​[🍃Honeyswap](https://1hive.gitbook.io/1hive/projects/honeyswap) - Um fork da Uniswap v2 em xDai permitindo Swaps \( câmbio simples\), empréstimos instantâneos, e oráculos para a comunidade xDai. Uma parte das taxas das transações no Honeyswap é utilizada para comprar Honey que é enviada de volta para os recursos do fundo da comunidade.
 
-[🌞**Celeste**](../projects/celeste/) - A subjective oracle protocol that incorporates BrightId to make participation less capital intensive. It will be used, among other things, to enforce the [1Hive Community Covenant](../community-covenant.md).
+​[🌞Celeste](https://1hive.gitbook.io/1hive/projects/celeste) - Um protocolo de oráculo subjetivo que incorpora BrightId para tornar a participação mais democrática e justa. Será utilizado, entre outras coisas, para fazer cumprir o [Pacto Comunitário](https://1hive.gitbook.io/1hive/community-covenant).
 
-[🌻**Gardens**](../projects/gardens/) - A platform where communities can issue their own currencies and existing token projects can engage their community by sponsoring community directed development efforts. 
+​[🌻Gardens](https://1hive.gitbook.io/1hive/projects/gardens) - Uma plataforma onde comunidades podem emitir suas próprias moedas e tokens existentes podem envolver sua comunidade patrocinando esforços diretos para o desenvolvimento.  
+ 
 
-## Swarms
+## **Swarms \( Enxames\)**
 
-🌷**Tulip** - A swarm working on trading and DeFi infrastructure including Honeyswap, a fork of uniswap v2 that will incentivize liquidity provision using Honey. And other “Bee-Fi” related projects.
+🌷Tulip - Um enxame trabalhando na infraestrutura de negociações e DeFi incluindo Honeyswap, um fork da Uniswap v2 que incentiva liquidez usando Honey. E qualquer outro projeto “Bee-Fi”
 
-[🐝**Buzz**](../community/swarms/buzz.md) - A swarm focussed on communicating, documenting, and generally spreading awareness about 1Hive and Honey to help cross-pollinate our ideas to the rest of the world. Also makes honey memes.
+​[🐝Buzz](https://1hive.gitbook.io/1hive/community/swarms/buzz) - Um enxame focado na comunicaçāo, documentaçāo e concientizaçāo sobre 1Hive e Honey para polinizaçāo cruzada de nossas idéias com o resto do mundo. Também faz memes sobre Honey.
 
-[🏵**Pollen**](../community/swarms/pollen.md) - A swarm and system that maintains our SourceCred instance to distribute Honey based on contributions in Discord, the Forum and Github.
+​[🏵Pollen](https://1hive.gitbook.io/1hive/community/swarms/pollen) - Um enxame  e sistema que mantém nosso sistema SourceCred para distribuir Honey com base nas contribuições no Discord, no Fórum e Github. 
 
-🌺**Flora** - A swarm working on dev ops, infrastructure and node operations. Flora is currently exploring running a validators and emerging roll-up chains.
+🌺Flora - Um enxame trabalhando com desenvolvedores, infraestrutura e operação de nós \(nodes\). Flora está atualmente explorando validadores e as emergentes redes roll-up.
 
-[🐱**Fauna**](../community/swarms/fauna.md) ****- A swarm dedicated to moderation of our discussion channels. Members of this swarm are the ones you're likely to come in contact with should you need help with anything.
+​[🐱Fauna](https://1hive.gitbook.io/1hive/community/swarms/fauna) - Um enxame dedicado a moderaçāo dos canais de discussāo. Estes são os membros que você deve contactar caso precise de ajuda com qualquer coisa.  
 
-[🦋**Morphosis**](../community/swarms/morphosis.md) ****- A swarm creating educational content and running online courses in various subjects including analytics and development. Morphosis hopes to enable and encourage more contribution to the 1Hive ecosystem.
 
-[🌜**Luna**](../community/swarms/luna.md) ****- A swarm that is focused on modeling and simulation of economic principles to help inform concepts and configuration for various applications within the 1Hive ecosystem.
+​[🦋Morphosis](https://1hive.gitbook.io/1hive/community/swarms/morphosis) - Um enxame criando conteúdo educacional e cursos online sobre muitos tópicos incluindo análise e desenvolvimento. Morphosis espera possibilitar e encorajar mais a distribuição do ecossistema 1Hive.
 
-🌍**Terra** - A swarm dedicated to translating 1hive projects, documentation and resources.
+​[🌜Luna](https://1hive.gitbook.io/1hive/community/swarms/luna) - Um enxame focado em investigar, modelar e simular princípios econômicos usando tecnologias como cadCAD para ajudar na formaçāo de conceitos e configurações para diversas aplicações dentro do ecossistema 1Hive.
 
-[🐛**Bug Bounty**](../community/swarms/bug-bounty.md) ****- A swarm that manages funds available for the 1Hive Contract Bug Bounty program. It is responsible for interpreting and responding to uncovered exploits.
+🌍Terra - Um enxame dedicado à tradução de projetos, documentação e recursos da 1Hive.
+
+​[🐛Bug Bounty](https://1hive.gitbook.io/1hive/community/swarms/bug-bounty) - Um enxame que gerencia fundos disponíveis para o Contrato de Bug Bounty da 1Hive. É responsável por interpretar e responder explorações descobertas no sistema.  
+****
 

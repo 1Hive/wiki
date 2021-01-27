@@ -1,6 +1,5 @@
 # Design
 
-The 1Hive design team's mission is to create, develop and improve the graphics which support user interface, user experience and marketing. To achieve this, the team is in constant communication with the different projects that are brewing in the DAO, mainly through Discord.
+A missão da equipe de design da 1Hive é criar, desenvolver e melhorar a parte gráfica da interface do usuário, a experiência do uso e marketing, para conseguir isso, a equipe em comunicação constante com os diferentes projetos surgindo na DAO, principalmente através da Discord. Se você acha que pode contribuir com a equipe de design, junte-se à nossa [Discord](https://discord.gg/hRTKAMts) e apresente-se no canal \#design!  
 
-If you feel like you can contribute to the 1Hive design team, join our [Discord](https://discord.gg/hRTKAMts) and introduce yourself in the \#design channel!
 
