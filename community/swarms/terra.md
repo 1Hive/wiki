@@ -22,7 +22,7 @@ The 🌍 Terra Swarm is responsible for translating documentation from other swa
 
 | Members | Role |
 | :--- | :--- |
-| [lEscanore](https://forum.1hive.org/u/Escanor/summary) | Translations Lead, Multi Linguist & Demographic Expert |
+| [lescanore](https://forum.1hive.org/u/Escanor/summary) | Translations Lead, Multi Linguist & Demographic Expert |
 | [boring877](https://forum.1hive.org/u/boring877/summary) | Accounts and Management, Multi Linguist |
 | [mrtdlgc](https://forum.1hive.org/u/mrtdlgc/summary) | Translation Expert, Researcher |
 | [dogeking](https://forum.1hive.org/u/dogeking/summary) | Discord organizer and Active Member |
@@ -34,11 +34,11 @@ Each of the above members have equal voting weight within the Terra DAO to manag
 
 | Members | Role |
 | :--- | :--- |
-| [lEscanore](https://forum.1hive.org/u/escanor/summary) | Spanish |
+| [lescanore](https://forum.1hive.org/u/escanor/summary) | Spanish |
 | [chuygarcia92](https://forum.1hive.org/u/chuygarcia92/summary) | Spanish QA |
 | [mrtdlgc](https://forum.1hive.org/u/mrtdlgc/summary) | Turkish |
 | TBA | Turkish QA |
-| dw | Portuguese |
+| [dw](https://forum.1hive.org/u/farmerd/summary) | Portuguese |
 | [luigy](https://forum.1hive.org/u/luigy/summary) | Portuguese QA |
 | [stonky](https://forum.1hive.org/u/stonky/summary) | Italian |
 | TBA | Italian QA |
