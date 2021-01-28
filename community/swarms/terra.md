@@ -15,7 +15,7 @@ O 🌍 Terra Swarm é responsável por traduzir documentos de outros swarms, man
 
 ​[Excel sheet](https://docs.google.com/spreadsheets/d/1GBnIRy5IBD99sLtW_dCaBJbjDbxDDqMDkbURy7fuCrM/edit?usp=sharing) Progresso das traduções.
 
-​[Terra DAO](https://docs.google.com/document/d/1SC1FOmX3PA3A-Z8D9OEAalXKBFQJeWYAJHrVo310TyU/edit#heading=h.3sdj4z5mrep9) Proposta
+​[Terra DAO](https://docs.google.com/document/d/1SC1FOmX3PA3A-Z8D9OEAalXKBFQJeWYAJHrVo310TyU/edit#heading=h.3sdj4z5mrep9) Proposta.
 
 
 
