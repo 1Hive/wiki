@@ -31,7 +31,7 @@ Luna notları için [Google dokümanı](https://docs.google.com/document/d/1UkWf
 
 Yukarıdaki üyeler, Aragon DAO üzerinde eşit oy haklarına sahiptir.
 
-## Funding Proposals
+## Fonlama Teklifi
 
 Bir fonlama teklifi hazırlanmış ve topluluk tarafından kabul edilmiştir:
 
