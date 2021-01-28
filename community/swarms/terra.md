@@ -51,5 +51,5 @@ Each of the above members have equal voting weight within the Terra DAO to manag
 
 ## Funding Proposals
 
-Only one funding proposal has been made which can be seen throughout the following forum post: [https://forum.1hive.org/t/terra-dao-proposal/1912](https://forum.1hive.org/t/terra-dao-proposal/1912)
+Only one funding proposal has been made, which can be seen throughout the following forum post: [https://forum.1hive.org/t/terra-dao-proposal/1912](https://forum.1hive.org/t/terra-dao-proposal/1912)
 
