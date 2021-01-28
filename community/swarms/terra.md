@@ -37,7 +37,7 @@ Each of the above members have equal voting weight within the Terra DAO to manag
 | [lescanore](https://forum.1hive.org/u/escanor/summary) | Spanish |
 | [chuygarcia92](https://forum.1hive.org/u/chuygarcia92/summary) | Spanish QA |
 | [mrtdlgc](https://forum.1hive.org/u/mrtdlgc/summary) | Turkish |
-| TBA | Turkish QA |
+| [Etsyo](https://forum.1hive.org/u/etsyo/summary) | Turkish QA |
 | [dw](https://forum.1hive.org/u/farmerd/summary) | Portuguese |
 | [luigy](https://forum.1hive.org/u/luigy/summary) | Portuguese QA |
 | [stonky](https://forum.1hive.org/u/stonky/summary) | Italian |
