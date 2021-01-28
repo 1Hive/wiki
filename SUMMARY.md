@@ -33,9 +33,9 @@
   * [Teknik Tanıtım](projects/gardens/teknik-tanitim.md)
 * [Kilometre Taşları](projects/1hive-updates.md)
 
-## Community
+## Topluluk <a id="community"></a>
 
-* [Swarms](community/swarms/README.md)
+* [Swarmlar](community/swarms/README.md)
   * [🌞 Celeste](community/swarms/celeste.md)
   * [🌜 Luna](community/swarms/luna.md)
   * [🦋 Morphosis](community/swarms/morphosis.md)

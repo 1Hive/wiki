@@ -1,6 +1,6 @@
-# Swarms
+# Swarmlar
 
-1Hive doesn’t have a management hierarchy, people are free to come and go, contribute a lot or a little, to take up and champion initiatives or to simply hop in and provide casual support.
+1Hive'da bir yönetim hiyerarşisi bulunmamaktadır. Herkes gelip gitmekte, bol bol veya biraz katkıda bulunmakta, inisiyatif alıp bunları gerçekleştirmekte veya öylesine bir gelip gündelik muhabbetler edip gündelik destek vermekte özgürdür.
 
 Swarms are self-organizing working groups within the 1hive community. They do not have any formal authority, they are simply social structures intended to help connect community members, focus discussions, and get things done.
 
