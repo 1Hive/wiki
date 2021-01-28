@@ -37,6 +37,7 @@
   * [🌻 Gardens](community/swarms/gardens.md)
   * [🌺 Flora](community/swarms/flora.md)
   * [🌞 Celeste](community/swarms/celeste.md)
+  * [🌍 Terra](community/swarms/terra.md)
   * [🌜 Luna](community/swarms/luna.md)
   * [🦋 Morphosis](community/swarms/morphosis.md)
   * [🐝 Buzz](community/swarms/buzz.md)
