@@ -4,7 +4,7 @@ description: Translations and Global Integration
 
 # 🌍 Terra
 
-The 🌍 Terra Swarm is responsible for translating documentation from other swarms, keeping the wiki updated in every language, and managing the new 1Hive international discord server. Also, Terra DAO members assist in creating other DAOs, especially in terms of making the text SEO-friendly as it requires a specific skill set.
+The 🌍 Terra Swarm is responsible for translating documentation from other swarms, keeping the wiki updated in every language, and managing the new [1Hive international discord server](https://discord.gg/gM8Cy8mcPm). Also, Terra DAO members assist in creating other DAOs, especially in terms of making the text SEO-friendly as it requires a specific skill set.
 
 ## Useful Links
 
@@ -25,7 +25,7 @@ The 🌍 Terra Swarm is responsible for translating documentation from other swa
 | [lEscanore](https://forum.1hive.org/u/Escanor/summary) | Translations Lead, Multi Linguist & Demographic Expert |
 | [boring877](https://forum.1hive.org/u/boring877/summary) | Accounts and Management, Multi Linguist |
 | [mrtdlgc](https://forum.1hive.org/u/mrtdlgc/summary) | Translation Expert, Researcher |
-| [dogeking](https://forum.1hive.org/u/dogeking/summary) |  |
+| [dogeking](https://forum.1hive.org/u/dogeking/summary) | Discord organizer and Active Member |
 | [stonky](https://forum.1hive.org/u/stonky/summary) | Translation Expert, Researcher |
 
 Each of the above members have equal voting weight within the Terra DAO to manage funds.
