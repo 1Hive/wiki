@@ -1,37 +1,39 @@
 ---
-description: Simulation and Modelling
+description: Simülasyon ve Modelleme
 ---
 
 # 🌜 Luna
 
-The 🌜Luna Swarm is a collaboration of individuals and organisations that seek to rigorously model the 1Hive ecosystem in [cadCAD](http://cadcad.org/), providing tools for operational decision support including future design and governance decisions.
+🌜Luna Swarm, 1Hive ekosistemini [cadCAD ](https://cadcad.org/)üzerinde modellemeyi hedefleyen bireyler ve organizasyonlardan oluşan bir işbirliğidir. Bu swarm, gelecekte yapılacak tasarım va yönetişim kararları dahil operasyonel kararlar için araçlar sağlamaktadır.
 
-The Luna swarm encourages anyone interested to get involved to experiment with building new models and to help interpret the models currently being built.
+Luna Swarm, ilgilenen herkesin yeni modellerin oluşturulmasında deney yapmak ve oluşturulduğu sırada modellerin yorumlanmasına yardımcı olmak için Swarm'a dahil olmasını teşvik etmekte ve önermektedir.
 
-## Useful Links 
+## Faydalı Bağlantılar 
 
- [Aragon DAO](https://aragon.1hive.org/#/luna/) holding Luna funds.
+ [Aragon DAO](https://aragon.1hive.org/#/luna/): Luna fonlarını barındıran Aragon DAO.
 
- [Google document](https://docs.google.com/document/d/1UkWflaDNh5aF8BeRUoIQx3g3z7P2mE0cU0N4dbwz4Sk/edit#heading=h.jq42e3ro14o3) for Luna notes.
+Luna notları için [Google dokümanı](https://docs.google.com/document/d/1UkWflaDNh5aF8BeRUoIQx3g3z7P2mE0cU0N4dbwz4Sk/edit#heading=h.jq42e3ro14o3).
 
- [Excel sheet](https://docs.google.com/spreadsheets/d/1pnKFUvbeWdS_C7KlFoM_GM2mFq0yCCfdVVI-UFqP20s/edit#gid=0) showing hours spent and payments made.
+[Excel sheet](https://docs.google.com/spreadsheets/d/1pnKFUvbeWdS_C7KlFoM_GM2mFq0yCCfdVVI-UFqP20s/edit#gid=0): Çalışma saatlerini ve yapılan ödemeleri gösteren Excel sayfası.
 
-[Beginners course ](https://www.cadcad.education/%20)in cadCAD, ask in the [`#🌜luna`](https://discord.gg/efpG78vZ4q)discord channel for a free discount code.
+[CadCAD için giriş kursu](https://www.cadcad.education/); ücretsiz indirim kodunuzu Discord'da [`#🌜luna`](https://discord.gg/efpG78vZ4q) kanalından isteyebilirsiniz.
 
-[Luna meetings calendar](https://calendar.google.com/calendar/embed?src=cadcad.org%40gmail.com&ctz=America%2FVancouver).
+[Luna toplantı takvimi.](https://calendar.google.com/calendar/embed?src=cadcad.org%40gmail.com&ctz=America%2FVancouver)
 
-## Roles and Responsibilities
+## Roller ve Sorumluluklar
 
-| Member | Role |
+| Üye | Rol |
 | :--- | :--- |
-| [lkngtn](https://forum.1hive.org/u/lkngtn) | Researcher |
-| [mzargham](https://forum.1hive.org/u/mzargham/summary) | Tutor and Founder of [BlockScience](https://block.science/) |
-| [jeffemmett](https://forum.1hive.org/u/jeffemmett/summary) | Researcher \(at [Commons Stack](https://commonsstack.org/)\) |
-| [JessicaZartler](https://forum.1hive.org/u/jessicazartler/summary) | Communications \(at [TE Commons](https://tecommons.org/)\) |
+| [lkngtn](https://forum.1hive.org/u/lkngtn) | Araştırmacı |
+| [mzargham](https://forum.1hive.org/u/mzargham/summary) | Eğitmen ve [BlockScience ](https://block.science/)Kurucusu |
+| [jeffemmett](https://forum.1hive.org/u/jeffemmett/summary) | Araştırmacı \([Commons Stack](https://commonsstack.org/)\) |
+| [JessicaZartler](https://forum.1hive.org/u/jessicazartler/summary) | İletişim \([TE Commons](https://tecommons.org/)\) |
 
-The members above have equal voting rights in the Aragon DAO.
+Yukarıdaki üyeler, Aragon DAO üzerinde eşit oy haklarına sahiptir.
 
 ## Funding Proposals
 
-One funding proposal was made which was accepted by the community: [https://forum.1hive.org/t/luna-swarm-launch-month-1-funding/1590](https://forum.1hive.org/t/luna-swarm-launch-month-1-funding/1590).
+Bir fonlama teklifi hazırlanmış ve topluluk tarafından kabul edilmiştir:
+
+[https://forum.1hive.org/t/luna-swarm-launch-month-1-funding/1590](https://forum.1hive.org/t/luna-swarm-launch-month-1-funding/1590).
 
