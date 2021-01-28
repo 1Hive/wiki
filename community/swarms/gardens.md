@@ -1,44 +1,40 @@
----
-description: Building Gardens
----
-
 # 🌻 Gardens
 
-The 🌻Gardens Swarm manages the development of the Gardens Template and associated Aragon Apps and is doing the initial experiments into how Gardens should best be structured. Updates can be seen on [Token Engineering Commons](https://tecommons.medium.com/) medium page.
+🌻Gardens Swarm, Gardens Modelinin ve ilgili Aragon Aplikasyonlarının geliştirilmesini yönetmekte ve Gardens'ın en iyi ne şekilde yapılandırılabileceğine dair ilk deneyleri gerçekleştirmektedir. Güncellemeler, [Token Engineering Commons](https://tecommons.medium.com/) medium sayfasından görülebilir.
 
-Gardens are a social, financial, and technical foundation for online communities to organize. This empowers people to coordinate around causes, social movements, or even memes. Gardens are designed to be operationally decentralized and autonomous from day one.
+Gardens; çevrimiçi toplulukların organize olması için sosyal, finansal ve teknik bir temel sağlamaktadır. Bu, insanların çeşitli amaçlar, toplumsal hareketler ve hatta meme'ler etrafında koordinasyon olmasını güçlendirmektedir. Gardens, ilk günden itibaren merkeziyetsiz ve otonom olarak işleyecek şekilde tasarlanmıştır.
 
-## Useful Links 
+## Faydalı Bağlantılar
 
-[Aragon DAO](https://aragon.1hive.org/#/gardensswarm/) holding Gardens funds.
+[Aragon DAO](https://aragon.1hive.org/#/gardensswarm/): Gardens fonlarını barındıran Aragon DAO.
 
-[Excel sheet](https://docs.google.com/spreadsheets/d/1oRDecU-weSTOLv061N5O7VAJcDfU5XGqmu21ntTXOos/edit#gid=1361585578%20) showing hours spent and payments made.
+[Excel sheet](https://docs.google.com/spreadsheets/d/1oRDecU-weSTOLv061N5O7VAJcDfU5XGqmu21ntTXOos/edit#gid=1361585578%20): Çalışma saatlerini ve yapılan ödemeleri gösteren Excel sayfası.
 
-## Roles and Responsibilities
+## Roller ve Sorumluluklar
 
-### Gardens Swarm Team
+### Gardens Swarm Ekibi
 
-| Member | Role |
+| Üye | Rol |
 | :--- | :--- |
-| [griff](https://github.com/griffgreen) | Researcher |
-| [sem](https://github.com/sembrestels) | Solidity Developer and Researcher |
-| [viviane](https://github.com/vivianedias) | Web Developer |
-| [paulo](https://github.com/pjcolombo) | Web Developer |
-| [Rayne](https://github.com/anthonyoliai) | Developer |
-| [fioreb](https://forum.1hive.org/u/fioreb) | Designer |
-| [fabi](https://github.com/famole/) | Web Developer |
+| [griff](https://github.com/griffgreen) | Araştırmacı |
+| [sem](https://github.com/sembrestels) | Solidity Geliştirici ve Araştırmacı |
+| [viviane](https://github.com/vivianedias) | Web Geliştirici |
+| [paulo](https://github.com/pjcolombo) | Web Geliştirici |
+| [Rayne](https://github.com/anthonyoliai) | Geliştirici |
+| [fioreb](https://forum.1hive.org/u/fioreb) | Geliştirici |
+| [fabi](https://github.com/famole/) | Web Geliştirici |
 
-### Advisors
+### Danışmanlar
 
-| Members | Role |
+| Üyeler | Rol |
 | :--- | :--- |
-| [willjgriff](https://github.com/willjgriff) | Solidity Developer |
-| [rperez89](https://github.com/rperez89) | Web Developer |
-| [fabriv](https://github.com/fabriziovigevani) | Web Developer |
+| [willjgriff](https://github.com/willjgriff) | Solidity Geliştirici |
+| [rperez89](https://github.com/rperez89) | Web Geliştirici |
+| [fabriv](https://github.com/fabriziovigevani) | Web Geliştirici |
 
-Each of the above members, swarm team and advisors, have equal voting weight within the Gardens DAO to manage funds.
+Yukarıdaki üyelerin her biri, swarm ekibi ve danışmanlar, fonların yönetimi konusunda Gardens DAO içerisinde eşit oy hakkına sahiptir.
 
-## Funding Proposals
+## Fonlama Teklifleri
 
-One funding proposal was made which was accepted by the community: [https://forum.1hive.org/t/bootstrapping-the-1hive-gardens-swarm-dao/1159](https://forum.1hive.org/t/bootstrapping-the-1hive-gardens-swarm-dao/1159).
+Bir fonlama teklifi hazırlanmış ve topluluk tarafından kabul edilmiştir: [https://forum.1hive.org/t/bootstrapping-the-1hive-gardens-swarm-dao/1159](https://forum.1hive.org/t/bootstrapping-the-1hive-gardens-swarm-dao/1159).
 

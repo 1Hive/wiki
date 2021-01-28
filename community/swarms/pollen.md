@@ -1,36 +1,36 @@
 ---
-description: Sourcecred management
+description: Sourcecred yönetimi
 ---
 
 # 🏵 Pollen
 
-The 🏵Pollen Swarm manages the 1Hive SourceCred instance. Details can be seen in [Earn Pollen](../../getting-started-1/pollen.md). The Swarm is responsible for ensuring the system isn't easily exploitable, keeping parameters up-to-date and distributing pollen rewards. 
+🏵Pollen Swarm, 1Hive SourcreCred instance'ı yönetmektedir. Ayrıntılı bilgiye [Pollen ](../../getting-started-1/pollen.md)sayfasından erişilebilir. Bu Swarm, sistemin başkaları tarafından kötüye kullanılmasının önüne geçilmesi, parametrelerin güncel tutulması ve pollen ödemelerinin dağıtımının yapılmasından sorumludur.
 
-## Useful Links
+## Faydalı Bağlantılar
 
- [Aragon DAO](https://aragon.1hive.org/#/pollen) holding Pollen funds.
+ [Aragon DAO](https://aragon.1hive.org/#/pollen): Pollen fonlarını barındıran Aragon DAO.
 
 [1Hive Pollen GitHub Repository](https://github.com/1Hive/pollen)
 
-[SourceCred documentation](https://sourcecred.io/docs/)
+[SourceCred Dokümantasyonu](https://sourcecred.io/docs/)
 
-## Roles and Responsibilities
+## Roller ve Sorumluluklar
 
-| Member | Role |
+| Üye | Rol |
 | :--- | :--- |
-| [befitsandpiper](https://forum.1hive.org/u/befitsandpiper/summary) | Primary Operator and DAO member |
-| [lkngtn](https://forum.1hive.org/u/lkngtn) | DAO member |
-| [crisog](https://forum.1hive.org/u/crisog) | DAO member |
-| [luigy](https://forum.1hive.org/u/luigy/summary) | DAO member |
-| [rayne](https://forum.1hive.org/u/rayne/summary) | DAO member |
-| [jasper](https://forum.1hive.org/u/jasper/summary) | DAO member |
-| [sem](https://forum.1hive.org/u/sem) | DAO member |
+| [befitsandpiper](https://forum.1hive.org/u/befitsandpiper/summary) | Ana Operatör ve DAO Üyesi |
+| [lkngtn](https://forum.1hive.org/u/lkngtn) | DAO Üyesi |
+| [crisog](https://forum.1hive.org/u/crisog) | DAO Üyesi |
+| [luigy](https://forum.1hive.org/u/luigy/summary) | DAO Üyesi |
+| [rayne](https://forum.1hive.org/u/rayne/summary) | DAO Üyesi |
+| [jasper](https://forum.1hive.org/u/jasper/summary) | DAO Üyesi |
+| [sem](https://forum.1hive.org/u/sem) | DAO Üyesi |
 
-Each of the above members have equal voting weight within the Pollen DAO to manage funds.
+Yukarıdaki üyelerin her biri Pollen DAO'da fonların yönetimi konusunda eşit oy hakkına sahiptir.
 
-## Funding Proposals
+## Fonlama Teklifleri
 
-Many funding proposals have been made to fund the Pollen Swarm:
+Pollen Swarm'ın fonlanması için birçok fonlama teklifi hazırlanmıştır:
 
 * [https://forum.1hive.org/t/dev-cred-proposal/29/6](https://forum.1hive.org/t/dev-cred-proposal/29/6)
 * [https://forum.1hive.org/t/social-cred-proposal/40/5](https://forum.1hive.org/t/social-cred-proposal/40/5)

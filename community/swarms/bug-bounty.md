@@ -1,28 +1,24 @@
----
-description: Bug reward management
----
-
 # 🐛 Bug Bounty
 
-The 🐛Bug Bounty Swarm manages the funds available through the [Bug Bounty Program](../security/bug-bounty.md). It is currently made up of 1Hive Seed group members who have been working on 1Hive for over a year and have a strong degree of trust in each other.
+🐛Bug Bounty Swarm, [Bug Bounty Program](../security/#bug-bounty)'da bulunan fonları yönetmektedir. Şu anda, bir yıldan uzun süredir 1Hive'da çalışan ve aralarında sağlam bir güven ilişkisi bulunan 1Hive Seed grubu üyelerinden oluşmaktadır.
 
-## Useful Links 
+## Faydalı Bağlantılar
 
- [Aragon DAO](https://aragon.1hive.org/#/1hivebounty/) holding the bug bounty funds.
+ [Aragon DAO](https://aragon.1hive.org/#/1hivebounty/): Bug bounty fonlarını barındıran Aragon DAO.
 
-## Roles and Responsibilities
+## Roller ve Sorumluluklar
 
-| Member | Role |
+| Üye | Rol |
 | :--- | :--- |
-| [willjgriff](https://forum.1hive.org/u/willjgriff) | Seed and DAO member |
-| [rperez89](https://forum.1hive.org/u/rperez89) | Seed and DAO member |
-| [fabriv](https://forum.1hive.org/u/fabriv) | Seed and DAO member |
-| [lkngtn](https://forum.1hive.org/u/lkngtn) | Seed and DAO member |
-| [onbjerg](https://forum.1hive.org/u/onbjerg) | Seed and DAO member |
+| [willjgriff](https://forum.1hive.org/u/willjgriff) | Seed ve DAO üyesi |
+| [rperez89](https://forum.1hive.org/u/rperez89) | Seed ve DAO üyesi |
+| [fabriv](https://forum.1hive.org/u/fabriv) | Seed ve DAO üyesi |
+| [lkngtn](https://forum.1hive.org/u/lkngtn) | Seed ve DAO üyesi |
+| [onbjerg](https://forum.1hive.org/u/onbjerg) | Seed ve DAO üyesi |
 
-Each of the above members have equal voting weight within the bug bounty DAO to distribute rewards.
+Yukarıdaki üyelerin her biri, bug bountry ödüllerinin dağıtılması için bug bounty DAO içerisinde eşit oy hakkına sahiptir.
 
 ## Funding Proposals
 
-One funding proposal was made which was accepted by the community: [https://forum.1hive.org/t/funding-for-the-bug-bounty-swarm-dao/1392](https://forum.1hive.org/t/funding-for-the-bug-bounty-swarm-dao/1392).
+Bir fonlama teklifi hazırlanmış ve topluluk tarafından kabul edilmiştir: [https://forum.1hive.org/t/funding-for-the-bug-bounty-swarm-dao/1392](https://forum.1hive.org/t/funding-for-the-bug-bounty-swarm-dao/1392).
 
