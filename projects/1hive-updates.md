@@ -32,7 +32,7 @@ Honey ihracı, başlangıçta yıllık %60 olarak belirlenmişti. 2020 yılını
 
 🎯 **Hedef Tarih:** Q2-Q3 2021
 
-Ayrıntılı bilgi için bkz. [Gardens](gardens.md).
+Ayrıntılı bilgi için bkz. [Gardens](gardens/).
 
 ### **Honeyswap Limit Order'lar**
 

@@ -1,4 +1,4 @@
-# User Process
+# Kullanım Süreci
 
 Aşağıda, 1Hive DAO ve Celeste'in karşı çıkılan eylemlerin sonucuna karar vermede kullanacağı süreci açıklamaya çalışacağım. Süreci kendim anlayabilmek için araştırma yaptıktan sonra, öğrendiklerimi paylaşmanın faydalı olacağını hissettim. Bence, bu özellikle koruyucu \(önceden "jüri üyesi"\) olmayı düşünenler ve Celeste'i kullanma niyetinde olanların sorularına cevap bulabilmesi için yardımcı olacak.
 

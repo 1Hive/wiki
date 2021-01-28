@@ -10,7 +10,7 @@
 
 [🌞**Celeste**](../projects/celeste/) - Katılımda sermaye yoğun bir yaklaşımın hafifletilmesi amacıyla BrightID'yi kullanan öznel bir oracle protokolü. Birçok şeyle birlikte, özellikle [1Hive Topluluk Sözleşmesi](../community-covenant.md)'nin uygulanmasında kullanılacak.
 
-[🌻**Gardens**](../projects/gardens.md) - Toplulukları kendi para birimlerini ihraç ettikleri ve mevcut token projelerinin topluluk tarafından yönlendirilecek geliştirme çabalarına sponsor olarak topluluklarını dahil edebilecekleri bir platform.
+[🌻**Gardens**](../projects/gardens/) - Toplulukları kendi para birimlerini ihraç ettikleri ve mevcut token projelerinin topluluk tarafından yönlendirilecek geliştirme çabalarına sponsor olarak topluluklarını dahil edebilecekleri bir platform.
 
 ## Swarmlar
 

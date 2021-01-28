@@ -28,8 +28,9 @@
   * [Geliştiriciler İçin](projects/honeyswap/for-developers.md)
   * [Planlanan İyileştirmeler](projects/honeyswap/planned-improvements.md)
 * [Celeste \(Yakında\)](projects/celeste/README.md)
-  * [User Process](projects/celeste/user-process.md)
-* [Gardens \(Coming soon\)](projects/gardens.md)
+  * [Kullanım Süreci](projects/celeste/user-process.md)
+* [Gardens \(Yakında\)](projects/gardens/README.md)
+  * [Teknik Tanıtım](projects/gardens/teknik-tanitim.md)
 * [Kilometre Taşları](projects/1hive-updates.md)
 
 ## Community
