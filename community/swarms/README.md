@@ -2,9 +2,9 @@
 
 1Hive'da bir yönetim hiyerarşisi bulunmamaktadır. Herkes gelip gitmekte, bol bol veya biraz katkıda bulunmakta, inisiyatif alıp bunları gerçekleştirmekte veya öylesine bir gelip gündelik muhabbetler edip gündelik destek vermekte özgürdür.
 
-Swarms are self-organizing working groups within the 1hive community. They do not have any formal authority, they are simply social structures intended to help connect community members, focus discussions, and get things done.
+Swarmlar, 1Hive topluluğu içerisinde kendi kendine organize olan çalışma gruplarıdır. Herhangi resmi bir otorite bulunmamaktadır; swarmlar topluluk üyelerinin bir arada çalışmasına, tartışmalar yürütmesine ve iş yapmasına yardımcı olma amacı güden sosyal yapılardır.
 
-Swarms can form around horizontal work areas or vertical project initiatives or themes. Rather than a strict structure, swarms are what they need to be and nothing more or less. In some cases a swarm is just a channel in discord, in other cases it may have an associated multisig, typically an Aragon DAO, or similar structure to store funds.
+Swarmlar, yatay çalışma alanları veya dikey proje girişimleri veya temaları arasında oluşturulabilir. Swarmlar değişmez ve katı bir yapı değil, tam olarak olmaları gerektiği gibidir. Ne azı ne de falası. Bazı durumlarda, bir swarm sadece Discord'da bir kanalken; diğer durumlarda genellikle Aragon DAO'da veya benzer bir yapıda fonları tutmak için ilgili bir çoklu imza \(multisig\) platformuna sahip olur.
 
-Anyone who has an interest in a particular area of the 1Hive ecosystem is encouraged to find the relevant Swarm and get involved to find where they can start contributing.
+1Hive ekosisteminin bir alanıyla ilgilenen herkesin, kendilerini ilgilendiren Swarm'ı bulmaları ve katkıda bulunmaya nereden başlayacaklarını görebilmeleri için dahil olmaları önerilir ve teşvik edilir.
 
