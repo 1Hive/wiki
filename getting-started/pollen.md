@@ -46,7 +46,7 @@ The weekly Honey distribution is capped at $15,000 or 33 Honey if 33 Honey is wo
 
 ### Distribution Rate
 
-Weekly payout is determined by a contributor's recent contribution's as well as their total contribution. 
+Weekly payout is determined by a contributor's recent contribution's as well as their total contribution.
 
 * **Weekly contribution** is the amount distributed for Pollen earned by users in the last week.
 * **Total contribution** is the amount distributed for all Pollen earned by users up to the distribution date.
@@ -74,22 +74,22 @@ On Discord, in order to mint cred for other users through emoji responses, users
 
 | Total Cred | Mint Weight |
 | :--- | :--- |
-| 120+ Cred  | 1x |
+| 120+ Cred | 1x |
 | 90+ Cred | 0.75x |
 | 60+ Cred | 0.5x |
-| 30+ Cred  | 0.25x |
-| 0 to 30 Cred  | 0x |
+| 30+ Cred | 0.25x |
+| 0 to 30 Cred | 0x |
 
 All emojis give 1 cred, apart from the below exceptions.
 
 | Emoji | Mint Weight |
 | :--- | :--- |
-|  🍯 + `:Honeypot:` \(custom emoji\) | 2x |
+| 🍯 + `:Honeypot:` \(custom emoji\) | 2x |
 | 🐝 + `:Honeybee:` \(custom emoji\) | 2x |
 | 💩 | 0x |
 | 👎 | 0x |
 
-Channels that give 0 cred include: ✅**check-in**, ****🐸**memes**, **🤖bot-commands**, **🕹arcade**, **🦩lounge**, **🍱kitchen**, **Fauna** channels and all of the **Information** channels.
+Channels that give 0 cred include: ✅**check-in**, **\*\*🐸**memes**,** 🤖bot-commands**,** 🕹arcade**,** 🦩lounge**,** 🍱kitchen**,** Fauna **channels and all of the** Information\*\* channels.
 
 The 🐝**social-curation** channel gives 0.25x the standard cred weight.
 
