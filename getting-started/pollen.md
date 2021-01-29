@@ -96,8 +96,8 @@ Uma análise de distribuição semanal relativa a cada plataforma.
 
 | Plataforma | Porcentagem de Distribuição |
 | :--- | :--- |
-| GitHub | 40% |
-| Discord | 30% |
+| GitHub | 30% |
+| Discord | 40% |
 | Fórum | 30% |
 
 ## **Pesos do Pólen no Discord** 
