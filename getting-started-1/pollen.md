@@ -66,8 +66,8 @@ A breakdown of each platforms relative distribution of Pollen each week.
 
 | Platform | Percent of Distribution |
 | :--- | :--- |
-| GitHub | 40% |
-| Discord | 30% |
+| GitHub | 30% |
+| Discord | 40% |
 | Discourse | 30% |
 
 ### Discord Pollen Weights
