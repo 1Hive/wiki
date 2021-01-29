@@ -64,8 +64,8 @@ Un desglose de la distribución relativa de pollen de cada plataforma cada seman
 
 | Plataforma | Porcentaje de Distribución |
 | :--- | :--- |
-| GitHub | 40% |
-| Discord | 30% |
+| GitHub | 30% |
+| Discord | 40% |
 | Forum | 30% |
 
 ### Pesos de Pollen en Discord
