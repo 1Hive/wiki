@@ -18,7 +18,7 @@
 
 Yukarıdaki üyelerin her biri, bug bountry ödüllerinin dağıtılması için bug bounty DAO içerisinde eşit oy hakkına sahiptir.
 
-## Funding Proposals
+## Fonlama Teklifleri
 
 Bir fonlama teklifi hazırlanmış ve topluluk tarafından kabul edilmiştir: [https://forum.1hive.org/t/funding-for-the-bug-bounty-swarm-dao/1392](https://forum.1hive.org/t/funding-for-the-bug-bounty-swarm-dao/1392).
 

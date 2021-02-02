@@ -50,8 +50,10 @@
   * [Sosyal Medya Hesapları](community/media/social-accounts.md)
   * [Buzz Bounty](community/media/buzz-bounty.md)
 * [Tasarım](community/design/README.md)
-  * [Brand Guidelines](community/design/brand-guidelines.md)
-* [Security](community/security/README.md)
+  * [Marka Kılavuz İlkeleri](community/design/brand-guidelines.md)
+* [Kurslar](community/kurslar/README.md)
+  * [Veri Analizi](community/kurslar/veri-analizi.md)
+* [Güvenlik](community/security/README.md)
   * [Bug Bounty](community/security/bug-bounty.md)
 
 ## Guides

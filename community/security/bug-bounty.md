@@ -1,32 +1,32 @@
 ---
-description: Smart contract bug bounty program
+description: Akıllı sözleşme bug bountry programı
 ---
 
 # Bug Bounty
 
-This program covers all currently deployed 1hive related smart contracts on the xDai network that are actively being used from the [1Hive Github organisation](https://github.com/1Hive/). Contracts that 1hive uses that are not built by 1hive community members may also be considered depending on the extent to which they have been used within the 1hive ecosystem and the consequences they could produce. This evaluation will be at the discretion of the bug bounty swarm members using the [CVSS Risk Rating scale ](https://www.first.org/cvss/calculator/3.0)and funds available are held in an Aragon DAO. The members and a link to the DAO holding the funds can be seen in the [Bug Bounty Swarm](../swarms/bug-bounty.md) details.
+Bu program, [1Hive Github organizasyonu](https://github.com/1Hive/)nda kullanılan xDai network üzerinde 1Hive'a ilişkin mevcut akıllı sözleşmeleri kapsamaktadır. 1Hive topluluk üyeleri tarafından oluşturulmamış, ancak 1Hive tarafından kullanlan sözleşmeler de 1Hive ekosistemi içinde kullanıldığı ölçüde ve oluşturabileceklleri sonuçlara bağlı olarak bu program kapsamında değerlendirilebilir. Bu değerlendirme, [CVSS Risk Puanlama skalası](https://www.first.org/cvss/calculator/3.0) kullanılarak bug bounty swarm üyeleri tarafından yapılacak ve fonlar da ilgili Aragon DAO üzerinde tutulacaktır. Üyeler ve fonların bulunduğu Aragon DAO'ya ilişkin ayrıntılı bilgilere [Bug Bounty Swarm](../swarms/bug-bounty.md) sayfasından erişebilirsiniz.
 
-## Requirements
+## Şartlar
 
-* Disclosure of issues must be made directly to one of the bug bounty swarm members. DM’s via discord is fine.
-* Any evidence of disclosure to other parties will forfeit the reward.
-* Exploiting the vulnerability prior to disclosing it will forfeit the reward.
-* Disclosure should include details of how to reproduce the bug in as clear a way as possible. A more detailed report could increase the reward.
-* Reporting a bug that has already been reported will not earn a reward.
-* Front-end bugs will not earn a reward.
+* Karşılaşılan sorunlar, doğrudan bug bounty swarm üyelerinden biri ile paylaşılmalıdır. Discord üzerinden DM atılabilir.
+* Üçüncü taraflara bu konunun açıklandığına ilişkin herhangi bir kanıt ödülü iptal edecektir.
+* Bulunan açığı, swarm üyeleri ile paylaşmadan önce bu açıktan yararlanmak ödülü iptal edecektir.
+* Açığa dair swarm üyelerine bilgi verirken, söz konusu bug'ın nasıl tekrar oluşturulabileceği olabildiğince açık şekilde ayrıntılı bilgiler verilmelidir. Daha ayrıntılı bir rapor, ödül miktarın artırabilir.
+* Daha önce raporlanmış bir bug'ın raporlanması karşılığında ödül verilmez.
+* Önyüz bug'ları ödüllendirilmez.
 
-## Rewards
+## Ödüller
 
-The severity of an issue will be determined by a score created using the CVSS Risk Rating scale [https://www.first.org/cvss/calculator/3.0](https://www.first.org/cvss/calculator/3.0). It will likely also involve some subjective understanding of the potential impact it could make on the 1hive ecosystem.
+Sorunun şiddeti, CVSS Risk Puanalma skalası kullanılarak oluşturulan bir puanla belirlenecektir: [https://www.first.org/cvss/calculator/3.0](https://www.first.org/cvss/calculator/3.0) Ayrıca, değerlendirmede söz konusu bug'ın 1Hive ekosistemi üzerindeki potansiyel etkisine ilişkin bir nebze subjektif bir yoruma da dayalı olacaktı
 
-| Risk Rating | Payment |
+| Risk Puanlaması | Ödeme |
 | :---: | :---: |
-| Critical \(9.0-10.0\): | Up to $40,000 in HNY |
-| High \(7.0-8.9\): | Up to $10,000 in HNY |
-| Medium \(4.0-6.9\): | Up to $2,000 in HNY |
-| Low \(0.1-3.9\): | Up to $1,000 in HNY |
+| Critical \(9.0-10.0\): | $40,000 HNY'e kadar |
+| High \(7.0-8.9\): | $10,000 HNY'e kadar |
+| Medium \(4.0-6.9\): | $2,000 in HNY'e kadar |
+| Low \(0.1-3.9\): | $1,000 in HNY'e kadar |
 
-For reference, I would have scored the exploit detailed here [Story of a Bee - Why Farming was Delayed](https://forum.1hive.org/t/story-of-a-bee-why-farming-was-delayed/875) with 9.3 earning it up to $40,000 in HNY, the exact amount would likely need to be discussed but I would have proposed it be closer to the upper limit. The scoring I have chosen can be seen here: [https://www.first.org/cvss/calculator/3.0\#CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:N/I:H/A:L 3](https://www.first.org/cvss/calculator/3.0#CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:N/I:H/A:L)
+Referans olması açısından, [Story of a Bee - Why Farming was Delayed](https://forum.1hive.org/t/story-of-a-bee-why-farming-was-delayed/875) forum paylaşımında ayrıntıları paylaşılan açık için 9.3 gibi bir puanlama yapılarak $40,000 HNY tutarında ödül verilmesi düşünülebilirdi. Verilecek tam ödül tutarının tartışmaya açılması da mümkündü; çünkü üst sınıra yakın olduğunu düşünürdük. Burada seçilen puanlama, şu adreste görülebilir: [https://www.first.org/cvss/calculator/3.0\#CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:N/I:H/A:L 3](https://www.first.org/cvss/calculator/3.0#CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:N/I:H/A:L)
 
-It should be known that 1hive is interested in maintaining secure infrastructure and is willing to make fair payouts for finding bugs that could affect funds and users. These requirements and rates have been discussed and agreed upon by the community here [1Hive Contract Bug Bounty Program Proposal ](https://forum.1hive.org/t/1hive-contract-bug-bounty-program-proposal/978)and here [Final 1Hive Contract Bug Bounty Program Proposal ](https://forum.1hive.org/t/final-1hive-contract-bug-bounty-program-proposal/1339)so as a bug hunter you can be assured when it comes to claiming a reward you will receive it, provided you act as outlined above.
+Ayrıca, 1Hive'ın güvenli bir altyapıya sahip olmak istediği ve fonları ve kullanıcıları etkileyebilecek bug'ların bulunması durumunda adil bir ödeme yapmaktan çekinmeyeceğinin bilinmesini isteriz. Bu şartlar ve ödeme oranları [1Hive Sözleşme Bug Bounty Programı Teklifi](https://forum.1hive.org/t/1hive-contract-bug-bounty-program-proposal/978)nde ve [Nihai 1Hive Sözleşme Bug Bounty Programı Teklifi](https://forum.1hive.org/t/final-1hive-contract-bug-bounty-program-proposal/1339)nde  topluluk tarafından tartışılıp mutabakata varılmış şartlar ve oranlardır dolayısıyla bug hunter olarak çalışıyorsanız yukarıda bahsettiğimiz şartlara uymanız halinde ödüllendirileceğiniz konusunda sizi temin ederiz.
 

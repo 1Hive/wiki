@@ -1,36 +1,34 @@
 ---
-description: Guidance and assets for the 1Hive design aesthetic.
+description: 1Hive tasarım estetiğine yönelik yönlendirmeler ve ilkeler
 ---
 
-# Brand Guidelines
+# Marka Kılavuz İlkeleri
 
-## Concepts that we seek to transmit and elements that represent them: 
+## Yaymak istediğimiz kavramlar ve bunları temsil eden unsurlar: 
 
-* We want to be perceived as **friendly and pleasant**, so we use many curved shapes.
-* We want to transmit **simplicity**, like the bee without awareness of the large and complex ecosystem that they are a part of, so we use clean and simple forms.
-* 1Hive is a community that doesn't discriminate against, so we seek to transmit **diversity** and we achieve that with a wide variety of colors. Our brand colors resemble the variety and diversity of colors that can be found in nature.
-* We transmit **flexibility** with the use of organic forms.
+* **Dost canlısı ve cana yakın** olarak algılanmak istiyoruz; bundan dolayı kavisli şekiller kullanıyoruz.
+* Tıpk bir arının büyük ve karmaşık bir ekosistem içerisinde olduğunu fark etmemesi gibi, biz de **basitliği** göstermek istiyoruz; bundan dolayı temiz ve basit şekiller kullanıyoruz.
+* 1Hive, ayrımcılığa karşı bir topluluktur; dolayısıyla **çeşitliliği** göstermek istiyoruz ve buna da geniş bir renk yelpazesini kullanarak ulaşıyoruz. Marka renklerimiz, doğada bulunan renkler kadar geniş bir çeşitliliğe sahip.
+* Organik şekiller kullanarak da **esnekliğe** vurgu yapmak istiyoruz.
 
-### Some aspects to take into account:
+### Dikkate alınması gereken bazı hususlar:
 
-* Avoid hard and straight lines, and an over emphasis on the alien/insect aesthetic.
-* Our brand should feel friendly and simple but it shouldn't look cartoonish \(eg a bee with a face\). 
+* Sert ve düz çizgilerden ve böcek estetiği üzerine fazla vurgu yapmaktan kaçının.
+* Markamız dost canlısı ve basitlik hissi vermeli; ancak karikatür gibi de görünmemeleri \(örneğin, insan suratı olan bir arı\). 
 
 {% hint style="info" %}
-You can also see the brand guidelines in this [Figma File](https://www.figma.com/file/6o6Ik2f0D6HiLzRWwgeOQd/Brand-guidelines).
+Ayrıca, şu [Figma ](https://www.figma.com/file/6o6Ik2f0D6HiLzRWwgeOQd/Brand-guidelines)Dosyasındakimarka kılavuz ilkelerine de bakabilirsiniz.
 {% endhint %}
 
-## Golden Ratio
+## Altın Oran
 
-We use the golden ratio for the proportions of the logo and in the development of different graphic elements for various reasons:
+Logonun boyutlarında ve çeşitli nedenler için geliştirilen farklı grafik tasarımlarda altın oran kullanıy
 
-* It is **present in nature**, like all the concepts used in 1Hive \(bees, honey, hive, dandelion, etc\)
-* Things that possess it are **proportionally pleasing** and that is related to the fact that we seek to make our identity feel friendly, casual and relatable.
-* It doesn’t look complex at first glance, but it hides interesting logic. This is strongly related to 1Hive, because we want to maintain complexity below the surface.
-* When we were investigating, we found a curious fact: **golden ratio is present in hives too.** If you divide the number of female bees by the number of males bees you get 1.618, the golden ratio. This mathematical sequence works for any honeybee hive at any give time.
-
-
-
+* 1Hive'da kullanılan diğer kavramlar gibi **doğada bulunmaktadır** \(arılar, bal, kovan, karahindiba, vb.\)
+* Altın orana sahip nesneler, **orantısal olarak göze hoş görünür** ve dost canlısı ve insanların kendilerinden bir şeyler bulabileceği bir kimlik oluşturmamızla da ilişkilidir.
+* İlk bakışta karmaşık görünmemekle birlikte ilgi çekici bir mantığı gizler. Biz de karmaşıklığımızı yüzeyin altında tuttuğumuzdan dolayı bu durum da 1Hive ile güçlü bir ilişkiye sahiptir.
+* Araştırma yaparken ilginç bir bilgiye rastladık: **Kovanlar da altın orana sahiptir**. Dişi arıların sayısını erkek ayıların sayısına böldüğümüzde 1.618 sayısına, yani altın orana ulaşırız. Bu matematiksel dizi, her zaman bütün arı kovanlarında karşımıza çıkar.
+* 
 ![](../../.gitbook/assets/group-26-new.jpg)
 
 
@@ -38,20 +36,20 @@ We use the golden ratio for the proportions of the logo and in the development o
 ![](../../.gitbook/assets/group.png)
 
 {% hint style="info" %}
-The size of circles, rectangles and different forms we use are **multiplied or divided by 1,618** to respect the proportions of the golden ratio.
+Kullandığımız dairelerin, dikdörtgenlerin ve farklı şekillerin boyutları, altın orana ulaşmak için 1.618 ile çarpılır veya bölünür.
 {% endhint %}
 
-## Color Palette
+## Renk Paleti
 
-We use turquoise as the primary color of 1Hive and as secondary colors, we use a variety that combines perfectly and harmoniously with it. This allows a large number of different combinations and as we said before resembles the variety of colors that are found in nature.
+1Hive'da ana renk olarak turkuaz rengini kullanıyoruz; ikincil renkler olarak ise turkuazla uyumlu çeşitli renkler kullanılmakta. Bu da farklı kombinasyonlara olanak sağlamakla birlikte daha önce de dediğimiz gibi doğada bulunan renk yelpazesine de benziyor.
 
-We also use opacities of 40% and overlapping elements that allows a more varied range of colors in the chromatic palette and makes the passage from one color to another more harmonious.
+Ayrıca, kromatik palette daha geniş bir renk yelpazesine olanak sağlayacak şekilde %50 opaklık ve üst üst geçen unsrlar kullanıyoruz; bu da bir renkten diğerine geçişin daha ahenkli olmasını sağlıyor.
 
-### Primary color
+### Ana Renk
 
 ![](../../.gitbook/assets/group-20.png)
 
-### Secondary colors
+### İkincil Renkler
 
 ![](../../.gitbook/assets/group-21.png)
 
@@ -62,12 +60,12 @@ We also use opacities of 40% and overlapping elements that allows a more varied 
 ![](../../.gitbook/assets/group-24.png)
 
 {% hint style="info" %}
-See this [Figma file](http://figma.com/file/6o6Ik2f0D6HiLzRWwgeOQd/Brand-guidelines?node-id=15%3A48) to check the HEX color codes and other details such as the grey scale and background's gradient.
+HEX renk kodlarını ve gri ölçek ve arka plan gradyanına ilişkin ayrıntılar için şu Figma dosyasına bakınız.
 {% endhint %}
 
-## Downloadable Assets
+## İndirilebilir Dosyalar
 
-\(Link to folder with assets\)
+[1Hive Design Assets](https://mega.nz/folder/t8dmmJZL): Logolar, başlıklar ve ubuntu fontunun bulunduğu dosya. Anahtar: `giPbW4M9wRTApPF0J6VkgA`
 
-\(Link to ubuntu font google\)
+[Topluluk tarafından oluşturulan grafik tasarımlar ve animasyonlar.](http://bit.ly/2X7bOER)
 
