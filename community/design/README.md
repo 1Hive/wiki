@@ -1,6 +1,8 @@
-# Design
+# Tasarım
 
-The 1Hive design team's mission is to create, develop and improve the graphics which support user interface, user experience and marketing. To achieve this, the team is in constant communication with the different projects that are brewing in the DAO, mainly through Discord.
+1Hive tasarım ekibinin misyonu; kullanıcı arayüzünü, kullanıcı deneyimini ve pazarlamayı destekleyen grafik tasarımlar oluşturmak, geliştirmek ve varolanları iyileştirmektir. Bunun için, ekip temel olarak Discord üzerinde, DAO'da sürekli geliştirilen farklı projeler hakkında devamlı bir iletişim halindedir.
 
-If you feel like you can contribute to the 1Hive design team, join our [Discord](https://discord.gg/hRTKAMts) and introduce yourself in the \#design channel!
+1Hive tasarım ekibine katkıda bulunabileceğinizi düşünüyorsanız, [Discord](https://discord.gg/hRTKAMts) kanalımıza katılarak, kendinizi \#design kanalına tanıtın!
+
+
 

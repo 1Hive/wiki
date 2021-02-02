@@ -1,12 +1,16 @@
 ---
-description: Managed by trusted community members.
+description: Güvenilir topluluk üyeleri tarafından yönetilmektedir.
 ---
 
-# Social Accounts
+# Sosyal Medya Hesapları
 
-## Social Accounts and Admins
 
-| Social Media Platform | Username | Admin/s |
+
+1Hive social accounts are managed by multiple individuals from the community. Using the 🐝[**social-curation**](https://discord.gg/wKM3NnFfsS) **** Discord channel users can make suggestions for posts to be made and the community can vote on them. Details can be found in [Social Curation section]().
+
+## Social Medya Hesapları ve Adminler
+
+| Sosyal Medya Platforu | Kullanıcı Adı | Admin/ler |
 | :--- | :--- | :--- |
 | Instagram | [honeyswap.1hive](https://www.instagram.com/honeyswap.1hive/) | [monstrosity](https://forum.1hive.org/u/monstrosity/summary) |
 | Instagram | [honeyswap\_es](https://www.instagram.com/honeyswap_es/) | [escanor](https://forum.1hive.org/u/escanor/summary) |
