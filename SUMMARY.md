@@ -56,11 +56,11 @@
 * [Güvenlik](community/security/README.md)
   * [Bug Bounty](community/security/bug-bounty.md)
 
-## Guides
+## Kılavuzlar <a id="guides"></a>
 
 * [xDai](guides/xdai.md)
 * [BrightID](guides/brightid.md)
-* [Wiki Contribution](guides/wiki-contribution.md)
-* [Troubleshooting](guides/troubleshooting.md)
-* [FAQ](guides/faq.md)
+* [Wiki'ye Katkıda Bulunma](guides/wiki-contribution.md)
+* [Sorun Giderme](guides/troubleshooting.md)
+* [SSS](guides/faq.md)
 

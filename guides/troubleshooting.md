@@ -1,4 +1,4 @@
-# Troubleshooting
+# Sorun Giderme
 
 ## xDai
 
@@ -6,13 +6,16 @@
 
 ![](../.gitbook/assets/image%20%2810%29.png)
 
-If you see the above error here are the most common errors and their corresponding solution:
+Yukarıdaki hatayı gördüğünüzde, aşağıdakiler en çok karşılılan hatalar ve çözüm yollarıdır:
 
-* **Transaction failed** on the faucet - 0.5 xDai needed.
-* **Transport Status Error** - Clear cache and refresh browser
-* \*\*\*\*[**Json RPC Error**](https://forum.1hive.org/t/troubleshooting-problems-on-metamask/215) - Use [alternate RPC](xdai.md#connecting-via-metamask)
+* Faucet sayfasında işlem hatası - 0.5 xDai gereklidir.
+* Transport Status Error - Önbelleği temizleyin ve tarayıcınızı yenileyin.
+* \*\*\*\*[**Json RPC Error**](https://forum.1hive.org/t/troubleshooting-problems-on-metamask/215) - [Alternatif bir RPC](xdai.md#metamask-ile-baglanma) kullanın.
+*  [alternate RPC](xdai.md#connecting-via-metamask)
 
-### Still getting error 
+### Hâlâ hata alıyorum
 
-Check [Unsupported chain error ](https://forum.1hive.org/t/troubleshooting-problems-on-metamask/215/33)
+[Unsupported chain error \(Desteklenmeyen zincir hatası\)](https://forum.1hive.org/t/troubleshooting-problems-on-metamask/215/33) forum paylaşımına bakın.
+
+Ayrıca Metamask'te en çok karşılaşılan sorunların çözümü için şu forum paylaşımına da bakabilirsiniz: [Metamask Sorunlarının Çözümü](https://forum.1hive.org/t/turkish-guide-metamask-sorunlarinin-cozumu/829)
 

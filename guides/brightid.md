@@ -4,11 +4,11 @@ description: Getting verified with BrightID
 
 # BrightID
 
-BrightID is an application used to uniquely identify individuals. It doesn't use a centralised authority but determines a user's uniqueness using a social graph. BrightID users scan QR codes of other BrightID users and once they have connected to enough users the application will verify them as unique. Users can also flag other users as having duplicate accounts.
+BrightID, kişilerin robot olmadığını kanıtlamak için kullanılan bir uygulamadır. Merkezi bir otorite yerine, kişilerin gerçekliğini bir sosyal grafik kullanarak belirler. BrightID kullanıcıları, diğer BrighdID kullanıcıların QR kodlarını taratırlar ve yeterince kullanıcıyla bağlantı kurduklarında uygulama kişilerin robot olmadığını onaylar. Kullanıcılar, ayrıca birden fazla hesaba sahip olan kullanıcıları da raporlayabilmektedirler.
 
-1Hive currently requires a user be BrightID verified to claim from the [Honey Faucet](https://faucet.1hive.org/#/). In future once released, keepers in [Celeste](../projects/celeste/) will also be required to be BrightID verified.
+Şu anda 1Hive, [Honey Faucet](https://faucet.1hive.org/#/) kullanırken kullanıcıların BrightID'de verified \(doğrulanmış\) olmalarını şart koşmaktadır. Yayınlandığı zaman [Celeste](../projects/celeste/)'de "keeper" olarak görev alacak kişilerin de BrightID'de verified olmaları gerekecektir.
 
-For details about BrightID and getting verified see the BrightID website:
+BrightID hakkında ayrıntılı bilgi için, BrightID internet sitesine bakabilirsiniz:
 
 {% embed url="https://www.brightid.org/" %}
 

@@ -1,18 +1,18 @@
 ---
-description: Using the xDai sidechain.
+description: 'xDai, Ethereum yan zinciri kullanımı.'
 ---
 
 # xDai
 
-The **xDai sidechain** is a stable payments blockchain designed for fast and inexpensive stable transactions. **xDai** is used for transactions, payments and fees, and **STAKE** is used to support Proof-of-Stake consensus.
+**xDai yan zinciri**; hızlı, ucuz ve stabil işlemler için tasarlanmış bir blok zincirdir. **xDai**; işlemler, ödemeler ve işlem ücretleri için ve **STAKE** ise Proof-of-Stake konsensusu için kullanılmaktadır.
 
-See the [xDai documentation](https://www.xdaichain.com/) for more details.
+Ayrıntılı bilgi için [xDai dokümantasyonu](https://www.xdaichain.com/)na bakabilirsiniz.
 
-## Connecting via MetaMask
+## MetaMask ile Bağlanma
 
-See [this guide](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup) from the xDai documentation to connect your [MetaMask](https://metamask.io/) extension to the xDai chain.
+[MetaMask](https://metamask.io/) eklentisi ile xDai zincire bağlanabilmek için xDai dokümantasyonunda bulunan [şu talimatları](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup) izleyebilirsiniz.
 
-**Alternative RPCs:**
+**Alternatif RPC'ler:**
 
 * [https://dai.poa.network/](https://dai.poa.network/) 
 * [https://xdai.poanetwork.dev/](https://xdai.poanetwork.dev/)  
@@ -21,21 +21,21 @@ See [this guide](https://www.xdaichain.com/for-users/wallets/metamask/metamask-s
 
 ## xDai Faucet
 
-For anyone interested in experimenting with xDai before bridging tokens from the Ethereum mainnet, you can use the xDai faucet to claim 0.01 xDai \(~ 1 cent\) for free, which is enough to execute a few transactions on xDai. Anyone can top-up the xDai faucet balance.
+Ethereum ağındaki tokenlerini bridge kullanarak xDai'ye geçirmeden önce xDai'yi deneyimlemek isteyenler 0.01 xDai \(~ 1 cent\) almak için ücretsiz olarak xDai faucet'i kullanabilirsiniz. Bununla xDai üzerinde bir sürü işlem gerçekleştirebilirsiniz. İsteyen herkes xDai faucet'e bağışta bulunabilir.
 
 {% embed url="https://xdai-faucet.top/" %}
 
-## Bridging Tokens from Ethereum
+## Ethereum tokenlerini Bridge ile Taşımak
 
-To convert DAI on the Ethereum network to xDai that lives on the xDai network use the [dai-bridge](https://dai-bridge.poa.network/).
+Ethereum ağındaki DAI'yi xDai ağında xDai olarak kullanabilmek için [dai-bridge](https://dai-bridge.poa.network/)'i kullanabilirsiniz.
 
-To convert ERC20 tokens on the Ethereum network to ERC20 tokens on the xDai network use the [omnibridge](https://xdai-omnibridge.web.app/).
+Ethereum ağındaki ERC20 tokenlerinizi xDai ağında ERC20 tokeni olarak kullanmak için [omnibridge](https://xdai-omnibridge.web.app/)'i kullanabilirsiniz.
 
-## Other Info
+## Diğer Bilgiler
 
-Ensure that no matter what MetaMask sets your gas cost to, that you always set it to 1. xDai gas cost is always 1 Gwei, paying less than this it's unlikely your transaction will be accepted, paying more than this will waste xDai. The gas limit should typically be left as it is.
+MetaMask'in gas'i kaç ayarladığına bakmaksızın, gas'i her zaman 1 olacak şekilde ayarladığınızdan emin olun. xDai'de gas hep 1 Gwei'dir; bundan daha düşük gas belirlemeniz halinde işlemin onaylanma ihtimali düşer, daha yüksek ayarlamanız halinde ise xDai'yi boşa harcamş olursunuz. Gas limitinin ise olduğu gibi bırakılması önerilir.
 
-The xDai [Block Explorer](https://blockscout.com/poa/xdai), similar to Etherscan, can be used to see transactions and accounts.
+Ethereum ağında çalışan Etherscan gibi, xDai'deki işlemleri ve hesapları görmek için xDai [Block Explorer](https://blockscout.com/poa/xdai)'ı kullanabilirsiniz.
 
-If you need help getting connected or using any of the above services, come to the [`#⛈help`](https://discord.gg/3AjG7XvRJZ)Discord channel.
+Yukarıdaki servisleri kullanırken veya bağlantı kurarken yardıma ihtiyaç duymanız halinde Discord'da [`#⛈help`](https://discord.gg/3AjG7XvRJZ) kanalına gelebilirsiniz.
 
