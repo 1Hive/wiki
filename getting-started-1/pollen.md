@@ -34,92 +34,118 @@ Sourcecred; Discord, Discourse ve Github'daki bütün mesajları ve yapılan kat
 
 [Pollen Explorer](https://1hive.github.io/pollen/#/explorer), 1Hive ile etkileşimde bulundukları süre boyunca Pollen'e kayıtlı kullanıcıların cred puanlarını gösteren bir skor tahtasıdır.
 
-Her bir eylem için kazanılan Pollen'i belirleyen ağırlıklara pollen explorer üzerinde "SHOW WEIGHT CONFIGURATION" kısmına tıklayarak bakabilirsiniz.
-
-The weights that determine the Pollen earned for each action can be seen in the [pollen explorer](https://1hive.github.io/pollen/#/explorer%20) by clicking on "SHOW WEIGHT CONFIGURATION".
+Her bir eylem için kazanılan Pollen'i belirleyen ağırlıklara [pollen explorer](https://1hive.github.io/pollen/#/explorer%20) üzerinde "SHOW WEIGHT CONFIGURATION" kısmına tıklayarak bakabilirsiniz.
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
 ### Toplam Dağıtım
 
-The weekly Honey distribution is capped at $15,000 or 33 Honey if 33 Honey is worth less than $15,000. 5% of the weekly distribution goes directly to the SourceCred team.
+Haftalık Honey dağıtımı, 33 Honey'nin 15000$'dan düşük olması halinde 33 HNY veya 15000$ olacak şekilde belirlenmiştir. Haftalık dağıtımın %5'i doğrudan SourceCred ekibine gitmektedir.
 
-![Figure 1. Weekly distribution in Honey based on USD value](../.gitbook/assets/image%20%2814%29.png)
+![&#x15E;ekil1. Dolar de&#x11F;erine g&#xF6;re haftal&#x131;k Honey da&#x11F;&#x131;t&#x131;m&#x131;](../.gitbook/assets/image%20%2814%29.png)
 
-### Distribution Rate
+### Dağıtım Oranı
 
-Weekly payout is determined by a contributor's recent contribution's as well as their total contribution. 
+Haftalık ödeme, katkıda bulunanın yakın zamanda gösterdiği katkılarla birlikte toplam katkısına göre belirlenmektedir. 
 
-* **Weekly contribution** is the amount distributed for Pollen earned by users in the last week.
-* **Total contribution** is the amount distributed for all Pollen earned by users up to the distribution date.
-* **Decay Rate** is the rate at which the total contribution calculation decays for each previous week. Eg for a decay rate of 40%, the previous week is weighted at 100%, the second previous week is weighted at 60%, the third previous week is weighted at 36%, etc.
+* **Haftalık katkı**, kullanıcıların son hafta içerisinde kazandıkları Pollen için dağıtılan miktardır.
+* **Toplam katkı**, kullanıcıların dağıtım tarihine kadar kazandıkları bütün Pollen için dağıtılan miktardır.
+* **Azalma hızı,** toplam katkı hesaplamasının bir önceki hafta için azalma hızıdır. Örneğin, %40'lık azalma hızı kullanıldığında, bir önceki haftanın ağırlığı %100 iken iki hafta öncesi %60, üç hafta öncesi ise %36 ağırlığa sahiptir.
 
-| Distribution Parameter | Allocation & Rate |
+| Dağıtım Parametresi | Dağıtım & Oran |
 | :--- | :--- |
-| Weekly Contribution | 25 HNY |
-| Total Contribution | 8 HNY |
-| Decay Rate | 40% |
+| Haftalık Katkı | 25 HNY |
+| Toplam Katkı | 8 HNY |
+| Azalma Hızı | 40% |
 
-### Platform Distribution
+### Platform Dağıtımı
 
-A breakdown of each platforms relative distribution of Pollen each week.
+Her hafta yapılan Pollen dağıtımına ilişkin platformların oranları
 
-| Platform | Percent of Distribution |
+| Platform | Dağıtım Yüzdesi |
 | :--- | :--- |
 | GitHub | 30% |
 | Discord | 40% |
-| Discourse | 30% |
+| Forum | 30% |
 
-### Discord Pollen Weights
+### Discord Pollen Ağırlıkları
 
-On Discord, in order to mint cred for other users through emoji responses, users giving the response must be [Verified](discord/#tips). Minting to self is disabled and the system also weights the minting amount to others depending on how much cred the minter has earned.
+Discord üzerinde, diğer kullanıcılar için emoji etkileşimleriyle cred mint etmek için kullanıcıların geçmişte bir miktar cred kazanmış olmaları gerekmektedir. Kendine cred mint etmek mümkün değildir ve sistem ayrıca başkalarına cred min etme ağırlığını da etkileşimi veren kişinin kazandığı cred miktarına göre belirlemektedir.
 
-| Total Cred | Mint Weight |
+| Toplam Cred | Mint Ağırlığı |
 | :--- | :--- |
-| 120+ Cred  | Mint 1x |
-| 90+ Cred | Mint 0.75x |
-| 60+ Cred | Mint 0.50 |
-| 30+ Cred  | Mint 0.25x |
-| 0 to 30 Cred  | Mint 0x |
+| 120+ Cred | 1x |
+| 90+ Cred | 0.75x |
+| 60+ Cred | 0.5x |
+| 30+ Cred | 0.25x |
+| 0 to 30 Cred | 0x |
 
-All emojis give 1 cred, apart from the below exceptions.
+Aşaığıdaki istisnalar haricinde bütün emojiler 1 cred verir.
 
-| Emoji | Mint Weight |
+| Emoji | Mint Ağırlığı |
 | :--- | :--- |
-|  🍯 + `:Honeypot:` \(custom emoji\) | 2x |
-| 🐝 + `:Honeybee:` \(custom emoji\) | 2x |
+| 🍯 + `:Honeypot:` \(özel emoji\) | 2x |
+| 🐝 + `:Honeybee:` \(özel emoji\) | 2x |
 | 💩 | 0x |
 | 👎 | 0x |
 
-Channels that give 0x cred include: `#✅check-in` ,`#🐸memes` ,`#🤖bot-commands` `#🕹arcade` ,`#🦩lounge` ,`#🍱kitchen` , Fauna channels and all of the Information channels.
+0 cred veren kanallar şunlardır: ✅check-in, \*\*🐸memes, 🤖bot-commands, 🕹arcade, 🦩lounge, 🍱kitchen, Fauna ve Bilgi kanallarının hepsi.
 
-The `#🍄nominations` channel mints 95% of cred for users who have been tagged in messages, users sharing a tagged user get 5% cred for emoji responses. All users tagged will share cred equally amongst all tagged users in that message.
+🐝**social-curation** kanalı, standard cred ağırlığının 0.25x'ini vermektedir.
 
-### Forum Pollen Weights
+🍄**nominations** kanalı, yazılan mesajlarda etiketlenen kullanıcılara cred'in %95'ini mint etmektedir. Birini etiketleyen kullanıcılar, etkileşimler için %5 cred kazanırlar. Bir mesaj içeirisinde etiketlenen kullanıcıların tamamı, söz konusu mesajdaki cred'i eşit derecede paylaşırlar.
 
-On the Discourse forum the total cred a user can mint is dependent on the trust level of the user.
+### Forum Pollen Ağırlıkları
 
-| Trust level | Mint Weight |
-| :--- | :--- |
-| 4 | Mint 1.5x |
-| 3 | Mint 1.25x |
-| 2 | Mint 1x |
-| 1 | Mint 0.1x |
-| 0 | Mint 0x |
+Forumda, bir kullanıcının mint edebileceği toplam cred, kullanıcının güvenilirlik düzeyine bağlıdır.
 
-## Rules
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">
+        <p>Trust level</p>
+        <p>(G&#xFC;venilirlik D&#xFC;zeyi)</p>
+      </th>
+      <th style="text-align:left">Mint A&#x11F;&#x131;rl&#x131;&#x11F;&#x131;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">4</td>
+      <td style="text-align:left">1.5x</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left">1.25x</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">2</td>
+      <td style="text-align:left">1x</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left">0.1x</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">0</td>
+      <td style="text-align:left">0x</td>
+    </tr>
+  </tbody>
+</table>
 
-Due to the infancy of the SourceCred software there are still some ways to exploit it. Various parameter changes have minimized this risk but 1Hive still imposes the following rules, which are known and monitored by many in the community.
+## Kurallar
 
-1. **One account per user policy** A user is not allowed to own and operate multiple accounts.
-2. **No reactions/likes trading allowed** Entering agreements with other users to like/react each other’s posts is not allowed. Reactions/Likes trading is defined by a pattern of 2 or more users mutually reacting to most or all of each other’s posts, **regardless of the quality of the content.**
-3. **Bug use / Exploits / Manipulation** If you find a bug or exploit in the system, please report it immediately. Those using a bug or exploit to their advantage may risk account deactivation.
+SourceCred yazılımının çok yeni olmasından dolayı, kötüye kullanma yöntemleri de bulunmaktadır. Çeşitli parametre değişiklikleri bu riski minimuma indirmiştir; ancak 1Hive hâla topluluğun çoğu tarafından bilinen ve izlenen şu kuralları da uygulamaktadır.
 
-## Useful Links
+1. **Kullanıcı başına bir hesap politikası.** Bir kullanıcının birden fazla hesaba sahip olmasına izin verilmez.
+2. Etkileşim/beğeni ticaretine izin verilmez. Başka kullanıcılarla birbirinin paylaşımlarına beğeni verme/etikleşim verme konusunda anlaşma yapmaya izin verilmez. Etkileşim/Beğeni ticareti, 2 veya daha fazla kullanıcnın ortak olarak birbirlerinin bütün paylaşımlarına veya çoğuna içerik kalitesine bakmaksızın etkileşim vermesidir.
+3. **Bug'lardan Faydalanma / Kötüye Kullanma / Manipülasyon.** Sistemde bir bug veya açık bulmanız halinde lütfen bunu derhal raporlayın. Bir bug'dan veya açıktan kendi yararına faydalananların hesapları devre dışı bırakılacaktır.
 
-Previous and ongoing [updates to Pollen parameters](https://forum.1hive.org/t/updates-to-sourcecred/726).
+## Faydalı Bağlantılar
 
-[General rules](https://forum.1hive.org/t/pollen-rules-and-a-reporting-system/1155) for engaging in Pollen.
+Pollen parametrelerindeki [eski ve devam eden güncellemeler](https://forum.1hive.org/t/updates-to-sourcecred/726).
 
-[SourceCred documentation](https://sourcecred.io/docs/) for further information.
+Pollen'e ilişkin [genel kurallar](https://forum.1hive.org/t/pollen-rules-and-a-reporting-system/1155).
+
+Ayrıntılı bilgi için [SourceCred dokümantasyonu](https://sourcecred.io/docs/).
 

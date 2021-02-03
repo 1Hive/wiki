@@ -1,44 +1,44 @@
 # SSS
 
-## General questions <a id="general-questions"></a>
+## Genel Sorular <a id="general-questions"></a>
 
-**Will there be a Honey Airdrop?** At the moment there are no plans for an airdrop. Members of the 1Hive community can earn Honey through the [Faucet](https://faucet.1hive.org/#/) and through [Pollen](https://1hive.gitbook.io/1hive/getting-started/pollen) by participating on Discord, the Forum and Github.
+**Honey Airdrop yapacak mı?** Şu anda, airdrop yapılmasına dair bir planımız bulunmamaktadır. 1Hive topluluğunun üyeleri, [Faucet ](https://faucet.1hive.org/#/)aracılığıyla veya Discord'a, Forum'a ve Github'a katılım göstererek [Pollen ](https://1hive.gitbook.io/1hive/getting-started/pollen)aracılığıyla Honey kazanabilirler.
 
-As of now, the majority of the community believes that airdropping Honey would not have a beneficial impact on the price and sustainability of the project.
+Şu anda, topluluğun büyük çoğunluğu Honey airdrop yapılmasının projenin fiyatı ve sürdürülebilirliği konusunda faydalı olmayacağına inanmaktadır.
 
-**Will the faucet be topped up? What happens once it is over?** The [Faucet](https://faucet.1hive.org/#/) pays out 5% of its balance every 48h; Therefore, it never truly “ends”. However, there are discussions about topping it up in order to have it as an incentive for newcomers. You can read and share your opinions about this topic [here](https://forum.1hive.org/t/temporarily-suspend-the-faucet/1580/2). So far over 600 HNY has been distributed through the faucet.
+**Faucet tekrar doldurulacak mı? Faucet boşaldığında ne olacak?** [Faucet](https://faucet.1hive.org/#/), 48 saatte bir mevcut Honey'nin %5'ini dağıtmaktadır. Dolayısıyla, gerçekte Faucet'in "boşalması" mümkün değildir. Bununla birlikte, yeni katılanlar için bir teşvik olması açısından doldurulmasına ilişkin tartışmalar bulunmaktadır. [Şu başlığı](https://forum.1hive.org/t/temporarily-suspend-the-faucet/1580/2) okuyup kendi fikirlerinizi paylaşabilirsiniz. Şu ana kadar faucet aracılığıyla 600'den fazla HNY dağıtılmıştır.
 
-**When will Farms open again?** 1Hive conducted 2 farming periods; The last one ended on December 25th, 2020. At this time farms are inactive and there are no farm proposals set to pass in the near future.
+**Farmlar ne zaman tekrar açılacak?** 1Hive, 2 farming dönemi gerçekleştirdi. Bunların sonuncusu 25 Aralık 2020 tarihinde sonlandı. Şu anda farmlar inaktif durumda ve yakın gelecekte farmlara ilişkin bir teklif bulunmamakta.
 
-**Is the team legit?** 1Hive is a DAO \(Decentralized Autonomous Organization\), which means that the team consists of its community members. Anyone can join the 1Hive community, helping it grow and proposing ideas / collaborations of all kinds.
+**Ekip sağlam mı?** 1Hive, bir DAO'dur \(Merkeziyetsiz Otonom Organizasyon\). Yani, ekip topluluk üyelerinden oluşmaktadır. Herkes 1Hive topluluğuna girebilir, büyümesine yardımcı olabilir her türlü fikirlerini/ortaklık tekliflerini paylaşabilir.
 
-**What is a DAO?** Decentralized Autonomous Organizations are coordination protocols that enable humans to work together towards a common goal by regulating interactions through rules defined in software. DAO's are unique because they put automation at the center and humans at the edges. There is no CEO, nor managers. Administration, where it must exist, is viewed as a design flaw and ruthlessly minimized.
+**DAO nedir?** Merkeziyetsiz Otonom Organizasyonlar, etkileşimleri bir yazılım içerisinde tanımlanmış kurallar yoluyla düzenleyerek ortak bir hedef içerisinde insanların bir arada çalışmasına olanak sağlayan koordinasyon protokolleridir. DAO'lar özgündür; çünkü otomasyonu merkeze koyarken insanları ise kenarlara yerleştirir. Herhangi bir CEO veya yönetici yoktur. Yönetim gerektiğinde, bir tasarım hatası olarak görülür ve acımasız bir şekilde asgariye indirilir.
 
-While centralized administration is a powerful and flexible means to scale human coordination, the advent of decentralized ledgers like Bitcoin and Ethereum have shown how disruptive, powerful, and resilient **sufficiently decentralized** coordination protocols can be. DAOs do not replace companies. Instead they alter the economic landscape by creating novel markets and opportunities in which individuals and companies can participate.
+Merkezi veya tek elden yönetim insanların koordinasyonunu sağlamk için güçlü ve esnek bir yöntem olsa dahi Bitcoin ve Ethereum gibi merkeziyetsiz ledgerların ortaya çıkışı yeterince merkeziyetsiz hale getirilen koordinasyon protokollerinin ne derece yıkıcı, güçlü ve sağlam olduğunu göstermiştir. DAO'lar şirketlerin yerine geçmez. Onun yerine, yeni bir piyasa ve bireylerin ve şirketlerin katılım göstereceği fırsatlar oluşturarak ekonomik manzarayı değiştirmektedir.
 
-In the case of the 1Hive DAO, a community currency called Honey is used to create a circular economy where public goods and investments that grow the 1Hive economy can be collectively funded with [**conviction voting**](https://1hive.gitbook.io/1hive/projects/honey).
+1Hive DAO'su örneğinde, Honey adı verilen topluluk para birimi, 1Hive ekonomisi içerisinde büyüyen ortak varlıkların ve yatırımların kolektif olarak [kanaat oylaması](../projects/honey/#ekonomik-degerlendirme) yoluyla fonlandığı döngüsel bir ekonominin oluşturulmasında kullanılmaktadır.
 
-**Does 1Hive have a roadmap?** We have rough [milestones](https://1hive.gitbook.io/1hive/projects/milestones) updated by individual swarms.
+**1Hive'ın bir yol haritası var mı?** Yol haritası yerine wwarmların her biri tarafından güncellenen [kilometre taşlar](../projects/1hive-updates.md)ımız bulunmaktadır.
 
-**Can I stake Honey?** Currently it is not possible to stake Honey. This feature will become available through [Celeste](https://1hive.gitbook.io/1hive/projects/celeste) once it is launched.
+**Honey stake edebilir miyim?** Şu anda Honey stake etmek mümkün değil. Bu özellik, [Celeste ](../projects/celeste/)yayınlandığında kullanılabilir hale gelecek.
 
-**When will Honey be on Uniswap?** The reverse omnibridge enabling moving Honey to Mainnet to add to Uniswap will most likely land on the Ethereum Mainnet in Q1-Q2 2021.
+**Honey'i ne zaman Uniswap'tan alabilirim?** Honey'nin Ethereum mainnet'e taşınmasına ve Uniswap'e eklenmesine olanak sağlayacak olan ters yönlü ombnbridge, muhtemelen 2021 yılının birinci veya ikinci çeyreğinde hazır hale gelecek.
 
-**I saw a "Matic" channel on Discord. Are we leaving xDai?** Currently there are no plans to leave xDai, but 1Hive is exploring what opportunities may exist to extend the community and ecosystem of products to additional networks including Matic and in development roll-up chains such as Arbitrum.
+**Discord'da bir "Matic" kanalı gördüm. xDai'den ayrılıyor muyuz?** Şu anda, xDai'den ayrılma gibi bir planımız yok; ancak 1Hive topluluğun ve ürün ekosisteminin Matic gibi ekstra ağlara ve Arbitrum gibi geliştirme aşamasındaki zincirlere uzanması için mevcut fırsatları araştırmaktadır.
 
-**Is there any incentive for holding Honey?** Until staking becomes a reality with [Celeste](https://1hive.gitbook.io/1hive/projects/celeste), holding Honey is primarily used for voting on proposals and to [provide liquidity](https://link.medium.com/Zb26x6KQWcb).
+**Honey tutmak için bir teşvik bulunuyor mu?** [Celeste ](../projects/celeste/)ile staking gelene kadar, Honey temel olarak tekliflere oy vermek veya [likidite sağlamak](https://finematics.medium.com/how-do-liquidity-pools-work-defi-explained-6d3418ea71fa) için kullanılmaktadır..
 
 ## Tokenomics <a id="tokenomics"></a>
 
-**What is the Honey \(HNY\) token address?** [0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9](https://blockscout.com/poa/xdai/tokens/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/)​
+**Honey \(HNY\) token adresi nedir?**[0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9](https://blockscout.com/poa/xdai/tokens/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/)​
 
-**Why Honey?** Issuing a digital currency allows a community like 1Hive to build an economy.
+**Neden Honey?** Dijital bir para birimi ihraç etmek, 1Hive gibi bir topluluğun bir ekonomi oluşturmasına olanak sağlamaktadır.
 
-Holding a specific community currency is a bet on the future growth of that communities economy. The more people who hold the currency, the more people who will have interest in participating and growing the economy.
+Spesifik bir topluluk para birimini tutmak, söz konusu topluluk ekonomisinin gelecekte büyüyeceğine dair bir bahse girmek gibidir. Bu para birimini elinde tutan insanların sayısı arttıkça ekonomiye katılım gösterip ekonomiyi büyütme konusunda insanların ilgisi de artacaktır.
 
-Each community may adopt different social norms and may use different issuance and distribution policies to allocate shared resources. The most effective communities will thrive and grow, competing for the attention and loyalty of individuals. Choosing to hold a specific currency will evolve beyond just a financial decision into a political and social one as well.
+Toplulukların her biri, farklı sosyal normlar benimseyebilir ve otak kaynakları tahsis etmek için farklı ihraç ve dağıtım politikaları kullanabilir. Bireylerin ilgisi ve bağlılığı için yarışma halinde olan en etkin topluluklar gelişecek ve büyüyecektir. Spesifik bir para birimini elde tutmayı tercih etmek, finansal bir kararın ötesine geçip politik ve sosyal bir karar haline de dönüşecektir.
 
-This type of competition is good for everyone, and should hopefully lead to a future that is more free, fair, open, and humane.
+Bu tarz bir rekabet herkesin yararınadır ve daha özgür, adil, açık ve insancıl bir gelecepe sahip olmamıza olanak tanıyacaktır.
 
 **What is the current market cap of Honey?** Market cap can be found here on [CoinGecko](https://www.coingecko.com/en/coins/honey).
 
