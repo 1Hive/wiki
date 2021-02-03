@@ -40,55 +40,59 @@ Toplulukların her biri, farklı sosyal normlar benimseyebilir ve otak kaynaklar
 
 Bu tarz bir rekabet herkesin yararınadır ve daha özgür, adil, açık ve insancıl bir gelecepe sahip olmamıza olanak tanıyacaktır.
 
-**What is the current market cap of Honey?** Market cap can be found here on [CoinGecko](https://www.coingecko.com/en/coins/honey).
+**Honey'nin mevcut piyasa değeri nedir?** Piyasa değeri, [CoinGecko](https://www.coingecko.com/en/coins/honey) üzerinde görülebilir.
 
-**How is Honey's market cap calculated?** Market cap = \(Total Supply - Common Pool\) x Honey Price
+**Honey'nin piyasa değeri nasıl hesaplanır?** Piyasa değeri = \(Toplam arz - Ortak Havuz\) x Honey Fiyatı şeklinde hesaplanır.
 
-**What is Honey's current Issuance Policy?** The inflation rate is currently set to 30% per year. At first, the inflation rate was 60% but the community voted to change it. A dynamic inflation rate has been developed and is likely to be integrated in Q1/Q2. See [issuance page](https://1hive.gitbook.io/1hive/projects/honey/issuance) for more details.
+**Honey'nin mevcut ihraç politikası nasıldır?** Enflasyon oranı, şu anda yıllık %30 olarak belirlenmiştir. Başlangıçta enflasyon oranı %60'tı; ancak topluluk oylarıyla bunun değiştirilmesine karar verdi. Dinamik bir enflasyon oranı geliştirildi ve muhtemelen 2021 yılının birinci veya ikinci çeyreğinde yürürlüğe konacak. Ayrıntılı bilgi için [ihraç ](../projects/honey/issuance.md)sayfasına bakabilirsiniz.
 
-**Where does the newly inflated currency go?** The inflation rate is used to fill the Common Pool, which holds the Honey the DAO has available to use and can only be withdrawn from by passing Honey proposals.
+**Yeni basılan Honey'ler nereye gidiyor?** Enflasyon oranı, Ortak Havuzun doldurulması için kullanılmakta. DAO'nun kullanabileceği Honey burada tutuluyor ve yalnızca Honey tekliflerinin onaylanması sonucunda çekilebiliyor.
 
-The common pool is used to fund pollen, faucet, bounties and collaboration with other projects that may happen in the future.
+Ortak havuz; pollen'in, faucet'in, bounty'lerin ve gelecekte geliştirilebilecek diğer projelerle işbirliği için kullanılmakta.
 
-**What is the common pool address and where can the token transfers be viewed?** [0x05e42c4Ae51BA28d8aCF8c371009AD7138312CA4](https://blockscout.com/poa/xdai/address/0x05e42c4Ae51BA28d8aCF8c371009AD7138312CA4/token-transfers)​
+**Ortak havuzdan token transferlerini nereden görebilirim? Ortak havuzun adresi nedir?** [0x05e42c4Ae51BA28d8aCF8c371009AD7138312CA4](https://blockscout.com/poa/xdai/address/0x05e42c4Ae51BA28d8aCF8c371009AD7138312CA4/token-transfers)​
 
-**Where can I see details about Honey?** [Blockscout](https://blockscout.com/poa/xdai/) is where you can track any transaction on the xDai chain. [Here](https://blockscout.com/poa/xdai/address/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/transactions) is where you can track HNY’s ones.
+**Honey hakkında ayrıntıları nereden görebilirim?** xDai zinciri üzerindek bütün işlemleri [Blockscout](https://blockscout.com/poa/xdai/) üzerinden takip edebilirsiniz. HNY işlemleri ise [şu adresten](https://blockscout.com/poa/xdai/address/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/transactions) takip edilebilir.
 
 ## xDai & Honeyswap <a id="xdai-and-honeyswap"></a>
 
-**Setup Metamask** [https://honeyswap.org/setup-wallet](https://honeyswap.org/setup-wallet)​
+**Metamask Kurulumu** [https://honeyswap.org/setup-wallet](https://honeyswap.org/setup-wallet)​
 
-**Bridge Any Token** [https://honeyswap.org/xdai-bridges](https://honeyswap.org/xdai-bridges)​
+**Token Bridge'lerinin Kullanımı** [https://honeyswap.org/xdai-bridges](https://honeyswap.org/xdai-bridges)​
 
-**Provide Liquidity on Honeyswap** [https://honeyswap.org/liquidity-pool](https://honeyswap.org/liquidity-pool)​
+**Honeyswap Üzerinde Likidite Sağlama** [https://honeyswap.org/liquidity-pool](https://honeyswap.org/liquidity-pool)​
 
-​[Understanding Providing Liquidity](https://1hive.gitbook.io/1hive/projects/honeyswap/for-liquidity-providers)​
+[Likidite sağlama konusunda bilmeniz gerekenler.](../projects/honeyswap/for-liquidity-providers.md)
 
-**Understanding Yield Farming on Honeycomb** [https://honeyswap.org/yield-farming](https://honeyswap.org/yield-farming)​
+**Honeycomb üzerinde Yield Farming:** [https://honeyswap.org/yield-farming](https://honeyswap.org/yield-farming)​
 
-**Are transaction fees really less than $0.01?** Generally yes, remember to set the Gas Price to 1 GWEI in your wallet when submitting transactions. Note that 1 xDAI is equal to $1 in value. Use the [**xDai Faucet**](https://xdai-faucet.top/) to get a small amount of xDAI to use the network.![](https://gblobscdn.gitbook.com/assets%2F-MNrqwoYUmro4mJ9smmt%2F-MPBAhR-AvJnQ8LKmSlH%2F-MPBAiykgACifzPQ7stx%2Fimage.png?alt=media&token=ba6351fc-ca2a-4b54-9546-e21acd7c1a7d)
+`Not: Şu anda Yield Farming açık değil.`
 
-**If the fees are so little, how much can I earn by providing liquidity?** Fees earned in Honeyswap trades are 0.25% of the value of the trade that has occurred. They are not related to the gas fees paid to the network \(in our case xDAI\) to execute the trade transaction. Liquidity providers receive none of the networks gas fees but 0.25% of the value of trades split between all liquidity providers in that pair.
+**İşlem ücretleri gerçekten 0.01$'dan az mı?** Genel olarak evet. İşlemleri onaylarken cüzdanınızda Gas Fiyatını 1 GWEI olarak ayarlamayı unutmayın. 1 xDai'nin değerinin 1$'dır. Ağ üzerinde kullanmak için küçük bir miktar xDai almak için [xDai Faucet](https://xdai-faucet.top/)'i kullanabilirsiniz.
 
-**Can any ERC-20 token be bridged to Honeyswap?** Yes, any ERC20, ERC677 and ERC827 can be swapped, by following a few easy steps and by using the [omnibridge](https://omni.xdaichain.com/).
+![](https://gblobscdn.gitbook.com/assets%2F-MNrqwoYUmro4mJ9smmt%2F-MPBAhR-AvJnQ8LKmSlH%2F-MPBAiykgACifzPQ7stx%2Fimage.png?alt=media&token=ba6351fc-ca2a-4b54-9546-e21acd7c1a7d)
 
-## Support <a id="support"></a>
+**İşlem ücretleri bu kadar düşükse, likidite sağlayarak nasıl kazanabilirim?** Honeyswap işlemlerinden kazanılan ücretler, gerçekleşen işlemin %0.25'i kadardır. Bu ücretler, alım satım işlemini gerçekleştirmek için harcanan gas ücretleriyle ilgili değildir \(bizim durumumuzda xDai\). Likidite sağlayıcılar, ağdaki gas ücretlerinden bir şey kazanmaz; kazanılan söz konusu çiftte likidite sağlayan herkes tarafından paylaşılan alım satım işleminin %0.25'idir.
 
-**I am new in the community, what should I do?** First of all, welcome! Be sure to follow us on [Telegram](https://t.me/honeyswapDEX), [Discord](https://discord.com/invite/xTZjbRjc8t), [Twitter](https://twitter.com/Honeyswap), and to introduce yourself on our [Forum](https://forum.1hive.org/t/introduce-yourself-to-1hive-thread/130/7). Additionally, if you follow a few easy steps, 1Hive is welcoming you with the [Welcome Bounty!](https://docs.google.com/forms/d/e/1FAIpQLSdP3pTX_BLKqLCmkC84YyDj8PVK5wfOSSaym93SJj5KX6RP2w/viewform) You can earn 1xDai, which will be enough for the faucet and countless transactions!
+**ERC-20 tokenlerinin hepsi bridge'den geçirilip Honeyswap'te kullanılabilir mi?** Evet; [omnibridge ](https://omni.xdaichain.com/)kullanılarak birkaç adımda bütün ERC20, ERC677 ve ERC827 tokenlar xDai'ye taşınabilir.
 
-**I can’t claim my HNY through the faucet, the transaction is failing.** Please, make sure to have at least 0.5 xDai in your wallet!
+## Destek <a id="support"></a>
 
-**I bridged my token but I do not see it on MetaMask. What’s wrong?** Don’t worry, your tokens are safe. Being on the xDai chain you’ll need to add a new Token address to your MetaMask extension.
+**Topluluğa yeni katıldım, ne yapmalıyım?** Öncelikle, hoş geldin! [Telegram](https://t.me/honeyswapDEX), [Discord](https://discord.com/invite/xTZjbRjc8t), [Twitter](https://twitter.com/Honeyswap)'da takip edip kendinizi [Forum](https://forum.1hive.org/t/introduce-yourself-to-1hive-thread/130/7)'da tanıtabilirsiniz. Ayrıca, birkaç kolay adımı yerine getirdiğinizde 1Hive size bir [Hoşgeldin Bounty](https://docs.google.com/forms/d/e/1FAIpQLSdP3pTX_BLKqLCmkC84YyDj8PVK5wfOSSaym93SJj5KX6RP2w/viewform)'si olarak 1 xDai verecek. Bununla da faucet'ten Honey alabilecek, bir sürü işlem gerçekleştirebilmiş olacaksınız.
 
-To add a token first find the token address from one of these lists: [Bridged Tokens - Blockscout](https://blockscout.com/poa/xdai/bridged-tokens) / [Token List](https://tokenlists.org/token-list?url=https://tokens.honeyswap.org). Then open Metamask → Add Token → Custom Token → Copy Paste the Token Address.
+**Faucet'ten HNY alamıyorum, işlem hata veriyor.** Faucet'ten HNY alabilmek için cüzdanınızda en az 0.5 xDai bulunması gerekiyor.
 
-**How can I withdraw my Honeyswap V2 liquidity using LP Tokens?** You can do so by going on [Honeyswap](https://app.honeyswap.org/#/swap) → Pool → Remove Liquidity \(It may take a few moments to load\).
+**Tokenlerimi bridge'den geçirdim ama Metamask'te görünmüyor. Sorun ne?** Merak etmeyin, tokenleriniz güvende. xDai zincir'de olduğunuzdan dolayı Metamask eklentinize yeni Token adresini eklemeniz gerek.
 
-**What is the easiest way to purchase xDai?** You can bridge DAI into xDAI from the Ethereum network using the [bridge](https://dai-bridge.poa.network/), or you can buy xDai with fiat using [Ramp](https://ramp.network/buy/?swapAsset=XDAI).
+Metamask'e token eklemek için, token adresini öncelikle şu listelerden bulmanız gerekiyor: [Bridged Tokens - Blockscout](https://blockscout.com/poa/xdai/bridged-tokens) / [Token List](https://tokenlists.org/token-list?url=https://tokens.honeyswap.org) Sonra Metamask'i açıp → Add Token → Custom Token dedikten sonra, Token adresini kopyalayıp yapıştırın.
 
-**Any tutorial on how to purchase xDai and on how to use Honeyswap?** To use Honeyswap you need to follow a few easy steps: First, send your token \(For example, DAI\) to your Metamask, on the Ethereum network. Then, once you create an xDai network RPC, you can quickly bridge your token through the token bridge \(you’ll need a few $ of ETH for such transaction\). You can read more [here](https://medium.com/honeyswap/introducing-honeyswap-fa34b24e6978) and watch a tutorial [here](https://forum.1hive.org/t/1hive-101-beeginner-video-tutorials/217?u=jasper).
+**Honeyswap V2 likiditemi LP tokenleri kullanarak nasıl çekerim?** [Honeyswap](https://app.honeyswap.org/#/swap) → Pool → Remove Liquidity adresinde likiditenizi çekebilirsiniz. \(Yüklenmesi bir iki dakikayı bulabilir\).
 
-**The faucet doesn't recognize my wallet anymore and is asking me to use another wallet address.** Please, register with another wallet. You will unfortunately have to wait for the registration period again before claiming but then you won’t have any further problems.
+**xDai satın almanın en kolay yolu nedir?** [Bridge](https://dai-bridge.poa.network/)'i kullanarak Ethereum ağındaki DAI'nizi xDai'ye dönüştürebilir veya [Ramp](https://ramp.network/buy/?swapAsset=XDAI) kullanarak doğrudan xDai satın alabilirsiniz.
 
-**My issue was not addressed in the FAQ. What can I do?** The best way to get help from a member of the 1Hive community is to land on the [⛈**help**](https://discord.gg/3AjG7XvRJZ) channel on Discord.
+**xDai satın almak ve Honeyswap kullanmak için bir öğretici video veya yazı var mı?** Honeyswap'i kullanmak için birkaç kolay adımı izlemeniz gerek. Öncelikle, tokeninizi \(örneğin DAI\) Ethereum ağı üzerinde Metamask'e gönderin. Sonra, xDai ağını custom RPC olarak ekledikten sonra, token bridge'ini kullanarak hemen tokenlerinizi xDai'ye aktarabilirsiniz \(bu işlem için birkaç dolar değerinde ETH harcamanız gerekecek\). Daha ayrıntılı bilgi için şu [yazıyı ](https://medium.com/honeyswap/introducing-honeyswap-fa34b24e6978)okuyabilir veya şuradaki [videoları ](https://forum.1hive.org/t/1hive-101-beeginner-video-tutorials/217)izleyebilirsiniz.
+
+**Faucet cüzdanımı tanımıyor ve başka bir cüzdan adresi kullanmamı istiyor.** Lütfen başka bir cüzdanla kaydolun. Honey alabilmek için maalesef bir sonraki dönemi beklemeniz gerekecek; ancak başka sorun yaşamamış olacaksınız.
+
+Problemime burada cevap bulamadım. Ne yapabilirim? 1Hive topluluğundan yardım almanın en iyi yolu, Discord üzerindeki [⛈**help**](https://discord.gg/3AjG7XvRJZ) kanalına gelmektir.
 
