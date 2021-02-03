@@ -20,7 +20,7 @@
 
 [🏵**Pollen**](../community/swarms/pollen.md) - Discord, Discourse \(Forum\) ve Github üzerinde yapılan katkılara dayalı olarak Honey dağıtımını gerçekleştirmek üzere SourceCred instance'ımızı yürüten swarm ve sistem.
 
-🌺**Flora** - Geliştirici, bilgi işlem, altyapı ve node işlemleri üzerine çalışan swarm. Flore, şu anda çalışmakta olan onaylayıcıları \(validator\) ve gelişmekte olan yeni zincirleri incelemekte.
+🌺[**Flora** ](../community/swarms/flora.md)- Geliştirici, bilgi işlem, altyapı ve node işlemleri üzerine çalışan swarm. Flora, şu anda çalışmakta olan onaylayıcıları \(validator\) ve gelişmekte olan yeni zincirleri incelemekte.
 
 [🐱**Fauna**](../community/swarms/fauna.md) ****- Tartışma kanallarımızın moderasyonuyla görevli swarm. Bu swarm'ın üyeleri, herhangi bir konuda yardıma ihtiyacınız olduğunda büyük ihtimalle iletişime geçeceğiniz kişilerden oluşur.
 
@@ -28,7 +28,7 @@
 
 [🌜**Luna**](../community/swarms/luna.md) ****- 1Hive ekosistemi içerisindeki çeşitli uygulamalar için kavramlar ve yapılandırmalar hakkında bilgi yardımı sağlamak üzere ekonomik ilkelerin modellemesi ve simülasyonunu odak noktası olarak belirleyen swarm.
 
-🌍**Terra** - 1Hive projelerini, dokümanlarını ve kaynaklarını tercüme etmekle görevli swarm.
+🌍[**Terra** ](../community/swarms/terra.md)- 1Hive projelerini, dokümanlarını ve kaynaklarını tercüme etmekle görevli swarm.
 
 [🐛**Bug Bounty**](../community/swarms/bug-bounty.md) ****- 1Hive Contract Bug Bounty programında mevcut fonların yönetimiyle görevli swarm. Ele alınmamış açıkların yorumlanması ve gereğinin yapılmasından sorumludur.
 

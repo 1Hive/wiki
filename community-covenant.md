@@ -8,9 +8,9 @@ description: 1Hive topluluğuna katılırken kabul ettiğimiz kurallar.
 1Hive Topluluk Sözleşmesi şu anda [incelemeye ve önerilere açıktır](https://forum.1hive.org/t/drafting-the-1hive-community-covenant-for-celeste/1548). 
 {% endhint %}
 
-1Hive, daha özgür, adil, açık ve insancıl bir gelecek inşa etmeyi hedefleyen aktivistlerden oluşan bir topluluktur.
+1Hive; daha özgür, adil, açık ve insancıl bir gelecek inşa etmeyi hedefleyen aktivistlerden oluşan bir topluluktur.
 
-1Hive aynı zamanda, Bitcoin ve Ethereum gibi dijital bir para birimi olan Honey'nin ihraç edilip programlı olarak dağıtımının yapıldığı ekonomik bir protokoldür. Bitcoin ve Ethereum'un aksine, 1Hive protokolü değerli eylemleri dar bir şekilde tanımlamamakta, onun yerine topluluk üyelerinin Honey dağıtım teklifleri oluşturup bunlara oy vermesi yoluyla dağıtım sürecini yönlendirmesine olanak sağlamaktadır.
+1Hive aynı zamanda, Bitcoin ve Ethereum gibi dijital bir para birimi olan Honey'nin ihraç edilip programlı olarak dağıtımının yapıldığı ekonomik bir protokoldür. Bitcoin ve Ethereum'un aksine, 1Hive protokolü değerli eylemleri dar bir şekilde tanımlamamakta, bunun yerine topluluk üyelerinin Honey dağıtım teklifleri oluşturup bunlara oy vermesi yoluyla dağıtım sürecini yönlendirmesine olanak sağlamaktadır.
 
 1Hive protokolünün amacı; 1Hive topluluğuna en çok değer katan ortak ürünlerin geliştirilmesi, bakımı ve iyileştirilmesine yönelik düzenli bir Honey akışı oluşturarak sağlıklı bir topluluk ekonomisi oluşturmaktır. 
 
@@ -44,11 +44,11 @@ Aşağıdakiler ise kabul edilmeyecek davranış örnekleridir:
 
 ## Blokzincir-Üzerinde Uygulama
 
-Blockzincir üzerinde uygulama, Celeste'nin tamamlanmasına bağlıdır.
+Blokzincir üzerinde uygulama, Celeste'nin tamamlanmasına bağlıdır.
 
 1Hive protokolünün bu sözleşmeyi uygulama becerisi, topluluk üyelerinin protokolle yaptıkları doğrudan etkileşimle, özellikle de topluluk üyelerinin Honey tahsis edilmesi veya protokol parametrelerinin düzenlenmesi için teklif gönderme becerisiyle sınırlıdır.
 
-Bir teklif gönderirken, topluluk üyesinin söz konusu teklifin makulen 1Hive'ın toplumsal sözleşmesiyle uyum içerisinde olarak değerlendirileceğini onayladığını belirtecek şekilde Honey kilitlemesi gerekecektir. Bir başka topluluk üyesi, ilk teklifi yapanın teklifine katılmadığı durumda eşit miktarda Honey yatırarak teklife itiraz edebilecek ve böylece bir ihtilaf oluşturulabilecektir. İtiraz edildikten sonra teklifin geri çekilmemesi halinde, ihtilafın çözülmesi için merkeziyetsiz bir oracle kullanılacaktır.
+Bir teklif gönderirken, topluluk üyesinin söz konusu teklifin makulen 1Hive'ın toplumsal sözleşmesiyle uyum içerisinde olarak değerlendirileceğini onayladığını belirtecek şekilde Honey stake edilmesi \(kilitlenmesi\) gerekecektir. Bir başka topluluk üyesi, ilk teklifi yapanın teklifine katılmadığı durumda eşit miktarda Honey stake ederek \(yatırarak\) teklife itiraz edebilecek ve böylece bir ihtilaf oluşturulabilecektir. İtiraz edildikten sonra teklifin geri çekilmemesi halinde, ihtilafın çözülmesi için merkeziyetsiz bir oracle kullanılacaktır.
 
 İhtilaf çözüm protokolündeki katılımcıların, bir yargıya varmadan önce 1Hive topluluğunun mevcut normları ve amaçlarıyla en uygun kararı verebilmeleri açısından teklifi, bu sözleşmeyi ve geçmişteki ilgili ihtilafları incelemeleri beklenmektedir.
 

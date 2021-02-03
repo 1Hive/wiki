@@ -3,7 +3,7 @@
 * [1Hive'a Hoşgeldiniz](README.md)
 * [Topluluk Sözleşmesi](community-covenant.md)
 
-## Başlarken <a id="getting-started-1"></a>
+## 🌱 Başlarken <a id="getting-started-1"></a>
 
 * [Terminoloji](getting-started-1/quick-navigation-guide.md)
 * [Discord](getting-started-1/discord/README.md)
