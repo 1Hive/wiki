@@ -14,8 +14,6 @@ Medya, iletişim ve pazarlama işlerine ilişkin [Buzz Bounties](buzz-swarm-boun
 
 Toplulukta insanlara yardımcı olun, böylece [Fauna](../../community/swarms/fauna.md) üyeleri tarafından fark edilerek [yardımcı olduğunuzdan dolayı ödüllendirilebilirsiniz](fauna-awards.md).
 
-1Hive Wiki sayfasına bir şeyin eklenmesi veya güncelleme yapılması gerektiğini düşünüyorsanız, bir Wiki Katkısında bulunmayı düşünebilirsiniz.
-
-If there's something you think should be added or updated in the 1Hive Wiki then consider making a [Wiki Contribution](https://app.gitbook.com/@1hive/s/1hive/~/drafts/-MRVX72IN0iJApM_Pe3i/guides/wiki-contribution).[  
+1Hive Wiki sayfasına bir şeyin eklenmesi veya güncelleme yapılması gerektiğini düşünüyorsanız, bir Wiki Katkısında bulunmayı düşünebilirsiniz.[  
 ](https://app.gitbook.com/@1hive/s/1hive/~/drafts/-MRVX72IN0iJApM_Pe3i/getting-started/calendar)
 
