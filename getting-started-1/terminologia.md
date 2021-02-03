@@ -20,7 +20,7 @@ Hay varios **Proyectos** y ****[**Swarms**](../community/swarms/), con objetivos
 
 [🏵**Pollen**](../community/swarms/pollen.md) - Un enjambre y un sistema que mantiene nuestra instancia de SourceCred para distribuir Honey basándose en las contribuciones en Discord, Forum y Github. 
 
-🌺**Flora** - Un enjambre trabajando en operaciones de desarrollo, infraestructura y operaciones de nodos. Flora está explorando actualmente la ejecución de validadores y cadenas emergentes.
+🌺[**Flora** ](../community/swarms/flora.md)- Un enjambre trabajando en operaciones de desarrollo, infraestructura y operaciones de nodos. Flora está explorando actualmente la ejecución de validadores y cadenas emergentes.
 
 [🐱**Fauna**](../community/swarms/fauna.md) ****- Un enjambre dedicado a la moderación de nuestros canales de discusión. Los miembros de este enjambre son aquellos con los que probablemente entraras en contacto si necesitas ayuda con cualquier cosa.
 
@@ -28,7 +28,7 @@ Hay varios **Proyectos** y ****[**Swarms**](../community/swarms/), con objetivos
 
 [🌜**Luna**](../community/swarms/luna.md) ****- Un enjambre que se centra en el modelado y simulación de principios económicos para ayudar a informar conceptos y configuraciones para diversas aplicaciones dentro del ecosistema de 1Hive. 
 
-🌍**Terra** - Un enjambre dedicado a traducir proyectos, documentación y recursos. 
+🌍[**Terra** ](../community/swarms/terra.md)- Un enjambre dedicado a traducir proyectos, documentación y recursos. 
 
 [🐛**Bug Bounty**](../community/swarms/bug-bounty.md) ****- Un enjambre que administra los fondos disponibles para el programa 1Hive Contract Bug Bounty. Es responsable de interpretar y responder a exploits descubiertos.
 
