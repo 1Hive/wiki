@@ -21,7 +21,7 @@ São vários Projetos e Enxames, com objetivos que vão da comunicação ao dese
 
 ​[🏵Pollen](https://1hive.gitbook.io/1hive/community/swarms/pollen) - Um enxame  e sistema que mantém nosso sistema SourceCred para distribuir Honey com base nas contribuições no Discord, no Fórum e Github. 
 
-🌺Flora - Um enxame trabalhando com desenvolvedores, infraestrutura e operação de nós \(nodes\). Flora está atualmente explorando validadores e as emergentes redes roll-up.
+🌺[Flora ](../community/swarms/flora.md)- Um enxame trabalhando com desenvolvedores, infraestrutura e operação de nós \(nodes\). Flora está atualmente explorando validadores e as emergentes redes roll-up.
 
 ​[🐱Fauna](https://1hive.gitbook.io/1hive/community/swarms/fauna) - Um enxame dedicado a moderaçāo dos canais de discussāo. Estes são os membros que você deve contactar caso precise de ajuda com qualquer coisa.  
 
@@ -30,7 +30,7 @@ São vários Projetos e Enxames, com objetivos que vão da comunicação ao dese
 
 ​[🌜Luna](https://1hive.gitbook.io/1hive/community/swarms/luna) - Um enxame focado em investigar, modelar e simular princípios econômicos usando tecnologias como cadCAD para ajudar na formaçāo de conceitos e configurações para diversas aplicações dentro do ecossistema 1Hive.
 
-🌍Terra - Um enxame dedicado à tradução de projetos, documentação e recursos da 1Hive.
+🌍[Terra](../community/swarms/terra.md) - Um enxame dedicado à tradução de projetos, documentação e recursos da 1Hive.
 
 ​[🐛Bug Bounty](https://1hive.gitbook.io/1hive/community/swarms/bug-bounty) - Um enxame que gerencia fundos disponíveis para o Contrato de Bug Bounty da 1Hive. É responsável por interpretar e responder explorações descobertas no sistema.  
 ****
