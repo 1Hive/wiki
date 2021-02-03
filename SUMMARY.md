@@ -12,7 +12,7 @@
 * [Takvim](getting-started-1/calendar.md)
 * [Katkıda Bulunma](getting-started-1/how-can-you-contribute/README.md)
   * [Buzz Bounty](getting-started-1/how-can-you-contribute/buzz-swarm-bounty.md)
-  * [Fauna Awards](getting-started-1/how-can-you-contribute/fauna-awards.md)
+  * [Fauna Ödülleri](getting-started-1/how-can-you-contribute/fauna-awards.md)
 
 ## Projeler <a id="projects"></a>
 

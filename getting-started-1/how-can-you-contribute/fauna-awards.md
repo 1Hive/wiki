@@ -1,12 +1,12 @@
 ---
-description: Awards for providing help and support
+description: Yardım ve destek sağlayanlar ödüllendirilir
 ---
 
-# Fauna Awards
+# Fauna Ödülleri
 
-The [Fauna Swarm](https://1hive.gitbook.io/1hive/community/swarms/fauna) periodically make awards to appreciate community members that provide help and support around the community. Each of the below members have been recognised and awarded 0.25 HNY at some point in the past for their contribution.
+[Fauna Swarm](https://1hive.gitbook.io/1hive/community/swarms/fauna), periyodik olarak toplulukta yardım ve destek sağlayan üyeleri ödüllendirmektedir. Aşağıdaki üyelerin her birinin yaptığı katkılar fark edilmiş ve geçmişte yaptıkları katkılardan dolayı 0.25 HNY ile ödüllendirilmişlerdir.
 
-| Members Awarded |
+| Ödüllendirilen Üyeler |
 | :--- |
 | [theseeker](https://forum.1hive.org/u/theseeker/summary) |
 | [berserk](https://forum.1hive.org/u/berserk/summary) |
