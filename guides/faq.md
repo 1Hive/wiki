@@ -30,7 +30,7 @@ En el caso del DAO 1Hive, una moneda comunitaria llamada Honey se utiliza para c
 Actualmente no es posible hacer stake de Honey. Esta función estará disponible a través de Celeste una vez que se lance. 
 
 **¿Cuándo estará Honey en Uniswap?**   
-El omnibridge inverso que permite mover Honey a Mainnet para agregarlo a Uniswap probablemente llegará a Ethereum Mainnet en el primer o segundo cuarto de 2021. 
+El omnibridge inverso que permite mover Honey a Mainnet para agregarlo a Uniswap probablemente llegará a Ethereum Mainnet en el primer o segundo trimestre de 2021. 
 
 **Vi un canal de "Matic" en Discord. ¿Nos vamos de xDai?**   
 Actualmente no hay planes para dejar xDai, pero 1Hive está explorando qué oportunidades pueden existir para extender la comunidad y el ecosistema de productos a redes adicionales, incluido Matic, y en cadenas de desarrollo como Arbitrum. 
@@ -40,37 +40,36 @@ Hasta que el staking se convierta en realidad con Celeste, Honey se utiliza prin
 
 ## Tokenomics
 
-**What is the Honey \(HNY\) token address?**  
+**¿Cuál es la dirección \(address\)  del token Honey \(HNY\)?**  
 [0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9](https://blockscout.com/poa/xdai/tokens/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/)
 
-**Why Honey?**  
-Issuing a digital currency allows a community like 1Hive to build an economy.
+**¿Por qué Honey?**   
+Emitir una moneda digital permite a una comunidad como 1Hive construir una economía. 
 
-Holding a specific community currency is a bet on the future growth of that communities economy. The more people who hold the currency, the more people who will have interest in participating and growing the economy.
+Tener una moneda comunitaria específica es una apuesta al crecimiento futuro de la economía de esa comunidad. Cuantas más personas posean la moneda, más personas estarán interesadas en participar y hacer crecer la economía. 
 
-Each community may adopt different social norms and may use different issuance and distribution policies to allocate shared resources. The most effective communities will thrive and grow, competing for the attention and loyalty of individuals. Choosing to hold a specific currency will evolve beyond just a financial decision into a political and social one as well.
+Cada comunidad puede adoptar diferentes normas sociales y puede utilizar diferentes políticas de emisión y distribución para asignar los recursos compartidos. Las comunidades más eficaces prosperarán y crecerán, compitiendo por la atención y la lealtad de las personas. Escoger mantener una moneda específica evolucionará más allá de una simple decisión financiera a una decisión política y social también.
 
-This type of competition is good for everyone, and should hopefully lead to a future that is more free, fair, open, and humane.
+Este tipo de competencia es buena para todos y, con suerte, debería conducir a un futuro más libre, justo, abierto y humano. 
 
-**What is the current market cap of Honey?**  
-Market cap can be found here on [CoinGecko](https://www.coingecko.com/en/coins/honey). 
+**¿Cuál es la capitalización de mercado actual de Honey?**   
+La capitalización de mercado se puede encontrar aquí en CoinGecko. 
 
-**How is Honey's market cap calculated?**  
-Market cap = \(Total Supply - Common Pool\) x Honey Price 
+**¿Cómo se calcula la capitalización de mercado de Honey?**   
+Capitalización de mercado = \(Oferta total - Fondo común\) x Precio de Honey
 
-**What is Honey's current Issuance Policy?**  
-The inflation rate is currently set to 30% per year. At first, the inflation rate was 60% but the community voted to change it. A dynamic inflation rate has been developed and is likely to be integrated in Q1/Q2. See [issuance page]() for more details.
+ **¿Cuál es la Política de emisión actual de Honey?**   
+Actualmente, la tasa de inflación está fijada en 30% anual. Al principio, la tasa de inflación era del 60%, pero la comunidad votó para cambiarla. Se ha desarrollado una tasa de inflación dinámica y es probable que se integre en el primer y segundo trimestre del año. Consulta la página de emisión para más detalles. 
 
-**Where does the newly inflated currency go?**  
-The inflation rate is used to fill the Common Pool, which holds the Honey the DAO has available to use and can only be withdrawn from by passing Honey proposals.
+**¿A dónde va la moneda recién inflada?**   
+La tasa de inflación se usa para llenar el Fondo común \(Common Pool\), que contiene Honey que el DAO tiene disponible para usar y solo se puede retirar aprobando propuestas.
 
-The common pool is used to fund pollen, faucet, bounties and collaboration with other projects that may happen in the future. 
+El fondo común se utiliza para financiar pollen, la faucet, recompensas y colaboraciones con otros proyectos que puedan suceder en el futuro. 
 
-**What is the common pool address and where can the token transfers be viewed?**  
-[0x05e42c4Ae51BA28d8aCF8c371009AD7138312CA4](https://blockscout.com/poa/xdai/address/0x05e42c4Ae51BA28d8aCF8c371009AD7138312CA4/token-transfers)
+**¿Cuál es la dirección del fondo común y dónde se pueden ver las transferencias de tokens?** 0x05e42c4Ae51BA28d8aCF8c371009AD7138312CA4
 
-**Where can I see details about Honey?**  
-[Blockscout](https://blockscout.com/poa/xdai/) is where you can track any transaction on the xDai chain. [Here](https://blockscout.com/poa/xdai/address/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/transactions) is where you can track HNY’s ones.
+**¿Dónde puedo ver detalles sobre Honey?**   
+Blockscout es donde puedes rastrear cualquier transacción en la red xDai. Aquí es donde puedes rastrear las transacciones de HNY.
 
 ## xDai & Honeyswap
 
