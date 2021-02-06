@@ -3,7 +3,7 @@
 ## Preguntas Generales
 
 **¿Habrá un Airdrop de Honey?**  
-Por el momento no hay planes de un Airdrop. Los miembros de la comunidad 1Hive pueden ganar Honey a través de la Faucet y a través de Pollen, participando en Discord, en el Foro y Github.
+Por el momento no hay planes de un Airdrop. Los miembros de la comunidad 1Hive pueden ganar Honey a través de la [Faucet](https://faucet.1hive.org/#/) y a través de [Pollen](../getting-started-1/pollen.md), participando en Discord, en el Foro y Github.
 
 A partir de ahora, la mayoría de la comunidad cree que hacer un airdrop de Honey no tendría un impacto beneficioso en el precio y la sostenibilidad del proyecto.
 
@@ -71,58 +71,55 @@ El fondo común se utiliza para financiar pollen, la faucet, recompensas y colab
 **¿Dónde puedo ver detalles sobre Honey?**   
 Blockscout es donde puedes rastrear cualquier transacción en la red xDai. Aquí es donde puedes rastrear las transacciones de HNY.
 
-## xDai & Honeyswap
+## xDai y Honeyswap
 
-**Setup Metamask**  
+**Configurar Metamask**  
 [https://honeyswap.org/setup-wallet](https://honeyswap.org/setup-wallet)
 
-**Bridge Any Token**  
+**Hacer Bridge de Cualquier Token**  
 [https://honeyswap.org/xdai-bridges](https://honeyswap.org/xdai-bridges)
 
-**Provide Liquidity on Honeyswap**  
+**Proveer liquidez en Honeyswap**  
 [https://honeyswap.org/liquidity-pool](https://honeyswap.org/liquidity-pool)
 
 [Understanding Providing Liquidity](https://1hive.gitbook.io/1hive/projects/honeyswap/for-liquidity-providers)
 
-**Understanding Yield Farming on Honeycomb**  
+**Entender el Yield Farming en Honeycomb**  
 [https://honeyswap.org/yield-farming](https://honeyswap.org/yield-farming)
 
-**Are transaction fees really less than $0.01?**   
-Generally yes, remember to set the Gas Price to 1 GWEI in your wallet when submitting transactions. Note that 1 xDAI is equal to $1 in value. Use the [**xDai Faucet**](https://xdai-faucet.top/) ****to get a small amount of xDAI to use the network.
+**¿Son las comisiones por transacciones realmente inferiores a $0.01?**  
+En general, sí, recuerda establecer el precio del gas en 1 GWEI en tu billetera cuando hagas transacciones. Ten en cuenta que 1 xDAI es igual a $1 en valor. Utiliza la Faucet de xDai para obtener una pequeña cantidad de xDAI para poder usar la red.
 
 ![](../.gitbook/assets/image%20%289%29.png)
 
-**If the fees are so little, how much can I earn by providing liquidity?**   
-Fees earned in Honeyswap trades are 0.25% of the value of the trade that has occurred. They are not related to the gas fees paid to the network \(in our case xDAI\) to execute the trade transaction. Liquidity providers receive none of the networks gas fees but 0.25% of the value of trades split between all liquidity providers in that pair.
+**Si las comisiones son tan bajas, ¿cuánto puedo ganar aportando liquidez?** Las comisiones ganadas en las operaciones de Honeyswap son el 0,25% del valor de la operación que se ha realizado. No están relacionados con las tarifas de gas pagadas a la red \(en nuestro caso xDAI\) para ejecutar la transacción comercial. Los proveedores de liquidez no reciben ninguna de las tarifas de gas de la red, pero si el 0,25% del valor de las operaciones divididas entre todos los proveedores de liquidez de ese par.
 
-**Can any ERC-20 token be bridged to Honeyswap?**   
-Yes, any ERC20, ERC677 and ERC827 can be swapped, by following a few easy steps and by using the [omnibridge](https://omni.xdaichain.com/).
+**¿Se puede mover cualquier token ERC-20 con Honeyswap?**   
+Sí, cualquier token ERC20, ERC677 y ERC827 se puede intercambiar siguiendo unos sencillos pasos y utilizando el omnibridge.
 
-## Support
+## Soporte
 
-**I am new in the community, what should I do?**  
-First of all, welcome! Be sure to follow us on [Telegram](https://t.me/honeyswapDEX), [Discord](https://discord.com/invite/xTZjbRjc8t), [Twitter](https://twitter.com/Honeyswap), and to introduce yourself on our [Forum](https://forum.1hive.org/t/introduce-yourself-to-1hive-thread/130/7). Additionally, if you follow a few easy steps, 1Hive is welcoming you with the [Welcome Bounty!](https://docs.google.com/forms/d/e/1FAIpQLSdP3pTX_BLKqLCmkC84YyDj8PVK5wfOSSaym93SJj5KX6RP2w/viewform) You can earn 1xDai, which will be enough for the faucet and countless transactions! ****
+**Soy nuevo en la comunidad, ¿qué debo hacer?**   
+En primer lugar, ¡bienvenido! Asegúrate de seguirnos en Telegram, Discord, Twitter y de presentarte en nuestro Foro. Adicionalmente, si sigues unos pasos sencillos, 1Hive te da la bienvenida con una recompensa de bienvenida. ¡Puedes ganar 1xDai, que será suficiente para la faucet e innumerables transacciones! 
 
-**I can’t claim my HNY through the faucet, the transaction is failing.**  
-Please, make sure to have at least 0.5 xDai in your wallet! 
+**No puedo reclamar mi HNY a través de la faucet, la transacción está fallando.**   
+¡Por favor, asegúrate de tener al menos 0.5 xDai en tu billetera! 
 
-**I bridged my token but I do not see it on MetaMask. What’s wrong?**  
-Don’t worry, your tokens are safe. Being on the xDai chain you’ll need to add a new Token address to your MetaMask extension.
+**Mandé mis tokens usando el bridge pero no lo veo en MetaMask. ¿Qué pasa?**   
+No te preocupes, tus tokens están a salvo. Al estar en la red xDai, tienes que agregar una nueva dirección de token a su extensión MetaMask. 
 
-To add a token first find the token address from one of these lists:  [Bridged Tokens - Blockscout](https://blockscout.com/poa/xdai/bridged-tokens) / [Token List](https://tokenlists.org/token-list?url=https://tokens.honeyswap.org). Then open Metamask → Add Token → Custom Token → Copy Paste the Token Address.
+Para agregar un token, primero busca la dirección del token en una de estas listas: Tokens en puente: Blockscout/Lista de tokens. Luego abre Metamask → Agregar token → Token personalizado → Copiar y pegar la dirección del token. 
 
-**How can I withdraw my Honeyswap V2 liquidity using LP Tokens?**  
-You can do so by going on [Honeyswap](https://app.honeyswap.org/#/swap) → Pool → Remove Liquidity \(It may take a few moments to load\).
+**¿Cómo puedo retirar mi liquidez de Honeyswap V2 usando LP Tokens?** Puedes hacerlo yendo a Honeyswap → Pool → Remove Liquidity \(puede tardar unos minutos en cargarse\). 
 
-**What is the easiest way to purchase xDai?**  
-You can bridge DAI into xDAI from the Ethereum network using the [bridge](https://dai-bridge.poa.network/), or you can buy xDai with fiat using [Ramp](https://ramp.network/buy/?swapAsset=XDAI).
+**¿Cuál es la forma más fácil de comprar xDai?**   
+Puedes pasar DAI a xDAI desde la red Ethereum usando el puente, o puedes comprar xDai con fiat usando Ramp.
 
-**Any tutorial on how to purchase xDai and on how to use Honeyswap?**  
-To use Honeyswap you need to follow a few easy steps: First, send your token \(For example, DAI\) to your Metamask, on the Ethereum network. Then, once you create an xDai network RPC, you can quickly bridge your token through the token bridge \(you’ll need a few $ of ETH for such transaction\). You can read more [here](https://medium.com/honeyswap/introducing-honeyswap-fa34b24e6978) and watch a tutorial [here](https://forum.1hive.org/t/1hive-101-beeginner-video-tutorials/217?u=jasper).
+**¿Algún tutorial sobre cómo comprar xDai y cómo usar Honeyswap?**   
+Para usar Honeyswap, tienes que seguir unos sencillos pasos: Primero, manda tus tokens \(por ejemplo, DAI\) a tu Metamask, en la red Ethereum. Luego, una vez que crees un RPC de la red xDai, puedes conectar rápidamente tus tokens a través del puente de tokens \(necesitarás unos pocos $ en ETH para realizar dicha transacción\). Puedes leer más aquí y ver un tutorial aquí. 
 
-**The faucet doesn't recognize my wallet anymore and is asking me to use another wallet address.**  
-Please, register with another wallet. You will unfortunately have to wait for the registration period again before claiming but then you won’t have any further problems.
+**La faucet no reconoce mi billetera y me pide que use otra dirección de billetera.**   
+Por favor, regístrate con otra billetera. Lamentablemente, tendrás que esperar el período de registro nuevamente antes de reclamar, pero luego no tendrás más problemas. 
 
-**My issue was not addressed in the FAQ. What can I do?**  
-The best way to get help from a member of the 1Hive community is to land on the [⛈**help**](https://discord.gg/3AjG7XvRJZ) channel on Discord.
+**Mi problema no se abordó en las preguntas frecuentes. ¿Que puedo hacer?** La mejor manera de obtener ayuda de un miembro de la comunidad 1Hive es aterrizar en el canal ⛈help en Discord.
 
