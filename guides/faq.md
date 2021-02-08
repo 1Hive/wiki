@@ -40,6 +40,9 @@ Atualmente não é possível stake Honey. Essa função estará disponível atra
 
 A omnibridge reversa capacitando Honey na rede principal a ser adicionada na Uniswap provavelmente chegará a Ethereum entre o primeiro e segundo trimestre de 2021.
 
+Desde Fevereiro de 2012 está também na Mainnet. Até o momento encontra-se na [Sushiswap](https://analytics.sushiswap.fi/pairs/0xdae3ac391756d65fff76502ff4d1d7697a991c5a) com Endereço de Contrato [ 0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE](https://etherscan.io/address/0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE)  
+
+
 **Eu vi um canal “Matic” no Discord. Nós estamos deixando xDai?**
 
 Atualmente não existem planos para deixar xDai, porém 1Hive está explorando quais as oportunidades existentes para expandir a comunidade e o ecossistema de produtos para redes adicionais incluindo Matic e redes de desenvolvimento roll-up como Arbitrum
@@ -52,7 +55,14 @@ Até que [Celeste](https://1hive.gitbook.io/1hive/projects/celeste) fique pronto
 
 **Qual o endereço token Honey?**
 
-[**0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9**](https://blockscout.com/poa/xdai/tokens/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/)**​**
+[**0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9**](https://blockscout.com/poa/xdai/tokens/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/)\*\*\*\*
+
+\*\*\*\*
+
+**Qual o endereço do token Honey \(HNY\) na Mainnet?**
+
+[ **0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE**](https://etherscan.io/address/0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE)  
+**​**
 
 **Por que Honey?**
 
