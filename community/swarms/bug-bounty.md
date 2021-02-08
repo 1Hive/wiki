@@ -26,3 +26,7 @@ Cada uno de los miembros mencionados anteriormente tienen el mismo peso de voto 
 
 Se hizo una propuesta de financiamiento que fue aceptada por la comunidad: [https://forum.1hive.org/t/funding-for-the-bug-bounty-swarm-dao/1392](https://forum.1hive.org/t/funding-for-the-bug-bounty-swarm-dao/1392).
 
+## Pagos de las recompensas
+
+$2000 en Honey por una vulnerabilidad de suplantación de correo electrónico: [https://forum.1hive.org/t/email-spoofing-vulnerability-payout/2187](https://forum.1hive.org/t/email-spoofing-vulnerability-payout/2187)
+
