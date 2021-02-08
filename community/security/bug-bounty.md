@@ -30,3 +30,7 @@ For reference, I would have scored the exploit detailed here [Story of a Bee - W
 
 It should be known that 1hive is interested in maintaining secure infrastructure and is willing to make fair payouts for finding bugs that could affect funds and users. These requirements and rates have been discussed and agreed upon by the community here [1Hive Contract Bug Bounty Program Proposal ](https://forum.1hive.org/t/1hive-contract-bug-bounty-program-proposal/978)and here [Final 1Hive Contract Bug Bounty Program Proposal ](https://forum.1hive.org/t/final-1hive-contract-bug-bounty-program-proposal/1339)so as a bug hunter you can be assured when it comes to claiming a reward you will receive it, provided you act as outlined above.
 
+## Bounty Payouts
+
+$2000 in Honey for an email spoofing vulnerability: [https://forum.1hive.org/t/email-spoofing-vulnerability-payout/2187](https://forum.1hive.org/t/email-spoofing-vulnerability-payout/2187)
+
