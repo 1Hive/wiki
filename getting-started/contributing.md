@@ -1,18 +1,18 @@
-# Contributing
+# Contribuire
 
-1Hive is an open community, if you would like to help with something, then get involved! We are the vanguard of decentralized organizations, testing and exploring different alternatives for the future, and we would love for you to be a part of this adventure too.
+1Hive è una community aperta; Se hai piacere e voglia di offrire il tuo contributo, non esitare a partecipare! Siamo l’avanguardia delle organizzazioni decentralizzate, testando ed esplorando diverse alternative per il futuro, e non può farci altro che piacere averti come parte integrante di questa avventura.
 
-Anyone can come and start contributing. The source of 1Hive's potential is the community, this is where the enormous power of DAOs come from: they can tap into the vast talents members have and benefit everyone by doing so.
+Chiunque può raggiungerci ed iniziare a contribuire. La principale fonte di potenziale di 1Hive è proprio nella sua community; E’ in essa che si cela l’enorme potere delle DAO; La possibilità di attingere dagli innumerevoli talenti i loro membri posseggono.
 
-## How to Contribute
+## **Come contribuire**
 
-Interact, share ideas, and join the discussion in our platforms. Sign up to the weekly [Pollen distribution](pollen.md) and earn pollen, which rewards individuals for contributing to Discord, the Forum and Github.
+Sei il benvenuto ad interagire, condividere idee e partecipare alle discussioni sulle nostre piattaforme. Registrati per la distribuzione quindicinale di [Pollen](https://app.gitbook.com/@1hive/s/1hive/~/drafts/-MSsOQ964vof78MilC5D/v/italian/getting-started/pollen) e guadagna Pollen, che premia i membri per il loro contributo al Discord, Forum e Github.
 
-Check out our existing and upcoming projects and discuss ideas with the relevant [Swarm](../community/swarms/). If you have a new idea and it doesn't fit anywhere you can create a [proposal](../projects/honey/participation.md) for funding and create a new swarm or work on it independently.
+Scopri i progetti esistenti e futuri e discuti le idee relative ai vari sciami - [Swarm](https://app.gitbook.com/@1hive/s/1hive/~/drafts/-MSsOQ964vof78MilC5D/v/italian/community/swarms). Se hai un’idea che non è stata ancora vagliata dalla comunità puoi creare una [proposal](https://1hive.gitbook.io/1hive/projects/honey/participation) per sponsorizzare la creazione di un nuovo sciame, o lavorare su questa indipendentemente. 
 
-Check out the [Buzz Bounties](../community/media/buzz-bounty.md) for various tasks, generally media and communication related, that will be awarded with Honey.
+Controlla i[ Buzz Bounties](https://1hive.gitbook.io/1hive/community/media/buzz-bounty) per diversi tasks, generalmente relativi a media e comunicazione, che vengono premiati tramite Honey. 
 
-Provide help and advice around the community and you may be spotted by one of the [Fauna](../community/swarms/fauna.md) members and considered for a [Fauna Award]().
+Aiuta ed offri consiglio ai membri della community, e potresti essere identificato dal team [Fauna](https://1hive.gitbook.io/1hive/community/swarms/fauna) per ricevere un [~~Fauna Award~~](https://1hive.gitbook.io/1hive/getting-started/contributing/fauna-awards).
 
-If there's something you think should be added or updated in the 1Hive Wiki then consider making a [Wiki Contribution](../guides/wiki-contribution.md).
+Qualora tu ritenga che qualcosa debba essere aggiornato o aggiunto alla Wiki page di 1Hive, potresti effettuare una [Wiki Contribution](https://app.gitbook.com/@1hive/s/1hive/~/drafts/-MSsOQ964vof78MilC5D/v/italian/guides/wiki-contribution).
 

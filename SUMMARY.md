@@ -1,16 +1,16 @@
 # Table of contents
 
-* [Welcome to 1Hive](README.md)
-* [Community Covenant](community-covenant.md)
+* [Benvenuto in 1Hive](README.md)
+* [Patto Comunitario](community-covenant.md)
 
 ## 🌱Getting Started
 
-* [Terminology](getting-started/terminology.md)
+* [Glossario](getting-started/terminology.md)
 * [Discord](getting-started/discord/README.md)
   * [Social Curation](getting-started/discord/social-curation.md)
 * [Pollen](getting-started/pollen.md)
-* [Calendar](getting-started/calendar.md)
-* [Contributing](getting-started/contributing.md)
+* [Calendario](getting-started/calendar.md)
+* [Contribuire](getting-started/contributing.md)
 
 ## ✨Projects
 
@@ -32,7 +32,7 @@
 
 ## 🌳Community
 
-* [Swarms](community/swarms/README.md)
+* [Swarms - Sciami](community/swarms/README.md)
   * [🌻 Gardens](community/swarms/gardens.md)
   * [🌺 Flora](community/swarms/flora.md)
   * [🌞 Celeste](community/swarms/celeste.md)

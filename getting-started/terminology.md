@@ -1,34 +1,35 @@
-# Terminology
+# Glossario
 
-There are various **Projects** and [**Swarms**](../community/swarms/), with goals that range from communicating to developing new protocols and platforms for 1Hive.
+Esistono numerosi Progetti e [Swarms - Sciami](https://app.gitbook.com/@1hive/s/1hive/~/drafts/-MSsOQ964vof78MilC5D/v/italian/community/swarms), con obiettivi che spaziano dalla comunicazione allo sviluppo di nuovi protocolli e piattaforme per 1Hive.
 
-## Projects
+## Progetti
 
-[🍯**Honey**](../projects/honey/) - A protocol that issues and distributes 1Hive's community currency, Honey. Honey holders can create and stake on proposals using the open source frontend hosted at [1hive.org](https://1hive.org).
+[🍯**Honey**](../projects/honey/) - Un protocollo che emette e distribuisce il governance token di 1HIve, Honey. I possessori di Honey possono creare e votare proposte usando il front end open source ospitato su [1hive.org](https://1hive.org/).
 
-[🍃**Honeyswap**](../projects/honeyswap/) - A fork of Uniswap v2 on xDai enabling Swaps, Flash Loans, and Oracles for the xDai community. A portion of fees from volume on Honeyswap is used to buy Honey and send it to the 1Hive common pool. 
+[🍃**Honeyswap**](../projects/honeyswap/) - Un “fork” di Uniswap v2 sulla xDai chain, che consente gli scambi “Swaps”, i prestiti istantanei “Flash Loans”, e gli oracoli “Oracles” per la community xDai. Una parte delle fees generate dal volume delle transazioni su Honeyswap è  utilizzato per comprare il token Honey e mandarlo nella “common pool” di 1Hive. 
 
-[🌞**Celeste**](../projects/celeste/) - A subjective oracle protocol that incorporates BrightId to make participation less capital intensive. It will be used, among other things, to enforce the [1Hive Community Covenant](../community-covenant.md).
+[🌞**Celeste**](../projects/celeste/) - Un Oracolo soggettivo che incorpora BrightId al fine di rendere la partecipazione meno intensiva di capitale. Tra le altre cose verrà utilizzata per rafforzare il [Patto Comunitario di 1Hive](https://app.gitbook.com/@1hive/s/1hive/~/drafts/-MSsOQ964vof78MilC5D/v/italian/community-covenant). 
 
-[🌻**Gardens**](../projects/gardens/) - A platform where communities can issue their own currencies and existing token projects can engage their community by sponsoring community directed development efforts. 
+[🌻**Gardens**](../projects/gardens/) - Una piattaforma in cui le communities possono emettere le proprie valute e i progetti di token esistenti possono coinvolgere le proprie sponsorizzando sforzi di sviluppo diretti dalla comunità. 
 
-## Swarms
+## **Swarms - Sciami**
 
-🌷**Tulip** - A swarm working on trading and DeFi infrastructure including Honeyswap, a fork of uniswap v2 that will incentivize liquidity provision using Honey. And other “Bee-Fi” related projects.
+🌷[**Tulip**](https://discord.com/channels/698287700834517064/759622741094563861) ****- Uno sciame che lavora sul trading e sulle infrastrutture DeFi - Decentralized Finance - tra cui Honeyswap, un fork di Uniswap v2 che andrà ad incentivare l’aumento di liquidità utilizzando Honey. E altri progetti relativi a "Bee-Fi".
 
-[🐝**Buzz**](../community/swarms/buzz.md) - A swarm focussed on communicating, documenting, and generally spreading awareness about 1Hive and Honey to help cross-pollinate our ideas to the rest of the world. Also makes honey memes.
+[🐝**Buzz**](../community/swarms/buzz.md) - Uno sciame prevalentemente incentrato sulla comunicazione, documentazione e, in generale, nel diffondere conoscenza riguardo 1Hive e Honey per aiutare ad “impollinare” le nostre idee al resto del mondo. Crea anche memes relativi a Honey.
 
-[🏵**Pollen**](../community/swarms/pollen.md) - A swarm and system that maintains our SourceCred instance to distribute Honey based on contributions in Discord, the Forum and Github.
+[🏵**Pollen**](../community/swarms/pollen.md) - Uno  sciame e sistema che si occupa di distribuire Honey sulla base dei contributi dei membri su Discord, Forum e Github tramite il sistema SourceCred.
 
-🌺[**Flora** ](../community/swarms/flora.md)- A swarm working on dev ops, infrastructure and node operations. Flora is currently exploring running a validators and emerging roll-up chains.
+🌺[**Flora**](https://discord.com/channels/698287700834517064/742447795499171852) - Uno sciame che si occupa di operazioni di sviluppo, infrastruttura e operazioni sui nodi. Flora sta attualmente esplorando la gestione di validatori e catene di roll-up emergenti. 
 
-[🐱**Fauna**](../community/swarms/fauna.md) ****- A swarm dedicated to moderation of our discussion channels. Members of this swarm are the ones you're likely to come in contact with should you need help with anything.
+​[🐱**Fauna**](https://1hive.gitbook.io/1hive/community/swarms/fauna) - Uno sciame dedicato alla  moderazione del nostro canale di discussione. Solitamente i membri di questo sciame sono colori cui potresti chiedere aiuto, qualora lo necessiti.
 
-[🦋**Morphosis**](../community/swarms/morphosis.md) ****- A swarm creating educational content and running online courses in various subjects including analytics and development. Morphosis hopes to enable and encourage more contribution to the 1Hive ecosystem.
+​[🦋**Morphosis**](https://1hive.gitbook.io/1hive/community/swarms/morphosis) - Uno sciame che crea materiale educativo e che tiene corsi online in diverse materie, tra cui analisi e sviluppo. Morphosis ha il desiderio di creare ed incoraggiare un maggiore contributo all’ecosistema 1Hive.
 
-[🌜**Luna**](../community/swarms/luna.md) ****- A swarm that is focused on modeling and simulation of economic principles to help inform concepts and configuration for various applications within the 1Hive ecosystem.
+​[🌜**Luna**](https://1hive.gitbook.io/1hive/community/swarms/luna) ****- Uno sciame prevalentemente incentrato sulla modellazione e simulazione di principi economici per aiutare a informare concetti e configurazioni per varie applicazioni all'interno dell'ecosistema 1Hive.
 
-🌍[**Terra** ](../community/swarms/terra.md)- A swarm dedicated to translating 1hive projects, documentation and resources.
+🌍[**Terra**](https://discord.com/channels/698287700834517064/800787260344893470) - Uno sciame con l’intento di tradurre i progetti, i documenti e le risorse esistenti in 1Hive.  
 
-[🐛**Bug Bounty**](../community/swarms/bug-bounty.md) ****- A swarm that manages funds available for the 1Hive Contract Bug Bounty program. It is responsible for interpreting and responding to uncovered exploits.
+
+[🐛**Bug Bounty**](../community/swarms/bug-bounty.md) ****- Uno sciame che gestisce i fondi disponibili per il Programma Bug Bounty di 1Hive. È responsabile dell'interpretazione e della risoluzione di eventuali problematiche emerse.
 

@@ -1,16 +1,16 @@
 ---
-description: Earn Honey for contributions
+description: Guadagna Honey per i contributi
 ---
 
 # Pollen
 
-Pollen is a contributor rank used to recognize contributions to 1Hive’s [Discord](https://discord.com/invite/P4rRDUKTAU), [Forum](https://forum.1hive.org/), and [Github](https://github.com/1Hive) communities, and reward these contributions with weekly distributions of Honey.
+Pollen è un sistema di contribuzione che riconosce contributi offerti alle community 1Hive su [Discord](https://discord.com/invite/P4rRDUKTAU),[ Forum](https://forum.1hive.org/), e[ Github](https://github.com/1Hive), premiando tali contributi con una distribuzione su base settimanale di Honey.
 
-## How do I participate
+## **Come posso partecipare**
 
-As soon as you start interacting on 1Hive’s Discord, Forum, and Github communities you’ll start earning Pollen, which gets added to your registered wallet as sweet sweet Honey.
+Non appena inizi ad interagire sulle piattaforme Discord, Forum e Github della community 1Hive stai già guadagnando Pollen, che viene aggiunto al tuo wallet registrato sotto forma di dolce Honey. 
 
-In order to receive weekly pollen distributions you’ll need to create accounts on supported platforms and link them to your xDai address. You can do this by posting the below in 1hive Discord’s [🐛**onboarding**](https://discord.gg/eYwxwv4nzk) channel:
+Per ricevere la tua parte di Pollen dovrai creare degli account sulle piattaforme supportate, e collegare questi al tuo indirizzo xDai. Più semplicemente, ti basterà inserire le seguenti informazioni sul canale Discord[ 🐛onboarding](https://discord.gg/eYwxwv4nzk);
 
 ```text
 #🏵pollen
@@ -20,57 +20,57 @@ discord: justabee#1234
 xDai: 0x0...000
 ```
 
-Replacing`justabee`, `justabee#1234` and `0x0...000` with your accounts. Note `Discourse` refers to [the Forum](https://forum.1hive.org/).
+Sostituisci `justabee#1234` e `0x0...000` con i tuoi account. Per Discourse si intende il [Forum](https://forum.1hive.org/).
 
-If you have questions, are interested in how pollen is calculated, or auditing the distributions, just hop on the [🏵**pollen**](https://discord.com/invite/y8fPNcNdAa) channel.
+Per ulteriori informazioni, e per comprendere come pollen è calcolato, o per controllare le distribuzioni, [il canale 🏵pollen](https://discord.com/invite/y8fPNcNdAa) su discord è il luogo adatto per tutto ciò.
 
-## Pollen Distribution
+## **Distribuzione di Pollen** 
 
-Pollen is computed using **SourceCred** to create and analyze a graph of interactions between community members. While not a perfect representation of the value of contributions, Pollen can help reward the interactions that are important but too granular to warrant creating proposals for or claiming from a Swarm.
+La distribuzione di Pollen viene calcolata utilizzando SourceCred per creare ed analizzare un grafico di interazioni tra i membri della community. Sebbene questa non sia una rappresentazione perfetta del valore dei contributi, Pollen può aiutare a premiare quelle interazioni importanti ma troppo granulari per poter creare proposte o creare un nuovo Sciame.
 
-SourceCred monitors all messages and contributions to Discord, the Forum and GitHub and applies a multiplier to a base score of 1 cred per action. One of the primary ways of earning cred is when text you write or actions you create are responded too positively by other members through the use of emojis. Writing messages alone do not earn cred. The weights for Cred distribution are decided by the 1Hive community.
+SourceCred monitora tutti i messaggi e i contributi sul Discord, Forum e GitHub, applicando un moltiplicatore a un punteggio base di 1Cred \(credito\) per azione. Una delle fonti primarie per guadagnare Crediti è quando un testo da te scritto \(o un’azione da te effettuata\) è positivamente commentata e recepita degli altri membri, attraverso l’uso delle emojis. Semplicemente mandare messaggi non permette di guadagnare crediti. I pesi per la distribuzione di Cred \(crediti\) sono decisi dalla comunità 1Hive.
 
-Cred earned within 1Hive is only useful within 1Hive. It isn't transferable and scoring is retroactive so if you sign up to pollen after having earned some, you will still receive cred for that period \(although you will only receive a honey reward for your cred for the period after registering\).
+I crediti guadagnati all’interno di 1Hive sono utili sono all’interno di 1Hive. Questi non sono punteggi trasferibili, e sono retroattivi; Dunque, anche se ti registrerai dopo aver già iniziato a contribuire, riceverai comunque i crediti per il periodo precedente  \(Ma, logicamente, potrai ricevere il pagamento solo dopo esserti registrato\).
 
-The [Pollen Explorer](https://1hive.github.io/pollen/#/explorer) has a leaderboard of Pollen users displaying the cred they have earned throughout their engagement with 1Hive.
+Il [Pollen Explorer](https://1hive.github.io/pollen/#/explorer) ha una classifica degli utenti di Pollen che mostra i crediti guadagnati attraverso il loro impegno con 1Hive.
 
-The weights that determine the Pollen earned for each action can be seen in the [pollen explorer](https://1hive.github.io/pollen/#/explorer%20) by clicking on "SHOW WEIGHT CONFIGURATION".
+I pesi che determinando il quantitativo di Pollen guadagnato per ogni azione possono essere trovati nel[ pollen explorer](https://1hive.github.io/pollen/#/explorer) cliccando su “SHOW WEIGHT CONFIGURATION” \(Mostra configurazione peso\).
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
-### Total Distribution
+### **Distribuzione Totale**
 
-The weekly Honey distribution is capped at $15,000 or 33 Honey if 33 Honey is worth less than $15,000. 5% of the weekly distribution goes directly to the SourceCred team.
+La somma di Honey distribuita settimanalmente è limitata a $15,000 o 33 Honey qualora il valore di 33 Honey fosse inferiore a $15,000. 5% della distribuzione settimanale va direttamente al team di SourceCred.
 
-![Figure 1. Weekly distribution in Honey based on USD value](../.gitbook/assets/image%20%2814%29.png)
+![Figura 1. Distribuzione settimanale in Honey calcolata in USD](../.gitbook/assets/image%20%2814%29.png)
 
-### Distribution Rate
+### **Tasso di distribuzione**
 
-Weekly payout is determined by a contributor's recent contribution's as well as their total contribution.
+Il pagamento settimanale è determinato dal contributo recente di un contributore e dal suo contributo totale.
 
-* **Weekly contribution** is the amount distributed for Pollen earned by users in the last week.
-* **Total contribution** is the amount distributed for all Pollen earned by users up to the distribution date.
-* **Decay Rate** is the rate at which the total contribution calculation decays for each previous week. Eg for a decay rate of 40%, the previous week is weighted at 100%, the second previous week is weighted at 60%, the third previous week is weighted at 36%, etc.
+* Il contributo settimanale è il quantitativo di Pollen guadagnato dagli utenti negli ultimi 7 giorni
+* Il contributo totale è il quantitativo di Pollen guadagnato dagli utenti fino alla data di distribuzione
+* Il tasso di decadimento è la velocità con cui decade il calcolo del contributo totale per ogni settimana precedente. Ad esempio, per un tasso di decadimento del 40%, la settimana precedente è ponderata al 100%, la seconda settimana precedente è ponderata al 60%, la terza settimana precedente è ponderata al 36%, ecc.
 
-| Distribution Parameter | Allocation & Rate |
+| **Parametro di Distribuzione** | **Allocazione & Tasso** |
 | :--- | :--- |
-| Weekly Contribution | 25 HNY |
-| Total Contribution | 8 HNY |
-| Decay Rate | 40% |
+| Contributo Settimanale | 25 HNY |
+| Contributo Totale | 8 HNY |
+| Tasso di Decadimento | 40% |
 
-### Platform Distribution
+### **Distribuzione della Piattaforma**
 
-A breakdown of each platforms relative distribution of Pollen each week.
+Una ripartizione della distribuzione relativa di ciascuna piattaforma di polline ogni settimana.
 
-| Platform | Percent of Distribution |
+| Piattaforma | Percentuale di Distribuzione |
 | :--- | :--- |
 | GitHub | 30% |
 | Discord | 40% |
 | Forum | 30% |
 
-### Discord Pollen Weights
+### **Calcolo Pollen su Discord**
 
-On Discord, in order to mint cred for other users through emoji responses, users must have received some cred in the past. Minting to self is disabled and the system also weights the minting amount to others depending on how much cred the minter has earned.
+Sul Discord, per ottenere crediti per altri utenti tramite le risposte emoji, gli utenti devono aver ricevuto qualche credito in passato. Coniare per se stessi non è possibile e il sistema tiene anche in considerazione l'importo del conio per gli altri a seconda di quanto credito ha guadagnato il minatore.
 
 | Total Cred | Mint Weight |
 | :--- | :--- |
@@ -80,7 +80,7 @@ On Discord, in order to mint cred for other users through emoji responses, users
 | 30+ Cred | 0.25x |
 | 0 to 30 Cred | 0x |
 
-All emojis give 1 cred, apart from the below exceptions.
+Tutti gli emoji danno 1 credito, a parte le eccezioni seguenti.
 
 | Emoji | Mint Weight |
 | :--- | :--- |
@@ -89,15 +89,15 @@ All emojis give 1 cred, apart from the below exceptions.
 | 💩 | 0x |
 | 👎 | 0x |
 
-Channels that give 0 cred include: ✅**check-in**, **\*\*🐸**memes**,** 🤖bot-commands**,** 🕹arcade**,** 🦩lounge**,** 🍱kitchen**,** Fauna **channels and all of the** Information\*\* channels.
+I canali che danno 0 cred includono: ✅check-in, 🐸memes, 🤖bot-commands, 🕹arcade, 🦩lounge, 🍱kitchen, Fauna e tutti i canali di Informazione
 
-The 🐝**social-curation** channel gives 0.25x the standard cred weight.
+Il canale 🐝marketing fornisce 0.25x il valore del credito standard 
 
-The 🍄**nominations** channel mints 95% of cred for users who have been tagged in messages. Users sharing a tagged user get 5% cred for responses. All users tagged will share cred equally amongst all tagged users in that message.
+Il canale 🍄nominations fornisce il 95% dei cred per gli users che sono stati taggati nel messaggio. L’utente che posts riceve un 5% The 🍄nominations channel mints 95% of cred for users who have been tagged in messages. Gli utenti che condividono un utente taggato ottengono il 5% di credito per le risposte. Tutti gli utenti taggati condividono il quantitativo di credi in modo uguale.
 
-### Forum Pollen Weights
+### **Calcolo Pollen sul Forum**
 
-On the Forum the total cred a user can mint is dependent on the trust level of the user.
+Sul forum i cred totali che un utente può coniare dipendono dal livello di fiducia  - trust level - dell’utente stesso.
 
 | Trust level | Mint Weight |
 | :--- | :--- |
@@ -107,19 +107,20 @@ On the Forum the total cred a user can mint is dependent on the trust level of t
 | 1 | 0.1x |
 | 0 | 0x |
 
-## Rules
+## Regole
 
-Due to the infancy of the SourceCred software there are still some ways to exploit it. Various parameter changes have minimized this risk but 1Hive still imposes the following rules, which are known and monitored by many in the community.
+SourceCred è un software estremamente giovane, e dunque ci sono ancora vari modi per sfruttarlo a proprio beneficio. Tale rischio è stato ridotto da alcuni cambiamenti dei parametri, ma 1Hive ancora impone le regole seguenti, che sono conosciute e monitorate da molti utenti della community.
 
-1. **One account per user policy** A user is not allowed to own and operate multiple accounts.
-2. **No reactions/likes trading allowed** Entering agreements with other users to like/react to each other’s posts is not allowed. Reactions/Likes trading is defined by a pattern of 2 or more users mutually reacting to most or all of each other’s posts, regardless of the quality of the content.
-3. **Bug use / Exploits / Manipulation** If you find a bug or exploit in the system, please report it immediately. Those using a bug or exploit to their advantage may risk account deactivation.
+1. One account per user policy - 1 singolo Account per utente - A ogni utente è concesso l’uso di un solo account. 
+2. No reactions/likes trading allowed - Passaggio di reactions/scambi non consentito - Fare accordi con altri utenti di cliccare e commentare positivamente i reciproci posts non è consentito.  Lo scambio di reazioni / mi piace è definito da uno schema di 2 o più utenti che reagiscono reciprocamente alla maggior parte o a tutti i post dell'altro, indipendentemente dalla qualità del contenuto.
+3. Bug use / Exploits / Manipulation - Uso di bug / exploit / manipolazione - Qualora ti renda conto che esiste un problema nel sistema, sei pregato di riportarlo immediatamente. Coloro che sfruttano eventuali falle del sistema a proprio vantaggio rischiano una disattivazione dell’account.
 
-## Useful Links
+## **Links Utili**
 
-Previous and ongoing [updates to Pollen parameters](https://forum.1hive.org/t/updates-to-sourcecred/726).
+Attuali e precedenti [Aggiornamenti ai parametri di Pollen](https://forum.1hive.org/t/updates-to-sourcecred/726).
 
-[General rules](https://forum.1hive.org/t/pollen-rules-and-a-reporting-system/1155) for engaging in Pollen.
+[Regole Generali](https://forum.1hive.org/t/pollen-rules-and-a-reporting-system/1155) riguardanti Pollen.
 
-[SourceCred documentation](https://sourcecred.io/docs/) for further information.
+[Documentazione SourceCred](https://sourcecred.io/docs/) per ulteriori informazioni.  
+
 

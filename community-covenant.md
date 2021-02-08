@@ -1,60 +1,62 @@
 ---
-description: The rules by which we agree to engage in the 1Hive community.
+description: >-
+  Nel Patto Comunitario - Community Covenant - sono incluse le regole stabilite
+  dalla comunità 1Hive.
 ---
 
-# Community Covenant
+# Patto Comunitario
 
 {% hint style="info" %}
-The 1Hive Community Covenant is currently [open for review](https://forum.1hive.org/t/drafting-the-1hive-community-covenant-for-celeste/1548).
+Al momento, tale accordo è aperto ad [eventuali modifiche](https://forum.1hive.org/t/drafting-the-1hive-community-covenant-for-celeste/1548).  
 {% endhint %}
 
-1Hive is a community of activists seeking to build a future that is more free, fair, open, and humane.
+1Hive è una community di attivisti con il desiderio di creare un futuro più aperto, libero, onesto e umano. 1Hive è anche un protocollo economico, simile a Bitcoin o Ethereum, dove una criptovaluta, Honey, è emessa e distribuita programmaticamente. A differenza di Bitcoin o Ethereum, l’ecosistema 1Hive non definisce strettamente le tipologie di attività che possano farne parte, ma confida bensì nei membri della community di guidare e distribuire le risorse tramite la votazione delle proposte effettuate.
 
-1Hive is also an economic protocol, similar to Bitcoin or Ethereum, where a digital currency, Honey, is issued and distributed programmatically. Unlike Bitcoin or Ethereum, the 1Hive protocol does not narrowly define the set of activities that are valuable but instead relies on community members to guide the distribution process by creating and staking on Honey distribution proposals.
+L’obiettivo del protocollo 1Hive è di favorire una sana economia della community tramite una costante distribuzione di Honey attraverso sviluppo, sostegno e miglioramenti fatti che possano recare beneficio a tutti i membri della famiglia 1Hive.
 
-The goal of the 1Hive protocol is to foster a healthy community economy by allocating a steady stream of Honey towards development, maintenance, and improvement of the common goods that bring the most value to the 1Hive community.
+La crescita dell'economia di 1Hive è strettamente connessa all’abilità dei membri di instaurare e mantenere una cultura del benvenuto e dell’inclusività, rendendo questi orgogliosi del loro impegno. Possedere HNY e partecipare alla vita della community significa, implicitamente, supportare i valori, la cultura e le norme di 1Hive 
 
-The growth of the 1Hive economy is directly related to the communities ability to foster an inclusive and welcoming culture that people feel proud and delighted to adopt as their own. When someone chooses to buy or hold Honey and participate in the Honey economy they are implicitly supporting the communities culture, values, and norms.
+A tal fine, il protocollo 1Hive si basa su un contratto sociale, che stabilisce le aspettative secondo le quali i membri dovrebbero impegnarsi sia nei confronti del protocollo che tra loro.  
 
-To this end, the 1Hive protocol depends on a social contract, which sets expectations for how members should engage both with the protocol and with one another.
 
-## The Pledge
+## L'impegno
 
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+Noi, in quanto membri, contributori, e leaders ci impegniamo a far sì che la partecipazione alla nostra community sia un’esperienza senza molestie per chiunque, senza il riguardo dell'età, delle dimensioni corporee, delle differenze culturali, etniche, di genere, di eventuali disabilità, del livello di esperienza, della nazionalità, della religione o dell'identità e orientamento sessuale. 
 
-We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+Ci impegniamo inoltre and interagire in modi che contribuiscono a creare una community aperta, accogliente, diversa, inclusiva e sana.
 
-## Our Standards
+## **I Nostri Standards**
 
-Examples of behavior that contributes to a positive environment for our community include:
+Esempi di comportamenti che contribuiscono ad un ambiente positivo per la nostra community includono:
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the overall community
+* Dimostrare empatia e gentilezza nei confronti degli altri
+* Essere rispettosi di opinioni, punti di vista, ed esperienze diverse dalle proprie
+* Essere aperti ed accettare feedbacks costruttivi
+* Accettare le responsabilità e prendere atto dei propri errori che influiscono sugli altri, imparando dalle proprie esperienze
+* Favorire e concentrarsi sul bene della community al di sopra del bene e vantaggio personale
 
-Examples of unacceptable behavior include:
+Esempi di comportamento non ammessi includono:
 
-* The use of sexualized language or imagery, and sexual attention or advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others’ private information, such as a physical or email address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
+* L'uso di linguaggio o immagini sessualizzate e attenzione o avances sessuali di qualsiasi tipo
+* Insulti, denigrazioni e commenti offensivi o dispregiativi e attacchi personali o politici
+* Molestie pubbliche o private
+* Pubblicare informazioni private di altri, come indirizzi - reali o email - senza esplicito permesso
+* Qualsiasi altra condotta che possa essere razionalmente considerata inappropriata in un contesto professionale
 
-## On-chain enforcement
+## **Rinforzo On-chain**
 
-The on-chain mechanism for enforcement will depend on the completion of Celeste.
+Il meccanismo di rinforzo on-chain dipende dal completamento di Celeste.
 
-The ability for the 1Hive protocol to enforce this covenant is limited to the direct interactions that community members have with the protocol, specifically the ability for community members to submit proposals to allocate Honey issuance or adjust protocol parameters.
+L’abilità del protocollo 1Hive di rinforzare tale patto è limitata alla diretta interazione che i membri della community hanno con il protocollo stesso; Specificatamente, l’abilità dei membri della community di inviare proposte per l’allocazione di Honey o per modifiche ai parametri del protocollo.
 
-A community member will be required to stake Honey when submitting a proposal, attesting that the impact of the proposal could be reasonably considered to align with 1Hive’s social contract. A dispute can be created by another community member if they disagree with the proposers attestation by challenging the proposal and staking an equivalent amount of Honey. If after being challenged the proposal is not withdrawn, a decentralized oracle will be used to settle the dispute.
+Un membro della community dovrà mettere in stake i propri Honey per inviare una proposta, attestando che l’impatto di questa sia ragionevolmente considerato in linea con il contratto sociale di 1Hive. Una disputa può essere generata da un altro membro della community qualora egli non sia d’accordo con il proponente, contestando la proposta con una quantità equivalente di Honey. Se dopo la contestazione la proposta non viene ritirata, un oracolo decentralizzato verrà in soccorso per risolvere la controversia.
 
-Participants in the dispute resolution protocol are expected to review the proposal, this covenant, and related past disputes in order to provide a judgement that they feel best aligns with the established norms and intention of the 1Hive community.
+Ci si aspetta che i partecipanti al protocollo di risoluzione di tali controversie rivedano la proposta, questo patto, ed eventuali dispute antecedenti al fine di offrire un giudizio che si allinei nel modo migliore alle norme ed alle intenzioni della community 1Hive.
 
-If the oracle responds in favor of the proposer the proposal will be unlocked and the challenger’s stake will be transferred to the proposer. On the other hand, if the dispute resolves in favor of the challenger the proposal will be removed from consideration and the proposers stake will be given to the challenger.
+Qualora l’oracolo risponda in favore del proponente, la proposta verrà sbloccata e la quota dello sfidante sarà trasferita al proponente. Nel caso contrario, cioè qualora la disputa venga risolta in favore dello sfidante, la proposta verrà eliminata, facendo passare la quota in stake del proponente allo sfidante.  
 
-## Off-chain enforcement
 
-While there is no canonical off-chain forum that represents the 1Hive community, there are community spaces including the 1Hive Discord, Forum and Github communities, and others forums which may emerge in the future which are expected to adhere to this covenant.
+## **Rinforzo Off-chain** 
+
+Sebbene non ci sia un rinforzo off chain che rappresenti la community 1HIve nel senso canonico del termine, ci sono spazi comunitari quali 1Hive Discord, Forum e Github, e non è escluso che altri forum che aderiscono a tale patto possano emergere in futuro.
 

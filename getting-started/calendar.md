@@ -1,13 +1,13 @@
 ---
-description: 1Hive Google calendar for all upcoming events.
+description: 1Hive Google calendar per tutti gli eventi futuri.
 ---
 
-# Calendar
+# Calendario
 
-Anyone is welcome to join the public calls scheduled throughout the week by various Swarms to hear what's being built and to have a say. They take part in the Social Room audio channels in our [Discord](discord/). Don't forget the general 1Hive hangout call on Fridays in the Cafe channel!
+Ogni membro della communty 1Hive è benvenuto ad unirsi alle calls pubbliche programmate durante la settimana da vari Swarms per ascoltare i progressi e dire la propria. Questi appuntamenti hanno “luogo” nei canali Social Room nel nostro [Discord](https://1hive.gitbook.io/1hive/getting-started/discord). Inoltre, non dimenticare della tradizionale 1Hive hangout call che avviene tutti i Venerdì nel canale Cafe!
 
 {% hint style="info" %}
-Note the time is in UTC, regardless of where you're located. To see the calendar in your local time, open it your personal Google calendar by clicking "+ Google Calendar" in the bottom right corner.
+N.B. Il tempo annotato tiene conto del fuso orario UTC, a prescindere da dove tu ti trovi. Per vedere il calendario nel tuo orario locale, apri il tuo Google Calendar personale e clicca su + Google Calendar" nell'angolo in basso a destra.
 {% endhint %}
 
 {% embed url="https://calendar.google.com/calendar/embed?src=c\_k77c78d1kdt9e1vpk2cvjcc7jg%40group.calendar.google.com&ctz=utc" %}
