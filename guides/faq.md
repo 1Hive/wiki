@@ -55,13 +55,11 @@ Até que [Celeste](https://1hive.gitbook.io/1hive/projects/celeste) fique pronto
 
 **Qual o endereço token Honey?**
 
-[**0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9**](https://blockscout.com/poa/xdai/tokens/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/)\*\*\*\*
+\*\*\*\*[0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9](https://blockscout.com/poa/xdai/tokens/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/)
 
-\*\*\*\*
+**Qual o endereço do token Honey \(HNY\) na Mainnet**
 
-**Qual o endereço do token Honey \(HNY\) na Mainnet?**
-
-[ **0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE**](https://etherscan.io/address/0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE)  
+[0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE](https://etherscan.io/address/0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE)  
 **​**
 
 **Por que Honey?**
