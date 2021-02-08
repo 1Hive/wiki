@@ -32,6 +32,8 @@ Actualmente no es posible hacer stake de Honey. Esta función estará disponible
 **¿Cuándo estará Honey en Uniswap?**   
 El omnibridge inverso que permite mover Honey a Mainnet para agregarlo a Uniswap probablemente llegará a Ethereum Mainnet en el primer o segundo trimestre de 2021. 
 
+Desde febrero de 2021, HNY está también en la Mainnet. Actualmente en [Sushiswap](https://analytics.sushiswap.fi/pairs/0xdae3ac391756d65fff76502ff4d1d7697a991c5a%20) con la dirección de contrato [0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE](https://etherscan.io/address/0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE)
+
 **Vi un canal de "Matic" en Discord. ¿Nos vamos de xDai?**   
 Actualmente no hay planes para dejar xDai, pero 1Hive está explorando qué oportunidades pueden existir para extender la comunidad y el ecosistema de productos a redes adicionales, incluido Matic, y en cadenas de desarrollo como Arbitrum. 
 
