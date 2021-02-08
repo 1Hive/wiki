@@ -32,6 +32,8 @@ Currently it is not possible to stake Honey. This feature will become available 
 **When will Honey be on Uniswap?**   
 The reverse omnibridge enabling moving Honey to Mainnet to add to Uniswap will most likely land on the Ethereum Mainnet in Q1-Q2 2021.
 
+Since February 2021 HNY is also on Mainnet. Currently on [Sushiswap](https://analytics.sushiswap.fi/pairs/0xdae3ac391756d65fff76502ff4d1d7697a991c5a%20) with the Contract Address [0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE](https://etherscan.io/address/0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE)
+
 **I saw a "Matic" channel on Discord. Are we leaving xDai?**   
 Currently there are no plans to leave xDai, but 1Hive is exploring what opportunities may exist to extend the community and ecosystem of products to additional networks including Matic and in development roll-up chains such as Arbitrum.
 
@@ -40,8 +42,12 @@ Until staking becomes a reality with [Celeste](https://1hive.gitbook.io/1hive/pr
 
 ## Tokenomics
 
-**What is the Honey \(HNY\) token address?**  
+**What is the Honey \(HNY\) token address? \(xDai Chain\)**  
 [0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9](https://blockscout.com/poa/xdai/tokens/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/)
+
+**What is the Honey \(HNY\) token address? \(Mainnet\)**  
+[0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE](https://etherscan.io/address/0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE)  
+****
 
 **Why Honey?**  
 Issuing a digital currency allows a community like 1Hive to build an economy.
