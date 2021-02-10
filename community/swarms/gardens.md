@@ -4,6 +4,10 @@ description: Building the Commons
 
 # 🌐 Commons
 
+{% hint style="info" %}
+This Swarm used to be referred to as the Gardens Swarm but they updated their name to the Commons Swarm to more accurately reflect the project's goals.
+{% endhint %}
+
 The 🌐Commons Swarm manages the development of the Commons Template and associated Aragon Apps and is doing the initial experiments into how Commons should best be structured. Updates can be seen on [Token Engineering Commons](https://tecommons.medium.com/) medium page.
 
 Commons DAO's are a social, financial, and technical foundation for online communities to organize. This empowers people to coordinate around causes, social movements, or even memes. Commons are designed to be operationally decentralized and autonomous from day one.
