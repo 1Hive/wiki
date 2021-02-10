@@ -1,16 +1,16 @@
 ---
-description: Building Gardens
+description: Building the Commons
 ---
 
-# 🌻 Gardens
+# 🌐 Commons
 
-The 🌻Gardens Swarm manages the development of the Gardens Template and associated Aragon Apps and is doing the initial experiments into how Gardens should best be structured. Updates can be seen on [Token Engineering Commons](https://tecommons.medium.com/) medium page.
+The 🌐Commons Swarm manages the development of the Commons Template and associated Aragon Apps and is doing the initial experiments into how Commons should best be structured. Updates can be seen on [Token Engineering Commons](https://tecommons.medium.com/) medium page.
 
-Gardens are a social, financial, and technical foundation for online communities to organize. This empowers people to coordinate around causes, social movements, or even memes. Gardens are designed to be operationally decentralized and autonomous from day one.
+Commons DAO's are a social, financial, and technical foundation for online communities to organize. This empowers people to coordinate around causes, social movements, or even memes. Commons are designed to be operationally decentralized and autonomous from day one.
 
 ## Useful Links
 
-[Aragon DAO](https://aragon.1hive.org/#/gardensswarm/) holding Gardens funds.
+[Aragon DAO](https://aragon.1hive.org/#/gardensswarm/) holding Commons Swarm funds.
 
 [Transparent Payment Tracking sheet](https://docs.google.com/spreadsheets/d/1oRDecU-weSTOLv061N5O7VAJcDfU5XGqmu21ntTXOos/edit#gid=1361585578%20) showing hours spent and payments made.
 
@@ -28,7 +28,7 @@ Gardens are a social, financial, and technical foundation for online communities
 
 ## Roles and Responsibilities
 
-### Gardens Swarm Team
+### Commons Swarm Team
 
 | Member | Role |
 | :--- | :--- |
@@ -50,7 +50,7 @@ Gardens are a social, financial, and technical foundation for online communities
 | [rperez89](https://github.com/rperez89) | Web Developer |
 | [fabriv](https://github.com/fabriziovigevani) | Web Developer |
 
-Each of the above members, swarm team and advisors, have equal voting weight within the Gardens DAO to manage funds, or are not in the DAO.
+Each of the above members, swarm team and advisors, have equal voting weight within the Commons DAO to manage funds, or are not in the DAO.
 
 ### Skills and previous experience in related or similar work:
 
