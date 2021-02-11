@@ -4,7 +4,7 @@ description: Katkıda bulunarak Honey kazanabilirsiniz
 
 # Pollen
 
-Pollen; 1Hive'ın [Discord](https://discord.com/invite/P4rRDUKTAU), [Discourse](https://forum.1hive.org/) ve [Github](https://github.com/1Hive) topluluklarında yapılan katkıları belirlemek ve bu katkıları haftalık Honey dağıtımı ile ödüllendirmek için kullanılan bir sıralama sistemidir.
+Pollen; 1Hive'ın [Discord](https://discord.com/invite/P4rRDUKTAU), [Forum](https://forum.1hive.org/) ve [Github](https://github.com/1Hive) topluluklarında yapılan katkıları belirlemek ve bu katkıları haftalık Honey dağıtımı ile ödüllendirmek için kullanılan bir sıralama sistemidir.
 
 ## Nasıl Katılırım?
 
@@ -20,7 +20,7 @@ discord: justabee#1234
 xDai: 0x0...000
 ```
 
-Bu örnekteki`justabee`, `justabee#1234` ve`0x0...000` ile kendi hesaplarınızı değiştirmeniz yeterlidir.
+Bu örnekteki`justabee`, `justabee#1234` ve`0x0...000` ile kendi hesaplarınızı değiştirmeniz yeterlidir. Not: `Discourse` ile[ Forum](https://forum.1hive.org/) kastedilmektedir.
 
 Aklınıza takılan bir soru olursa, pollenin nasıl hesaplandığını ya da dağıtımların nasıl denetlendiğini merak ediyorsanız, [`#🏵pollen`](https://discord.gg/y8fPNcNdAa) kanalına gelip sorabilirsiniz.
 
@@ -60,7 +60,7 @@ Haftalık ödeme, katkıda bulunanın yakın zamanda gösterdiği katkılarla bi
 
 ### Platform Dağıtımı
 
-Her hafta yapılan Pollen dağıtımına ilişkin platformların oranları
+Her hafta yapılan Pollen dağıtımına ilişkin platformların oranları:
 
 | Platform | Dağıtım Yüzdesi |
 | :--- | :--- |
@@ -80,7 +80,7 @@ Discord üzerinde, diğer kullanıcılar için emoji etkileşimleriyle cred mint
 | 30+ Cred | 0.25x |
 | 0 to 30 Cred | 0x |
 
-Aşaığıdaki istisnalar haricinde bütün emojiler 1 cred verir.
+Aşağıdaki istisnalar haricinde bütün emojiler 1 cred verir.
 
 | Emoji | Mint Ağırlığı |
 | :--- | :--- |
@@ -93,7 +93,7 @@ Aşaığıdaki istisnalar haricinde bütün emojiler 1 cred verir.
 
 🐝**social-curation** kanalı, standard cred ağırlığının 0.25x'ini vermektedir.
 
-🍄**nominations** kanalı, yazılan mesajlarda etiketlenen kullanıcılara cred'in %95'ini mint etmektedir. Birini etiketleyen kullanıcılar, etkileşimler için %5 cred kazanırlar. Bir mesaj içeirisinde etiketlenen kullanıcıların tamamı, söz konusu mesajdaki cred'i eşit derecede paylaşırlar.
+🍄**nominations** kanalı, yazılan mesajlarda etiketlenen kullanıcılara cred'in %95'ini mint etmektedir. Birini etiketleyen kullanıcılar, etkileşimler için %5 cred kazanırlar. Bir mesaj içerisinde etiketlenen kullanıcıların tamamı, söz konusu mesajdaki cred'i eşit derecede paylaşırlar.
 
 ### Forum Pollen Ağırlıkları
 
@@ -138,7 +138,7 @@ Forumda, bir kullanıcının mint edebileceği toplam cred, kullanıcının güv
 SourceCred yazılımının çok yeni olmasından dolayı, kötüye kullanma yöntemleri de bulunmaktadır. Çeşitli parametre değişiklikleri bu riski minimuma indirmiştir; ancak 1Hive hâla topluluğun çoğu tarafından bilinen ve izlenen şu kuralları da uygulamaktadır.
 
 1. **Kullanıcı başına bir hesap politikası.** Bir kullanıcının birden fazla hesaba sahip olmasına izin verilmez.
-2. Etkileşim/beğeni ticaretine izin verilmez. Başka kullanıcılarla birbirinin paylaşımlarına beğeni verme/etikleşim verme konusunda anlaşma yapmaya izin verilmez. Etkileşim/Beğeni ticareti, 2 veya daha fazla kullanıcnın ortak olarak birbirlerinin bütün paylaşımlarına veya çoğuna içerik kalitesine bakmaksızın etkileşim vermesidir.
+2. **Etkileşim/beğeni ticaretine izin verilmez.** Başka kullanıcılarla birbirinin paylaşımlarına beğeni verme/etkileşim verme konusunda anlaşma yapmaya izin verilmez. Etkileşim/Beğeni ticareti, 2 veya daha fazla kullanıcının ortak olarak birbirlerinin bütün paylaşımlarına veya çoğuna içerik kalitesine bakmaksızın etkileşim vermesidir.
 3. **Bug'lardan Faydalanma / Kötüye Kullanma / Manipülasyon.** Sistemde bir bug veya açık bulmanız halinde lütfen bunu derhal raporlayın. Bir bug'dan veya açıktan kendi yararına faydalananların hesapları devre dışı bırakılacaktır.
 
 ## Faydalı Bağlantılar

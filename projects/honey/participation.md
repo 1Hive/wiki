@@ -9,9 +9,9 @@ description: >-
 
 ## Teklif akışına bakış
 
-Her zaman, oluşturulan ve aktif olarak değerlendirilen bir sürü teklf bulunacaktır. Kullanıcılar, bütün bu tekliflere [1hive.org](https://1hive.org/#/home) adresinde barındırılan açık kaynaklı arayüzü kullanarak bakabilir, hangi teklifleri desteklemek istediklerine karar verebilirler. Elbette, teknik bilgisine güvenen kullanıcılar önyüzü yerel olarak çalıştırarak sözleşmelerle doğrudan etkileşimde de bulunabilirler. 
+Her zaman, oluşturulan ve aktif olarak değerlendirilen bir sürü teklif bulunacaktır. Kullanıcılar, bütün bu tekliflere [1hive.org](https://1hive.org/#/home) adresinde barındırılan açık kaynaklı arayüzü kullanarak bakabilir, hangi teklifleri desteklemek istediklerine karar verebilirler. Elbette, teknik bilgisine güvenen kullanıcılar önyüzü yerel olarak çalıştırarak sözleşmelerle doğrudan etkileşimde de bulunabilirler. 
 
-![Proposal Feed](../../.gitbook/assets/image%20%285%29.png)
+![Teklif Ak&#x131;&#x15F;&#x131;](../../.gitbook/assets/image%20%285%29.png)
 
 Bu akışı teklif türü ve durumuna göre filtreleyebilir, destek durumu veya eklenme tarihine göre sıralayabilirsiniz. Akışta, farklı türde teklifler bulunur ve teklif türleri arasındaki farkın bilinmesi önemlidir.
 
@@ -39,7 +39,7 @@ Teklif oluşturmadan önce, öncelikle [forum.1hive.org](https://forum.1hive.org
 
 Şu anda bunu yapmamanız halinde, teklifinizi geri çekmeniz istenecektir. İlerleyen zamanlarda, prosedürlere uygun hareket etmemeniz halinde kaybedebileceğiniz şekilde bir miktar Honey stake etmeniz istenecektir.
 
-Teklif başlığınızı oluşturduğunuzda, [1hive.org](https://1hive.org) adresine girip hesabınıa bağlandıktan sonra`New proposal'a` tıklayarak teklifinizi oluşturabilirsiniz.
+Teklif başlığınızı oluşturduğunuzda, [1hive.org](https://1hive.org) adresine girip hesabınıza bağlandıktan sonra`New proposal'a` tıklayarak teklifinizi oluşturabilirsiniz.
 
 Kısa ve açıklayıcı bir başlıkla birlikte forumdaki ilgili başlığınıza bağlantı vermeyi unutmayın.
 

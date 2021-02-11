@@ -4,7 +4,7 @@ description: Celeste'i Oluşturanlar ve Yönetenler
 
 # 🌞 Celeste
 
-🌞Celeste Swarm üyeleri Celeste'in oluşturulması, bakımı ve ilk başta yönetiminden sorumludur. Celeste'in tam olarak oturulduğuna karar verildikten sonra, Celeste'in yönetimi 1Hive DAO'ya devredilecektir. Katkı yapanların ödemeleri, 2 haftda bir gerçekleştirilmekte ve aşağıdaki Aragon DAO bağlantısından görülebilmektedir. İlerleme, 1Hive'ın Github repo'larında "Celeste" altında incelenebilir.
+🌞Celeste Swarm üyeleri Celeste'in oluşturulması, bakımı ve ilk başta yönetiminden sorumludur. Celeste'in tam olarak oturulduğuna karar verildikten sonra, Celeste'in yönetimi 1Hive DAO'ya devredilecektir. Katkı yapanların ödemeleri, 2 haftada bir gerçekleştirilmekte ve aşağıdaki Aragon DAO bağlantısından görülebilmektedir. İlerleme, 1Hive'ın Github repo'larında "Celeste" altında incelenebilir.
 
 ## Faydalı Bağlantılar
 

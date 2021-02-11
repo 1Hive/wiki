@@ -24,11 +24,11 @@ Honeyswap forku, aşağıdaki iki subgraph fork'u ile güçlendirilmiştir:
 
 [Uniswap v2 Subgraph](https://thegraph.com/explorer/subgraph/1hive/uniswap-v2): Temel para birimi olarak xDai'yi ve bir token beyaz listesini kullanacak şekilde ayarlanmış resmi Uniswap v2 subgraph'ının bir forku. Kaynak koduna [şuradan ](https://github.com/1Hive/uniswap-v2-subgraph)ulaşabilirsiniz.
 
-[Ethereum Blocks](https://thegraph.com/explorer/subgraph/1hive/xdai-blocks): xDai'de, üzerinde herhangi bri değişiklik yapılmadan kullandığımız Blocklytics Ethereum Blocks fork'u. Kaynak koduna şuradan ulaşabilirsiniz.
+[Ethereum Blocks](https://thegraph.com/explorer/subgraph/1hive/xdai-blocks): xDai'de, üzerinde herhangi bri değişiklik yapılmadan kullandığımız Blocklytics Ethereum Blocks fork'u. Kaynak koduna [şuradan ](https://github.com/1Hive/ethereum-blocks)ulaşabilirsiniz.
 
 ### Önyüz
 
-Önyüz, Etherscan yerine Blockscout'ı kullanacak şekilde uygun token listeleri ve çıkış adresleri ile küçük değişikliklerle uniswap.info'nun kaynak kodunun bir fork'udur.
+Önyüz, Etherscan yerine Blockscout'u kullanacak şekilde uygun token listeleri ve çıkış adresleri ile küçük değişikliklerle uniswap.info'nun kaynak kodunun bir fork'udur.
 
 Önyüzün kaynak koduna [şuradan ](https://github.com/1Hive/uniswap-info/)erişebilirsiniz.
 

@@ -17,18 +17,18 @@ description: 1Hive tasarım estetiğine yönelik yönlendirmeler ve ilkeler
 * Markamız dost canlısı ve basitlik hissi vermeli; ancak karikatür gibi de görünmemeleri \(örneğin, insan suratı olan bir arı\). 
 
 {% hint style="info" %}
-Ayrıca, şu [Figma ](https://www.figma.com/file/6o6Ik2f0D6HiLzRWwgeOQd/Brand-guidelines)Dosyasındakimarka kılavuz ilkelerine de bakabilirsiniz.
+Ayrıca, şu [Figma ](https://www.figma.com/file/6o6Ik2f0D6HiLzRWwgeOQd/Brand-guidelines)Dosyasındaki marka kılavuz ilkelerine de bakabilirsiniz.
 {% endhint %}
 
 ## Altın Oran
 
-Logonun boyutlarında ve çeşitli nedenler için geliştirilen farklı grafik tasarımlarda altın oran kullanıy
+Logonun boyutlarında ve çeşitli nedenler için geliştirilen farklı grafik tasarımlarda şu nedenlerden dolayı altın oran kullanıyoruz:
 
 * 1Hive'da kullanılan diğer kavramlar gibi **doğada bulunmaktadır** \(arılar, bal, kovan, karahindiba, vb.\)
 * Altın orana sahip nesneler, **orantısal olarak göze hoş görünür** ve dost canlısı ve insanların kendilerinden bir şeyler bulabileceği bir kimlik oluşturmamızla da ilişkilidir.
 * İlk bakışta karmaşık görünmemekle birlikte ilgi çekici bir mantığı gizler. Biz de karmaşıklığımızı yüzeyin altında tuttuğumuzdan dolayı bu durum da 1Hive ile güçlü bir ilişkiye sahiptir.
-* Araştırma yaparken ilginç bir bilgiye rastladık: **Kovanlar da altın orana sahiptir**. Dişi arıların sayısını erkek ayıların sayısına böldüğümüzde 1.618 sayısına, yani altın orana ulaşırız. Bu matematiksel dizi, her zaman bütün arı kovanlarında karşımıza çıkar.
-* 
+* Araştırma yaparken ilginç bir bilgiye rastladık: **Kovanlar da altın orana sahiptir**. Dişi arıların sayısını erkek arıların sayısına böldüğümüzde 1.618 sayısına, yani altın orana ulaşırız. Bu matematiksel dizi, her zaman bütün arı kovanlarında karşımıza çıkar.
+
 ![](../../.gitbook/assets/group-26-new.jpg)
 
 
@@ -36,14 +36,14 @@ Logonun boyutlarında ve çeşitli nedenler için geliştirilen farklı grafik t
 ![](../../.gitbook/assets/group.png)
 
 {% hint style="info" %}
-Kullandığımız dairelerin, dikdörtgenlerin ve farklı şekillerin boyutları, altın orana ulaşmak için 1.618 ile çarpılır veya bölünür.
+Kullandığımız dairelerin, dikdörtgenlerin ve farklı şekillerin boyutları, altın orana ulaşmak için **1.618 ile çarpılır veya bölünür**.
 {% endhint %}
 
 ## Renk Paleti
 
 1Hive'da ana renk olarak turkuaz rengini kullanıyoruz; ikincil renkler olarak ise turkuazla uyumlu çeşitli renkler kullanılmakta. Bu da farklı kombinasyonlara olanak sağlamakla birlikte daha önce de dediğimiz gibi doğada bulunan renk yelpazesine de benziyor.
 
-Ayrıca, kromatik palette daha geniş bir renk yelpazesine olanak sağlayacak şekilde %50 opaklık ve üst üst geçen unsrlar kullanıyoruz; bu da bir renkten diğerine geçişin daha ahenkli olmasını sağlıyor.
+Ayrıca, kromatik palette daha geniş bir renk yelpazesine olanak sağlayacak şekilde %40 opaklık ve üst üst geçen unsurlar kullanıyoruz; bu da bir renkten diğerine geçişin daha ahenkli olmasını sağlıyor.
 
 ### Ana Renk
 
@@ -60,7 +60,7 @@ Ayrıca, kromatik palette daha geniş bir renk yelpazesine olanak sağlayacak ş
 ![](../../.gitbook/assets/group-24.png)
 
 {% hint style="info" %}
-HEX renk kodlarını ve gri ölçek ve arka plan gradyanına ilişkin ayrıntılar için şu Figma dosyasına bakınız.
+HEX renk kodlarını ve gri ölçek ve arka plan gradyanına ilişkin ayrıntılar için şu [Figma dosyasına](http://figma.com/file/6o6Ik2f0D6HiLzRWwgeOQd/Brand-guidelines?node-id=15%3A48) bakınız.
 {% endhint %}
 
 ## İndirilebilir Dosyalar

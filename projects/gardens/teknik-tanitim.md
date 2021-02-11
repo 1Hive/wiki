@@ -16,7 +16,7 @@ Gardens, tokenize toplulukların, yeni bir mutabakat sağlama süreci olan, akti
 ### Planlanan İşlevsellik
 
 * Kullanıcılar, toplulukları için mevcut bir ERC20 tokenini getirebilecek veya yeni bir token oluşturabilecekler.
-  * Mevcut bir ERC20 token kullanılması halinde, ortak havuz tokenlerin stake veya unstake edlimesiyle ilişkili yapılandırabilir bir işlem ücreti yoluyla ya da bağışlar yoluyla fonlanabilir \(örneğin, zincir üzerindeki nakit akışını ortak havuza yönlendirerek\).
+  * Mevcut bir ERC20 token kullanılması halinde, ortak havuz tokenlerin stake veya unstake edilmesiyle ilişkili yapılandırabilir bir işlem ücreti yoluyla ya da bağışlar yoluyla fonlanabilir \(örneğin, zincir üzerindeki nakit akışını ortak havuza yönlendirerek\).
   * Yeni bir token oluşturulması halinde ise ortak havuz, tıpkı Honey'de olduğu gibi bir dinamik arz politikası ile fonlanabilir.
 * Kullanıcılar, tekliflerin moderayonu için kullanılacak yazılı topluluk ilkeleri oluşturup kullanıma geçirebilecekler.
   * Kullanıcılar teklif oluştururken tokenlerini stake edecekler ve bu tekliflerin topluluk ilkelerini ihlal etmesi halinde bu tekliflere karşı çıkabileceklerdir. Böyle bir ihtilaf durumunda, çözüme kavuşturulması için [Celeste](../celeste/)'e başvurulabilecektir.

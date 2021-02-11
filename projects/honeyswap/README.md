@@ -4,7 +4,7 @@ description: honeyswap.org
 
 # Honeyswap
 
-Honeyswap, [xDai Chain](https://www.xdaichain.com/) üzerinde oluşturulmuş merkeziyetsiz borsadır. Honeyswap sayesinde kullanıcılar inanılmaz derecede düşük işlem ücretleri ile hızlı ve güvenli işlemler gerçekleştirmeyi deneyimleyebilmektedirler. Alım ve satımını yapabileceğiniz ve likidite ekleyebileceğiniz tokenler bulunmaktaıdr.
+Honeyswap, [xDai Chain](https://www.xdaichain.com/) üzerinde oluşturulmuş merkeziyetsiz borsadır. Honeyswap sayesinde kullanıcılar inanılmaz derecede düşük işlem ücretleri ile hızlı ve güvenli işlemler gerçekleştirmeyi deneyimleyebilmektedirler. Alım ve satımını yapabileceğiniz ve likidite ekleyebileceğiniz tokenler bulunmaktadır.
 
 Hacim, likidite ve işlemlere ilişkin analitik verilerine [şuradan ](https://info.honeyswap.org/)ulaşabilirsiniz.
 

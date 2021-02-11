@@ -8,7 +8,7 @@
 
 Yukarıdaki hatayı gördüğünüzde, aşağıdakiler en çok karşılılan hatalar ve çözüm yollarıdır:
 
-* Faucet sayfasında işlem hatası - 0.5 xDai gereklidir.
+* Faucet sayfasında transaction failed hatası - Cüzdanınızda en az 0.5 xDai olması gerekmektedir gereklidir.
 * Transport Status Error - Önbelleği temizleyin ve tarayıcınızı yenileyin.
 * \*\*\*\*[**Json RPC Error**](https://forum.1hive.org/t/troubleshooting-problems-on-metamask/215) - [Alternatif bir RPC](xdai.md#metamask-ile-baglanma) kullanın.
 *  [alternate RPC](xdai.md#connecting-via-metamask)

@@ -4,7 +4,7 @@ description: Platform moderation
 
 # 🐱 Fauna
 
-🐱Fauna Swarm; çeşitli sohbet platformlarını izleyen de moerasyonunu gerçekleştiren ve kullanıcıların [topluluk sözleşmesi](../../community-covenant.md)ne uyduğunu güvence altına alan aktif üyelerden oluşmaktadır. Bu Swarmın üyeleri aynı zamanda yardım kanallarında veya diğer yerlerde düzenli olarak destek sunmaktadırlar. Moderasyonu yapılan sohbet platformları Discord, Discourse ve Telegram dahil ancak bunlarla sınırlı omlaksızın çeşitli kanallardan oluşmaktadır.
+🐱Fauna Swarm; çeşitli sohbet platformlarını izleyen de moderasyonunu gerçekleştiren ve kullanıcıların [topluluk sözleşmesi](../../community-covenant.md)ne uyduğunu güvence altına alan aktif üyelerden oluşmaktadır. Bu Swarmın üyeleri aynı zamanda yardım kanallarında veya diğer yerlerde düzenli olarak destek sunmaktadırlar. Moderasyonu yapılan sohbet platformları Discord, Discourse ve Telegram dahil ancak bunlarla sınırlı olmaksızın çeşitli kanallardan oluşmaktadır.
 
 ## Faydalı Bağlantılar
 

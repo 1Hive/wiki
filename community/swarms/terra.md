@@ -4,7 +4,7 @@ description: Çeviri ve Global Entegrasyon
 
 # 🌍 Terra
 
-🌍 Terra Swarm, diğer swarmların dokümanlarını tercüme etmekle, wiki'yi her dilde güncel tutmakla ve yeni 1Hive Uluslararası Discord Sunucusu'nu modere etmekle görevlidir. Ayrıca, Terra DAO üyeleri, içerik yazarlığı konusunda da becerikli üyelerden oluşması dolayısıyla diğer DAO'ların da özellikle SEO-dostu içerik ihtiyaçlarını da karşılamaktadır.
+🌍 Terra Swarm, diğer swarmların dokümanlarını tercüme etmekle, wiki'yi her dilde güncel tutmakla ve yeni [1Hive Uluslararası Discord Sunucusu](https://discord.gg/gM8Cy8mcPm)'nu modere etmekle görevlidir. Ayrıca, Terra DAO üyeleri, içerik yazarlığı konusunda da becerikli üyelerden oluşması dolayısıyla diğer DAO'ların da özellikle SEO-dostu içerik ihtiyaçlarını da karşılamaktadır.
 
 ## Faydalı Bağlantılar
 

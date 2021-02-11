@@ -2,19 +2,19 @@
 
 ## Toplam İşlem Maliyetini Düşünün
 
-Borsalar arasında fiyat ve likidite değişkenlik göstermektedir. En iyi fiyatı aldığınızdan emin olmak için, _**toplam işlem maliyetinin**_ göz önünde bulundurulmaıs önemlidir. Bunun içerisinde spot fiyatla birlikte genel işlem masrafları \(gas fees gibi\), genel alım satım masrafları \(broker, likidite ve platform işlem ücretleri\) ve yaptığınız işlemin boyutuna ve borsada bulunan likiditeye bağlı olarak işlemdeki kayma oranı bulunmaktadır. 
+Borsalar arasında fiyat ve likidite değişkenlik göstermektedir. En iyi fiyatı aldığınızdan emin olmak için, _**toplam işlem maliyetinin**_ göz önünde bulundurulması önemlidir. Bunun içerisinde spot fiyatla birlikte genel işlem masrafları \(gas ücretleri gibi\), genel alım satım masrafları \(broker, likidite ve platform işlem ücretleri\) ve yaptığınız işlemin boyutuna ve borsada bulunan likiditeye bağlı olarak işlemdeki kayma oranı bulunmaktadır. 
 
 $$
 Toplam Maliyet = Spot Fiyat + Gas Fee + Platform Ücreti + Kayma
 $$
 
-Honeyswap, xDai üzerinde çalışmaktadır; dolayısıyla genel işlem ücretleri yok denecek kadar azdır. Genel işlem ücretleri ağdaki yoğunluğua bağlı olarak işlem başına genellikle 5 ila 20 dolar arasında değişen genel alım işlem masrafları bulunan Uniswap ve diğer Ethereum bazlı merkeziyetsiz borsalarla karşılaştırılacak olursa, Honeyswap üzerinde alım satım yapmak genel işlem masraflarınızı önemli ölçüde düşürecektir.
+Honeyswap, xDai üzerinde çalışmaktadır; dolayısıyla genel işlem ücretleri yok denecek kadar azdır. Genel işlem ücretleri ağdaki yoğunluğuna bağlı olarak işlem başına genellikle 5 ila 20 dolar arasında değişen genel alım işlem masrafları bulunan Uniswap ve diğer Ethereum bazlı merkeziyetsiz borsalarla karşılaştırılacak olursa, Honeyswap üzerinde alım satım yapmak genel işlem masraflarınızı önemli ölçüde düşürecektir.
 
-Honeyswap'taki genel allım satım masrafları Uniswap'taki ile aynıdır: Her bir işlemden %0.3 alım satım ücreti alınır. Referans olması açısından, şu anda Coinbase'deki piyasa yapıcı \(maker\) ve piyasa alıcı \(taker\) ücretleri %0.5'tir.
+Honeyswap'taki genel alım satım masrafları Uniswap'taki ile aynıdır: Her bir işlemden %0.3 alım satım ücreti alınır. Referans olması açısından, şu anda Coinbase'deki piyasa yapıcı \(maker\) ve piyasa alıcı \(taker\) ücretleri %0.5'tir.
 
 Honeyswap, hâlâ oldukça küçük bir borsa olduğundan dolayı tokenlerin çoğunda likidite diğer borsalara göre epey düşüktür. Dolayısıyla işlem yapanlar, yine toplam işlem maliyetine eklenmesi gereken fiyat kaymasıyla karşılaşabilirler. Bu etki, işleminizin boyutuna göre artmaktadır.
 
-Sonuç olarak, **bir sürü küçük alım satım işlemi yapmak gibi bir niyetiniz varsa Honeyswap diğer alternatiflere gööre çok daha düşük bir toplam işlem maliyeti sunmaktadır.**
+Sonuç olarak, **bir sürü küçük alım satım işlemi yapmak gibi bir niyetiniz varsa Honeyswap diğer alternatiflere göre çok daha düşük bir toplam işlem maliyeti sunmaktadır.**
 
 ### Spot fiyatı
 
@@ -32,7 +32,7 @@ xDai üzerinde, gas ücretlerinin 1 GWEI'den yüksek olmasına gerek yoktur. Şu
 
 ### Broker, Likidite, Platform Ücretleri
 
-Honeyswap platformunda işlem ücretleri, %0.3'tür. Bu, borsaların çoğuyla rekabetçi bir orandır. Bunun %0.25'i likidite sağlayıcılara giderken %0.5'i ise 1Hive ortak havuzuna gelir olarak geri 
+Honeyswap platformunda işlem ücretleri, %0.3'tür. Bu, borsaların çoğuyla rekabetçi bir orandır. Bunun %0.25'i likidite sağlayıcılara giderken %0.5'i ise 1Hive ortak havuzuna gelir olarak geri döner.
 
 | Borsalar | Taker | Maker |
 | :--- | :--- | :--- |

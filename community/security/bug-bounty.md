@@ -21,12 +21,12 @@ Sorunun şiddeti, CVSS Risk Puanalma skalası kullanılarak oluşturulan bir pua
 
 | Risk Puanlaması | Ödeme |
 | :---: | :---: |
-| Critical \(9.0-10.0\): | $40,000 HNY'e kadar |
-| High \(7.0-8.9\): | $10,000 HNY'e kadar |
-| Medium \(4.0-6.9\): | $2,000 in HNY'e kadar |
-| Low \(0.1-3.9\): | $1,000 in HNY'e kadar |
+| Kritik \(9.0-10.0\): | $40,000 HNY'e kadar |
+| Yüksek \(7.0-8.9\): | $10,000 HNY'e kadar |
+| Orta \(4.0-6.9\): | $2,000 in HNY'e kadar |
+| Düşük \(0.1-3.9\): | $1,000 in HNY'e kadar |
 
-Referans olması açısından, [Story of a Bee - Why Farming was Delayed](https://forum.1hive.org/t/story-of-a-bee-why-farming-was-delayed/875) forum paylaşımında ayrıntıları paylaşılan açık için 9.3 gibi bir puanlama yapılarak $40,000 HNY tutarında ödül verilmesi düşünülebilirdi. Verilecek tam ödül tutarının tartışmaya açılması da mümkündü; çünkü üst sınıra yakın olduğunu düşünürdük. Burada seçilen puanlama, şu adreste görülebilir: [https://www.first.org/cvss/calculator/3.0\#CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:N/I:H/A:L 3](https://www.first.org/cvss/calculator/3.0#CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:N/I:H/A:L)
+Referans olması açısından, [Story of a Bee - Why Farming was Delayed](https://forum.1hive.org/t/story-of-a-bee-why-farming-was-delayed/875) forum paylaşımında ayrıntıları paylaşılan açık için 9.3 gibi bir puanlama yapılarak 40,000 dolar karşılığı HNY tutarında ödül verilmesi düşünülebilirdi. Verilecek tam ödül tutarının tartışmaya açılması da mümkündü; çünkü üst sınıra yakın olduğunu düşünürdük. Burada seçilen puanlama, şu adreste görülebilir: [https://www.first.org/cvss/calculator/3.0\#CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:N/I:H/A:L 3](https://www.first.org/cvss/calculator/3.0#CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:N/I:H/A:L)
 
 Ayrıca, 1Hive'ın güvenli bir altyapıya sahip olmak istediği ve fonları ve kullanıcıları etkileyebilecek bug'ların bulunması durumunda adil bir ödeme yapmaktan çekinmeyeceğinin bilinmesini isteriz. Bu şartlar ve ödeme oranları [1Hive Sözleşme Bug Bounty Programı Teklifi](https://forum.1hive.org/t/1hive-contract-bug-bounty-program-proposal/978)nde ve [Nihai 1Hive Sözleşme Bug Bounty Programı Teklifi](https://forum.1hive.org/t/final-1hive-contract-bug-bounty-program-proposal/1339)nde  topluluk tarafından tartışılıp mutabakata varılmış şartlar ve oranlardır dolayısıyla bug hunter olarak çalışıyorsanız yukarıda bahsettiğimiz şartlara uymanız halinde ödüllendirileceğiniz konusunda sizi temin ederiz.
 

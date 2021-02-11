@@ -4,7 +4,7 @@ description: Altyapı & DevOps
 
 # 🌺 Flora
 
-🌺Flora Swarm, 1Hive servislerinin sunuc altyapısını aktif olarak gözeten kişilerden oluşmaktadır.
+🌺Flora Swarm, 1Hive servislerinin sunucu altyapısını aktif olarak gözeten kişilerden oluşmaktadır.
 
 ## Faydalı Bağlantılar
 

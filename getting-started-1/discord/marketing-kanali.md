@@ -18,12 +18,12 @@ Bu kanala katılmabilmeniz için 🧚**roles** kanalında bulunan [Marketing Cur
 
 ## Oy Verenler İçin:
 
-Bu kanalda yapılan paylaşmlara, oluşturulan içeriği beğenip beğenmemenize bağlı olarak artı veya eksi yönlü oy verebilirsiniz. İki emojiye birden tıklamamaya dikkat edin; çünkü bu durumda oyunuz çekimser hale gelecektir!
+Bu kanalda yapılan paylaşımlara, oluşturulan içeriği beğenip beğenmemenize bağlı olarak artı veya eksi yönlü oy verebilirsiniz. İki emojiye birden tıklamamaya dikkat edin; çünkü bu durumda oyunuz çekimser hale gelecektir!
 
 ## Sosyal Adminler İçin:
 
 1. Sosyal adminler, 🐝[**social-curation**](https://discord.gg/wKM3NnFfsS) ****kanalını izler ve bir talebin altında mavi renkli onay işaretini beklerler.
-2. Talebinizin altında mavi renkli onay işaretinin oluşması halinde, ilgili kanalları yöneten sosyal adminler yaptığınız paylaşımdaki talebi yerine getirmek 
+2. Talebinizin altında mavi renkli onay işaretinin oluşması halinde, ilgili kanalları yöneten sosyal adminler yaptığınız paylaşımdaki talebi yerine getireceklerdir.
 
 Opsiyonel: Diğer sosyal medya hesaplarının adminleri de kendi kanallarına değer katacağını düşünüyorlarsa aynı içeriği paylaşabilirler.
 

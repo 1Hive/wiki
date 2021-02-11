@@ -16,6 +16,8 @@ Buzz Swarm, şu anda okumakta olduğunuz wiki dahil olmak üzere 1Hive DAO ile i
 
  [Excel sheet](https://docs.google.com/spreadsheets/d/1UNrQMLVDWS-r7z6Z5MLNRSRP70f_gjbG5DYVceDLrXU/edit#gid=0): Buzz ödemelerini gösteren Excel sayfası.
 
+[Buzz Toplantı Takvimi](https://calendar.google.com/calendar/u/0/embed?src=c_k77c78d1kdt9e1vpk2cvjcc7jg@group.calendar.google.com&ctz)
+
 ## Roles ve Sorumluluklar
 
 ### Buzz DAO Üyeleri

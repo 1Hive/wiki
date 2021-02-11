@@ -6,9 +6,7 @@ Topluluk içerisinde iletişimin ve organizasyonun sağlanması açısından çe
 
 ### Gelecekte Yapılacaklar
 
-Buzz DAO yakın zamanda oluşturulmutşur. Merkeziyetsizlik, 1Hive'ın temel taşı olarak değerlendirildiğinden dolayı medya iletişimi de topluluk tarafından, topluluk için yönetilmelidir. Bu yenilikçi merkeziyetsiz tanıtım fikrine ait deneyimlerimizi paylaşmak istiyoruz.
-
-Blog: [https://about.1hive.org/blog/](https://about.1hive.org/blog/)
+[Buzz Swarm](../swarms/buzz.md) yakın zamanda oluşturulmutşur. Merkeziyetsizlik, 1Hive'ın temel taşı olarak değerlendirildiğinden dolayı medya iletişimi de topluluk tarafından, topluluk için yönetilmelidir. İlk plan hakkında bilgi edinmek için [orijinal marketing teklifine](https://drive.google.com/file/d/1giD4QcVfHNUaAwcXWqEdV4jI2CUSQH24/view) bakabilirsiniz. Bu yenilikçi merkeziyetsiz tanıtım fikrine ait deneyimlerimizi paylaşmak istiyoruz.
 
 
 

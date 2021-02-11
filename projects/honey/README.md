@@ -16,7 +16,7 @@ Bu sözleşmelerle, [aragon.1hive.org](https://aragon.1hive.org/#/0xe9869a0bbc8f
 
 Honey'nin değeri, arz ve talep ile belirlenir. Arz bir politika ile yönetilirken talep ise ortak havuzdan katkıda bulunanlara Honey dağıtımını belirleyen ve tahsis eden teklifler üzerinde Honey stake ederek katılımda bulunma sürecinden etkilenir.
 
-Katılımcıların Honey tahsisini verimli bir şekilde yapmaları durumunda, ortak havuza giren Honey miktarı en nihayetinde havuzdan çıkan miktarı aşacağından dolayı, talep arzı geçecek ve Honey'nin değeri de artacaktır. Öte yandan, Honey verimsiz bir şekilde tahsis edildiğinde dolaşımdaki Honey arzı artarken talepte bir artış yaşanmayacağından dolayı da Honey'nin değeri düşec 
+Katılımcıların Honey tahsisini verimli bir şekilde yapmaları durumunda, ortak havuza giren Honey miktarı en nihayetinde havuzdan çıkan miktarı aşacağından dolayı, talep arzı geçecek ve Honey'nin değeri de artacaktır. Öte yandan, Honey verimsiz bir şekilde tahsis edildiğinde dolaşımdaki Honey arzı artarken talepte bir artış yaşanmayacağından dolayı da Honey'nin değeri düşecektir.
 
 ![Basitle&#x15F;tirilmi&#x15F; Honey Sto&#x11F;u ve Ak&#x131;&#x15F; Diyagram&#x131;](../../.gitbook/assets/honey-2x.png)
 

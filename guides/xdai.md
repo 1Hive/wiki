@@ -33,7 +33,7 @@ Ethereum ağındaki ERC20 tokenlerinizi xDai ağında ERC20 tokeni olarak kullan
 
 ## Diğer Bilgiler
 
-MetaMask'in gas'i kaç ayarladığına bakmaksızın, gas'i her zaman 1 olacak şekilde ayarladığınızdan emin olun. xDai'de gas hep 1 Gwei'dir; bundan daha düşük gas belirlemeniz halinde işlemin onaylanma ihtimali düşer, daha yüksek ayarlamanız halinde ise xDai'yi boşa harcamş olursunuz. Gas limitinin ise olduğu gibi bırakılması önerilir.
+MetaMask'in gas'i kaç ayarladığına bakmaksızın, gas'i her zaman 1 olacak şekilde ayarladığınızdan emin olun. xDai'de gas hep 1 Gwei'dir; bundan daha düşük gas belirlemeniz halinde işlemin onaylanma ihtimali düşer, daha yüksek ayarlamanız halinde ise xDai'yi boşa harcamış olursunuz. Gas limitinin ise olduğu gibi bırakılması önerilir.
 
 Ethereum ağında çalışan Etherscan gibi, xDai'deki işlemleri ve hesapları görmek için xDai [Block Explorer](https://blockscout.com/poa/xdai)'ı kullanabilirsiniz.
 

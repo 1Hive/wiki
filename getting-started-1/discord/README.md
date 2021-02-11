@@ -6,13 +6,13 @@ description: >-
 
 # Discord
 
-Discord, iletişim için kullandığımız temel araçlardan biridir. Bu platformda, topluluk üyelerimizin üstünde çalıştığı farklı projeler hakkında bilgi sahibi olur, tartışmalar yoluyla yeni fikirler ortaya atar, toplantılar düznler, teknik sorunlar yaşayan kullanıcılara destek sunar, katılım gösteren kullanıcıları ödüllendirir ve aynı zamanda gündelik konuşmalarımızı yaparız. Buyrun gelin, bir selam verin:
+Discord, iletişim için kullandığımız temel araçlardan biridir. Bu platformda, topluluk üyelerimizin üstünde çalıştığı farklı projeler hakkında bilgi sahibi olur, tartışmalar yoluyla yeni fikirler ortaya atar, toplantılar düzenler, teknik sorunlar yaşayan kullanıcılara destek sunar, katılım gösteren kullanıcıları ödüllendirir ve aynı zamanda gündelik konuşmalarımızı yaparız. Buyrun gelin, bir selam verin:
 
 {% embed url="https://discord.com/invite/P4rRDUKTAU" %}
 
 ## Kanallar
 
-Kanalların çoğu, Discord ekranının üst kısmındaki kanal açıklamasında görüleceği şekilde özel bir konu başlığı etrafında yapılan tartışmalara odaklanmaktadır. Bununla birlikte, bazı kanallar tartışma dıışnda amaçlar için kullanılmaktadır:
+Kanalların çoğu, Discord ekranının üst kısmındaki kanal açıklamasında görüleceği şekilde özel bir konu başlığı etrafında yapılan tartışmalara odaklanmaktadır. Bununla birlikte, bazı kanallar tartışma dışında amaçlar için kullanılmaktadır:
 
 Most channels are focussed on discussion around a particular topic, which can be seen in the channel description at the top of the Discord screen. However, some channels are used for purposes other than discussion:
 
@@ -20,6 +20,7 @@ Most channels are focussed on discussion around a particular topic, which can be
 * **🤖bot-commands** bilgi almak, hesabınızı BrightID'yle kaydettirmek ve tipping bot'u için bir hesap oluşturmak için Discord botlarını çağırdığımız kanaldır. Bot commands kanalında kullanılabileceğiniz komutlar için aşağıdaki [ilgili bölüme](./#bot-komutlari) bakabilirsiniz.
 * **✅check-in** 1Hive'a katkıda bulunanların günlük/birkaç günlük/haftalık durum güncelemelerini paylaştığı kanaldır.
 * **🍄nominations** özellikle diğer yerlerde dikkat çekmediğini düşündüğünüz, başkalarının yaptığı işleri takdir etmek için kullanılan kanaldır. Bu kanalda, pollen ağırlığı diğer kanallara göre daha farklı işlemekte. [Discord Pollen Ağırlıkları](../pollen.md#discord-pollen-weights) bölümüne bakarak ayrıntıları öğrenebilirsiniz.
+* 🐝**social-curation** 1Hive sosyal medya kanallarında paylaşılacak içeriklerin oluşturulması içindir. Ayrıntılı bilgiye [social curation](marketing-kanali.md) bölümünden ulaşabilirsiniz.
 * 🍯**keepers** yalnızca en az 1 Honey bulunduranlara verilen 🍯**Honey** rolüne sahip kişilerin erişebildiği kanaldır.
 
 ## Roller ve Swarmlar
@@ -34,7 +35,9 @@ Faydalı bilgiler almak veya hesabınızı çeşitli hizmetlere kaydetmek için 
 
 `!hny help` - Honey hakkında görüntülenebilecek bilgiler hakkındaki komutların listesini verir.
 
-`!verify` - Discord hesabınız ile [onaylanmış BrightID hesabınız](../../guides/brightid.md) arasında kayıt yapmanıza yardımcı olan bir botu çalıştırır. 
+`!join` - En az 1HNY tutuyorsanız, bu komutu kullanarak açılacak konuşma penceresindeki talimatları izleyerek 🍯**keepers** kanalına erişebilirsiniz.
+
+`!verify` - Discord hesabınız ile [onaylanmış BrightID hesabınız](../../guides/brightid.md) arasında kayıt yapmanıza yardımcı olan bir botu çalıştırır. Önceden pollen'e kayıt olmak ve Discord'da diğerleri için cred mint edebilmek için kaydolmanız gerekiyordu. Şu anda kullanılmıyor; ancak ileride kullanılabilir.
 
 `$help` -  Tip botu hesabınıza para yatırmak, hesabınızdan para çekmek, Discord aracılığıyla topluluğun diğer üyelerine HNY tipleyebilmenize olanak sağlamak için gerekli bilgileri gösterir. Yardım mesajının altındaki emojilerle etkileşime geçerek daha fazla bilgi edinebilirsiniz.
 

@@ -4,7 +4,7 @@
 
 1Hive'da, topluluk üyelerinin sözleşmelerde fark ettikleri buglar ve açıkları raporlayarak **40000$**'a kadar ödüllendirilebilecekleri bir Bug Bounty programı bulunmaktadır. Bounty kriterlerine ve başvuru sürecine ilişkin ayrıntılı bilgilere Bug Bounty sayfasından ulaşabilirsiniz.
 
-Ayrıntılı bilgi için resmi [Bug Bounty](bug-bounty.md) programına ve [Bug Bounty Swarm](../swarms/bug-bounty.md)'ına bakabilisiniz.
+Ayrıntılı bilgi için resmi [Bug Bounty](bug-bounty.md) programına ve [Bug Bounty Swarm](../swarms/bug-bounty.md)'ına bakabilirsiniz.
 
 ## Güvenlik Denetimleri
 

@@ -10,9 +10,7 @@
   * [Social Curation Kanalı](getting-started-1/discord/marketing-kanali.md)
 * [Pollen](getting-started-1/pollen.md)
 * [Takvim](getting-started-1/calendar.md)
-* [Katkıda Bulunma](getting-started-1/how-can-you-contribute/README.md)
-  * [Buzz Bounty](getting-started-1/how-can-you-contribute/buzz-swarm-bounty.md)
-  * [Fauna Ödülleri](getting-started-1/how-can-you-contribute/fauna-awards.md)
+* [Katkıda Bulunma](getting-started-1/how-can-you-contribute.md)
 
 ## Projeler <a id="projects"></a>
 
@@ -26,7 +24,6 @@
   * [Borsacılar İçin](projects/honeyswap/for-traders.md)
   * [Likidite Sağlayıcılar İçin](projects/honeyswap/for-liquidity-providers.md)
   * [Geliştiriciler İçin](projects/honeyswap/for-developers.md)
-  * [Planlanan İyileştirmeler](projects/honeyswap/planned-improvements.md)
 * [Celeste \(Yakında\)](projects/celeste/README.md)
   * [Kullanım Süreci](projects/celeste/user-process.md)
 * [Gardens \(Yakında\)](projects/gardens/README.md)
@@ -36,7 +33,7 @@
 ## Topluluk <a id="community"></a>
 
 * [Swarmlar](community/swarms/README.md)
-  * [🌻 Gardens](community/swarms/gardens.md)
+  * [🌐 Commons](community/swarms/gardens.md)
   * [🌺 Flora](community/swarms/flora.md)
   * [🌞 Celeste](community/swarms/celeste.md)
   * [🌍 Terra](community/swarms/terra.md)

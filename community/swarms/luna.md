@@ -4,7 +4,7 @@ description: Simülasyon ve Modelleme
 
 # 🌜 Luna
 
-🌜Luna Swarm, 1Hive ekosistemini [cadCAD ](https://cadcad.org/)üzerinde modellemeyi hedefleyen bireyler ve organizasyonlardan oluşan bir işbirliğidir. Bu swarm, gelecekte yapılacak tasarım va yönetişim kararları dahil operasyonel kararlar için araçlar sağlamaktadır.
+🌜Luna Swarm, 1Hive ekosistemini [cadCAD ](https://cadcad.org/)üzerinde modellemeyi hedefleyen bireyler ve organizasyonlardan oluşan bir işbirliğidir. Bu swarm, gelecekte yapılacak tasarım ve yönetişim kararları dahil operasyonel kararlar için araçlar sağlamaktadır.
 
 Luna Swarm, ilgilenen herkesin yeni modellerin oluşturulmasında deney yapmak ve oluşturulduğu sırada modellerin yorumlanmasına yardımcı olmak için Swarm'a dahil olmasını teşvik etmekte ve önermektedir.
 

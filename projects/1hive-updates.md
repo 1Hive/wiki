@@ -4,10 +4,18 @@ description: Gelecek kilometre taşları
 
 # Kilometre Taşları
 
+## Haftalık Özetler
+
+Swarmlar hakkında güncel çalışmaları öğrenmek için aşağıdaki forum paylaşımlarına bakabilirsiniz:
+
+[1Hive Weekly Recap \(4th Jan - 11th Jan\)](https://forum.1hive.org/t/1hive-weekly-recap-cw-53-4th-jan-11th-jan/1815)   
+[1Hive Weekly Recap \(28 Dec - 4 Jan\)](https://forum.1hive.org/t/1hive-weekly-recap-cw-52-28-dec-4-jan/1765)  
+[1Hive Biweekly Recap \(January 11th to January 25th\)](https://forum.1hive.org/t/1hive-biweekly-recap-january-11th-to-january-25th/2001)
+
 ## 1Hive Kilometre Taşları
 
 {% hint style="warning" %}
-Bu kilo metre taşları, ilgili Swarm tarafından kabaca yapılan öngörülerdir ve gidişata göre güncellenir. Sorumlu her bir Swarm, en iyi şekilde güncelliğini korumaya çalışmaktadır. Her bir projeyle ilgili daha kesin bir durum bilgisi için [Discord](https://discord.com/invite/P4rRDUKTAU), [Discourse](https://forum.1hive.org/), [Telegram](https://t.me/honeyswapDEX) veya diğer sosyal kanallara ve haftalık özetlere bakabilirisniz.
+Bu kilo metre taşları, ilgili Swarm tarafından kabaca yapılan öngörülerdir ve gidişata göre güncellenir. Sorumlu her bir Swarm, en iyi şekilde güncelliğini korumaya çalışmaktadır. Her bir projeyle ilgili daha kesin bir durum bilgisi için [Discord](https://discord.com/invite/P4rRDUKTAU), [Discourse](https://forum.1hive.org/), [Telegram](https://t.me/honeyswapDEX) veya diğer sosyal kanallara ve [haftalık özetlere](1hive-updates.md#haftalik-oezetler) bakabilirisniz.
 {% endhint %}
 
 ### **Celeste**
@@ -24,9 +32,9 @@ Honey ihracı, başlangıçta yıllık %60 olarak belirlenmişti. 2020 yılını
 
 ### **Honeyswap Açılış Sayfası**
 
-🎯 **Hedef Tarih:** Q1 2021
+🎯 **Hedef Tarih:** Tamamlandı
 
-[Honeyswap](honeyswap/) için, rehber metinler ve faydalı bilgilere de bağlantılar bulunacak kullanıcı dostu bir açılış sayfası üzerinde çalışılıyor.
+[Honeyswap](honeyswap/) için, rehber metinler ve faydalı bilgilere de bağlantılar bulunacak kullanıcı dostu bir açılış sayfası üzerindeki çalışma tamamlandı. Yeni sayfayı [honeyswap.org](https://honeyswap.org/#/swap) adresinde görebilirsiniz.
 
 ### 1Hive Gardens
 
@@ -56,11 +64,5 @@ Ayrıntılı bilgi için bkz. [GitHub](https://github.com/1Hive/honeyswap-limit-
 
 ### xDai Genel Yol Haritası
 
-1Hive şu anda xDai network üzerinde çalışmakta. xDai üzerinde yaşanan gelişmelerin hepsinin 1Hive ekosistemi üzerinde etki yaratması mümkün. xDai yol haritası'na buradan bakabilirsiniz.
-
-## Haftalık Özet
-
-1Hive'daki çeşitli swarmlardan en güncel bilgileri almak için aşağıdaki forum paylaşımlarına bakabilirsiniz.
-
-[1Hive Weekly Recap \(28 Dec - 4 Jan\)](https://forum.1hive.org/t/1hive-weekly-recap-cw-52-28-dec-4-jan/1765) 
+1Hive şu anda xDai network üzerinde çalışmakta. xDai üzerinde yaşanan gelişmelerin hepsinin 1Hive ekosistemi üzerinde etki yaratması mümkün. xDai yol haritası'na [buradan ](https://www.xdaichain.com/about-xdai/roadmap)bakabilirsiniz.
 
