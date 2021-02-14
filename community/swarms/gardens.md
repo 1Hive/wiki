@@ -4,13 +4,11 @@ description: Building the Commons
 
 # 🌐 Commons
 
-{% hint style="info" %}
-This Swarm used to be referred to as the Gardens Swarm but they updated their name to the Commons Swarm to more accurately reflect the project's goals.
-{% endhint %}
+The 🌐Commons Swarm is dedicated to implement the iteration 0 of Commons Stack model on top of 1hive technology. We are building our project on top of Gardens (the generalization of the 1hive infrastructure) in order to provide a different option for creating Conviction Voting DAOs. 
 
-The 🌐Commons Swarm manages the development of the Commons Template and associated Aragon Apps and is doing the initial experiments into how Commons should best be structured. Updates can be seen on [Token Engineering Commons](https://tecommons.medium.com/) medium page.
+Specifically, instead of the issuance model that 1hive uses, we replace it with a [Bonding Curve](https://commonsstack.org/abc) that allows for microeconomies to have accurate price discovery and infinite liquidity. Commons have a two token model, a reserve and a funding pool that hold a stablecoin (xDAI), and are governed by a Commons token that is minted via a bonding curve. To initialize the bonding curve, Commons have a [Hatch](https://forum.tecommons.org/t/tec-test-hatch-implementation-specification/226) in which the community is funded by a [Trusted Seed](https://medium.com/commonsstack/the-trusted-seed-of-the-commons-stack-13d7e37f2de). 
 
-Commons DAO's are a social, financial, and technical foundation for online communities to organize. This empowers people to coordinate around causes, social movements, or even memes. Commons are designed to be operationally decentralized and autonomous from day one.
+The Commons Swarm is built on top of the Gardens project. Both Gardens and Commons Swarms contribute to similar codebases, especially conviction voting, and Commons broadens the concept with new features that better suits smaller economies.
 
 ## Useful Links
 
@@ -45,6 +43,7 @@ Commons DAO's are a social, financial, and technical foundation for online commu
 | [Fabi](https://github.com/famole/) | Web Developer |
 | [Marko](https://github.com/markoprljic) | Designer |
 | [Adrià](https://adria0.github.io/cv/) | Smart Contract Auditor |
+| [Chuy](https://forum.1hive.org/u/chuygarcia92) | Comms
 
 ### Advisors
 
