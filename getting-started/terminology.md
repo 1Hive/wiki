@@ -32,3 +32,4 @@ There are various **Projects** and [**Swarms**](../community/swarms/), with goal
 
 [🐛**Bug Bounty**](../community/swarms/bug-bounty.md) ****- A swarm that manages funds available for the 1Hive Contract Bug Bounty program. It is responsible for interpreting and responding to uncovered exploits.
 
+[🌐**Commons**](../community/swarms/commons.md) - A swarm dedicated to implement the iteration 0 of Commons Stack model on top of 1hive technology. We are building our project on top of Gardens in order to provide a different option for creating Conviction Voting DAOs.
