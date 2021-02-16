@@ -12,7 +12,7 @@ The Commons Swarm is built on top of the Gardens project. Both Gardens and Commo
 
 ## Useful Links
 
-[Aragon DAO](https://aragon.1hive.org/#/gardensswarm/) holding Commons Swarm funds.
+[Aragon DAO](https://aragon.1hive.org/#/commonsswarm/) holding Commons Swarm funds.
 
 [Transparent Payment Tracking sheet](https://docs.google.com/spreadsheets/d/1oRDecU-weSTOLv061N5O7VAJcDfU5XGqmu21ntTXOos/edit#gid=1361585578%20) showing hours spent and payments made.
 
@@ -55,33 +55,7 @@ The Commons Swarm is built on top of the Gardens project. Both Gardens and Commo
 
 Each of the above members, swarm team and advisors, have equal voting weight within the Commons DAO to manage funds, or are not in the DAO.
 
-### Skills and previous experience in related or similar work:
+## Funding Proposals
 
-**Griff** - I have been working full time in the DAO space for 5 years \(TheDAO, Giveth, Commons Stack, etc\) and was the product owner for the Aragon DAC for 6 months.
-
-**Sem** - Led the development of Conviction Voting Aragon App
-
-**Fiore** - 1hive designer
-
-**Viviane** - Dev. Contributed to Conviction Voting frontend
-
-**Paulo** - Dev. Developed Committees Aragon App and contributed to Conviction Voting too
-
-**Fabi** - Dev. Strong background on Frontend and Mobile development, contributed to 1hive taking some issues and started to work with smart contracts some time ago.
-
-**Rayne** - Dev Fresh graduate, still very new to the space. Currently also a Fauna community moderator at 1hive.
-
-**Marko** - Prominent designer in the space: Consensys, Giveth, DAppNode, Commons Stack, Panvala, Metagame and many more.
-
-**Adrià** - White hat hacker legend and Ethereum Core Dev. Part of the WHG team that audited the original AragonOS and MakerDAO deployments, and reviewed code for dozens of other projects.
-
-**Rodrigo**, **Fabri**, and **Will** are 1hive seed members that have worked on Gardens and are advising the project.
-
-## How Funds Are Used
-
-This HNY will pay devs a rate of 25-50 xDAI an hour. As the project evolves more individual agreements might need to be made \(Bounties for tasks, etc\) but the hourly rate will stay around 25-50 xDAI/hr \(based on experience\) for the foreseeable future.
-
-Honey is Money \(but it’s not a great unit of account \) All payments will happen in HNY, but based on the exchange rate of the date that the vote to pay out is made.
-
-We have open accounting and you can see exactly how payments are handled and what everyone did to deserve them in this spreadsheet: [https://docs.google.com/spreadsheets/d/1oRDecU-weSTOLv061N5O7VAJcDfU5XGqmu21ntTXOos/edit\#gid=1361585578](https://docs.google.com/spreadsheets/d/1oRDecU-weSTOLv061N5O7VAJcDfU5XGqmu21ntTXOos/edit#gid=1361585578)
-
+One funding proposal was made which was accepted by the community:
+* https://forum.1hive.org/t/bootstrapping-the-1hive-gardens-swarm-dao/1159

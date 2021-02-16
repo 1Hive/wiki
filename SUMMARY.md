@@ -33,7 +33,7 @@
 ## 🌳Community
 
 * [Swarms](community/swarms/README.md)
-  * [🌐 Commons](community/swarms/gardens.md)
+  * [🌐 Commons](community/swarms/commons.md)
   * [🌺 Flora](community/swarms/flora.md)
   * [🌞 Celeste](community/swarms/celeste.md)
   * [🌍 Terra](community/swarms/terra.md)
