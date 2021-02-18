@@ -1,60 +1,62 @@
 ---
-description: The rules by which we agree to engage in the 1Hive community.
+description: >-
+  Die Regeln, nach denen wir uns bereit erklären, uns in der 1Hive-Gemeinschaft
+  zu engagieren.
 ---
 
-# Community Covenant
+# Die Gemeinschaftsordnung
 
 {% hint style="info" %}
-The 1Hive Community Covenant is currently [open for review](https://forum.1hive.org/t/drafting-the-1hive-community-covenant-for-celeste/1548).
+Bedenken Sie aber, dass die 1Hive Gemeinschaftsordnung derzeit zur [öffentlichen Prüfung](https://forum.1hive.org/t/drafting-the-1hive-community-covenant-for-celeste/1548) steht.
 {% endhint %}
 
-1Hive is a community of activists seeking to build a future that is more free, fair, open, and humane.
+1Hive ist eine Gemeinschaft von Aktivisten, die eine Zukunft aufbauen möchten, die freier, fairer, offener und menschlicher ist.
 
-1Hive is also an economic protocol, similar to Bitcoin or Ethereum, where a digital currency, Honey, is issued and distributed programmatically. Unlike Bitcoin or Ethereum, the 1Hive protocol does not narrowly define the set of activities that are valuable but instead relies on community members to guide the distribution process by creating and staking on Honey distribution proposals.
+1Hive ist auch ein Wirtschaftsprotokoll, ähnlich wie Bitcoin oder Ethereum, bei dem eine digitale Währung, Honey, programmgesteuert ausgegeben und verteilt wird. Im Gegensatz zu Bitcoin oder Ethereum definiert das 1Hive-Protokoll nicht eng die Reihe von Aktivitäten, die wertvoll sind, sondern stützt sich  darauf, dass die Community-Mitglieder den Verteilungsprozess steuern, indem sie Vorschläge einbringen, wie Honey verteilt und eingesetzt werden soll und darauf jeweils ihre eigenen Honey “setzen” \(engl. staking\) .
 
-The goal of the 1Hive protocol is to foster a healthy community economy by allocating a steady stream of Honey towards development, maintenance, and improvement of the common goods that bring the most value to the 1Hive community.
+Ziel des 1Hive-Protokolls ist es, eine gesunde kommunale Wirtschaft zu fördern, indem ein stetiger Strom von Honey für die Entwicklung, Wartung und Verbesserung der gemeinsamen Güter bereitgestellt wird, die der 1Hive-Community den größten Wert bringen.
 
-The growth of the 1Hive economy is directly related to the communities ability to foster an inclusive and welcoming culture that people feel proud and delighted to adopt as their own. When someone chooses to buy or hold Honey and participate in the Honey economy they are implicitly supporting the communities culture, values, and norms.
+Das Wachstum der 1Hive-Wirtschaft steht in direktem Zusammenhang mit der Fähigkeit der Community eine integrative und einladende Kultur zu fördern, auf die die Menschen stolz und erfreut sind und die sie gerne als ihre eigene annehmen. Wenn jemand Honey kauft oder hält und an der Honey-Wirtschaft teilnimmt, unterstützt er implizit die Gemeinschaftskultur, Werte und Normen.
 
-To this end, the 1Hive protocol depends on a social contract, which sets expectations for how members should engage both with the protocol and with one another.
+Zu diesem Zweck hängt das 1Hive-Protokoll von einem Gesellschaftsvertrag ab, in dem Erwartungen festgelegt werden, wie Mitglieder sowohl mit dem Protokoll als auch untereinander in Kontakt treten sollen.
 
-## The Pledge
+## Das Versprechen
 
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+Wir als Mitglieder, Mitwirkende und Führende verpflichten uns, die Teilnahme an unserer Gemeinschaft zu einer belästigungsfreien Erfahrung für alle zu machen, unabhängig von Alter, Körpergröße, sichtbarer oder unsichtbarer Behinderung, ethnischer Zugehörigkeit, Geschlechtsmerkmalen, Geschlechtsidentität und -ausdruck, Erfahrungsniveau und Bildung , sozioökonomischer Status, Nationalität, persönliches Erscheinungsbild, Rasse, Religion oder sexueller Identität und Orientierung.  
 
-We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
-## Our Standards
+Wir verpflichten uns, auf eine Weise zu handeln und zu interagieren, die zu einer offenen, einladenden, vielfältigen, integrativen und gesunden Gemeinschaft beiträgt.
 
-Examples of behavior that contributes to a positive environment for our community include:
+## Unsere Ansprüche
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the overall community
+Beispiele für Verhaltensweisen, die zu einem positiven Umfeld für unsere Gemeinschaft beitragen, sind:
 
-Examples of unacceptable behavior include:
+* Empathie und Freundlichkeit gegenüber anderen Menschen demonstrieren.
+* Respekt gegenüber unterschiedlichen Meinungen, Standpunkten und Erfahrungen.
+* Konstruktives Feedback geben und anmutig annehmen.
+* Verantwortung übernehmen und sich bei den Betroffenen entschuldigen und aus den Erfahrungen lernen.
+* Konzentration auf das Beste, nicht nur für uns als Einzelpersonen, sondern für die gesamte Gemeinschaft.
 
-* The use of sexualized language or imagery, and sexual attention or advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others’ private information, such as a physical or email address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
+Beispiele für inakzeptables Verhalten sind:
 
-## On-chain enforcement
+* Die Verwendung sexualisierter Sprache oder Bilder sowie sexuelle Aufmerksamkeit oder Fortschritte jeglicher Art.
+* Trolling, beleidigende oder abfällige Kommentare sowie persönliche oder politische Angriffe, öffentliche oder private Belästigung.
+* Veröffentlichung der privaten Informationen anderer, z. B. einer physischen Adresse oder einer E-Mail-Adresse, ohne deren ausdrückliche Genehmigung.
+* Anderes Verhalten, das in einem professionellen Umfeld vernünftigerweise als unangemessen angesehen werden könnte.
 
-The on-chain mechanism for enforcement will depend on the completion of Celeste.
+## Durchsetzung auf der Blockchain
 
-The ability for the 1Hive protocol to enforce this covenant is limited to the direct interactions that community members have with the protocol, specifically the ability for community members to submit proposals to allocate Honey issuance or adjust protocol parameters.
+Der On-Chain-Mechanismus für die Durchsetzung hängt von der Fertigstellung von Celeste ab.
 
-A community member will be required to stake Honey when submitting a proposal, attesting that the impact of the proposal could be reasonably considered to align with 1Hive’s social contract. A dispute can be created by another community member if they disagree with the proposers attestation by challenging the proposal and staking an equivalent amount of Honey. If after being challenged the proposal is not withdrawn, a decentralized oracle will be used to settle the dispute.
+Die Fähigkeit des 1Hive-Protokolls, diese Gemeinschaftsordnung durchzusetzen, ist auf die direkten Interaktionen der Community-Mitglieder mit dem Protokoll beschränkt, insbesondere auf die Möglichkeit für Gemeinschafts-Mitglieder, Vorschläge zur Zuteilung von Honey oder zur Anpassung der Protokollparameter einzureichen.
 
-Participants in the dispute resolution protocol are expected to review the proposal, this covenant, and related past disputes in order to provide a judgement that they feel best aligns with the established norms and intention of the 1Hive community.
+Ein Community-Mitglied muss Honey bei der Einreichung eines Vorschlags einsetzen \(engl. stake\), um zu bestätigen, dass die Auswirkungen des Vorschlags mit dem Gesellschaftsvertrag von 1Hive vereinbar angesehen werden können. Ein Streit kann von einem anderen Gemeinschafts-Mitglied geführt werden, wenn sie mit dem Vorschlag des Antragstellers nicht einverstanden sind, indem sie den Vorschlag anfechten und eine entsprechende Menge Honey einsetzen. Wenn der Vorschlag nach der Anfechtung nicht zurückgezogen wird, wird ein dezentrales Orakel zur Beilegung des Streits verwendet.
 
-If the oracle responds in favor of the proposer the proposal will be unlocked and the challenger’s stake will be transferred to the proposer. On the other hand, if the dispute resolves in favor of the challenger the proposal will be removed from consideration and the proposers stake will be given to the challenger.
+Von den Teilnehmern  Streitschlichtungsprotokolls wird erwartet, dass sie den Vorschlag, diese Gemeinschaftsordnung und alle zusammenhängenden früheren Streitigkeiten prüfen, um ein Urteil zu fällen, das ihrer Meinung nach am besten mit den festgelegten Normen und Absichten der 1Hive-Community übereinstimmt.
 
-## Off-chain enforcement
+Wenn das Orakel \(engl. Oracle\) zugunsten des Antragstellers bescheidet, wird der Vorschlag freigeschaltet und der Einsatz des Herausforderers wird auf den Antragsteller übertragen. Wenn der Streit dagegen zugunsten des Herausforderers beigelegt wird, wird der Vorschlag aus der Prüfung gestrichen und der Anteil des Antragstellers an den Herausforderer vergeben.
 
-While there is no canonical off-chain forum that represents the 1Hive community, there are community spaces including the 1Hive Discord, Forum and Github communities, and others forums which may emerge in the future which are expected to adhere to this covenant.
+## Off-chain Durchsetzung
+
+Während es kein kanonisches Off-Chain-Forum gibt, das die 1Hive-Community repräsentiert, gibt es Community-Bereiche, einschließlich des 1Hive Discord-, Forums-, der Github-Gemeinschaft und anderer Foren die möglicherweise in Zukunft entstehen und von denen erwartet wird, dass sie sich an diese Gemeinschaftsordnung halten.
 

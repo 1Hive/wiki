@@ -1,55 +1,58 @@
 ---
 description: >-
-  1Hive and Honey are community driven. Community members are encouraged to
-  participate in the sense-making of the 1Hive DAO by submitting, discussing and
-  staking on proposals.
+  1Hive und Honey sind Gemeinschaftsorientiert. Gemeinschaftsmitglieder werden
+  ermutigt, sich an der Sinnfindung des 1Hive DAO zu beteiligen, indem sie
+  Vorschläge einreichen, durchdiskutieren und setze.
 ---
 
-# Participation
+# Beteiligung
 
-## Exploring the proposal feed
+## Erkunden des Vorschlags-Feeds
 
-At any given time there will be many proposals that have been submitted and are under active consideration. Users can explore all proposals using the open source frontend interface hosted at [1hive.org](https://1hive.org/#/home) and decide which proposals they want to support. Of course, more technical users can run the frontend locally, or interact with the contracts directly. 
+Zu jedem Zeitpunkt werden viele Vorschläge eingereicht, die aktiv geprüft werden. Benutzer können alle Vorschläge über die Open Source-Frontend-Oberfläche von [1hive.org](https://1hive.org/#/home) untersuchen und entscheiden, welche Vorschläge sie unterstützen möchten. Natürlich können technischere Benutzer das Frontend lokal ausführen oder direkt mit den Verträgen interagieren.[  
+](
+https://1hive.org/#/home
+)
 
-![Proposal Feed](../../.gitbook/assets/image%20%285%29.png)
+![Angebots-Feed](../../.gitbook/assets/image%20%285%29.png)
 
-You can filter the feed by proposal type or status, and can sort based on support or recency. The feed contains different types of proposals and its important to understand the difference between proposal types. 
+Sie können den Feed nach Vorschlagstyp oder Status filtern und nach Unterstützung oder Aktualität sortieren. Der Feed enthält verschiedene Arten von Vorschlägen und es ist wichtig, den Unterschied zwischen den Vorschlagsarten zu verstehen.
 
 ### Suggestions
 
-Suggestions, including the _abstain proposal,_ are proposals which do not request funds from the common pool. They can be used to draw collective attention to specific issues, without committing or requesting funds be allocated to the issue. 
+Suggestions, einschließlich des "Abstain Proposal", sind Vorschläge, bei denen keine Mittel aus dem gemeinsamen Pool angefordert werden. Sie können verwendet werden, um die kollektive Aufmerksamkeit auf bestimmte Themen zu lenken, ohne Mittel für das Thema bereitzustellen oder zu beantragen.
 
-Suggestions can accumulate support, but they will never pass. Instead, supporting a suggestion will increase the amount of support required for all other distribution proposals to pass. So if you think that the community is spending money unproductively supporting the _abstain proposal,_ or creating a new signaling proposal that makes the case for how you think the community should actually be allocating resources can have a meaningful influence on behavior of the system. 
+Suggestions können Unterstützung ansammeln, aber sie werden niemals weitergegeben. Stattdessen erhöht die Unterstützung eines Vorschlags den Umfang der Unterstützung, die erforderlich ist, damit alle anderen Verteilungsvorschläge angenommen werden können. Wenn Sie also der Meinung sind, dass die Gemeinschaft unproduktiv Geld ausgibt, um den "Abstain Proposal"-Vorschalg zu unterstützen, oder wenn Sie einen neuen Signalisierungsvorschlag erstellen, der Ihrer Meinung nach die Art und Weise berücksichtigt, in der die Gemeinschaft tatsächlich Ressourcen zuweisen sollte, kann dies einen bedeutenden Einfluss auf das Verhalten des Systems haben. 
 
 ### Proposals 
 
-While all of the items in the feed are types of proposals, the Proposal type is used specifically for proposals that request Honey be distributed from the common pool. 
-
-These proposals will have an activation threshold, and can be executed by anyone once enough relative support has accumulated to that proposal. When executed the requested amount of Honey will be transferred from the common pool to the beneficiary address. 
-
-The threshold and dynamics of support accumulation regulate how quickly Honey can be distributed from the common pool. The mechanism is discussed in greater depth on the [Distribution page](distribution.md). 
+Während alle Elemente im Feed Arten von Vorschlägen sind, wird der Proposal-Typ speziell für Vorschläge verwendet, bei denen Honey aus dem Gemeinschaftspool verteilt werden soll.   
+  
+Diese Vorschläge haben einen Aktivierungsschwellenwert und können von jedem ausgeführt werden, sobald sich genügend relative Unterstützung für diesen Vorschlag angesammelt hat. Bei der Ausführung wird die angeforderte Menge Honey aus dem Gemeinschaftspool an die Adresse des Empfängers übertragen.   
+  
+Die Schwelle und Dynamik der Unterstützungsakkumulation regeln, wie schnell Honey aus dem Gemeinschaftspool verteilt werden kann. Der Mechanismus wird auf der Seite [Verteilung ](distribution.md)ausführlicher erläutert.
 
 ### Decisions
 
-Proposals and Suggestions are the primary means of governance within 1Hive, however, occasionally there is an unavoidable need to make a discrete decision. For example upgrading smart contracts or adjusting the parameterization of a policy. 
+Suggestions und Proposals sind das wichtigste Mittel zur Steuerung innerhalb von 1Hive. Gelegentlich besteht jedoch die unvermeidliche Notwendigkeit, eine diskrete Entscheidung zu treffen. Zum Beispiel ein upgrade von Smart-Verträgen oder eine Anpassung der Parametrisierung einer Richtlinie.
 
-In these instances a more traditional voting process is used, where a descrete action is proposed and voted on in a binary fashion. Votes are open for a fixed period of time, and if quorum and support threshold are reached the vote passes and the action is executed. 
+In diesen Fällen wird ein traditionelleres Abstimmungsverfahren verwendet, bei dem eine diskrete Aktion vorgeschlagen und binär abgestimmt wird. Die Abstimmungen sind für einen festgelegten Zeitraum offen. Wenn das Quorum und die Unterstützungsschwelle erreicht sind, wird die Abstimmung bestanden und die Aktion ausgeführt.
 
-## Submitting proposals
+## Einreichung von Vorschlägen
 
-Before submitting a proposal, you should first make a forum post on [forum.1hive.org](https://forum.1hive.org/). This is where you can provide a detailed description of your proposal and its rationale. It also provides a venue for discussion and debate among community members. Creating a proposal in the proposal category will prompt you with a template layout including all required information.
+Bevor Sie einen Vorschlag einreichen, sollten Sie zunächst einen Forumsbeitrag auf[ forum.1hive.org](%20https://forum.1hive.org/) verfassen. Hier können Sie eine detaillierte Beschreibung Ihres Vorschlags und seiner Begründung bereitstellen. Es bietet auch einen Ort für Diskussionen und Debatten unter Gemeinschaftsmitgliedern. Wenn Sie ein Angebot in der Angebotskategorie erstellen, werden Sie mit einem Vorlagenlayout aufgefordert, das alle erforderlichen Informationen enthält. 
 
-Currently if you fail to do this, you will simply be asked to withdraw your proposal, in the future you will be required to put up stake which could be lost if you don’t follow the appropriate procedure.
+Wenn Sie dies derzeit nicht tun, werden Sie lediglich aufgefordert, Ihren Vorschlag zurückzuziehen. In Zukunft müssen Sie einen Anteil aufbringen, der verloren gehen kann, wenn Sie das entsprechende Verfahren nicht befolgen. 
 
-Once you have created your proposal thread, you can create your proposal by going to [1hive.org](www.1hive.org), connecting your account, and clicking `New proposal`.
+Nachdem Sie Ihren Vorschlagsthread erstellt haben, können Sie Ihren Vorschlag erstellen, indem Sie zu [1hive.org](%20www.1hive.org) gehen, Ihr Konto verbinden und auf `New Proposal` klicken.   
+  
+Stellen Sie sicher, dass Sie einen kurzen, aber beschreibenden Titel und einen Link zu Ihrem Forumsbeitrag angeben.
 
-Be sure to provide a short but descriptive title, and link to your forum post.
+## **Terminologie auf 1hive.org**
 
-## **Terminology on 1hive.org**
-
-**Common Pool** refers to the tokens held collectively by the community and which are available for distribution via proposals.
-
-**Token Supply** is all of the tokens currently in existence.
-
-**Active** is the supply that is currently staked to proposals.
+**Community Pool** bezieht sich auf die Token, die gemeinsam von der Community gehalten werden und über Vorschläge verteilt werden können.   
+  
+**Token Supply** sind alle derzeit existierenden Token.   
+  
+**Active** ist das Angebot, das derzeit für Vorschläge eingesetzt wird.
 

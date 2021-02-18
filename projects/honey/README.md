@@ -1,24 +1,26 @@
 ---
-description: Honey is a community currency issued and distributed by the 1Hive community.
+description: >-
+  Honey ist eine Gemeinschaftswährung, die von der 1Hive-Gemeinschaft ausgegeben
+  und verteilt wird.
 ---
 
 # Honey
 
-Honey is at the heart of everything we do, by optimizing how we issue and distribute Honey we can grow the 1Hive economy, reward contributors, and expand our community. 
+Honey steht im Mittelpunkt unseres Handelns. Durch die Optimierung der Ausgabe und Verteilung von Honey können wir die 1Hive-Wirtschaft steigern, Mitwirkende belohnen und unsere Community erweitern.
 
-The issuance and distribution of Honey is regulated by the smart contracts. You can create, monitor, and stake Honey on proposals using the frontend located at [1hive.org](https://1hive.org/#/).
+Die Ausgabe und Verteilung von Honey wird durch die Smart-Verträge geregelt. Sie können Honey über das Frontend auf [1hive.org](https://1hive.org/#/) erstellen, überwachen und auf Vorschläge Honey setzen \(stake\).  
+  
+Sie können mit diesen Verträgen über das Aragon Client Interface unter [aragon.1hive.org](https://aragon.1hive.org/#/0xe9869a0bbc8fb8c61b7d81c33fa2ba84871b3b0e) interagieren oder ein Interface lokal selbst ausführen.
 
-You can interact with these contracts through the Aragon Client interface at [aragon.1hive.org](https://aragon.1hive.org/#/0xe9869a0bbc8fb8c61b7d81c33fa2ba84871b3b0e) or run either interface locally yourself. 
+## Wirtschaftsüberblick
 
-## Economic Overview
+Der Wert von Honey wird durch Angebot und Nachfrage bestimmt. Das Angebot wird durch unsere Geschäftspolitik gesteuert, und die Nachfrage kann durch die Teilnahme am Prozess der Ansetzung \(staking\) von Honey auf Vorschläge beeinflusst werden, bei denen Honey aus dem gemeinsamen Pool an die Beitragenden verteilt wird.
 
-The value of Honey is determined by supply and demand. The supply is managed by a policy and demand can be influenced by participating in the process of staking on proposals which allocate and distribute Honey from the common pool to contributors.
+Wenn die Teilnehmer Honey produktiv zuweisen, werden die Zuflüsse in den gemeinsamen Pool letztendlich die Abflüsse übersteigen, die Nachfrage wird das Angebot übertreffen und der Wert von Honey wird steigen. Umgekehrt, wenn Honey unproduktiv zugeteilt wird, steigt das zirkulierende Angebot an Honey ohne entsprechende Erhöhung der Nachfrage und der Wert von Honey sinkt.
 
-If participants allocate Honey productively, inflows to the common pool will eventually exceed outflows, demand will outpace supply, and the value of Honey will increase. Conversely if Honey is allocated unproductively the circulating supply of Honey will increase without a corresponding increase in demand and the value of Honey will decrease. 
+![Vereinfachtes Honey-Vorrats- und Flussdiagramm](https://lh5.googleusercontent.com/M2wDIEwGSP9HQEpDTAYgi1eoy7C4aDg4QUyxenpF8mRRtXbo3Wu_-QmSulSTYivz83nD0Ei8S_xDPGnNhD327Fbd1uT799lL6Cq_-gGF6Gpxf9BZ9oO0G-oQDrMUqzVHXXTm_xo)
 
-![Simplified Honey Stock and Flow Diagram](../../.gitbook/assets/honey-2x.png)
+Eine Möglichkeit, sich dieses System vorzustellen, ist eine [kybernetische Rückkopplungsschleife](https://en.wikipedia.org/wiki/Cybernetics), in der Staker Sensoren sind, das Protokoll die Steuerung ist und Vorschläge die Aktuatoren sind, die sich auf die Umwelt auswirken. Die Auswirkungen von Vorschlägen können ungewiss sein und sich im Laufe der Zeit ändern. Die Ergebnisse werden jedoch beobachtet und in das System zurückgeführt, was im Laufe der Zeit zu einer Anpassung an die Umwelt führt.
 
-One way to think of this system is as a [cybernetic feedback loop ](https://en.wikipedia.org/wiki/Cybernetics)where stakers are sensors, the protocol is the controller, and proposals are the actuators that impact the environment. The impact of proposals may be uncertain and may change over time, but outcomes will be observed and feed back into the system resulting in adaptation to the environment over time. 
-
-Increasing the value of Honey is an implicit goal of the system and its participants. Stakers must hold Honey over time to influence proposals and therefore have a vested interest in supporting proposals that maximize the value of Honey, and contributors need Honey to be valuable so that their contributions can sustainably rewarded. 
+Die Wertsteigerung von Honey ist ein implizites Ziel des Systems und seiner Teilnehmer. Staker müssen Honey im Laufe der Zeit halten, um Vorschläge zu beeinflussen, und haben daher ein begründetes Interesse daran, Vorschläge zu unterstützen, die den Wert von Honey maximieren, und Mitwirkende wollen das Honey wertvoll wird damit ihre Beiträge nachhaltig belohnt werden können.
 

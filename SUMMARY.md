@@ -1,21 +1,21 @@
 # Table of contents
 
-* [Willkommen](README.md)
-* [Community Covenant](community-covenant.md)
+* [Willkommen bei 1Hive](README.md)
+* [Die Gemeinschaftsordnung](community-covenant.md)
 
-## 🌱Getting Started
+## 🌱Erste Schritte <a id="getting-started"></a>
 
-* [Terminology](getting-started/terminology.md)
+* [Terminologie](getting-started/terminology.md)
 * [Discord](getting-started/discord/README.md)
-  * [Social Curation](getting-started/discord/social-curation.md)
+  * [Soziale Kuration](getting-started/discord/social-curation.md)
 * [Pollen](getting-started/pollen.md)
 * [Calendar](getting-started/calendar.md)
-* [Contributing](getting-started/contributing.md)
+* [Beitragen](getting-started/contributing.md)
 
 ## ✨Projects
 
 * [Honey](projects/honey/README.md)
-  * [Participation](projects/honey/participation.md)
+  * [Beteiligung](projects/honey/participation.md)
   * [Issuance](projects/honey/issuance.md)
   * [Distribution](projects/honey/distribution.md)
   * [Decisions](projects/honey/decisions.md)

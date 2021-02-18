@@ -1,43 +1,49 @@
 ---
-description: 'Honey is money, for everybody.'
+description: 'Honey ist Geld, für jedermann.'
 ---
 
-# Willkommen
+# Willkommen bei 1Hive
 
-1Hive is a community that builds and experiments with decentralized applications and protocols. At the center of these experiments is an effort to build a sustainable and thriving economy around a currency called [Honey](projects/honey/), which is used to influence the direction of the community. Anyone can buy honey or earn it by contributing to 1Hive and can use it, among other things, to vote on funding proposals and protocol changes with a weight that is equal to the Honey they hold.
+1Hive ist eine Community , die dezentrale Anwendungen und Protokolle erstellt und mit diesen experimentiert. Im Zentrum dieser Experimente steht das Bestreben, eine nachhaltige und florierende Wirtschaft um eine Währung namens [Honey](projects/honey/) herum aufzubauen, die verwendet wird, um die Richtung der Community zu beeinflussen. Jeder kann Honey kaufen oder im Gegenzug für sein Engagement verdienen, indem er zu 1Hive beiträgt und damit unter anderem über Finanzierungsvorschläge und Protokolländerungen abstimmen deren Gewicht dem von ihm gehaltenen Honey entspricht.  
 
-1Hive isn’t a company, there is no core team, and there has never been a crowd sale to raise funds to operate. Instead 1Hive has been issuing and distributing Honey to contributors for over a year. Up until recently it didn’t have a market defined price but it eventually found its way onto an exchange and now it does. The community doesn’t need Honey to have a certain price in order to distribute it, but as it becomes more valuable, the community is able to direct more resources towards community projects, and in turn those projects may grow the Honey economy further.
 
-By optimizing how we issue and distribute Honey we hope to create a future that is more free, fair, open, and humane. ‌
+1Hive ist kein Unternehmen, es gibt kein Kernteam und es gab noch nie einen Crowd Sale, um Spenden für den Betrieb zu sammeln. Stattdessen gibt 1Hive seit über einem Jahr Honey aus und verteilt ihn an Mitwirkende. Bis vor kurzem hatte Honey keinen durch den Markt definierten Preis aber er fand schließlich seinen Weg an eine Börse und jetzt hat Honey auch einen Wechselkurs, wie es sich für eine Währung gehört. Je wertvoller Honey wird, desto mehr Ressourcen kann die Community in gemeinschaftliche Projekte stecken, die wiederum die Honey-Wirtschaft weiter wachsen lassen können.
 
-## Power Dynamics
+Durch die Optimierung der Art und Weise wie wir Honey ausgeben und vertreiben, hoffen wir eine Zukunft zu schaffen die freier, fairer, offener und menschlicher ist.‌
 
-As an open community, anyone can join and participate in 1Hive. The barriers to entry are extremely low; simply show up and start to contribute. We already have several programs which reward contribution with Honey including the [Honey Faucet](https://faucet.1hive.org) and [Pollen](getting-started/pollen.md) that don’t require any upfront capital, and we have fostered a culture that encourages community mentorship, inclusion, and taking initiative.
+## Machtdynamik
 
-However, 1Hive ultimately succeeds by effectively allocating common pool resources productively, and so it’s imperative \(see [Ostrom](https://www.onthecommons.org/magazine/elinor-ostroms-8-principles-managing-commmons)\) that we establish clear rules and boundaries, enforce those rules fairly and transparently, and establish a reasonable process for dispute resolution.
+Als offene Community kann jeder bei 1Hive mitmachen und sich beteiligen. Die Eintrittsbarrieren sind extrem niedrig; einfach auftauchen und anfangen etwas beizutragen. Wir haben bereits mehrere Programme, die Beiträge mit Honey belohnen, einschließlich der [Honey-Faucet](https://faucet.honey.org) und [Pollen](getting-started/pollen.md), für die kein Vorab-Kapital erforderlich ist und wir haben eine Kultur gefördert, die die Betreuung, Inklusion und Eigeninitiative der Community fördert.  
 
-Honey itself serves as a community boundary, and many rights are granted on the basis of an individual’s total stake of Honey. As new people join they will initially have very little stake in the community, and so their influence on how shared resources are distributed will be low. However, as involvement continues individuals will accumulate more stake and influence.
 
-While using Honey as a boundary helps to align incentives among community members, it's also important to recognize that since Honey is a currency it can be purchased and accumulated by those that have an abundance of capital outside of 1Hive. Therefore we must also establish rules \(the [Community Covenant](community-covenant.md)\) and dispute resolution processes \([Celeste](community/swarms/celeste.md)\) that help uphold our communities values and norms even if they are broken by those that have a significant capital advantage.
+Letztendlich ist 1Hive jedoch nur dann erfolgreich, wenn die Community-Ressourcen produktiv eingesetzt werden. Daher ist es unerlässlich \(siehe [Ostrom](https://www.onthecommons.org/magazine/elinor-ostroms-8-principles-managing-commmons)\), dass wir klare Regeln und Grenzen aufstellen, diese Regeln fair und transparent durchsetzen und einen angemessenen Prozess zur Streitbeilegung einrichten.  
 
-Currently the distribution of Honey is relatively concentrated among early contributors, largely due to recent and rapid growth of both the number of people within the community as well as the price of Honey. As time progresses, we expect the distribution to become less concentrated, and aim to reinforce this trend by creating mechanisms, like Celeste, that limit how much Honey an individual can utilize.
 
-## Decentralized Sense-making
+Honey selbst dient als Community-Grenze und viele Rechte werden auf der Grundlage des Gesamtanteils eines Einzelnen an Honey gewährt. Wenn neue Personen der Community beitreten, werden sie anfangs nur einen sehr geringen Anteil  der Community haben und daher wird ihr Einfluss auf die Verteilung der gemeinsam genutzten Ressourcen gering sein. Mit fortschreitender Beteiligung werden die Einzelpersonen jedoch mehr Anteile und Einfluss gewinnen.  
 
-There is no central vision or canonical roadmap, other than to work together to create an amazing and impactful community that people from all over the world are proud, inspired, and enriched by. It is up to you, as well as the rest of the community, to determine how 1Hive evolves, where shared resources are allocated, and what projects are most valuable to the community.
 
-That is not to say that there is no strategic vision or direction; we each have our own vision for the future of 1Hive \(see [Headless Brands](https://otherinter.net/web3/headless-brands/)\). However, rather than try to reach consensus on any one specific vision and in the process rule out all other visions, we have opted to depend on community members to act as sensors which help us to continuously and collectively navigate the inherently uncertain future. This choice empowers members of the community to create and discover new narratives for themselves, for these narratives to compete and mutate over time, and ultimately for the best ideas to rise to the top of the community's collective attention to be acted upon.
+Während die Verwendung von Honey als Grenze dazu beiträgt, die Anreize zwischen den Community-Mitgliedern in Einklang zu bringen, ist es auch wichtig zu erkennen, dass Honey eine Währung ist, die von denjenigen gekauft und akkumuliert werden kann, die einen Überfluss an Kapital außerhalb von 1Hive haben. Daher müssen wir auch Regeln \([die Gemeinschaftordnung](community-covenant.md)\) und Streitschlichtungsprozesse \([Celeste](community/swarms/celeste.md)\) etablieren, die dazu beitragen, die Werte und Normen unserer Community  aufrechtzuerhalten, auch wenn sie von jenen gebrochen werden, die einen erheblichen Kapitalvorteil haben.  
 
-## Getting involved
 
-If you’ve got this far, and are thinking to yourself, “Wow this sounds amazing, but also a bit confusing, where do I even start?” — That’s okay, and to be expected. 1Hive is dynamic and constantly changing. It can be chaotic and difficult to keep track of everything that is going on, even for the most consistent contributors. To help new bees find their way through 1Hive for the first time here are some resources to help you get started.
+Zurzeit ist die Verteilung von Honey relativ stark auf die ersten Beitragszahler konzentriert, was vor allem auf das kürzliche und schnelle Wachstum sowohl der Anzahl der Personen innerhalb der Community als auch des Preises von Honey zurückzuführen ist.. Im Laufe der Zeit erwarten wir, dass sich die Verteilung weniger konzentriert und wollen diesen Trend verstärken, indem wir Mechanismen wie Celeste schaffen, die die Verwendung von Honey durch eine Person begrenzen.
 
-1. Read the [community covenant](community-covenant.md) - this is like our constitution and sets expectation for how we interact with one another.
-2. Explore [active projects and milestones](projects/milestones.md) - at any given time there is work being done across multiple projects and each project may have upcoming milestones. 
-3. Join the [discord](https://discord.com/invite/qPa4h5w) - this is the primary place for synchronous coordination and discussions among community members. Also review the [discord wiki page](getting-started/discord/) for an overview of important channels and roles. 
-4. Join the [forum](https://forum.1hive.org) - this is where you can find longer form, more asynchronous discussions, its also where proposals that allocate Honey from the common pool are discussed. 
-5. Register for [Pollen](getting-started/pollen.md) - when you’re ready to start contributing, the easiest way is to register for Pollen, a program that tracks interactions on Github, the forum, and Discord and rewards community members with Honey on a weekly basis. 
-6. Subscribe to the [1hive calendar ](getting-started/calendar.md)- the voice and video channels on Discord are used by the community for open meetings and events. They are often used in an ad-hoc fashion, but when an event has been scheduled in advance it can often be found on the calendar. 
-7. Participate in a [Swarm](community/swarms/) - much of the work that happens on 1Hive projects is coordinated via working groups called swarms. Each working group is independent and may have developed its own structure and processes. Find one you are interested in and ask in the corresponding channel how you can help. 
-8. Submit a [proposal](projects/honey/participation.md) - if you have an idea or a suggestion that hasn’t been covered elsewhere, you could consider submitting a proposal. 
+## Dezentralisierte Sinnstiftung
+
+Es gibt keine zentrale Vision oder kanonische Fahrplan, außer gemeinsam eine großartige und schlagkräftige Community zu schaffen, auf die Menschen aus der ganzen Welt stolz sind, die sie inspiriert und bereichert. Es liegt an Ihnen und dem Rest der Community zu bestimmen, wie sich 1Hive entwickelt, wo gemeinsam genutzte Ressourcen zugewiesen werden und welche Projekte für die Community am wertvollsten sind.
+
+  
+Das heißt nicht, dass es keine strategische Vision oder Richtung gibt; Wir haben alle unsere eigene Vision für die Zukunft von 1Hive \(siehe [Headless Brands](https://otherinter.net/web3/headless-brands/)\). Anstatt jedoch zu versuchen, einen Konsens über eine bestimmte Vision zu erzielen und dabei alle anderen Visionen auszuschließen, haben wir uns dafür entschieden,  uns auf die Community-Mitglieder zu verlassen welche als Sensoren fungieren und mit deren Hilfe wir kontinuierlich und kollektiv durch die von Natur aus unsichere Zukunft zu navigieren.. Diese Wahl ermöglicht es den Mitgliedern der Community , neue Erzählungen für sich selbst zu erschaffen und zu entdecken und ermöglicht es diesen Narrativen miteinander zu konkurrieren und zu mutieren. Dadurch werden die besten Ideen an die Spitze der kollektiven Aufmerksamkeit der Gemeinschaft klettern und es kann dann kollektiv nach ihnen gehandelt werden.
+
+## Wie engagiere Ich mich?
+
+Wenn Sie so weit gekommen sind und sich denken: "Wow, das klingt erstaunlich, aber auch etwas verwirrend, wo fange ich überhaupt an?" - Das ist okay und zu erwarten. 1Hive ist dynamisch und ändert sich ständig. Es kann chaotisch und schwierig sein, alles im Auge zu behalten, selbst für die beständigsten Mitwirkenden. Um neuen Bienen zu helfen, sich zum ersten Mal in 1Hive zurechtzufinden, finden Sie hier einige Ressourcen, die Ihnen den Einstieg erleichtern.
+
+1. Lesen Sie die [Gemeinschaftsordnung](community-covenant.md) - dies ist wie unsere Verfassung und setzt Erwartungen daran, wie wir miteinander umgehen.
+2. Erkunden sie [aktive Projekte und Meilensteine](projects/milestones.md) - zu jedem Zeitpunkt wird über mehrere Projekte hinweg gearbeitet, und für jedes Projekt können Meilensteine anstehen.
+3. Treten Sie dem [Discord](%20https://discord.com/invite/qPa4h5w) bei - dies ist der Hauptort für die synchrone Koordination und Diskussion zwischen Community-Mitgliedern. Überprüfen Sie auch die [Discord-Wiki-Seite,](getting-started/discord/) um einen Überblick über wichtige Kanäle und Rollen zu erhalten.
+4. Treten Sie dem [Forum](https://forum.1hive.org/) bei - hier finden Sie längere Formulare und asynchrone Diskussionen. Dort werden auch Vorschläge diskutiert, die Honey aus dem gemeinsamen Pool zuweisen.
+5. Registrieren Sie sich für [Pollen](getting-started/pollen.md) - Wenn Sie bereit sind, Beiträge zu leisten, können Sie sich am einfachsten für Pollen registrieren, ein Programm, das Interaktionen auf Github, im Forum und bei Discord verfolgt und Community-Mitglieder wöchentlich mit Honey belohnt.
+6. Abonnieren Sie den [1hive-Kalender](getting-started/calendar.md) - die Sprach- und Videokanäle auf Discord werden von der Community für offene Meetings und Veranstaltungen verwendet. Sie werden häufig ad-hoc verwendet, aber wenn eine Veranstaltung im Voraus geplant wurde, finden Sie sie häufig im Kalender.
+7. An einem [Schwarm](community/swarms/) teilnehmen - Ein Großteil der Arbeit an 1Hive-Projekten wird über Arbeitsgruppen namens Schwärme koordiniert. Jede Arbeitsgruppe ist unabhängig und hat möglicherweise ihre eigene Struktur und ihre eigenen Prozesse entwickelt. Finden Sie eine, die Sie interessiert, und fragen Sie im entsprechenden Kanal, wie Sie helfen können.
+8. Einreichen eines [Vorschlags](projects/honey/participation.md) - Wenn Sie eine Idee oder einen Vorschlag haben, der an keiner anderen Stelle behandelt wurde, können Sie einen Vorschlag einreichen.
 

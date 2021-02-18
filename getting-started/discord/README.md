@@ -1,45 +1,47 @@
 ---
-description: Discord is where the most 1Hive DAO related activity gets buzzing.
+description: 'Discord ist, wo die meisten 1Hive DAO-bezogenen Aktivitäten summen.'
 ---
 
 # Discord
 
-Discord is one of the main tools we use to communicate. On this platform we catch up with the different projects our community members are working on, discuss and pitch new ideas, arrange meetings, support users experiencing technical issues, reward users who are contributing, and also engage in casual discussions. Join and say hi: 
+Discord ist eines der wichtigsten Werkzeuge, mit denen wir kommunizieren. Auf dieser Plattform informieren wir uns über die verschiedenen Projekte, an denen unsere Gemeinschafts-Mitglieder arbeiten, diskutieren und stellen neue Ideen vor, arrangieren Meetings, unterstützen Benutzer bei technischen Problemen, belohnen Benutzer, die Beiträge leisten, und führen gelegentliche Diskussionen. Mach mit und sag hallo:
 
 {% embed url="https://discord.com/invite/P4rRDUKTAU" %}
 
-## Channels
+## Kanäle
 
-Most channels are focussed on discussion around a particular topic, which can be seen in the channel description at the top of the Discord screen. However, some channels are used for purposes other than discussion:
+Die meisten Kanäle konzentrieren sich auf Diskussionen zu einem bestimmten Thema, die in der Kanalbeschreibung oben auf dem Discord-Bildschirm zu sehen sind. Einige Kanäle werden jedoch für andere Zwecke als zur Diskussion verwendet:
 
-* **🐛onboarding** is for opting into [Pollen](../pollen.md), check the pinned message and follow the instructions.
-* **🤖bot-commands** is for summoning Discord bots to give information, register your account with BrightID or setup a tipping account. See [details below](./#bot-commands) for commands that can be used in the bot commands channel.
-* **✅check-in** is for daily/multi-daily/weekly status updates from 1Hive contributors.
-* **🍄nominations** is where you can recognize the work of others, particularly those that you feel are not being properly recognized elsewhere. Pollen is weighted differently in this channel, see the end of the [Discord Pollen Weights](../pollen.md#discord-pollen-weights) section for details.
-* 🐝**social-curation** is for curating content that is posted to the 1Hive social media channels, details can be seen in the [social curation](social-curation.md) section.
-* 🍯**keepers** is for those with the 🍯**Honey** role which can only be assigned if you own 1 Honey.
+* **🐛Onboarding** dient dazu, sich für [Pollen](../pollen.md) anzumelden, überprüfen Sie die angeheftete Nachricht und folgen sie den Anweisungen. ****
+* **🤖bot-commands** dient zur Aufrufung von Discord-Bots, um Informationen zu geben, Ihr Konto bei BrightID zu registrieren oder ein Trinkgeldkonto einzurichten. In den [folgenden Details](./#bot-commands) finden Sie Befehle, die im Bot-Befehlskanal verwendet werden können.
+* **✅check-in** erfolgt für tägliche / mehrtägige / wöchentliche Statusaktualisierungen von 1Hive-Mitarbeitern.
+* **🍄nominations** hier können Sie die Arbeit anderer erkennen, insbesondere diejenigen, von denen Sie glauben, dass sie an anderer Stelle nicht richtig anerkannt werden. Pollen werden in diesem Kanal unterschiedlich gewichtet. Weitere Informationen finden Sie am Ende des Abschnitts [Discord Pollengewichtung](../pollen.md#discord-pollen-weights).
+* 🐝**social-curation** für die Überprüfung von Inhalten, die auf den 1Hive-Social-Media-Kanälen veröffentlicht werden, finden Sie Details im Abschnitt zur [sozialen Kuration.](social-curation.md) 
+* 🍯**keepers** ist für diejenigen mit der **🍯Honey-Rolle,** die nur zugewiesen werden kann, wenn Sie 1 Honey besitzen.
 
-## Roles and Swarms
+## Rollen und Schwärme
 
-Roles are self-assigned using the [🧚**roles**](https://discord.gg/63Z3MrEcM7) channel. Assigning yourself a role gives you access to the swarm **working group channel**, designated by a hexagon **⏣** in the channel name. These are under the **SWARMS** heading on 1Hive's Discord.
+**Rollen** werden über den [🧚**roles**](https://discord.gg/63Z3MrEcM7) Kanal selbst zugewiesen. Wenn Sie sich eine Rolle zuweisen, erhalten Sie Zugriff auf den Kanal der Schwarmarbeitsgruppe, der im Kanalnamen durch ein Sechseck ⏣ gekennzeichnet ist. Diese befinden sich unter der Überschrift SWARMS in 1Hive's Discord.  
 
-The working group channels are for technical discussion regarding the development of relevant projects, for information about a particular project or for help using it please use the **BEES** channels.
 
-## **Bot Commands**
+Die Kanäle der Arbeitsgruppe dienen der technischen Diskussion über die Entwicklung relevanter Projekte, Informationen zu einem bestimmten Projekt oder Hilfe bei der Verwendung der BEES-Kanäle.  
 
-Commands can be executed in the **🤖bot-commands** channel which provide useful information or register your account with various services.
 
-`!hny help` - Displays a list of commands used for displaying info about 1Hive.
+## **Bot-Befehle**
 
-`!join` - If you have more than 1HNY, then you can execute this and follow the guide in the chat to give you access to the 🍯**keepers** channel.
+Befehle können im **🤖bot-commands** ausgeführt werden, die nützliche Informationen liefern oder Ihr Konto bei verschiedenen Diensten registrieren.
 
-`$help` -  Enables you to connect with your tip bot account. It will show info about depositing/withdrawing to/from your tip bot account, allowing you tip HNY to other members of the community through Discord. You can react with emojis under the help message for more details.
+`!hny help` - Zeigt eine Liste der Befehle an, mit denen Informationen zu 1Hive angezeigt werden.
 
-`!verify` - Opens a chat which helps you register your Discord account with your [verified BrightID](../../guides/brightid.md) account. In the past this was necessary to register for pollen and to mint cred for others in Discord. Currently it is unused but may be used again in the future.
+`!join` - Wenn Sie mehr als 1HNY haben, können Sie dies ausführen und der Anleitung im Chat folgen, um Zugriff auf den **🍯keepers-Kanal** zu erhalten.
 
-Further details about Bot Commands can be seen in this [forum post](https://forum.1hive.org/t/discord-bot-commands/1298/2).
+`$help` -  Ermöglicht es Ihnen, eine Verbindung mit Ihrem Tipp-Bot-Konto herzustellen. Es werden Informationen zum Ein- / Auszahlen auf / von Ihrem Tipp-Bot-Konto angezeigt, sodass Sie anderen Mitgliedern der Community über Discord HNY-Trinkgeld geben können.
+
+`!verify` - Ermöglicht es Ihnen, eine Verbindung mit Ihrem [BrightId-Konto](../../guides/brightid.md) herzustellen. Es werden Informationen zum Ein- / Auszahlen auf / von Ihrem Tipp-Bot-Konto angezeigt, sodass Sie anderen Mitgliedern der Community über Discord HNY-Trinkgeld geben können.
+
+Weitere Details zu Bot-Befehlen finden Sie in diesem [Forumsbeitrag](https://forum.1hive.org/t/discord-bot-commands/1298/2).
 
 ## **Tips**
 
-* Check each channels Pinned Messages for useful information about that topic by clicking on the pin icon in the top right of each channel.
+* Überprüfen Sie die angehefteten Nachrichten der einzelnen Kanäle auf nützliche Informationen zu diesem Thema, indem Sie auf das Stecknadelsymbol oben rechts in jedem Kanal klicken.
 
