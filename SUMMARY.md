@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to 1Hive](README.md)
+* [Willkommen](README.md)
 * [Community Covenant](community-covenant.md)
 
 ## 🌱Getting Started

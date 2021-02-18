@@ -2,7 +2,7 @@
 description: 'Honey is money, for everybody.'
 ---
 
-# Welcome to 1Hive
+# Willkommen
 
 1Hive is a community that builds and experiments with decentralized applications and protocols. At the center of these experiments is an effort to build a sustainable and thriving economy around a currency called [Honey](projects/honey/), which is used to influence the direction of the community. Anyone can buy honey or earn it by contributing to 1Hive and can use it, among other things, to vote on funding proposals and protocol changes with a weight that is equal to the Honey they hold.
 
