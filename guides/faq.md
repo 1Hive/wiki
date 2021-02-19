@@ -1,135 +1,156 @@
 # FAQ
 
-## General questions
+## Allgemeine Fragen
 
-**Will there be a Honey Airdrop?**  
-At the moment there are no plans for an airdrop. Members of the 1Hive community can earn Honey through the [Faucet](https://faucet.1hive.org/#/) and through [Pollen](https://1hive.gitbook.io/1hive/getting-started/pollen) by participating on Discord, the Forum and Github.
+**Wird es einen Honey Airdrop geben?**   
+  
+Im Moment gibt es keine Pläne für einen Airdrop. Mitglieder der 1Hive-Community können Honey durch [Faucets](https://faucet.1hive.org/#/) und durch [Pollen](https://1hive.gitbook.io/1hive/getting-started/pollen) verdienen, indem sie an Discord, dem Forum und Github teilnehmen.
 
-As of now, the majority of the community believes that airdropping Honey would not have a beneficial impact on the price and sustainability of the project.
+Derzeit ist die Mehrheit der Gemeinschaft der Ansicht, dass Honey Airdrops keine positiven Auswirkungen auf den Preis und die Nachhaltigkeit des Projekts haben würde.
 
-**Will the faucet be topped up? What happens once it is over?**  
-The [Faucet](https://faucet.1hive.org/#/) pays out 5% of its balance every 48h; Therefore, it never truly “ends”. However, there are discussions about topping it up in order to have it as an incentive for newcomers. You can read and share your opinions about this topic [here](https://forum.1hive.org/t/temporarily-suspend-the-faucet/1580/2). So far over 600 HNY has been distributed through the faucet.
+**Wird das Faucet aufgeladen? Was passiert, wenn es vorbei ist?**   
+  
+Das Faucet zahlt alle 48 Stunden 5% seines Guthabens aus; Daher ist es nie wirklich “zu Ende”. Es gibt jedoch Diskussionen über eine Aufstockung, um sie als Anreiz für Neueinsteiger zu haben. [Hier](https://forum.1hive.org/t/temporarily-suspend-the-faucet/1580/2) können Sie darüber lesen und Ihre Meinung zu diesem Thema mitteilen. Bisher wurden über 600 HNY über das Faucet verteilt .
 
-**When will Farms open again?**  
-1Hive conducted 2 farming periods; The last one ended on December 25th, 2020. At this time farms are inactive and there are no farm proposals set to pass in the near future.
+**Wann werden die Farmen wieder geöffnet?**   
+  
+1Hive führte 2 Farmperioden durch; Die letzte endete am 25. Dezember 2020. Derzeit sind die Betriebe inaktiv und es gibt keine Vorschläge für Betriebe, die in naher Zukunft verabschiedet werden sollen.
 
-**Is the team legit?**   
-1Hive is a DAO \(Decentralized Autonomous Organization\), which means that the team consists of its community members. Anyone can join the 1Hive community, helping it grow and proposing ideas / collaborations of all kinds.
+**Ist das Team vertrauenswürdig?**  
+  
+1Hive ist eine DAO \(Decentralized Autonomous Organization\), was bedeutet, dass das Team aus seinen Gemeinschafts-Mitgliedern besteht. Jeder kann der 1Hive-Gemeinschaft beitreten, ihr Wachstum fördern und Ideen / Kooperationen aller Art vorschlagen.
 
-**What is a DAO?**  
-Decentralized Autonomous Organizations are coordination protocols that enable humans to work together towards a common goal by regulating interactions through rules defined in software. DAO's are unique because they put automation at the center and humans at the edges. There is no CEO, nor managers. Administration, where it must exist, is viewed as a design flaw and ruthlessly minimized.
+**Was ist eine DAO?**   
+  
+Dezentrale autonome Organisationen sind Koordinierungsprotokolle, die es Menschen ermöglichen, gemeinsam auf ein gemeinsames Ziel hinzuarbeiten, indem sie Interaktionen durch in der Software definierte Regeln regulieren. DAOs sind einzigartig, weil sie die Automatisierung in den Mittelpunkt stellen und den Menschen an den Rändern. Es gibt weder einen CEO noch Manager. Verwaltung, wo sie existieren muss, wird als Konstruktionsfehler angesehen und rücksichtslos minimiert.
 
-While centralized administration is a powerful and flexible means to scale human coordination, the advent of decentralized ledgers like Bitcoin and Ethereum have shown how disruptive, powerful, and resilient **sufficiently decentralized** coordination protocols can be. DAOs do not replace companies. Instead they alter the economic landscape by creating novel markets and opportunities in which individuals and companies can participate.
+Während die zentralisierte Verwaltung ein leistungsfähiges und flexibles Mittel zur Skalierung der menschlichen Koordination darstellt, hat das Aufkommen von dezentralen Hauptbüchern wie Bitcoin und Ethereum gezeigt, wie störend, leistungsfähig und belastbar ausreichend dezentrale Koordinierungsprotokolle sein können. DAOs ersetzen keine Unternehmen. Stattdessen verändern sie die Wirtschaftslandschaft, indem sie neue Märkte und Möglichkeiten schaffen, an denen Einzelpersonen und Unternehmen teilnehmen können.
 
-In the case of the 1Hive DAO, a community currency called Honey is used to create a circular economy where public goods and investments that grow the 1Hive economy can be collectively funded with [**conviction voting**](../projects/honey/).
+Im Fall des 1Hive DAO wird eine Gemeinschaftswährung namens Honey verwendet, um eine Kreislaufwirtschaft zu schaffen, in der öffentliche Güter und Investitionen, die die 1Hive-Wirtschaft fördern, gemeinsam durch [Conviction Voting](../projects/honey/) finanziert werden können.
 
-**Does 1Hive have a roadmap?**  
-We have rough [milestones](../projects/milestones.md) updated by individual swarms.
+**Hat 1Hive eine Roadmap?**
 
-**Can I stake Honey?**  
-Currently it is not possible to stake Honey. This feature will become available through [Celeste](https://1hive.gitbook.io/1hive/projects/celeste) once it is launched.
+Wir haben grobe [Meilensteine](../projects/milestones.md), die von einzelnen Schwärmen aktualisiert werden.
 
-**When will Honey be on Uniswap?**   
-The reverse omnibridge enabling moving Honey to Mainnet to add to Uniswap will most likely land on the Ethereum Mainnet in Q1-Q2 2021.
+**Kann man mit Honey stake ansetzen?** 
 
-Since February 2021 HNY is also on Mainnet. Currently on [Sushiswap](https://analytics.sushiswap.fi/pairs/0xdae3ac391756d65fff76502ff4d1d7697a991c5a%20) with the Contract Address [0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE](https://etherscan.io/address/0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE)
+Derzeit ist es nicht möglich, Honey zu setzen. Diese Funktion wird nach dem Start über [Celeste](https://1hive.gitbook.io/1hive/projects/celeste) verfügbar sein.
 
-**I saw a "Matic" channel on Discord. Are we leaving xDai?**   
-Currently there are no plans to leave xDai, but 1Hive is exploring what opportunities may exist to extend the community and ecosystem of products to additional networks including Matic and in development roll-up chains such as Arbitrum.
+**Wann wird Honey auf Uniswap sein?**
 
-**Is there any incentive for holding Honey?**  
-Until staking becomes a reality with [Celeste](https://1hive.gitbook.io/1hive/projects/celeste), holding Honey is primarily used for voting on proposals and to [provide liquidity](https://link.medium.com/Zb26x6KQWcb).
+Die umgekehrte Omnibridge, die es ermöglicht, Honey auf das Mainnet zu verschieben, um es zu Uniswap hinzuzufügen, wird höchstwahrscheinlich in Q1-Q2 2021 auf dem Ethereum Mainnet landen.
 
-## Tokenomics
+**Ich habe einen "Matic"-Kanal auf Discord gesehen. Verlassen wir xDai?**
 
-**What is the Honey \(HNY\) token address? \(xDai Chain\)**  
+Derzeit gibt es keine Pläne, xDai zu verlassen, aber 1Hive untersucht, welche Möglichkeiten bestehen könnten, um die Community und das Ökosystem von Produkten auf zusätzliche Netzwerke wie Matic und in Entwicklungs-Roll-up-Ketten wie Arbitrum auszudehnen.
+
+**Gibt es einen Anreiz, Honey zu halten?**
+
+Bis zum Staken mit [Celeste](https://1hive.gitbook.io/1hive/projects/celeste) wird das Halten von Honey hauptsächlich zur Abstimmung über Vorschläge und zur Bereitstellung von [Liquidität verwendet](https://1hive.gitbook.io/1hive/projects/celeste).
+
+## **Token-Ekonomik**
+
+**Wie lautet die Honey \(HNY\) token Adresse?**  
 [0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9](https://blockscout.com/poa/xdai/tokens/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/)
 
-**What is the Honey \(HNY\) token address? \(Mainnet\)**  
-[0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE](https://etherscan.io/address/0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE)  
-****
+**Warum Honey?**
 
-**Why Honey?**  
-Issuing a digital currency allows a community like 1Hive to build an economy.
+Durch die Ausgabe einer digitalen Währung kann eine Community wie 1Hive eine Wirtschaft aufbauen.
 
-Holding a specific community currency is a bet on the future growth of that communities economy. The more people who hold the currency, the more people who will have interest in participating and growing the economy.
+Das Halten einer bestimmten Gemeinschaftswährung ist eine Wette auf das zukünftige Wachstum dieser Gemeinschaftswirtschaft. Je mehr Menschen die Währung halten, desto mehr Menschen werden Interesse an einer Teilnahme und einem Wachstum der Wirtschaft haben.
 
-Each community may adopt different social norms and may use different issuance and distribution policies to allocate shared resources. The most effective communities will thrive and grow, competing for the attention and loyalty of individuals. Choosing to hold a specific currency will evolve beyond just a financial decision into a political and social one as well.
+Jede Gemeinschaft kann unterschiedliche soziale Normen anwenden und unterschiedliche Ausstellungs- und Verteilungsrichtlinien verwenden, um gemeinsam genutzte Ressourcen zuzuweisen. Die effektivsten Gemeinschaften werden gedeihen und wachsen und um die Aufmerksamkeit und Loyalität des Einzelnen konkurrieren. Die Entscheidung, eine bestimmte Währung zu halten, wird sich über eine finanzielle Entscheidung hinaus zu einer politischen und sozialen Entscheidung entwickeln.
 
-This type of competition is good for everyone, and should hopefully lead to a future that is more free, fair, open, and humane.
+Diese Art von Wettbewerb ist gut für alle und sollte hoffentlich zu einer Zukunft führen, die freier, fairer, offener und menschlicher ist.
 
-**What is the current market cap of Honey?**  
-Market cap can be found here on [CoinGecko](https://www.coingecko.com/en/coins/honey). 
+**Was ist die aktuelle Marktkapitalisierung von Honey?**
 
-**How is Honey's market cap calculated?**  
-Market cap = \(Total Supply - Common Pool\) x Honey Price 
+Die Marktkapitalisierung finden Sie hier auf [CoinGecko](https://www.coingecko.com/en/coins/honey).
 
-**What is Honey's current Issuance Policy?**  
-The inflation rate is currently set to 30% per year. At first, the inflation rate was 60% but the community voted to change it. A dynamic inflation rate has been developed and is likely to be integrated in Q1/Q2. See [issuance page](../projects/honey/issuance.md) for more details.
+**Wie berechnet sich die Marktkapitalisierung von Honey?**
 
-**Where does the newly inflated currency go?**  
-The inflation rate is used to fill the Common Pool, which holds the Honey the DAO has available to use and can only be withdrawn from by passing Honey proposals.
+Marktkapitalisierung = \(Gesamtangebot - gemeinsamer Pool\) x Honey-Preis
 
-The common pool is used to fund pollen, faucet, bounties and collaboration with other projects that may happen in the future. 
+**Was ist die aktuelle Emissionsrichtlinie von Honey?**
 
-**What is the common pool address and where can the token transfers be viewed?**  
+Die Inflationsrate beträgt derzeit 30% pro Jahr. Anfangs lag die Inflationsrate bei 60%, aber die Gemeinde stimmte dafür, sie zu ändern. Eine dynamische Inflationsrate wurde entwickelt und wird voraussichtlich in Q1 / Q2 integriert. Weitere Informationen finden Sie auf der [Ausstellungsseite](../projects/honey/issuance.md).
+
+**Wohin geht die neu gemünzte Währung?**
+
+Die Inflationsrate wird verwendet, um den Gemeinschaftspool zu füllen, der den Honey enthält, den das DAO zur Verfügung hat, und der nur durch Verabschiedung von Honey-Vorschlägen entnommen werden kann.
+
+Der gemeinsame Pool wird zur Finanzierung von Pollen, Faucets, Bounties und der Zusammenarbeit mit anderen Projekten verwendet, die möglicherweise in Zukunft stattfinden werden.
+
+Wie lautet die gemeinsame Pooladresse und wo können die Tokenübertragungen angezeigt werden?
+
 [0x05e42c4Ae51BA28d8aCF8c371009AD7138312CA4](https://blockscout.com/poa/xdai/address/0x05e42c4Ae51BA28d8aCF8c371009AD7138312CA4/token-transfers)
 
-**Where can I see details about Honey?**  
-[Blockscout](https://blockscout.com/poa/xdai/) is where you can track any transaction on the xDai chain. [Here](https://blockscout.com/poa/xdai/address/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/transactions) is where you can track HNY’s ones.
+**Wo kann ich Details zu Honey sehen?** 
+
+In [Blockscout](https://blockscout.com/poa/xdai/) können Sie jede Transaktion in der xDai-Kette verfolgen. [Hier](https://blockscout.com/poa/xdai/address/0x71850b7E9Ee3f13Ab46d67167341E4bDc905Eef9/transactions) können Sie die von HNY verfolgen.
 
 ## xDai & Honeyswap
 
-**Setup Metamask**  
+**Metamask einrichten**   
 [https://honeyswap.org/setup-wallet](https://honeyswap.org/setup-wallet)
 
-**Bridge Any Token**  
+**Überbrücken Sie ein beliebiges Token**   
 [https://honeyswap.org/xdai-bridges](https://honeyswap.org/xdai-bridges)
 
-**Provide Liquidity on Honeyswap**  
+**Bereitstellung von Liquidität für Honeyswap**   
 [https://honeyswap.org/liquidity-pool](https://honeyswap.org/liquidity-pool)
 
-[Understanding Providing Liquidity](https://1hive.gitbook.io/1hive/projects/honeyswap/for-liquidity-providers)
-
-**Understanding Yield Farming on Honeycomb**  
+**Liquidität verstehen**  
 [https://honeyswap.org/yield-farming](https://honeyswap.org/yield-farming)
 
-**Are transaction fees really less than $0.01?**   
-Generally yes, remember to set the Gas Price to 1 GWEI in your wallet when submitting transactions. Note that 1 xDAI is equal to $1 in value. Use the [**xDai Faucet**](https://xdai-faucet.top/) ****to get a small amount of xDAI to use the network.
+**Sind die Transaktionsgebühren wirklich geringer als 0,01 USD?**
 
-![](../.gitbook/assets/image%20%289%29.png)
+Im Allgemeinen ja, denken Sie daran, den Gaspreis in Ihrer Brieftasche auf 1 GWEI zu setzen, wenn Sie Transaktionen einreichen. Beachten Sie, dass 1 xDAI einem Wert von 1 USD entspricht. Verwenden Sie das [xDai-Faucet](https://xdai-faucet.top/), um eine kleine Menge xDAI für die Nutzung des Netzwerks zu erhalten.
 
-**If the fees are so little, how much can I earn by providing liquidity?**   
-Fees earned in Honeyswap trades are 0.25% of the value of the trade that has occurred. They are not related to the gas fees paid to the network \(in our case xDAI\) to execute the trade transaction. Liquidity providers receive none of the networks gas fees but 0.25% of the value of trades split between all liquidity providers in that pair.
+![](../.gitbook/assets/image.png)
 
-**Can any ERC-20 token be bridged to Honeyswap?**   
-Yes, any ERC20, ERC677 and ERC827 can be swapped, by following a few easy steps and by using the [omnibridge](https://omni.xdaichain.com/).
+**Wenn die Gebühren so gering sind, wie viel kann ich mit Liquidität verdienen?**
 
-## Support
+Die in Honeyswap-Trades verdienten Gebühren betragen 0,25% des Wertes des Trades, der stattgefunden hat. Sie beziehen sich nicht auf die Gasgebühren, die an das Netzwerk \(in unserem Fall xDAI\) zur Ausführung der Handelstransaktion gezahlt werden. Liquiditätsanbieter erhalten keine der Gasgebühren des Netzwerks, sondern 0,25% des Wertes der Swaps, die zwischen allen Liquiditätsanbietern in diesem Paar aufgeteilt sind.
 
-**I am new in the community, what should I do?**  
-First of all, welcome! Be sure to follow us on [Telegram](https://t.me/honeyswapDEX), [Discord](https://discord.com/invite/xTZjbRjc8t), [Twitter](https://twitter.com/Honeyswap), and to introduce yourself on our [Forum](https://forum.1hive.org/t/introduce-yourself-to-1hive-thread/130/7). Additionally, if you follow a few easy steps, 1Hive is welcoming you with the [Welcome Bounty!](https://docs.google.com/forms/d/e/1FAIpQLSdP3pTX_BLKqLCmkC84YyDj8PVK5wfOSSaym93SJj5KX6RP2w/viewform) You can earn 1xDai, which will be enough for the faucet and countless transactions! ****
+**Kann ein ERC-20-Token mit Honeyswap gebrückt werden?**  
+  
+Ja, jeder ERC20, ERC677 und ERC827 kann durch Befolgen einiger einfacher Schritte und Verwenden der [Omnibridge](https://omni.xdaichain.com/) ausgetauscht werden.
 
-**I can’t claim my HNY through the faucet, the transaction is failing.**  
-Please, make sure to have at least 0.5 xDai in your wallet! 
+## **Unterstützung**
 
-**I bridged my token but I do not see it on MetaMask. What’s wrong?**  
-Don’t worry, your tokens are safe. Being on the xDai chain you’ll need to add a new Token address to your MetaMask extension.
+**Ich bin neu in der Community. Was soll ich tun?**  
+  
+Zunächst einmal herzlich willkommen! Folgen Sie uns auf [Telegram](https://t.me/honeyswapDEX), [Discord](https://discord.com/invite/xTZjbRjc8t), [Twitter](https://twitter.com/Honeyswap) und stellen Sie sich in unserem [Forum](https://forum.1hive.org/t/introduce-yourself-to-1hive-thread/130/7) vor. Wenn Sie ein paar einfache Schritte folgen, heißt Sie 1Hive zusätzlich mit der [Welcome Bounty](https://docs.google.com/forms/d/e/1FAIpQLSdP3pTX_BLKqLCmkC84YyDj8PVK5wfOSSaym93SJj5KX6RP2w/viewform) willkommen! Sie können 1xDai verdienen, was für das Faucet und unzählige Transaktionen ausreicht!
 
-To add a token first find the token address from one of these lists:  [Bridged Tokens - Blockscout](https://blockscout.com/poa/xdai/bridged-tokens) / [Token List](https://tokenlists.org/token-list?url=https://tokens.honeyswap.org). Then open Metamask → Add Token → Custom Token → Copy Paste the Token Address.
+**Ich kann mein HNY nicht über das Faucet beanspruchen, die Transaktion schlägt fehl.**   
+  
+Bitte stellen Sie sicher, dass Sie mindestens 0,5 xDai in Ihrer Brieftasche haben! 
 
-**How can I withdraw my Honeyswap V2 liquidity using LP Tokens?**  
-You can do so by going on [Honeyswap](https://app.honeyswap.org/#/swap) → Pool → Remove Liquidity \(It may take a few moments to load\).
+**Ich habe mein Token überbrückt, aber ich sehe es nicht auf MetaMask. Was ist falsch?**
 
-**What is the easiest way to purchase xDai?**  
-You can bridge DAI into xDAI from the Ethereum network using the [bridge](https://dai-bridge.poa.network/), or you can buy xDai with fiat using [Ramp](https://ramp.network/buy/?swapAsset=XDAI).
+Keine Sorge, Ihre Token sind sicher. Wenn Sie Mitglied der xDai-Kette sind, müssen Sie Ihrer MetaMask-Erweiterung eine neue Token-Adresse hinzufügen.
 
-**Any tutorial on how to purchase xDai and on how to use Honeyswap?**  
-To use Honeyswap you need to follow a few easy steps: First, send your token \(For example, DAI\) to your Metamask, on the Ethereum network. Then, once you create an xDai network RPC, you can quickly bridge your token through the token bridge \(you’ll need a few $ of ETH for such transaction\). You can read more [here](https://medium.com/honeyswap/introducing-honeyswap-fa34b24e6978) and watch a tutorial [here](https://forum.1hive.org/t/1hive-101-beeginner-video-tutorials/217?u=jasper).
+Um ein Token hinzuzufügen, suchen Sie zuerst die Token-Adresse aus einer dieser Listen: [Bridged Tokens - Blockscout](https://blockscout.com/poa/xdai/bridged-tokens) / [Token List](https://tokenlists.org/token-list?url=https://tokens.honeyswap.org). Öffnen Sie dann Metamask → Token hinzufügen → Benutzerdefiniertes Token → Kopieren Einfügen der Token-Adresse. 
 
-**The faucet doesn't recognize my wallet anymore and is asking me to use another wallet address.**  
-Please, register with another wallet. You will unfortunately have to wait for the registration period again before claiming but then you won’t have any further problems.
+**Wie kann ich meine Honeyswap V2-Liquidität mithilfe von LP-Token abheben?**   
+  
+Sie können dies tun, indem Sie auf [Honeyswap](https://app.honeyswap.org/#/swap) → Pool → Liquidität entfernen klicken \(das Laden kann einige Momente dauern\). 
 
-**My issue was not addressed in the FAQ. What can I do?**  
-The best way to get help from a member of the 1Hive community is to land on the [⛈**help**](https://discord.gg/3AjG7XvRJZ) channel on Discord.
+**Was ist der einfachste Weg, um xDai zu kaufen?**   
+  
+Sie können DAI über die [Brücke](https://dai-bridge.poa.network/) aus dem Ethereum-Netzwerk in xDAI überbrücken oder xDai mit Fiat über [Ramp](https://ramp.network/buy/?swapAsset=XDAI) kaufen.
+
+**Gibt es ein Tutorial zum Kauf von xDai und zur Verwendung von Honeyswap?**  
+  
+Um Honeyswap zu verwenden, müssen Sie einige einfache Schritte ausführen: Senden Sie zunächst Ihr Token \(z. B. DAI\) an Ihr Metamask im Ethereum-Netzwerk. Sobald Sie einen xDai-Netzwerk-RPC erstellt haben, können Sie Ihr Token schnell über die Token-Bridge überbrücken \(für eine solche Transaktion benötigen Sie ein paar US-Dollar ETH\). [Hier](https://medium.com/honeyswap/introducing-honeyswap-fa34b24e6978) können Sie mehr lesen und [hier](https://forum.1hive.org/t/1hive-101-beeginner-video-tutorials/217?u=jasper) ein Tutorial ansehen. 
+
+**Das Faucet erkennt mein Wallet nicht mehr und fordert mich auf, eine andere Brieftaschenadresse zu verwenden.** 
+
+Bitte registrieren Sie sich mit einem anderen Wallet. Sie müssen leider erneut auf die Registrierungsfrist warten, bevor Sie einen Anspruch geltend machen können, aber dann haben Sie keine weiteren Probleme.
+
+**Mein Problem wurde in den FAQ nicht behandelt. Was kann ich machen?**
+
+Der beste Weg, um Hilfe von einem Mitglied der 1Hive-Community zu erhalten, besteht darin, auf dem  
+ [⛈help](https://discord.gg/3AjG7XvRJZ)-Kanal von Discord zu landen.
 

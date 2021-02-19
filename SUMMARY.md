@@ -39,7 +39,7 @@
   * [🌍 Terra](community/swarms/terra.md)
   * [🐝 Buzz](community/swarms/buzz.md)
   * [🏵 Pollen](community/swarms/pollen.md)
-  * [🦋 Morphosis](community/swarms/morphosis.md)
+  * [�� Morphosis](community/swarms/morphosis.md)
   * [🌜 Luna](community/swarms/luna.md)
   * [🐱 Fauna](community/swarms/fauna.md)
   * [🐛 Bug Bounty](community/swarms/bug-bounty.md)
@@ -48,16 +48,16 @@
   * [Buzz Bounty](community/media/buzz-bounty.md)
 * [Design](community/design/README.md)
   * [Brand Guidelines](community/design/brand-guidelines.md)
-* [Courses](community/courses/README.md)
+* [Kurse](community/courses/README.md)
   * [Data Analysis](community/courses/data-analysis.md)
-* [Security](community/security/README.md)
+* [Sicherheit](community/security/README.md)
   * [Bug Bounty](community/security/bug-bounty.md)
 
 ## 🐑Guides
 
 * [xDai](guides/xdai.md)
 * [BrightID](guides/brightid.md)
-* [Wiki Contribution](guides/wiki-contribution.md)
+* [Wiki-Beiträge](guides/wiki-contribution.md)
 * [Troubleshooting](guides/troubleshooting.md)
 * [FAQ](guides/faq.md)
 

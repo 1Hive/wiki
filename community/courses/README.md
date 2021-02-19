@@ -1,10 +1,11 @@
 ---
-description: Morphosis-developed courses for the 1Hive community and beyond
+description: Von Morphosis entwickelte Kurse für die 1Hive-Community und darüber hinaus.
 ---
 
-# Courses
+# Kurse
 
-The [Morphosis swarm](../swarms/morphosis.md) creates courses to help add value to the 1Hive community. Our first course, Data Analysis, started January 18, 2021. There will be more courses available soon. To find out more about Morphosis courses or to help in the creation of courses check out the 🦋**morphosis** channel on our [Discord](https://discord.gg/y7gFW4UCHk).
-
-The classes are held on the 1Hive Discord server in a dedicated voice channel called _classroom_. This channel is grouped with the other voice channels, but it is only visible to enrollees. Once you have enrolled in a course the _classroom_ voice channel will be added to the rooms you are able to see. This prevents disruption to classes in session. Other voice channels on our Discord are open for people to drop in.
+Der [Morphosis-Schwarm](../swarms/morphosis.md) erstellt Kurse, um der 1Hive-Community einen Mehrwert zu bieten. Unser erster Kurs, Datenanalyse, begann am 18. Januar 2021. In Kürze werden weitere Kurse verfügbar sein. Um mehr über Morphosis-Kurse zu erfahren oder bei der Erstellung von Kursen zu helfen, besuchen Sie den  
+🦋**morphosis**-Kanal in unserem [Discord](%20https://discord.gg/y7gFW4UCHk).   
+  
+Die Kurse finden auf dem 1Hive Discord-Server in einem dedizierten Sprachkanal namens c_lassroom_ statt. Dieser Kanal ist mit den anderen Sprachkanälen gruppiert, aber nur für Teilnehmer sichtbar. Sobald Sie sich für einen Kurs angemeldet haben, wird der c_lassroom-_Sprachkanal __zu den Räumen hinzugefügt, die Sie sehen können. Dies verhindert eine Unterbrechung der Klassen in der Sitzung. Andere Sprachkanäle auf unserer Discord sind offen für Besucher.
 

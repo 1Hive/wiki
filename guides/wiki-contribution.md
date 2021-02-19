@@ -1,29 +1,29 @@
 ---
-description: A guide to updating the 1Hive Wiki.
+description: Eine Anleitung zum Aktualisieren des 1Hive-Wikis.
 ---
 
-# Wiki Contribution
+# Wiki-Beiträge
 
-1Hive is a large sprawling ecosystem of many different projects that are continually in development. Maintaining a Wiki is important to ensure that there is a concise overview of the state of 1hive. Everyone is encouraged to contribute to the 1Hive wiki. 
+1Hive ist ein großes, weitläufiges Ökosystem mit vielen verschiedenen Projekten, die ständig weiterentwickelt werden. Die Pflege eines Wikis ist wichtig, um einen präzisen Überblick über den Status von 1hive zu erhalten. Jeder wird ermutigt, zum 1Hive-Wiki beizutragen.
 
-At the very least one member from each swarm will have write access to update the wiki to ensure details about their swarm and associated projects are accurate. Anyone without write access is still able to update a page on the wiki, or the wiki's structure, through Github using a pull request.
+Mindestens ein Mitglied aus jedem Schwarm hat Schreibzugriff, um das Wiki zu aktualisieren und sicherzustellen, dass die Details zu seinem Schwarm und den zugehörigen Projekten korrekt sind. Jeder ohne Schreibzugriff kann weiterhin eine Seite im Wiki oder in der Wiki-Struktur über Github mithilfe einer Pull-Anforderung aktualisieren.
 
-## Editing the Wiki using Github
+## **Bearbeiten des Wikis mit Github**
 
-### First Time Setup Steps
+### **Schritte zum erstmaligen Einrichten**
 
-1. To edit a page without explicit write access requires a Github account. Create one here: [http://github.com/](http://github.com/)
-2. Fork the Wiki from the 1Hive Github organisation to your own Github account by going to this link and clicking `fork` in the top right: [https://github.com/1Hive/wiki](https://github.com/1Hive/wiki) 
+1. Um eine Seite ohne expliziten Schreibzugriff zu bearbeiten, ist ein Github-Konto erforderlich. Erstellen Sie eins hier: [http://github.com/](http://github.com/)​
+2. Forken Sie das Wiki von der 1Hive Github-Organisation in Ihr eigenes Github-Konto, indem Sie auf diesen Link klicken und oben rechts auf Fork klicken: [https://github.com/1Hive/wiki](https://github.com/1Hive/wiki)
 
-### Post Setup Steps
+### **Schritte nach dem Setup**
 
-1. Within the Wiki repo that was forked to your own Github account, navigate to the file you wish to change and edit the file directly in your web browser by clicking on the pencil icon in the top right of the files border. Each file represents a page on the wiki, the names should represent those seen through the Wiki website. 
-2. Use Github markdown to format your entry: [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
-3. If adding a new page, make sure you link to it from the `SUMMARY.md` file in the root directory to include it in the menu.
-4. Commit your change by scrolling to the bottom, entering a commit message and clicking Commit. 
-5. Create a pull request \(PR\) against the 1hive wiki repo by clicking on Pull Requests -&gt; New Pull Request. Note the base repository should be `1Hive/wiki` and the base should be  `master`. Click Create Pull Request.
-6. Enter a title and description about your change and click Create Pull Request.
-7. You have successfully created a PR on the 1Hive wiki repo. You must now wait for it to be reviewed by a member of the 1Hive Github organisation. Reviewers may leave comments so be sure to check your emails and or check back to see if you need to respond.
-8. If you need to update your changes due to reviewer comments, update the file as you did to begin with and they should be reflected in the PR.
-9. Once the PR is considered acceptable it will be merged into the wiki by a reviewer.
+1. Navigieren Sie im Wiki-Repo, das Ihrem eigenen Github-Konto zugeordnet wurde, zu der Datei, die Sie ändern möchten, und bearbeiten Sie die Datei direkt in Ihrem Webbrowser, indem Sie auf das Stiftsymbol oben rechts am Dateirand klicken. Jede Datei stellt eine Seite im Wiki dar. Die Namen sollten diejenigen darstellen, die auf der Wiki-Website angezeigt werden.
+2. Verwenden Sie Github Markdown, um Ihren Eintrag zu formatieren: [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)**​**
+3. Wenn Sie eine neue Seite hinzufügen, stellen Sie sicher, dass Sie aus der Datei SUMMARY.md im Stammverzeichnis \(root\) einen Link zu dieser Seite erstellen, um sie in das Menü aufzunehmen.
+4. Übernehmen Sie Ihre Änderung, indem Sie nach unten scrollen, eine Commit Nachricht eingeben und auf Commit klicken.. 
+5. Erstellen Sie eine Pull-Anfrage \(PR\) für das 1Hive-Wiki-Repo, indem Sie auf Pull-Anfragen -&gt; Neue Pull-Anfrage klicken. Beachten Sie, dass das Basis-Repository `1Hive / Wiki` und die Basis `Master`sein sollte. Klicken Sie auf Pull-Anforderung erstellen.
+6. Geben Sie einen Titel und eine Beschreibung Ihrer Änderung ein und klicken Sie auf Pull-Anforderung erstellen.
+7. Sie haben erfolgreich eine PR im 1Hive-Wiki-Repo erstellt. Sie müssen jetzt warten, bis es von einem Mitglied der 1Hive Github-Organisation überprüft wurde. Prüfer können Kommentare hinterlassen. Überprüfen Sie daher unbedingt Ihre E-Mails und prüfen Sie erneut, ob Sie antworten müssen.
+8. Wenn Sie Ihre Änderungen aufgrund von Überprüfungskommentaren aktualisieren müssen, aktualisieren Sie die Datei zunächst wie zuvor. Sie sollten sich in der PR widerspiegeln.
+9. Sobald die PR als akzeptabel angesehen wird, wird sie von einem Rezensenten in das Wiki eingefügt.
 
