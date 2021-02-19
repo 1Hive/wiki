@@ -1,14 +1,14 @@
 ---
-description: 1Hive is a community
+description: 1Hive ist eine Gemeinschaft
 ---
 
-# Media
+# Medien
 
-A variety of social media platforms are used to communicate and organize within the community. While the primary conversation happens on our Discord and Forum, the 1Hive community is also active on Telegram, Reddit, Twitter, Instagram, Facebook, and GitHub. There are also community members who contribute regularly on Hacker Noon and Medium.
+Eine Vielzahl von Social-Media-Plattformen wird verwendet, um innerhalb der Gemeinschaft zu kommunizieren und zu organisieren. Während das primäre Gespräch in unserem Discord and Forum stattfindet, ist die 1Hive-Gemeinschaft auch auf Telegram, Reddit, Twitter, Instagram, Facebook und GitHub aktiv. Es gibt auch Gemeinschafts-Mitglieder, die regelmäßig Beiträge zu Hacker Noon und Medium leisten.
 
-1Hive and Honeyswap [social media accounts](social-accounts.md) are managed by the [Buzz Swarm](../swarms/buzz.md), which is in constant dialogue on Discord through the Buzz Swarm channels, as well as having regular meetings. 
+1Hive- und Honeyswap-[Social-Mdia-Konten](social-accounts.md) werden vom [Buzz Schwarm](../swarms/buzz.md) verwaltet, der über die Buzz Swarm-Kanäle in ständigem Dialog über Discord steht und regelmäßige Meeting abhält.
 
-## Future steps
+## Zukünftige Schritte
 
-The [Buzz Swarm](../swarms/buzz.md) was recently created for managing media and communication. Since decentralization is the cornerstone of 1Hive, media and communication should be managed for and by the community. See the [original marketing proposal](https://drive.google.com/file/d/1giD4QcVfHNUaAwcXWqEdV4jI2CUSQH24/view) for details about the initial plan. We look forward to sharing experiences in this innovative idea of decentralized promotion.
+Der [Buzz Schwarm](../swarms/buzz.md) wurde neulich für die Verwaltung von Medien und Kommunikation entwickelt. Da die Dezentralisierung das Hauptgebot von 1Hive ist, sollten Medien und Kommunikation für und von der Gemeinschaft verwaltet werden. Einzelheiten zum ursprünglichen Plan finden Sie im [ursprünglichen Marketingvorschlag](https://drive.google.com/file/d/1giD4QcVfHNUaAwcXWqEdV4jI2CUSQH24/view). Wir freuen uns darauf, Erfahrungen mit dieser innovativen Idee der dezentralen Werbung auszutauschen.
 

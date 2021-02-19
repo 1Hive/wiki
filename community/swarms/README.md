@@ -1,10 +1,13 @@
-# Swarms
+# Schwärme
 
-1Hive doesn’t have a management hierarchy, people are free to come and go, contribute a lot or a little, to take up and champion initiatives or to simply hop in and provide casual support.
+1Hive hat keine Managementhierarchie, es steht den Menschen frei, zu kommen und zu gehen, viel oder wenig beizutragen, Initiativen zu ergreifen und zu unterstützen oder einfach einzusteigen und gelegentliche Unterstützung zu leisten.
 
-Swarms are self-organizing working groups within the 1hive community. They do not have any formal authority, they are simply social structures intended to help connect community members, focus discussions, and get things done.
+Schwärme sind selbstorganisierende Arbeitsgruppen innerhalb der 1hive-Community. Sie haben keine formelle Autorität, sondern sind lediglich soziale Strukturen, die dazu beitragen sollen, Community-Mitglieder zu verbinden, Diskussionen zu fokussieren und Dinge zu erledigen.
 
-Swarms can form around horizontal work areas or vertical project initiatives or themes. Rather than a strict structure, swarms are what they need to be and nothing more or less. In some cases a swarm is just a channel in discord, in other cases it may have an associated multisig, typically an Aragon DAO, or similar structure to store funds.
+Schwärme können sich um horizontale Arbeitsbereiche oder vertikale Projektinitiativen oder -themen bilden. Schwärme sind keine strenge Struktur, sondern das, was sie sein müssen, und nicht mehr oder weniger.
 
-Anyone who has an interest in a particular area of the 1Hive ecosystem is encouraged to find the relevant Swarm and get involved to find where they can start contributing.
+In einigen Fällen ist ein Schwarm nur ein Kanal in Discord, in anderen Fällen kann ihm ein Multisig zugeordnet sein, typischerweise ein Aragon DAO oder eine ähnliche Struktur zum Speichern von Geldern.
+
+Jeder, der Interesse an einem bestimmten Bereich des 1Hive-Ökosystems hat, wird aufgefordert, den relevanten Schwarm zu finden und sich zu engagieren, um herauszufinden, wo er anfangen kann, Beiträge zu leisten.  
+
 

@@ -2,7 +2,7 @@
 description: Managed by trusted community members.
 ---
 
-# Social Accounts
+# Soziale Konten
 
 1Hive social accounts are managed by multiple individuals from the community. Using the 🐝[**social-curation**](https://discord.gg/wKM3NnFfsS) **** Discord channel users can make suggestions for posts to be made and the community can vote on them. Details can be found in [Social Curation section](../../getting-started/discord/social-curation.md).
 

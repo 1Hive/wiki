@@ -1,13 +1,13 @@
 ---
-description: 1Hive Google calendar for all upcoming events.
+description: Der 1Hive-Google Kalender für alle bevorstehenden Veranstaltungen.
 ---
 
-# Calendar
+# Kalender
 
-Anyone is welcome to join the public calls scheduled throughout the week by various Swarms to hear what's being built and to have a say. They take part in the Social Room audio channels in our [Discord](discord/). Don't forget the general 1Hive hangout call on Fridays in the Cafe channel!
+Jeder ist herzlich eingeladen, an den öffentlichen Anrufen teilzunehmen, die während der Woche von verschiedenen Schwärmen geplant werden, um zu hören, was gebaut wird, und um mitzureden. Sie finden in den Audiokanälen des Social Room in unserem [Discord ](discord/)statt. Vergessen Sie nicht den allgemeinen 1Hive-Hangout-Anruf am Freitag im Cafe-Kanal!
 
 {% hint style="info" %}
-Note the time is in UTC, regardless of where you're located. To see the calendar in your local time, open it your personal Google calendar by clicking "+ Google Calendar" in the bottom right corner.
+Beachten Sie, dass die Uhrzeit in UTC angegeben ist, unabhängig davon, wo Sie sich befinden. Um den Kalender in Ihrer Ortszeit anzuzeigen, öffnen Sie ihn in Ihrem persönlichen Google-Kalender, indem Sie unten rechts auf "+ Google Kalender" klicken.
 {% endhint %}
 
 {% embed url="https://calendar.google.com/calendar/embed?src=c\_k77c78d1kdt9e1vpk2cvjcc7jg%40group.calendar.google.com&ctz=utc" %}

@@ -9,15 +9,15 @@
 * [Discord](getting-started/discord/README.md)
   * [Soziale Kuration](getting-started/discord/social-curation.md)
 * [Pollen](getting-started/pollen.md)
-* [Calendar](getting-started/calendar.md)
+* [Kalender](getting-started/calendar.md)
 * [Beitragen](getting-started/contributing.md)
 
-## ✨Projects
+## ✨Projekte <a id="projects"></a>
 
 * [Honey](projects/honey/README.md)
   * [Beteiligung](projects/honey/participation.md)
-  * [Issuance](projects/honey/issuance.md)
-  * [Distribution](projects/honey/distribution.md)
+  * [Emissionsrichtlinie](projects/honey/issuance.md)
+  * [Verteilung](projects/honey/distribution.md)
   * [Decisions](projects/honey/decisions.md)
   * [Planned Improvements](projects/honey/planned-improvements.md)
 * [Honeyswap](projects/honeyswap/README.md)
@@ -32,7 +32,7 @@
 
 ## 🌳Community
 
-* [Swarms](community/swarms/README.md)
+* [Schwärme](community/swarms/README.md)
   * [🌐 Commons](community/swarms/commons.md)
   * [🌺 Flora](community/swarms/flora.md)
   * [🌞 Celeste](community/swarms/celeste.md)
@@ -43,8 +43,8 @@
   * [🌜 Luna](community/swarms/luna.md)
   * [🐱 Fauna](community/swarms/fauna.md)
   * [🐛 Bug Bounty](community/swarms/bug-bounty.md)
-* [Media](community/media/README.md)
-  * [Social Accounts](community/media/social-accounts.md)
+* [Medien](community/media/README.md)
+  * [Soziale Konten](community/media/social-accounts.md)
   * [Buzz Bounty](community/media/buzz-bounty.md)
 * [Design](community/design/README.md)
   * [Brand Guidelines](community/design/brand-guidelines.md)
