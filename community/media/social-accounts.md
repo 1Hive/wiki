@@ -21,7 +21,7 @@ description: Managed by trusted community members.
 | Reddit | [r/HNY](https://www.reddit.com/r/HNY/) | [solarmkd](https://forum.1hive.org/u/solarmkd/summary), [berserk](https://forum.1hive.org/u/berserk/summary) |
 | Facebook | [@honeyswapdex](https://www.facebook.com/honeyswapdex/) | [d0sh](https://forum.1hive.org/u/d0sh/summary),[metaverde](https://forum.1hive.org/u/metaverde/summary), [therealmo](https://forum.1hive.org/u/therealmo/summary) |
 | Wechat | [ID:Boring877](https://bit.ly/38UuWeJ) | [boring877](https://forum.1hive.org/u/boring877/summary) |
-| Telegram | [honeyswapDEX](https://t.me/honeyswapDEX) | [therealmo](https://forum.1hive.org/u/therealmo/summary), [solarmkd](https://forum.1hive.org/u/solarmkd/summary) |
+| Telegram | [Honeyswap - 1hive](https://t.me/honeyswapDEX) | [therealmo](https://forum.1hive.org/u/therealmo/summary), [solarmkd](https://forum.1hive.org/u/solarmkd/summary) |
 | Telegram | [Agave - 1hive](https://t.me/Agave1Hive) | [lkngtn](https://forum.1hive.org/u/lkngtn),[ sandpiper](https://forum.1hive.org/u/befitsandpiper), [d0sh](https://forum.1hive.org/u/d0sh), [dogeking](https://forum.1hive.org/u/dogeking/summary), [anisoptera](https://forum.1hive.org/u/anisoptera),[jasper](https://forum.1hive.org/u/jasper) |
 | Youtube | [1hive](https://www.youtube.com/channel/UCg0yASRY6TmXDryitYvsJOQ) | [lkngtn](https://forum.1hive.org/u/lkngtn), [chuygarcia92](https://forum.1hive.org/u/chuygarcia92/summary), [davidphoenix2020](https://forum.1hive.org/u/davidphoenix2020/summary) |
 | Medium | [1Hive](https://medium.com/1hive) | [lkngtn](https://forum.1hive.org/u/lkngtn), [berserk](https://forum.1hive.org/u/berserk), [d0sh](https://forum.1hive.org/u/d0sh) |
