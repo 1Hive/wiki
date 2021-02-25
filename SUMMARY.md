@@ -6,8 +6,7 @@
 ## 🌱Getting Started
 
 * [Terminology](getting-started/terminology.md)
-* [Discord](getting-started/discord/README.md)
-  * [Social Curation](getting-started/discord/social-curation.md)
+* [Discord](getting-started/discord.md)
 * [Pollen](getting-started/pollen.md)
 * [Calendar](getting-started/calendar.md)
 * [Contributing](getting-started/contributing.md)
@@ -45,6 +44,7 @@
   * [🐛 Bug Bounty](community/swarms/bug-bounty.md)
 * [Media](community/media/README.md)
   * [Social Accounts](community/media/social-accounts.md)
+  * [Social Curation](community/media/social-curation.md)
   * [Buzz Bounty](community/media/buzz-bounty.md)
 * [Design](community/design/README.md)
   * [Brand Guidelines](community/design/brand-guidelines.md)

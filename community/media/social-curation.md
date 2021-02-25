@@ -4,7 +4,7 @@ description: Community curated social media.
 
 # Social Curation
 
-The 🐝[**social-curation**](https://discord.gg/wKM3NnFfsS) ****channel on Discord allows users to make requests to spread content on 1Hive social media channels. Requests are voted on by Discord members and executed if enough Discord members approve. Posts in this channel will receive reduced [Pollen](../pollen.md) from reactions.
+The 🐝[**social-curation**](https://discord.gg/wKM3NnFfsS) ****channel on Discord allows users to make requests to spread content on 1Hive social media channels. Requests are voted on by Discord members and executed if enough Discord members approve. Posts in this channel will receive reduced [Pollen](../../getting-started/pollen.md) from reactions.
 
 The goal of this channel is to increase organic traffic while also rewarding content creators. You can read more about the theory behind this channel in the [decentralized marketing and sales strategy post](https://forum.1hive.org/t/decentralized-marketing-and-sales-strategy-for-1hive-buzz/1400).
 

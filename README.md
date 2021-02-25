@@ -34,7 +34,7 @@ If you’ve got this far, and are thinking to yourself, “Wow this sounds amazi
 
 1. Read the [community covenant](community-covenant.md) - this is like our constitution and sets expectation for how we interact with one another.
 2. Explore [active projects and milestones](projects/milestones.md) - at any given time there is work being done across multiple projects and each project may have upcoming milestones. 
-3. Join the [discord](https://discord.com/invite/qPa4h5w) - this is the primary place for synchronous coordination and discussions among community members. Also review the [discord wiki page](getting-started/discord/) for an overview of important channels and roles. 
+3. Join the [discord](https://discord.com/invite/qPa4h5w) - this is the primary place for synchronous coordination and discussions among community members. Also review the [discord wiki page](getting-started/discord.md) for an overview of important channels and roles. 
 4. Join the [forum](https://forum.1hive.org) - this is where you can find longer form, more asynchronous discussions, its also where proposals that allocate Honey from the common pool are discussed. 
 5. Register for [Pollen](getting-started/pollen.md) - when you’re ready to start contributing, the easiest way is to register for Pollen, a program that tracks interactions on Github, the forum, and Discord and rewards community members with Honey on a weekly basis. 
 6. Subscribe to the [1hive calendar ](getting-started/calendar.md)- the voice and video channels on Discord are used by the community for open meetings and events. They are often used in an ad-hoc fashion, but when an event has been scheduled in advance it can often be found on the calendar. 
