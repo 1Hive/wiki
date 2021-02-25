@@ -7,8 +7,7 @@
 ## 🌱Empezando <a id="getting-started-1"></a>
 
 * [Terminología](getting-started-1/terminologia.md)
-* [Discord](getting-started-1/discord/README.md)
-  * [Social Curation](getting-started-1/discord/social-curation.md)
+* [Discord](getting-started-1/discord.md)
 * [Pollen](getting-started-1/pollen.md)
 * [Calendario](getting-started-1/calendario.md)
 * [Como Contribuir](getting-started-1/how-can-you-contribute/README.md)
@@ -34,6 +33,7 @@
 ## 🌳Comunidad <a id="community"></a>
 
 * [Swarms](community/swarms/README.md)
+  * [Untitled](community/swarms/untitled.md)
   * [🌻 Gardens](community/swarms/gardens.md)
   * [🌺 Flora](community/swarms/flora.md)
   * [🌞 Celeste](community/swarms/celeste.md)
@@ -46,6 +46,7 @@
   * [🐛 Bug Bounty](community/swarms/bug-bounty.md)
 * [Media](community/media/README.md)
   * [Redes Sociales](community/media/redes-sociales.md)
+  * [Social Curation](community/media/social-curation.md)
   * [Recompensas de Buzz](community/media/buzz-bounty.md)
 * [Diseño](community/diseno/README.md)
   * [Directrices de la marca](community/diseno/directrices-de-la-marca.md)
