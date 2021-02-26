@@ -33,9 +33,9 @@ Los comandos se pueden ejecutar en el canal **🤖bot-commands**. Estos comandos
 
 `!join` - Si tienes más de 1 HNY, puedes ejecutar esto y seguir la guía en el chat para darte acceso al canal 🍯**keepers**. 
 
-`$help` -  Mostrará información sobre depósitos / retiros desde / hacia su cuenta del bot de propina, lo que le permite dar propina a HNY a otros miembros de la comunidad a través de Discord. Puede reaccionar con emojis debajo del mensaje de ayuda para obtener más detalles.
+`$help` -  Muestra información sobre depósitos/retiros desde/hacia tu cuenta del bot de propina, lo que le permite dar propina a HNY a otros miembros de la comunidad a través de Discord. Puedes reaccionar con emojis debajo del mensaje de ayuda para obtener más detalles.
 
-`!verify` - Abre un bot que lo ayuda a registrar su cuenta Discord con su cuenta [BrightID verificada](../guides/brightid.md). En el pasado, esto era necesario para registrarse para obtener polen y otorgar crédito a otros en Discord. Actualmente no se utiliza, pero es posible que vuelva a estarlo en el futuro.
+`!verify` - Abre un bot que te ayuda a registrar tu cuenta Discord con tu cuenta [BrightID verificada](../guides/brightid.md). En el pasado, esto era necesario para registrarte para obtener polen y otorgar crédito a otros en Discord. Actualmente no se utiliza, pero es posible que vuelva a estarlo en el futuro.
 
 Se pueden ver más detalles en este [post del foro](https://forum.1hive.org/t/discord-bot-commands/1298).
 
