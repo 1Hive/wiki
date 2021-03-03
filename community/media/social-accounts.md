@@ -26,6 +26,7 @@ description: Managed by trusted community members.
 | Kuaishou | @honeyswap | [brandonz](https://forum.1hive.org/u/brandonz/summary) |
 | Medium | [1Hive](https://medium.com/1hive) | [lkngtn](https://forum.1hive.org/u/lkngtn), [berserk](https://forum.1hive.org/u/berserk), [d0sh](https://forum.1hive.org/u/d0sh) |
 | Medium | [Honeyswap](https://medium.com/honeyswap) | [lkngtn](https://forum.1hive.org/u/lkngtn), [berserk](https://forum.1hive.org/u/berserk), [d0sh](https://forum.1hive.org/u/d0sh) |
+| Telegram | [Agave - 1hive](https://t.me/Agave1Hive) | [lkngtn](https://forum.1hive.org/u/lkngtn),[ sandpiper](https://forum.1hive.org/u/befitsandpiper), [d0sh](https://forum.1hive.org/u/d0sh), [dogeking](https://forum.1hive.org/u/dogeking/summary), [anisoptera](https://forum.1hive.org/u/anisoptera),[jasper](https://forum.1hive.org/u/jasper) |
 
 There is also a blog mainly posted to by [lkngtn](https://forum.1hive.org/u/lkngtn): [https://about.1hive.org/blog/](https://about.1hive.org/blog/)
 
