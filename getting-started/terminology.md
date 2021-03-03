@@ -20,17 +20,17 @@ There are various **Projects** and [**Swarms**](../community/swarms/), with goal
 
 [🏵**Pollen**](../community/swarms/pollen.md) - A swarm and system that maintains our SourceCred instance to distribute Honey based on contributions in Discord, the Forum and Github.
 
-🌺[**Flora** ](../community/swarms/flora.md)- A swarm working on dev ops, infrastructure and node operations. Flora is currently exploring running a validators and emerging roll-up chains.
+🌺[**Flora** ](../community/swarms/flora.md) - A swarm working on dev ops, infrastructure and node operations. Flora is currently exploring running a validators and emerging roll-up chains.
 
-[🐱**Fauna**](../community/swarms/fauna.md) _\*\*_- A swarm dedicated to moderation of our discussion channels. Members of this swarm are the ones you're likely to come in contact with should you need help with anything.
+[🐱**Fauna**](../community/swarms/fauna.md) - A swarm dedicated to moderation of our discussion channels. Members of this swarm are the ones you're likely to come in contact with should you need help with anything.
 
-[🦋**Morphosis**](../community/swarms/morphosis.md) _\*\*_- A swarm creating educational content and running online courses in various subjects including analytics and development. Morphosis hopes to enable and encourage more contribution to the 1Hive ecosystem.
+[🦋**Morphosis**](../community/swarms/morphosis.md)- A swarm creating educational content and running online courses in various subjects including analytics and development. Morphosis hopes to enable and encourage more contribution to the 1Hive ecosystem.
 
-[🌜**Luna**](../community/swarms/luna.md) _\*\*_- A swarm that is focused on modeling and simulation of economic principles to help inform concepts and configuration for various applications within the 1Hive ecosystem.
+[🌜**Luna**](../community/swarms/luna.md) - A swarm that is focused on modeling and simulation of economic principles to help inform concepts and configuration for various applications within the 1Hive ecosystem.
 
-🌍[**Terra** ](../community/swarms/terra.md)- A swarm dedicated to translating 1hive projects, documentation and resources.
+🌍[**Terra** ](../community/swarms/terra.md) - A swarm dedicated to translating 1hive projects, documentation and resources.
 
-[🐛**Bug Bounty**](../community/swarms/bug-bounty.md) _\*\*_- A swarm that manages funds available for the 1Hive Contract Bug Bounty program. It is responsible for interpreting and responding to uncovered exploits.
+[🐛**Bug Bounty**](../community/swarms/bug-bounty.md) - A swarm that manages funds available for the 1Hive Contract Bug Bounty program. It is responsible for interpreting and responding to uncovered exploits.
 
 [🌐**Commons**](../community/swarms/commons.md) - A swarm dedicated to implement the iteration 0 of Commons Stack model on top of 1hive technology. We are building our project on top of Gardens in order to provide a different option for creating Conviction Voting DAOs.
 
