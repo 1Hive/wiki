@@ -13,7 +13,7 @@ At any given time there will be many proposals that have been submitted and are 
 
 ![Proposal Feed](../../.gitbook/assets/image%20%285%29.png)
 
-You can filter the feed by proposal type or status, and can sort based on support or recency. The feed contains different types of proposals and its important to understand the difference between proposal types. 
+You can filter the feed by proposal type or status, and can sort based on support or the time that were created. The feed contains different types of proposals and its important to understand the difference between proposal types. 
 
 ### Suggestions
 
