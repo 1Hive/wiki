@@ -40,6 +40,9 @@ Currently there are no plans to leave xDai, but 1Hive is exploring what opportun
 **Is there any incentive for holding Honey?**  
 Until staking becomes a reality with [Celeste](https://1hive.gitbook.io/1hive/projects/celeste), holding Honey is primarily used for voting on proposals and to [provide liquidity](https://link.medium.com/Zb26x6KQWcb).
 
+**Does** _**"voting on a proposal"**_ **actually cost Honey?**  
+No, it doesn't. You are not spending your HNY when voting. Your HNY is not locked either, withdraw your vote and trade if you wish. 
+
 ## Tokenomics
 
 **What is the Honey \(HNY\) token address? \(xDai Chain\)**  
