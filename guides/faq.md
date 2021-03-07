@@ -1,4 +1,4 @@
-# FAQ
+# 1Hive FAQ
 
 ## General questions
 
