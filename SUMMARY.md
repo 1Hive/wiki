@@ -59,5 +59,6 @@
 * [BrightID](guides/brightid.md)
 * [Wiki'ye Katkıda Bulunma](guides/wiki-contribution.md)
 * [Sorun Giderme](guides/troubleshooting.md)
-* [SSS](guides/faq.md)
+* [1Hive SSS](guides/faq.md)
+* [Agave SSS](guides/agave-sss.md)
 

@@ -1,4 +1,4 @@
-# SSS
+# 1Hive SSS
 
 ## Genel Sorular <a id="general-questions"></a>
 
