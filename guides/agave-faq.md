@@ -19,7 +19,7 @@ Circulating Supply: 27,799k
 Current Market Cap: 13.5ML USD
 
 **Is there a Website for Agave?**  
-As of now, there is no direct website for Agave. A landing page will be soon launched. For the foreseeable future, [1hive.org 3](https://1hive.org/#/) is the temporary website for Agave’s token as well.
+A brand new website is about to be ready for Agave. You can already visit the landing page at [Agave.Finance](https://agave.finance/).
 
 **When will the product lunch?**  
 Most likely, within a few weeks \(end of Q1\) Agve's product should be up an running. 
