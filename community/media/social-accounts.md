@@ -22,6 +22,7 @@ description: Managed by trusted community members.
 | Twitter | [Agave\_lending](https://twitter.com/Agave_lending/) | [dogeking](https://forum.1hive.org/u/dogeking/summary), [solarmkd](https://forum.1hive.org/u/solarmkd/summary), [EFRA](https://forum.1hive.org/u/efra) |
 | Twitter | [agave\_es](https://twitter.com/agave_es) |  [EFRA](https://forum.1hive.org/u/efra) , [escanor](https://forum.1hive.org/u/escanor/summary) |
 | Reddit | [r/HNY](https://www.reddit.com/r/HNY/) | [solarmkd](https://forum.1hive.org/u/solarmkd/summary), [berserk](https://forum.1hive.org/u/berserk/summary) |
+| Reddit | [r/AGVE](https://www.reddit.com/r/AGVE/) | [solarmkd](https://forum.1hive.org/u/solarmkd/summary) |
 | Facebook | [@honeyswapdex](https://www.facebook.com/honeyswapdex/) | [d0sh](https://forum.1hive.org/u/d0sh/summary),[metaverde](https://forum.1hive.org/u/metaverde/summary), [therealmo](https://forum.1hive.org/u/therealmo/summary) |
 | Wechat | [ID:Boring877](https://bit.ly/38UuWeJ) | [boring877](https://forum.1hive.org/u/boring877/summary) |
 | Telegram | [Honeyswap - 1hive](https://t.me/honeyswapDEX) | [therealmo](https://forum.1hive.org/u/therealmo/summary), [solarmkd](https://forum.1hive.org/u/solarmkd/summary) |
