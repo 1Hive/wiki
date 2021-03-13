@@ -17,8 +17,8 @@ Current Market Cap: 13.5ML USD
 **Is there a Website for Agave?**  
 A brand new website is about to be ready for Agave. You can already visit the landing page at [Agave.Finance](https://agave.finance/).
 
-**When will the product lunch?**  
-Most likely, within a few weeks \(end of Q1\) Agve's product should be up an running. 
+**When will the product launch?**  
+Most likely, within a few weeks \(end of Q1\) Agve's product should be up and running. 
 
 **Why wasn’t I eligible for the airdrop?**  
 More than an airdrop, the $AGVE token was distributed to contributors and active members of the 1Hive community, prior to a snapshot which took place on January 25th. [Here](https://forum.1hive.org/t/agave-contributor-distribution-announcement/2373) you can find info regarding the token supply, the token allocation, and the list of eligible addresses.
