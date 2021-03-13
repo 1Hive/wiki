@@ -1,7 +1,3 @@
----
-description: Frequently Asked Questions about Agave
----
-
 # Agave FAQ
 
 ## General
