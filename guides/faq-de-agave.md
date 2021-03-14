@@ -1,0 +1,69 @@
+# FAQ de Agave
+
+**¿Cuál es el Ticker de Agave y la Dirección del Contrato?**  
+$AGVE: 0x3a97704a1b25F08aa230ae53B352e2e72ef52843  
+Blockscout: [$AGVE](https://blockscout.com/poa/xdai/address/0x3a97704a1b25F08aa230ae53B352e2e72ef52843/transactions)
+
+**¿Qué es agave?**  
+Agave, en pocas palabras, es Aave en xDai. Para más información, por favor revisa estos artículos: [AGVE Token Launch](https://forum.1hive.org/t/ag-token-launch/2108) - [Announcing Agave, Aave on xDai](https://forum.1hive.org/t/announcing-agaave-aave-on-xdai/1792)
+
+**¿Cuál es el suministro total de $AGVE?**  
+Suministro total: 100k  
+Suministro en circulación: 27,799k  
+Capitalización de mercado actual: 13.5ML USD 
+
+**¿Existe un sitio web para Agave?**  
+Un nuevo sitio para Agave está casi listo. Puedes visitar la pagina principal en [Agave.Finance](https://agave.finance/).
+
+**¿Cuándo será el lanzamiento del producto?**  
+Lo más probable es que en unas pocas semanas \(final del primer trimestre\) el producto estará en funcionamiento.
+
+**¿Por qué no fuí elegible para el airdrop?**  
+Más que un airdrop, el token $AGVE se distribuyó a los contribuyentes y a los miembros activos de la comunidad de 1Hive, antes de un snapshot que tuvo lugar el 25 de enero. Aquí puedes encontrar información sobre el suministro de tokens, la asignación de tokens y la lista de direcciones elegibles.
+
+**¿Cómo reclamo mi airdrop?**  
+Si fuiste elegible para el airdrop \(Por favor, revisa la lista de direcciones [aquí](https://pastebin.com/hjYcbK1k)\) tus tokens de $AGVE asignados ya se enviaron a tu billetera.
+
+**¿Habrán otros airdrops?**  
+Aunque esto es pura especulación en este punto, el equipo de Agave mencionó que en el futuro podría haber un airdrop. 
+
+**¿Qué pasó durante el lanzamiento del token el 28 de febrero?**  
+Durante el lanzamiento del token, los traders experimentaron una alta volatilidad debido a un error cometido al abrir el par AGVE/HNY: La proporción pretendida de  50HNY/10,000AGVE se fijó en 50HNY/1000AGVE. Esto creó una cadena de eventos que causó una volatilidad extrema y el equipo retiró la liquidez y la insertó en otro par \(AGVE-WETH\) en la proporción adecuada. Algunos usuarios pueden haber tenido algunas pérdidas, mientras que otros pueden haberse beneficiado de esto. Por favor, lee [La Reflexión sobre el lanzamiento de Agavee](https://forum.1hive.org/t/reflection-on-the-agave-launch/2517) para obtener más contexto.
+
+**Fuí afectado por el error con respecto a la liquidez inicial y compré $AGVE a un precio muy elevado. ¿Qué pasará ahora?**  
+Dado que, cuando se hace trading, la responsabilidad es del trader, aquellos que se vieron muy afectados por el precio de $AGVE pueden recibir algún tipo de compensación. El equipo está trabajando arduamente en una propuesta y cada miembro puede votar por el bien de la comunidad de 1Hive. Se tomó una snapshot para detectar quiénes se vieron particularmente afectados. Está atento y verifica los canales oficiales para estar al tanto de todo.
+
+**¿Está AGVE en Coingecko?**  
+¡Sí! Aquí está el link: [$AGVE - Coingecko](https://www.coingecko.com/en/coins/agave-token).
+
+**¿Puedo contribuir de alguna manera?**  
+Tu participación siempre es bienvenida. Justo ahora, hay algunas recompensas abiertas y puedes verlas todas [acá](https://www.notion.so/3e13ef2a5d614a828b684640af2212b4?v=20b21ead637341faa87416b85202b584).
+
+**¿Dónde puedo ver una gráfica de $AGVE?**  
+Agave fue lanzada alrededor de hace 24h, justo ahora puedes revisar [esta gráfica](https://analytics.blep.ai/charts/honeyswap.0x0E3e9CCeb13c9f8c6FAF7a0f00F872d6291630dE.trade-1m0s), y tan pronto como se cargue parte del historial, podrás ver el gráfico de $AGVE [Aquí](https://info.honeyswap.org/token/0x3a97704a1b25f08aa230ae53b352e2e72ef52843).  
+
+**¿Cómo puedo proveer liquidez y para cuáles pares?**  
+En este momento, Hay dos pares para $AGVE: [AGVE-WETH](https://info.honeyswap.org/pair/0xeba7cc57e6f745b8d5cab829e07346c65393d78e) y [AGVE-HNY](https://info.honeyswap.org/pair/0x50a4867aee9cafd6ddc84de3ce59df027cb29084). Puedes proveer liquidez haciendo click [aquí](https://app.honeyswap.org/#/pool) → selecciona Add Liquidity → Selecciona el par al cual quieres proveer de liquidez. 
+
+**¿Cómo sigo los próximos anuncios de Agave?**  
+Hay varias formas de estar en contacto con la comunidad de Agave:   
+Discord: [1Hive Discord](https://discord.com/invite/xTZjbRjc8t) [1Hive - Agave Channel](https://discord.com/channels/698287700834517064/813823983120023583) \(english\)  
+Telegram: [https://t.me/Agave1Hive](https://t.me/Agave1Hive) \(english\)   
+Twitter: [https://twitter.com/Agave\_Es](https://twitter.com/Agave_Es)   
+Reddit: [https://www.reddit.com/r/AGVE/](https://www.reddit.com/r/AGVE/) \(english\)
+
+**Mi problema no se abordó en las preguntas frecuentes. ¿Qué puedo hacer?**  
+La mejor manera de obtener ayudad e un miembro de la comunidad de 1Hive es en el canal de Discord [⛈help-es](https://discord.gg/AdKuMTt).
+
+## Alvin
+
+**¿Qué / Quién es Alvin?**  
+Alvin es un token erc20 que se puede intercambiar \(en cantidades enteras\) por un peluche de edición limitada del personaje del logotipo de agave \(llamado Alvin\) y un NFT - Ficha no fungible. Inspirado por el éxito obtenido por Unisocks \(con un valor de más de 100k $ en el momento de escribir este artículo\), es la primera colaboración \(cross-pollination o polinización cruzada\) entre 1Hive y Shenanigan.  
+ALVIN v3: 0x50DBde932A94b0c23D27cdd30Fbc6B987610c831  
+Blockscout: [$ALVIN](https://blockscout.com/poa/xdai/address/0x50DBde932A94b0c23D27cdd30Fbc6B987610c831/transactions) / [Alvin v3  
+](https://info.honeyswap.org/token/0x50dbde932a94b0c23d27cdd30fbc6b987610c831)Suministro Total: 50
+
+**¿Qué es Dripp?**  
+Dripp - [http://dripp.farm/ 1](http://dripp.farm/) es la plataforma en la cual los usuarios pueden hacer stake de su Honey, Particle o ambos para ganar Alvin, Shweatpants \(Pantalones deportivos\), o ambos. El staking estará disponible durante aproximadamente 30 días después del lanzamiento\) will be possible for roughly 30 days from launch. \(4 de marzo\)  
+Para más información, puedes leer [este](https://medium.com/frst/money-laundry-the-rise-of-the-crypto-sock-market-f979aafc3796) artículo.
+

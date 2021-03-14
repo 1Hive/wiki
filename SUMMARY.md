@@ -59,5 +59,6 @@
 * [BrightId](guides/brightid.md)
 * [Wiki Contribution](guides/wiki-contribution.md)
 * [Solución de Problemas](guides/solucion-de-problemas.md)
-* [FAQ](guides/faq.md)
+* [FAQ de 1Hive](guides/faq.md)
+* [FAQ de Agave](guides/faq-de-agave.md)
 
