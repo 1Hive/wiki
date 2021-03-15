@@ -1,8 +1,8 @@
 ---
-description: Community curated social media.
+description: Médias sociaux organisés par la communauté.
 ---
 
-# Social Curation
+# Curation sociale
 
 The 🐝[**social-curation**](https://discord.gg/wKM3NnFfsS) ****channel on Discord allows users to make requests to spread content on 1Hive social media channels. Requests are voted on by Discord members and executed if enough Discord members approve. Posts in this channel will receive reduced [Pollen](../../getting-started/pollen.md) from reactions.
 

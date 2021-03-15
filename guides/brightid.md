@@ -1,14 +1,14 @@
 ---
-description: Getting verified with BrightID
+description: Vérification avec BrightID
 ---
 
 # BrightID
 
-BrightID is an application used to uniquely identify individuals. It doesn't use a centralised authority but determines a user's uniqueness using a social graph. BrightID users scan QR codes of other BrightID users and once they have connected to enough users the application will verify them as unique. Users can also flag other users as having duplicate accounts.
+BrightID est une application utilisée pour identifier de manière unique les individus. Il n'utilise pas d'autorité centralisée mais détermine l'unicité d'un utilisateur à l'aide d'un graphe social. Les utilisateurs de BrightID scannent les codes QR d'autres utilisateurs de BrightID et une fois qu'ils se sont connectés à suffisamment d'utilisateurs, l'application les signale comme uniques. Les utilisateurs peuvent également reporter d'autres utilisateurs ayant plusieurs comptes.
 
-1Hive currently requires a user be BrightID verified to claim from the [Honey Faucet](https://faucet.1hive.org/#/). In future once released, keepers in [Celeste](../projects/celeste/) will also be required to be BrightID verified.
+1Hive nécessite actuellement qu'un utilisateur soit vérifié par BrightID pour réclamer du Honey sur le [faucet](https://faucet.1hive.org/#/). À l'avenir, les détenteurs de [Celeste](https://wiki.1hive.org/projects/celeste) devront également être vérifiés par BrightID.
 
-For details about BrightID and getting verified see the BrightID website:
+Pour plus d'informations sur BrightID et sa vérification, consultez le site Web BrightID :
 
 {% embed url="https://www.brightid.org/" %}
 

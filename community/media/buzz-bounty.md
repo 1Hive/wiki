@@ -1,5 +1,5 @@
 ---
-description: Rewards for media and communication related work
+description: Récompenses pour le travail lié aux médias et à la communication
 ---
 
 # Buzz Bounty

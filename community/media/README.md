@@ -2,7 +2,7 @@
 description: 1Hive is a community
 ---
 
-# Media
+# Média
 
 A variety of social media platforms are used to communicate and organize within the community. While the primary conversation happens on our Discord and Forum, the 1Hive community is also active on Telegram, Reddit, Twitter, Instagram, Facebook, and GitHub. There are also community members who contribute regularly on Hacker Noon and Medium.
 

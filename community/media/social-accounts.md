@@ -1,12 +1,12 @@
 ---
-description: Managed by trusted community members.
+description: Gérés par des membres de confiance de la communauté.
 ---
 
-# Social Accounts
+# Comptes sociaux
 
-1Hive social accounts are managed by multiple individuals from the community. Using the 🐝[**social-curation**](https://discord.gg/wKM3NnFfsS) **** Discord channel users can make suggestions for posts to be made and the community can vote on them. Details can be found in [Social Curation section](social-curation.md).
+Les comptes sociaux 1Hive sont gérés par plusieurs membres de la communauté. En utilisant les chaînes Discord 🐝[**social-curation**](https://discord.gg/wKM3NnFfsS), les utilisateurs peuvent faire des suggestions de messages à publier et la communauté peut voter pour eux. Pour les détails, voir la section [Curation Sociale](social-curation.md).
 
-## Accounts and Admins
+## Comptes et Admins
 
 | Social Media Platform | Username | Admin/s |
 | :--- | :--- | :--- |
@@ -33,5 +33,5 @@ description: Managed by trusted community members.
 | Medium | [Agave Finance](https://agavefinance.medium.com/) |  [blazar](https://forum.1hive.org/u/blazar) |
 | Medium | [Agavees](https://medium.com/agavees) | [escanor](https://forum.1hive.org/u/escanor/summary) |
 
-There is also a blog mainly posted to by [lkngtn](https://forum.1hive.org/u/lkngtn): [https://about.1hive.org/blog/](https://about.1hive.org/blog/)
+Il existe également un blog, dont le contenu est principalement publié par [lkngtn](https://forum.1hive.org/u/lkngtn) : [https://about.1hive.org/blog/](https://about.1hive.org/blog/)
 

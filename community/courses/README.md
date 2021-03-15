@@ -2,7 +2,7 @@
 description: Morphosis-developed courses for the 1Hive community and beyond
 ---
 
-# Courses
+# Cours
 
 The [Morphosis swarm](../swarms/morphosis.md) creates courses to help add value to the 1Hive community. Our first course, Data Analysis, started January 18, 2021. There will be more courses available soon. To find out more about Morphosis courses or to help in the creation of courses check out the 🦋**morphosis** channel on our [Discord](https://discord.gg/y7gFW4UCHk).
 

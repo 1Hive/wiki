@@ -1,4 +1,4 @@
-# Security
+# Sécurité
 
 ## Bug Bounty
 

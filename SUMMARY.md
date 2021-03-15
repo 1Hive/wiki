@@ -1,17 +1,17 @@
 # Table of contents
 
-* [Welcome to 1Hive](README.md)
-* [Community Covenant](community-covenant.md)
+* [Bienvenue sur 1Hive](README.md)
+* [Pacte communautaire](community-covenant.md)
 
-## 🌱Getting Started
+## 🌱Pour commencer <a id="getting-started"></a>
 
-* [Terminology](getting-started/terminology.md)
+* [Terminologie](getting-started/terminology.md)
 * [Discord](getting-started/discord.md)
 * [Pollen](getting-started/pollen.md)
-* [Calendar](getting-started/calendar.md)
-* [Contributing](getting-started/contributing.md)
+* [Calendrier](getting-started/calendar.md)
+* [Contribuer](getting-started/contributing.md)
 
-## ✨Projects
+## ✨Projets <a id="projects"></a>
 
 * [Honey](projects/honey/README.md)
   * [Participation](projects/honey/participation.md)
@@ -27,9 +27,9 @@
   * [User Process](projects/celeste/user-process.md)
 * [Gardens \(Coming soon\)](projects/gardens/README.md)
   * [Technical Overview](projects/gardens/alt-overview.md)
-* [Milestones](projects/milestones.md)
+* [Etapes](projects/milestones.md)
 
-## 🌳Community
+## 🌳Communauté <a id="community"></a>
 
 * [Swarms](community/swarms/README.md)
   * [🌐 Commons](community/swarms/commons.md)
@@ -42,23 +42,23 @@
   * [🌜 Luna](community/swarms/luna.md)
   * [🐱 Fauna](community/swarms/fauna.md)
   * [🐛 Bug Bounty](community/swarms/bug-bounty.md)
-* [Media](community/media/README.md)
-  * [Social Accounts](community/media/social-accounts.md)
-  * [Social Curation](community/media/social-curation.md)
+* [Média](community/media/README.md)
+  * [Comptes sociaux](community/media/social-accounts.md)
+  * [Curation sociale](community/media/social-curation.md)
   * [Buzz Bounty](community/media/buzz-bounty.md)
 * [Design](community/design/README.md)
-  * [Brand Guidelines](community/design/brand-guidelines.md)
-* [Courses](community/courses/README.md)
+  * [Directives de marque](community/design/brand-guidelines.md)
+* [Cours](community/courses/README.md)
   * [Data Analysis](community/courses/data-analysis.md)
-* [Security](community/security/README.md)
+* [Sécurité](community/security/README.md)
   * [Bug Bounty](community/security/bug-bounty.md)
 
 ## 🐑Guides
 
 * [xDai](guides/xdai.md)
 * [BrightID](guides/brightid.md)
-* [Wiki Contribution](guides/wiki-contribution.md)
-* [Troubleshooting](guides/troubleshooting.md)
-* [1Hive FAQ](guides/faq.md)
-* [Agave FAQ](guides/agave-faq.md)
+* [Contribution au Wiki](guides/wiki-contribution.md)
+* [Dépannage](guides/troubleshooting.md)
+* [FAQ 1Hive](guides/faq.md)
+* [FAQ Agave](guides/agave-faq.md)
 

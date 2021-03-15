@@ -1,14 +1,14 @@
 ---
-description: A guide to updating the 1Hive Wiki.
+description: Un guide pour mettre à jour le Wiki 1Hive.
 ---
 
-# Wiki Contribution
+# Contribution au Wiki
 
-1Hive is a large sprawling ecosystem of many different projects that are continually in development. Maintaining a Wiki is important to ensure that there is a concise overview of the state of 1hive. Everyone is encouraged to contribute to the 1Hive wiki. 
+1Hive est un vaste écosystème contenant de nombreux projets différents qui sont continuellement en développement. Le maintien d'un wiki est important pour s'assurer qu'il y a un aperçu concis de l'état de 1hive. Tout le monde est encouragé à contribuer au wiki 1Hive.
 
-At the very least one member from each swarm will have write access to update the wiki to ensure details about their swarm and associated projects are accurate. Anyone without write access is still able to update a page on the wiki, or the wiki's structure, through Github using a pull request.
+Au moins un membre de chaque essaim aura un accès en écriture pour mettre à jour le wiki afin de s'assurer que les détails sur son essaim et les projets associés sont exacts. Toute personne sans accès en écriture peut toujours mettre à jour une page sur le wiki, ou la structure du wiki, via Github en utilisant une pull request.
 
-## Editing the Wiki using Github
+## Editer le Wiki avec Github Editer
 
 ### First Time Setup Steps
 
