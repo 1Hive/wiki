@@ -1,10 +1,10 @@
 # Swarms
 
-1Hive doesn’t have a management hierarchy, people are free to come and go, contribute a lot or a little, to take up and champion initiatives or to simply hop in and provide casual support.
+1Hive n'a pas de hiérarchie de gestion, chacun est libre d'aller et venir, de contribuer beaucoup ou peu, de prendre et de défendre des initiatives ou tout de simplement fournir du soutien occasionnellement.
 
-Swarms are self-organizing working groups within the 1hive community. They do not have any formal authority, they are simply social structures intended to help connect community members, focus discussions, and get things done.
+Les Swarms \(essaims\) sont des groupes de travail auto-organisés au sein de la communauté 1hive. Ils n'ont aucune autorité formelle, ce sont simplement des structures sociales destinées à aider à connecter les membres de la communauté, à centrer les discussions et à faire avancer les choses. Des essaims peuvent se former autour de zones de travail horizontales ou d'initiatives ou de thèmes de projet verticaux. Plutôt qu'une structure stricte, les essaims sont ce dont ils ont besoin et rien de plus ou de moins. 
 
-Swarms can form around horizontal work areas or vertical project initiatives or themes. Rather than a strict structure, swarms are what they need to be and nothing more or less. In some cases a swarm is just a channel in discord, in other cases it may have an associated multisig, typically an Aragon DAO, or similar structure to store funds.
+Dans certains cas, un essaim n'est qu'une chaîne Discord. Dans d'autres cas, il peut avoir un multisig associé, généralement une DAO Aragon, ou une structure similaire pour stocker des fonds. 
 
-Anyone who has an interest in a particular area of the 1Hive ecosystem is encouraged to find the relevant Swarm and get involved to find where they can start contributing.
+Quiconque s'intéresse à un domaine particulier de l'écosystème 1Hive est encouragé à trouver le Swarm pertinent et à s'impliquer pour trouver sur quoi il peut commencer à contribuer.
 
