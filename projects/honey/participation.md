@@ -1,19 +1,19 @@
 ---
 description: >-
-  1Hive and Honey are community driven. Community members are encouraged to
-  participate in the sense-making of the 1Hive DAO by submitting, discussing and
-  staking on proposals.
+  1Hive et Honey sont dirigés par la communauté. Les membres de la communauté
+  sont encouragés à participer à l'élaboration du sens de 1Hive DAO en
+  soumettant, discutant et votant pour des propositions.
 ---
 
 # Participation
 
-## Exploring the proposal feed
+## Explorer le flux de propositions
 
-At any given time there will be many proposals that have been submitted and are under active consideration. Users can explore all proposals using the open source frontend interface hosted at [1hive.org](https://1hive.org/#/home) and decide which proposals they want to support. Of course, more technical users can run the frontend locally, or interact with the contracts directly.
+À tout moment, de nombreuses propositions qui ont été soumises sont activement examinées. Les utilisateurs peuvent voir toutes les propositions à l'aide de l'interface  open source hébergée sur [1hive.org](https://1hive.org/#/home) et décider des propositions qu'ils souhaitent soutenir. Bien entendu, les utilisateurs plus techniques peuvent exécuter le frontend localement ou interagir directement avec les contrats.
 
-![Proposal Feed](../../.gitbook/assets/image%20%285%29.png)
+![Flux de propositions](../../.gitbook/assets/image%20%285%29.png)
 
-You can filter the feed by proposal type or status, and can sort based on support or the time that were created. The feed contains different types of proposals and its important to understand the difference between proposal types.
+Vous pouvez filtrer le flux par type de proposition ou par statut, et trier en fonction du support ou de l'heure de création. Le flux contient différents types de propositions et il est important de comprendre la différence entre les types de proposition.
 
 ### Suggestions
 
@@ -21,7 +21,7 @@ Suggestions, including the _abstain proposal,_ are proposals which do not reques
 
 Suggestions can accumulate support, but they will never pass. Instead, supporting a suggestion will increase the amount of support required for all other distribution proposals to pass. So if you think that the community is spending money unproductively supporting the _abstain proposal,_ or creating a new signaling proposal that makes the case for how you think the community should actually be allocating resources can have a meaningful influence on behavior of the system.
 
-### Proposals
+### Propositions
 
 While all of the items in the feed are types of proposals, the Proposal type is used specifically for proposals that request Honey be distributed from the common pool.
 
@@ -29,7 +29,7 @@ These proposals will have an activation threshold, and can be executed by anyone
 
 The threshold and dynamics of support accumulation regulate how quickly Honey can be distributed from the common pool. The mechanism is discussed in greater depth on the [Distribution page](distribution.md).
 
-### Decisions
+### Décisions
 
 Proposals and Suggestions are the primary means of governance within 1Hive, however, occasionally there is an unavoidable need to make a discrete decision. For example upgrading smart contracts or adjusting the parameterization of a policy.
 
@@ -45,11 +45,11 @@ Once you have created your proposal thread, you can create your proposal by goin
 
 Be sure to provide a short but descriptive title, and link to your forum post.
 
-## **Terminology on 1hive.org**
+## **Terminologie sur 1hive.org**
 
-**Common Pool** refers to the tokens held collectively by the community and which are available for distribution via proposals.
+**Common Pool** fait référence aux tokens détenus collectivement par la communauté. Ils sont disponibles pour être distribués via des propositions. 
 
-**Token Supply** is all of the tokens currently in existence.
+**Token Supply**, c'est l'ensemble des tokens actuellement existants. 
 
-**Active** is the supply that is currently staked to proposals.
+**Active**, c'est l'offre actuellement utilisée pour voter sur les propositions.
 

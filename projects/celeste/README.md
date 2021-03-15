@@ -1,14 +1,14 @@
 ---
-description: An in development subjective oracle.
+description: Un oracle subjectif en développement.
 ---
 
 # Celeste \(Coming soon\)
 
-We have been talking about Celeste and how important it is to 1hive, but there hasn’t been a good source of high level information as to what it is, how it works, and why it’s important all in one place.
+Nous avons parlé de Celeste et de son importance pour 1hive, mais il n'y a pas eu une source d'informations de haut niveau sur ce que c'est, comment cela fonctionne et pourquoi c'est important en un seul endroit.
 
-TLDR: Celeste answers questions by asking them to a random selection of users. The users do not know each other but must answer the same as the majority. Anyone not answering the same as the majority will lose money, anyone answering along with the majority will make money. It is expected this will lead users to answer in accordance with established community values and norms. Within the 1Hive protocol Celeste will not be used to decide a vote’s outcome but will be used to decide whether or not a vote belongs within the organisation.
+TLDR : Celeste répond aux questions en les posant à une sélection aléatoire d'utilisateurs. Les utilisateurs ne se connaissent pas mais doivent répondre de la même manière que la majorité. Quiconque ne répond pas de la même manière que la majorité perdra de l'argent, quiconque répondra avec la majorité gagnera de l'argent. On s'attend à ce que cela amène les utilisateurs à répondre conformément aux valeurs et normes communautaires établies. Dans le cadre du protocole 1Hive, Celeste ne sera pas utilisé pour décider du résultat d’un vote, mais sera utilisé pour décider si un vote appartient ou non à l’organisation.
 
-## What is it
+## Qu'est-ce que c'est
 
 Celeste is a Subjective Oracle, enabling smart contracts to ask questions and receive answers, it can be used to resolve subjective disputes, settle prediction markets, moderate content, and more by enabling developers of decentralized applications to construct and arbitrate challenge-response games.
 
@@ -16,7 +16,7 @@ By invoking Celeste, a developer can align incentives between parties by ensurin
 
 On a technical level, Celeste is a fork of [Aragon Court](https://aragon.org/court), which is used for decentralized dispute resolution. The main difference between Celeste and Aragon Court, besides being on xDai and using Honey as its staking token, is that we have chosen to integrate brightID in order to limit how much stake individuals can add to the system.
 
-## How it works
+## Comment ça marche
 
 In order to understand how celeste works, its helpful to first understand the general pattern of an optimistic, or challenge-response game.
 
@@ -34,7 +34,7 @@ The protocol selects participants \(keepers\) to evaluate a dispute and provide 
 
 By incorporating brightID in Celeste we improve upon purely stake based incentives by ensuring that influence over outcomes are broadly distributed and represent a greater number of unique perspectives in the eventual outcomes, making the mechanism more resilient to attacks and making the subjective resolutions more legitimate.
 
-## Why its important
+## Pourquoi c'est important
 
 There are a bunch of new and interesting opportunities that can be built on Celeste, we can use it to settle prediction markets, create escrow type workflows, curate and categorize tokens on honeyswap, and even help validate computation that happens off-chain.
 
@@ -45,13 +45,13 @@ Additionally, from a purely economic perspective, Celeste is really valuable to 
 1. People will need to stake honey to participate as a keeper, and pay fees in honey in order to create and appeal disputes. As demand to use celeste increases, we will see demand to buy and hold honey increase.
 2. Because we are limiting the amount of honey individuals can stake in Celeste, we can expect that by promoting adoption of Celeste we will see the gini-coefficient of Honey decrease resulting in a more resilient and decentralized community.
 
-## When will it be ready
+## Quand sera-t-il prêt
 
 Celeste has been under active development for some time. There is still lots to do, but we expect to be able to launch Celeste and upgrade the 1hive DAO so that conviction proposals and decisions can be disputed before the end of the year. Keep an eye on the Celeste swarm in discord if you’d like to get involved or follow progress, we should have additional progress, updates, and roll out plans to share over the coming weeks.![:sun\_with\_face:](https://forum.1hive.org/images/emoji/apple/sun_with_face.png?v=9)![:sun\_with\_face:](https://forum.1hive.org/images/emoji/apple/sun_with_face.png?v=9)![:sun\_with\_face:](https://forum.1hive.org/images/emoji/apple/sun_with_face.png?v=9)
 
-## **Useful Links**
+## **Liens utiles**
 
-Discussion about Celeste:
+Discussion sur Celeste :
 
 {% embed url="https://forum.1hive.org/t/celeste-a-brief-primer/1483" %}
 

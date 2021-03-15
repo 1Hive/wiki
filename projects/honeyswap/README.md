@@ -4,9 +4,9 @@ description: honeyswap.org
 
 # Honeyswap
 
-Honeyswap is a decentralized exchange built on the [xDai Chain](https://www.xdaichain.com/), this enables users to experience fast and secure transactions with incredibly low fees. Multiple tokens are available with which you can swap and add liquidity.
+Honeyswap est un échange décentralisé construit sur la [chaîne xDai](https://www.xdaichain.com/), les utilisateurs peuvent faire des transactions rapides et sécurisées avec des frais incroyablement faibles. De nombreux tokens sont disponibles pour l'échange et l'ajout de liquidité.
 
-Analytics like volume, liquidity and transactions can be found [here](https://info.honeyswap.org).
+Une analyse du volume, de la liquidité et des transactions peut être vue [ici](https://info.honeyswap.org).
 
-1Hive and Honeyswap are integrated, 0.05% of the collected fees on the exchange are used to buy the honey token and deposit it to the [common pool](../honey/#economic-overview), so as the exchange's volume increases, buy pressure on honey increases as well as the responsibility of honey holders to allocate tokens in a productive manner through the DAO's [governance](../honey/participation.md).
+1Hive et Honeyswap sont connectés, 0,05% des frais collectés sur l'échange sont utilisés pour acheter du Honey et l'envoyer dans le [pool commun](../honey/#economic-overview). A mesure que le volume de l'échange augmente, la pression d'achat de Honey augmente, ainsi que la responsabilité des détenteurs de Honey d'allouer des tokens de manière productive grâce à la [gouvernance](../honey/participation.md) de la DAO.
 

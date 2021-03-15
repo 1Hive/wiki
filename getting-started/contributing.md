@@ -6,13 +6,13 @@ Chacun peut venir et commencer à contribuer. La source du potentiel de 1Hive es
 
 ## **Comment contribuer**
 
-Interagissez, partagez des idées et rejoignez la discussion sur nos plateformes. Inscrivez-vous à la distribution hebdomadaire de [Pollen](https://wiki.1hive.org/getting-started/pollen) et gagnez du pollen, qui récompense les individus pour leurs contributions sur Discord, le Forum et Github.
+Interagissez, partagez des idées et rejoignez la discussion sur nos plateformes. Inscrivez-vous à la distribution hebdomadaire de [Pollen](https://wiki.1hive.org/v/francais/getting-started/pollen) et gagnez du pollen, qui récompense les individus pour leurs contributions sur Discord, le Forum et Github.
 
-Découvrez nos projets existants et à venir et discutez des idées avec le [Swarm](http://swarm) \(essaim\) concerné. Si vous avez une nouvelle idée et qu'elle ne rentre nulle part, vous pouvez créer une [proposition](https://wiki.1hive.org/projects/honey/participation) de financement et créer un nouvel essaim ou y travailler de manière indépendante.
+Découvrez nos projets existants et à venir et discutez des idées avec le [Swarm](https://wiki.1hive.org/v/francais/community/swarms) \(essaim\) concerné. Si vous avez une nouvelle idée et qu'elle ne rentre nulle part, vous pouvez créer une [proposition](https://wiki.1hive.org/v/francais/projects/honey/participation) de financement et créer un nouvel essaim ou y travailler de manière indépendante.
 
-Découvrez les [Buzz Bounties](https://wiki.1hive.org/community/media/buzz-bounty) pour diverses tâches, généralement liées aux médias et à la communication, qui seront récompensées en Honey.
+Découvrez les [Buzz Bounties](https://wiki.1hive.org/v/francais/community/media/buzz-bounty) pour diverses tâches, généralement liées aux médias et à la communication, qui seront récompensées en Honey.
 
-Fournissez de l'aide et des conseils autour de la communauté et vous pourriez être repéré par l'un des membres [Fauna](https://wiki.1hive.org/community/swarms/fauna) et recevoir un Prix Fauna.
+Fournissez de l'aide et des conseils autour de la communauté et vous pourriez être repéré par l'un des membres [Fauna](https://wiki.1hive.org/v/francais/community/swarms/fauna) et recevoir un Prix Fauna.
 
-Si vous pensez qu'il y a quelque chose qui devrait être ajouté ou mis à jour dans le wiki 1Hive, envisagez de faire une [contribution au wiki](https://wiki.1hive.org/guides/wiki-contribution).
+Si vous pensez qu'il y a quelque chose qui devrait être ajouté ou mis à jour dans le wiki 1Hive, envisagez de faire une [contribution au wiki](https://wiki.1hive.org/v/francais/guides/wiki-contribution).
 
