@@ -1,12 +1,12 @@
 ---
-description: Translations and Global Integration
+description: Traductions et intégration globale
 ---
 
 # 🌍 Terra
 
 The 🌍 Terra Swarm is responsible for translating documentation from other swarms, keeping the wiki updated in every language, and managing the new [1Hive international discord server](https://discord.gg/gM8Cy8mcPm). Also, Terra DAO members assist in creating content other DAOs, especially in terms of making the text SEO-friendly as it requires a specific skill set.
 
-## Useful Links
+## Liens utiles
 
 [Aragon DAO](https://aragon.1hive.org/#/terradao/0x339fa43b3001f4e17a530a5abf5cc744b54ee79b/) holding Terra funds.
 
@@ -16,11 +16,11 @@ The 🌍 Terra Swarm is responsible for translating documentation from other swa
 
 [Terra DAO](https://docs.google.com/document/d/1SC1FOmX3PA3A-Z8D9OEAalXKBFQJeWYAJHrVo310TyU/edit#heading=h.3sdj4z5mrep9) proposal
 
-## Roles and Responsibilities
+## Rôles et responsabilités
 
-### Terra DAO Members
+### Membres de Terra DAO 
 
-| Members | Role |
+| Membre | Rôle |
 | :--- | :--- |
 | [lescanore](https://forum.1hive.org/u/Escanor/summary) | Translations Lead, Multi Linguist & Demographic Expert |
 | [boring877](https://forum.1hive.org/u/boring877/summary) | Accounts and Management, Multi Linguist |
@@ -28,28 +28,28 @@ The 🌍 Terra Swarm is responsible for translating documentation from other swa
 | [dogeking](https://forum.1hive.org/u/dogeking/summary) | Discord organizer and Active Member |
 | [stonky](https://forum.1hive.org/u/stonky/summary) | Translation Expert, Researcher |
 
-Each of the above members have equal voting weight within the Terra DAO to manage funds.
+Chacun des membres ci-dessus a un poids de vote égal au sein de Terra DAO pour gérer les fonds.
 
-### Terra Translators
+### Traducteurs Terra 
 
-| Members | Role |
+| Membre | Rôle |
 | :--- | :--- |
-| [lescanore](https://forum.1hive.org/u/escanor/summary) | Spanish |
-| [chuygarcia92](https://forum.1hive.org/u/chuygarcia92/summary) | Spanish QA |
-| [mrtdlgc](https://forum.1hive.org/u/mrtdlgc/summary) | Turkish |
-| [Etsyo](https://forum.1hive.org/u/etsyo/summary) | Turkish QA |
-| [dw](https://forum.1hive.org/u/farmerd/summary) | Portuguese |
-| [luigy](https://forum.1hive.org/u/luigy/summary) | Portuguese QA |
-| [stonky](https://forum.1hive.org/u/stonky/summary) | Italian |
-| TBA | Italian QA |
-| [boring877](https://forum.1hive.org/u/boring877/summary) | Chinese  |
-| TBA | Chinese QA |
-| TBA | German |
-| TBA | German QA |
-| [omahs](https://forum.1hive.org/u/omahs/summary) | French |
-| [Felix](https://forum.1hive.org/u/felix/summary) | French QA |
+| [lescanore](https://forum.1hive.org/u/escanor/summary) | Espagnol |
+| [chuygarcia92](https://forum.1hive.org/u/chuygarcia92/summary) | Espagnol QR |
+| [mrtdlgc](https://forum.1hive.org/u/mrtdlgc/summary) | Turc |
+| [Etsyo](https://forum.1hive.org/u/etsyo/summary) | Turc QR |
+| [dw](https://forum.1hive.org/u/farmerd/summary) | Portugais |
+| [luigy](https://forum.1hive.org/u/luigy/summary) | Portugais QR |
+| [stonky](https://forum.1hive.org/u/stonky/summary) | Italien |
+| TBA | Italien QR |
+| [boring877](https://forum.1hive.org/u/boring877/summary) | Chinois  |
+| TBA | Chinois QR |
+| TBA | Allemand |
+| TBA | Allemand QR |
+| [omahs](https://forum.1hive.org/u/omahs/summary) | Français |
+| [Felix](https://forum.1hive.org/u/felix/summary) | Français QR |
 
-## Funding Proposals
+## Propositions de financement
 
-Only one funding proposal has been made, which can be seen throughout the following forum post: [https://forum.1hive.org/t/terra-dao-proposal/1912](https://forum.1hive.org/t/terra-dao-proposal/1912)
+Une seule proposition de financement a été faite, elle peut être vue sur le forum : [https://forum.1hive.org/t/terra-dao-proposal/1912](https://forum.1hive.org/t/terra-dao-proposal/1912)
 
