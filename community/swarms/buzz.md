@@ -28,7 +28,7 @@ The Buzz Swarm creates and maintains documentation associated with the 1Hive DAO
 | [blazar](https://forum.1hive.org/u/blazar/summary) | Marketing Specialist & Document Manager |
 | [solarmkd](https://forum.1hive.org/u/solarmkd/summary) | Marketing Specialist and Multi Linguist |
 | [davidphoenix2020](https://forum.1hive.org/u/davidphoenix2020/summary) | SEO & Dev. Lead |
-| [metaverde](https://forum.1hive.org/u/metaverde/summary) | Community Manager |
+| [dogeking](https://forum.1hive.org/u/dogeking/summary) | Community Manager |
 
 Each of the above members have equal voting weight within the Buzz DAO to manage funds.
 
