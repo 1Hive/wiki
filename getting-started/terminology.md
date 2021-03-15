@@ -1,6 +1,6 @@
 # Terminologie
 
-Il existe divers **Projets** et [**Swarms**](https://wiki.1hive.org/community/swarms), avec des objectifs allant de la communication au ****développement de nouveaux protocoles et plates-formes pour 1Hive.
+Il existe divers **Projets** et [**Swarms**](https://wiki.1hive.org/v/francais/community/swarms), avec des objectifs allant de la communication au ****développement de nouveaux protocoles et plates-formes pour 1Hive.
 
 ## Projets
 
@@ -8,7 +8,7 @@ Il existe divers **Projets** et [**Swarms**](https://wiki.1hive.org/community/sw
 
 [🍃**Honeyswap**](../projects/honeyswap/) - Un fork d'Uniswap v2 sur xDai permettant les swaps, les prêts flash et les oracles pour la communauté xDai. Une partie des frais du volume sur Honeyswap est utilisée pour acheter du Honey et l'envoyer au pool commun 1Hive.
 
-[🌞**Celeste**](../projects/celeste/) - Un protocole oracle subjectif qui intègre BrightId pour rendre la participation moins capitalistique. Il sera utilisé, entre autres, pour faire appliquer le [Pacte communautaire 1Hive](https://wiki.1hive.org/community-covenant).
+[🌞**Celeste**](../projects/celeste/) - Un protocole oracle subjectif qui intègre BrightId pour rendre la participation moins capitalistique. Il sera utilisé, entre autres, pour faire appliquer le [Pacte communautaire 1Hive](https://wiki.1hive.org/v/francais/community-covenant).
 
 [🌻**Gardens**](../projects/gardens/) - Une plate-forme où les communautés peuvent émettre leurs propres devises et les projets de jetons existants peuvent engager leur communauté en parrainant des efforts de développement dirigés par la communauté.
 

@@ -4,6 +4,8 @@ description: Les règles que nous nous engageons à respecter au sein de la comm
 
 # Pacte communautaire
 
+
+
 {% hint style="info" %}
 Le pacte communautaire 1Hive est actuellement [ouvert pour examen](https://forum.1hive.org/t/drafting-the-1hive-community-covenant-for-celeste/1548).
 {% endhint %}
