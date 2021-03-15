@@ -1,14 +1,16 @@
 ---
-description: 1Hive is a community
+description: 1Hive est une communauté
 ---
 
 # Média
 
-A variety of social media platforms are used to communicate and organize within the community. While the primary conversation happens on our Discord and Forum, the 1Hive community is also active on Telegram, Reddit, Twitter, Instagram, Facebook, and GitHub. There are also community members who contribute regularly on Hacker Noon and Medium.
+Une variété de plateformes de médias sociaux sont utilisées pour communiquer et s'organiser au sein de la communauté. Alors que la conversation principale se déroule sur notre Discord et notre forum, la communauté 1Hive est également active sur Telegram, Reddit, Twitter, Instagram, Facebook et GitHub. Il y a aussi des membres de la communauté qui contribuent régulièrement sur Hacker Noon et Medium.
 
-1Hive and Honeyswap [social media accounts](social-accounts.md) are managed by the [Buzz Swarm](../swarms/buzz.md), which is in constant dialogue on Discord through the Buzz Swarm channels, as well as having regular meetings. 
+Les comptes de réseaux sociaux [comptes de réseaux sociaux](social-accounts.md) 1Hive et Honeyswap sont gérés par le [Buzz Swarm](../swarms/buzz.md), qui est en dialogue constant sur Discord via les chaînes Buzz Swarm et organise des réunions régulièrement.
 
-## Future steps
+## Prochaines étapes
 
-The [Buzz Swarm](../swarms/buzz.md) was recently created for managing media and communication. Since decentralization is the cornerstone of 1Hive, media and communication should be managed for and by the community. See the [original marketing proposal](https://drive.google.com/file/d/1giD4QcVfHNUaAwcXWqEdV4jI2CUSQH24/view) for details about the initial plan. We look forward to sharing experiences in this innovative idea of decentralized promotion.
+Le [Buzz Swarm](../swarms/buzz.md) a été récemment créé pour la gestion des médias et de la communication. La décentralisation étant la pierre angulaire de 1Hive, les médias et la communication doivent être gérés pour et par la communauté. Consultez la [proposition marketing originale](https://drive.google.com/file/d/1giD4QcVfHNUaAwcXWqEdV4jI2CUSQH24/view) pour plus de détails sur le plan initial. Nous sommes impatients de partager nos expériences dans cette idée innovante de promotion décentralisée.
+
+
 
