@@ -3,7 +3,7 @@
 ## **Questions générales**
 
 **Y aura-t-il un airdrop de Honey ?**  
-Pour le moment, il n'y a pas de projet d’airdrop. Les membres de la communauté 1Hive peuvent gagner du Honey via le [Faucet](https://faucet.1hive.org/#/) et via [Pollen](https://1hive.gitbook.io/1hive/getting-started/pollen) en participant sur Discord, le Forum et Github.
+Pour le moment, il n'y a pas de projet d’airdrop. Les membres de la communauté 1Hive peuvent gagner du Honey via le [Faucet](https://faucet.1hive.org/#/) et via [Pollen](https://wiki.1hive.org/v/francais/getting-started/pollen) en participant sur Discord, le Forum et Github.
 
 À l'heure actuelle, la majorité de la communauté pense qu’un airdrop de Honey n'aurait pas un impact bénéfique sur le prix et la durabilité du projet.
 
