@@ -21,13 +21,13 @@ Les organisations autonomes décentralisées sont des protocoles de coordination
 
 Alors que l'administration centralisée est un moyen puissant et flexible de faire évoluer la coordination humaine, l'avènement de registres décentralisés comme Bitcoin et Ethereum a montré à quel point les protocoles de coordination **suffisamment décentralisés** peuvent être perturbateurs, puissants et résilients. Les DAO ne remplacent pas les entreprises. Au lieu de cela, elles modifient le paysage économique en créant de nouveaux marchés et opportunités auxquels les particuliers et les entreprises peuvent participer.
 
-Dans le cas de la DAO 1Hive, une monnaie communautaire appelée Honey est utilisée pour créer une économie circulaire où les biens publics et les investissements qui font croître l'économie de 1Hive peuvent être financés collectivement par ****[**vote de conviction**](https://wiki.1hive.org/projects/honey).
+Dans le cas de la DAO 1Hive, une monnaie communautaire appelée Honey est utilisée pour créer une économie circulaire où les biens publics et les investissements qui font croître l'économie de 1Hive peuvent être financés collectivement par ****[**vote de conviction**](https://wiki.1hive.org/v/francais/projects/honey).
 
 **Est-ce que 1Hive a une feuille de route ?**  
-Nous avons des [étapes](https://wiki.1hive.org/projects/milestones) approximatives mis à jour par les essaims.
+Nous avons des [étapes](https://wiki.1hive.org/v/francais/projects/milestones) approximatives mis à jour par les essaims.
 
 **Puis-je stake Honey ?**  
-Le staking de Honey n’est pas possible pour l’instant. Cette fonctionnalité sera disponible via [Celeste](https://1hive.gitbook.io/1hive/projects/celeste) une fois qu’il sera lancé.
+Le staking de Honey n’est pas possible pour l’instant. Cette fonctionnalité sera disponible via [Celeste](https://wiki.1hive.org/v/francais/projects/celeste) une fois qu’il sera lancé.
 
 **Quand Honey sera-t-il sur Uniswap ?**  
 L'omnibridge inversé permettant d’envoyer du Honey sur Mainnet pour l'ajouter à Uniswap arrivera très probablement sur le réseau principal Ethereum au premier ou deuxième trimestre 2021.
@@ -38,7 +38,7 @@ Depuis février 2021, HNY est également sur Mainnet. Actuellement sur [Sushiswa
 Actuellement, il n'est pas prévu de quitter xDai, mais 1Hive explore les opportunités qui ****pourraient exister pour étendre la communauté et l'écosystème de produits à des réseaux supplémentaires, y compris Matic et dans des chaînes de développement telles qu'Arbitrum.
 
 **Y a-t-il une incitation à détenir du Honey ?**  
-Jusqu'à ce que le staking devienne une réalité avec [Celeste](https://1hive.gitbook.io/1hive/projects/celeste), la détention de Honey est principalement utilisée pour voter sur des propositions et pour [fournir des liquidités](https://link.medium.com/Zb26x6KQWcb).
+Jusqu'à ce que le staking devienne une réalité avec [Celeste](https://wiki.1hive.org/v/francais/projects/celeste), la détention de Honey est principalement utilisée pour voter sur des propositions et pour [fournir des liquidités](https://link.medium.com/Zb26x6KQWcb).
 
 **Est-ce que** _**« voter pour une proposition »**_ **coûte réellement du Honey ?**  
 Non, ce n'est pas le cas. Vous ne dépensez pas votre HNY lorsque vous votez. Votre HNY n'est pas verrouillé non plus, vous pouvez retirer votre vote et trader si vous le souhaitez.
@@ -68,7 +68,7 @@ Le market cap peut être consutlé sur [CoinGecko](https://www.coingecko.com/en/
 Market cap = \(Total Supply - Pool Commun\) x Prix de Honey
 
 **Quelle est la politique d'émission actuelle de Honey ?**  
-Le taux d'inflation est actuellement fixé à 30% par an. Au début, le taux d'inflation était de 60% mais la communauté a voté pour le changer. Un taux d'inflation dynamique a été développé et devrait être intégré au 1er ou 2e trimestre. Voir la page d'[émission](https://wiki.1hive.org/projects/honey/issuance) pour plus de détails.
+Le taux d'inflation est actuellement fixé à 30% par an. Au début, le taux d'inflation était de 60% mais la communauté a voté pour le changer. Un taux d'inflation dynamique a été développé et devrait être intégré au 1er ou 2e trimestre. Voir la page d'[émission](https://wiki.1hive.org/v/francais/projects/honey/issuance) pour plus de détails.
 
 **Où va la monnaie nouvellement émise ?**  
 Le taux d'inflation est utilisé pour remplir le pool commun, qui contient le Honey que la DAO a à disposition et ne peut être retiré qu'en faisant passer des propositions. 
@@ -92,7 +92,7 @@ Vous pouvez suivre n'importe quelle transaction sur la chaîne xDai sur [Blocksc
 **Fournir de la liquidité sur Honeyswap**  
 [https://honeyswap.org/liquidity-pool](https://honeyswap.org/liquidity-pool)
 
-[Comprendre la fourniture de liquidités](https://wiki.1hive.org/projects/honeyswap/for-liquidity-providers)
+[Comprendre la fourniture de liquidités](https://wiki.1hive.org/v/francais/projects/honeyswap/for-liquidity-providers)
 
 **Comprendre le Yield Farming sur Honeycomb**  
 [https://honeyswap.org/yield-farming](https://honeyswap.org/yield-farming)
@@ -128,7 +128,7 @@ Vous pouvez le faire en allant sur [Honeyswap](https://app.honeyswap.org/#/swap)
 Vous pouvez _bridger_ DAI à xDAI à partir du réseau Ethereum en utilisant le [bridge](https://dai-bridge.poa.network/), ou vous pouvez acheter xDai avec du fiat sur [Ramp](https://ramp.network/buy/?swapAsset=XDAI).
 
 **Existe-t-il un tutoriel sur comment acheter des xDai et comment utiliser Honeyswap ?**  
-Pour utiliser Honeyswap, vous devez suivre quelques étapes simples : Tout d'abord, envoyez votre token \(par exemple, DAI\) sur votre Metamask, sur le réseau Ethereum. Ensuite, une fois que vous avez créé un RPC réseau xDai, vous pouvez rapidement relier votre jeton à travers le bridge \(vous aurez besoin d’un peu d'ETH pour cette transaction\). Pour en savoir plus c’est [ici](https://medium.com/honeyswap/introducing-honeyswap-fa34b24e6978) et pour regarder un tutoriel, [ici](http://here).
+Pour utiliser Honeyswap, vous devez suivre quelques étapes simples : Tout d'abord, envoyez votre token \(par exemple, DAI\) sur votre Metamask, sur le réseau Ethereum. Ensuite, une fois que vous avez créé un RPC réseau xDai, vous pouvez rapidement relier votre jeton à travers le bridge \(vous aurez besoin d’un peu d'ETH pour cette transaction\). Pour en savoir plus c’est [ici](https://medium.com/honeyswap/introducing-honeyswap-fa34b24e6978) et pour regarder un tutoriel, [ici](https://forum.1hive.org/t/1hive-101-beeginner-video-tutorials/217).
 
 **Le faucet ne reconnaît plus mon portefeuille et me demande d'utiliser une autre adresse de portefeuille.**  
 Veuillez vous inscrire avec un autre portefeuille. Vous devrez malheureusement attendre à nouveau la période d'inscription avant de pouvoir claim, mais vous n'aurez plus aucun problème.
