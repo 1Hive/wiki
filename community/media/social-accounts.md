@@ -1,14 +1,15 @@
 ---
-description: Managed by trusted community members.
+description: Verwaltet von vertrauenswürdigen Community-Mitgliedern.
 ---
 
 # Soziale Konten
 
-1Hive social accounts are managed by multiple individuals from the community. Using the 🐝[**social-curation**](https://discord.gg/wKM3NnFfsS) **** Discord channel users can make suggestions for posts to be made and the community can vote on them. Details can be found in [Social Curation section](../../getting-started/discord/social-curation.md).
+1Hive-Sozialkonten werden von mehreren Personen aus der Community verwaltet. Über den [**🐝social-curation**](https://discord.com/invite/wKM3NnFfsS) können Benutzer Vorschläge für Beiträge machen und die Community kann darüber abstimmen.  
+Details finden Sie im Abschnitt [Soziale Kuration](../../getting-started/discord/social-curation.md).
 
-## Accounts and Admins
+## Konten und Admins
 
-| Social Media Platform | Username | Admin/s |
+| Soziale Medien Platform | Username | Admin/s |
 | :--- | :--- | :--- |
 | Instagram | [honeyswap.1hive](https://www.instagram.com/honeyswap.1hive/) | [monstrosity](https://forum.1hive.org/u/monstrosity/summary) |
 | Instagram | [honeyswap.1hive\_es](https://www.instagram.com/honeyswap.1hive_es/) | [escanor](https://forum.1hive.org/u/escanor/summary) |
@@ -36,5 +37,5 @@ description: Managed by trusted community members.
 | Medium | [1HiveTR](https://medium.com/1hivetr) | [mrtdlgc](https://forum.1hive.org/u/mrtdlgc/summary) |
 | Medium | [AgaveTR](https://medium.com/agavetr) | [mrtdlgc](https://forum.1hive.org/u/mrtdlgc/summary) |
 
-There is also a blog mainly posted to by [lkngtn](https://forum.1hive.org/u/lkngtn): [https://about.1hive.org/blog/](https://about.1hive.org/blog/)
+Es gibt auch einen Blog, der hauptsächlich von [Luke ](https://forum.1hive.org/u/lkngtn)gepostet wird: [https://about.1hive.org/blog/](https://about.1hive.org/blog/)
 
