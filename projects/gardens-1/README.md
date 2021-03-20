@@ -2,7 +2,7 @@
 description: An in development subjective oracle.
 ---
 
-# Celeste \(Coming soon\)
+# Gardens \(Demnächst\)
 
 We have been talking about Celeste and how important it is to 1hive, but there hasn’t been a good source of high level information as to what it is, how it works, and why it’s important all in one place.
 

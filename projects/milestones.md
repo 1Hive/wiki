@@ -1,62 +1,57 @@
 ---
-description: Upcoming milestones
+description: Kommende Meilensteine
 ---
 
-# Milestones
+# Meilensteine
 
-## Recaps
+## Rückblicke
 
-See the forum posts below for the most recent updates from various swarms.
+In den Forenbeiträgen unten finden Sie die neuesten Updates von verschiedenen Schwärmen.
 
 [1Hive Weekly Recap \(4th Jan - 11th Jan\)](https://forum.1hive.org/t/1hive-weekly-recap-cw-53-4th-jan-11th-jan/1815)   
 [1Hive Weekly Recap \(28 Dec - 4 Jan\)](https://forum.1hive.org/t/1hive-weekly-recap-cw-52-28-dec-4-jan/1765)  
-[1Hive Biweekly Recap \(January 11th to January 25th\)](https://forum.1hive.org/t/1hive-biweekly-recap-january-11th-to-january-25th/2001)
+[1Hive Biweekly Recap \(January 11th to January 25th\)](https://forum.1hive.org/t/1hive-biweekly-recap-january-11th-to-january-25th/2001)  
+[1Hive Biweekly Recap \(January 25th to February 9th](https://forum.1hive.org/t/1hive-biweekly-recap-january-25th-to-february-9th/2199)\)
 
-## 1Hive Milestones
+## 1Hive Meilensteine
 
 {% hint style="warning" %}
-These milestones are rough estimates specified and updated by the relevant Swarm. It is kept up-to-date at the best of the ability of each Swarm responsible. For a more accurate status of each project it is best to check out the public discussion on [Discord](https://discord.com/invite/P4rRDUKTAU), [the Forum](https://forum.1hive.org/), [Telegram](https://t.me/honeyswapDEX) and other social channels and the [weekly recaps](milestones.md#weekly-recap).
+Diese Meilensteine sind grobe Schätzungen, die vom jeweiligen Schwarm festgelegt und aktualisiert werden. Es wird nach bestem Wissen und Gewissen jedes verantwortlichen Schwarms auf dem neuesten Stand gehalten. Für einen genaueren Status jedes Projekts lesen Sie am besten die öffentliche Diskussion über [Discord](https://discord.com/invite/P4rRDUKTAU), das [Forum](https://forum.1hive.org/), [Telegramm ](https://t.me/honeyswapDEX)und andere soziale Kanäle sowie die [wöchentlichen Rückblicke](https://app.gitbook.com/@1hive/s/1hive/~/drafts/-MWFMmLUkOXvJACzxXKf/v/german/projects/milestones#weekly-recap).
 {% endhint %}
 
 ### **Celeste**
 
-🎯 **Target Date:** Q1 2021
+🎯 **Zieltermin:** Q1 2021
 
-For more information see [Celeste](celeste/)\*\*\*\*
+Mehr Informationen finden Sie unter [Celeste](gardens-1/)\*\*\*\*
 
-### **Change to Issuance Policy**
+### Änderung der Emissionsrichtlinie
 
-🎯 **Target Date:** Q1 2021
+🎯 **Zieltermin:** Q1 2021
 
-Issuance \(new Honey creation\) was initially set to 60% per year. It was reduced in November of 2020 to 30%. We are now developing a dynamic issuance policy, details can be seen in [Issuance Planned Improvements](honey/planned-improvements.md#dynamic-issuance-policy).
+Die Emission \(neue Honeykreation\) wurde ursprünglich auf 60% pro Jahr festgelegt. Sie wurde im November 2020 auf 30% reduziert. Wir entwickeln jetzt eine dynamische Emissionspolitik, Details finden Sie in [Issuance Planned Improvements](honey/planned-improvements.md#dynamic-issuance-policy).
 
-### **Honeyswap Landing Page**
+### **Die Honeyswap Landing Page**
 
-🎯 **Target Date:** Q1 2021 \(Completed on 1/13/2021\)
+🎯 **Zieltermin:** Q1 2021 \(Completed on 1/13/2021\)
 
-A user friendly landing page for [Honeyswap](honeyswap/) including links to guides and useful information. See the new page at [honeyswap.org](https://honeyswap.org/#/swap)
+Eine benutzerfreundliche Landingpage für [Honeyswap ](honeyswap/)mit Links zu Anleitungen und nützlichen Informationen. Siehe die neue Seite unter [honeyswap.org](https://honeyswap.org/#/swap).
 
 ### 1Hive Gardens
 
-🎯 **Target Date:** Q2-Q3 2021
+🎯 **Zieltermin:** Q2-Q3 2021
 
-For more information see [Gardens](gardens/).
+Für mehr Informationen: [Gardens](gardens/).
 
-## External Milestones important for 1Hive
+## Externe Meilensteine wichtig für 1Hive
 
-### **Bi-directional** OmniBridge
+### Bidirektionale ****OmniBridge
 
-🎯 **Target Date:** Q1-Q2 2021 \(or [maybe sooner](https://forum.1hive.org/t/easy-hny-xdai-mainnet-bridge-idea/1436/12)\)
+🎯 **Zieltermin: Geschafft!**
 
-This will enable 1Hive to bridge HNY back to the Ethereum mainnet. Currently it is only possible to bridge ERC20 tokens from the Ethereum mainnet. For more information see [the xDai roadmap](https://www.xdaichain.com/about-xdai/roadmap#omnibridge-phase-2).
-
-### Chainlink Integration to xDai
-
-🎯 **Target Date:** Unknown
-
-1Hive would like to fork Aave V2 and it is preferred to use Chainlink as it's price Oracle. This [announcement](https://blog.chain.link/protofire-receives-a-chainlink-community-grant-for-an-integration-with-xdai/) confirms a grant for developing a Chainlink integration with xDai.
+Dadurch kann 1Hive HNY wieder mit dem Ethereum-Mainnet verbinden.
 
 ### xDai General Roadmap
 
-1Hive is currently running on the xDai network. Any developments that happen on xDai could have an effect on the 1Hive ecosystem. See [the xDai roadmap](https://www.xdaichain.com/about-xdai/roadmap).
+1Hive ist derzeit im xDai-Netzwerk. Alle Entwicklungen auf xDai könnten sich auf das 1Hive-Ökosystem auswirken. Siehe die xDai-Roadmap. Weitere Informationen: [xDai roadmap](https://www.xdaichain.com/about-xdai/roadmap).
 

@@ -24,11 +24,11 @@
   * [For Traders](projects/honeyswap/for-traders.md)
   * [For Liquidity Providers](projects/honeyswap/for-liquidity-providers.md)
   * [For Developers](projects/honeyswap/for-developers.md)
-* [Celeste \(Coming soon\)](projects/celeste/README.md)
-  * [User Process](projects/celeste/user-process.md)
-* [Gardens \(Coming soon\)](projects/gardens/README.md)
+* [Gardens \(Demnächst\)](projects/gardens-1/README.md)
+  * [User Process](projects/gardens-1/user-process.md)
+* [Gardens \(Demnächst\)](projects/gardens/README.md)
   * [Technical Overview](projects/gardens/alt-overview.md)
-* [Milestones](projects/milestones.md)
+* [Meilensteine](projects/milestones.md)
 
 ## 🌳Community
 
