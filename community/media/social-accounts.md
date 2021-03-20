@@ -21,6 +21,7 @@ description: Managed by trusted community members.
 | Twitter | [honeyswap\_IN](https://twitter.com/honeyswap_IN) | [sp7290](https://forum.1hive.org/u/sp7290/summary) |
 | Twitter | [Agave\_lending](https://twitter.com/Agave_lending/) | [dogeking](https://forum.1hive.org/u/dogeking/summary), [solarmkd](https://forum.1hive.org/u/solarmkd/summary), [EFRA](https://forum.1hive.org/u/efra) |
 | Twitter | [agave\_es](https://twitter.com/agave_es) |  [EFRA](https://forum.1hive.org/u/efra) , [escanor](https://forum.1hive.org/u/escanor/summary) |
+| Twitter | [honeyswap\_tr](https://twitter.com/honeyswap_tr) | [mrtdlgc](https://forum.1hive.org/u/mrtdlgc/summary) |
 | Reddit | [r/HNY](https://www.reddit.com/r/HNY/) | [solarmkd](https://forum.1hive.org/u/solarmkd/summary), [berserk](https://forum.1hive.org/u/berserk/summary) |
 | Reddit | [r/AGVE](https://www.reddit.com/r/AGVE/) | [solarmkd](https://forum.1hive.org/u/solarmkd/summary) |
 | Facebook | [@honeyswapdex](https://www.facebook.com/honeyswapdex/) | [d0sh](https://forum.1hive.org/u/d0sh/summary),[metaverde](https://forum.1hive.org/u/metaverde/summary), [therealmo](https://forum.1hive.org/u/therealmo/summary) |
@@ -32,6 +33,8 @@ description: Managed by trusted community members.
 | Medium | [Honeyswap](https://medium.com/honeyswap) |  [blazar](https://forum.1hive.org/u/blazar),[lkngtn](https://forum.1hive.org/u/lkngtn), [berserk](https://forum.1hive.org/u/berserk), [d0sh](https://forum.1hive.org/u/d0sh) |
 | Medium | [Agave Finance](https://agavefinance.medium.com/) |  [blazar](https://forum.1hive.org/u/blazar) |
 | Medium | [Agavees](https://medium.com/agavees) | [escanor](https://forum.1hive.org/u/escanor/summary) |
+| Medium | [1HiveTR](https://medium.com/1hivetr) | [mrtdlgc](https://forum.1hive.org/u/mrtdlgc/summary) |
+| Medium | [AgaveTR](https://medium.com/agavetr) | [mrtdlgc](https://forum.1hive.org/u/mrtdlgc/summary) |
 
 There is also a blog mainly posted to by [lkngtn](https://forum.1hive.org/u/lkngtn): [https://about.1hive.org/blog/](https://about.1hive.org/blog/)
 
