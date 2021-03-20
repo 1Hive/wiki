@@ -34,7 +34,7 @@
   * [🐱 Fauna](community/swarms/fauna.md)
   * [🐛 Bug Bounty](community/swarms/bug-bounty.md)
 * [Meios de comunicação](community/media/README.md)
-  * [Social Accounts](community/media/social-accounts.md)
+  * [Mídia Social](community/media/social-accounts.md)
   * [Buzz Bounty](community/media/buzz-bounty.md)
 * [Design](community/design.md)
 
