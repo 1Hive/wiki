@@ -45,6 +45,7 @@
   * [🐛 Bug Bounty](community/swarms/bug-bounty.md)
 * [Media](community/media/README.md)
   * [Social Accounts](community/media/social-accounts.md)
+  * [Social Curation](community/media/social-curation.md)
   * [Buzz Bounty](community/media/buzz-bounty.md)
 * [Design](community/design/README.md)
   * [Brand Guidelines](community/design/brand-guidelines.md)
