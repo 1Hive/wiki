@@ -21,15 +21,15 @@ O front-end é implementado em [honeyswap.org](https://honeyswap.org/) e o códi
 Um fork da uniswap.info para Honeyswap. Pode ser visto em [info.honeyswap.org](https://info.honeyswap.org/).  
 
 
-## **Subgrafo**
+## **Subgraph**
 
 Um fork formado por divisões de dois subgrafos:
 
-[Uniswap v2 subgrafo](https://thegraph.com/explorer/subgraph/1hive/uniswap-v2): Um fork do subgrafo oficial uniswap v2 com ajustes para usar xDai como moeda base e uma lista modificada de tokens aprovados. o código fonte pode ser encontrado [aqui](https://github.com/1Hive/uniswap-v2-subgraph).
+[Uniswap v2 subgraph](https://thegraph.com/explorer/subgraph/1hive/uniswap-v2): Um fork do subgraph oficial uniswap v2 com ajustes para usar xDai como moeda base e uma lista modificada de tokens aprovados. o código fonte pode ser encontrado [aqui](https://github.com/1Hive/uniswap-v2-subgraph).
 
 ​
 
-[Ethereum Blocks](https://thegraph.com/explorer/subgraph/1hive/xdai-blocks): Um fork do subgrafo Blocklytics Ethereum Blocks sem modificações, implementado em xDai. O código fonte pode ser encontrado [aqui](https://github.com/1Hive/ethereum-blocks).  
+[Ethereum Blocks](https://thegraph.com/explorer/subgraph/1hive/xdai-blocks): Um fork do subgraph Blocklytics Ethereum Blocks sem modificações, implementado em xDai. O código fonte pode ser encontrado [aqui](https://github.com/1Hive/ethereum-blocks).  
 
 
 ### Front-end
