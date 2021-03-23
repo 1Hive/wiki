@@ -38,7 +38,7 @@
   * [🌍 Terra](community/swarms/terra.md)
   * [🐝 Buzz](community/swarms/buzz.md)
   * [🏵 Pollen](community/swarms/pollen.md)
-  * [🦋 Morphosis](community/swarms/morphosis.md)
+  * [�� Morphosis](community/swarms/morphosis.md)
   * [🌜 Luna](community/swarms/luna.md)
   * [🐱 Fauna](community/swarms/fauna.md)
   * [🐛 Bug Bounty](community/swarms/bug-bounty.md)

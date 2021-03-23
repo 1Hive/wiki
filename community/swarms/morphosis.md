@@ -2,7 +2,7 @@
 description: Education
 ---
 
-# 🦋 Morphosis
+# �� Morphosis
 
 The 🦋Morphosis Swarm provides education and courses for 1hive members to learn various skills. These skills will allow people to make high value contributions to 1hive and other organizations in the blockchain/DAO space. The classes will initially be focused on skill sets that are valuable to the 1hive community.
 
