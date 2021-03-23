@@ -8,7 +8,10 @@ Description: Upcoming Milestones
 
 See the forum posts below for the most recent updates from various swarms.
 
-[1Hive Monthly Recap \(Feb 9th - Mar 21st\)](https://forum.1hive.org/t/1hive-monthly-recap-february-9th-to-march-21/3139/1) 
+[1Hive Monthly Recap \(Feb 9th - Mar 21st\)](https://forum.1hive.org/t/1hive-monthly-recap-february-9th-to-march-21/3139/1)  
+[1Hive Biweekly Recap \(Jan 11th to Jan 25th\)](https://forum.1hive.org/t/1hive-biweekly-recap-january-11th-to-january-25th/2001)  
+[1Hive Weekly Recap \(4th Jan - 11th Jan\)](https://forum.1hive.org/t/1hive-weekly-recap-cw-53-4th-jan-11th-jan/1815)  
+[1Hive Weekly Recap \(28 Dec - 4 Jan\)](https://forum.1hive.org/t/1hive-weekly-recap-cw-52-28-dec-4-jan/1765)
 
 ## 1Hive Milestones
 
@@ -18,7 +21,7 @@ These milestones are rough estimates specified and updated by the relevant Swarm
 
 🎯 **Target Date:** Q1 2021
 
-For more information see [Celeste](celeste/)\*\*\*\*
+For more information see [Celeste](celeste/)
 
 ### **Change to Issuance Policy**
 
@@ -42,9 +45,9 @@ For more information see [Gardens](gardens/).
 
 ### **Bi-directional** OmniBridge
 
-🎯 **Target Date:** Q1-Q2 2021 
+🎯 **Target Date:** Q1-Q2 2021
 
-For more information see [the xDai roadmap 2021] (https://www.xdaichain.com/about-xdai/roadmap/2021-roadmap)
+For more information see [the xDai roadmap 2021](https://www.xdaichain.com/about-xdai/roadmap/2021-roadmap).
 
 This will enable 1Hive to bridge HNY back to the Ethereum mainnet. Currently it is only possible to bridge ERC20 tokens from the Ethereum mainnet. For more information see [the xDai roadmap](https://www.xdaichain.com/about-xdai/roadmap#omnibridge-phase-2).
 
@@ -58,4 +61,5 @@ This will enable 1Hive to bridge HNY back to the Ethereum mainnet. Currently it 
 
 1Hive is currently running on the xDai network. Any developments that happen on xDai could have an effect on the 1Hive ecosystem.
 
-For more information see [the xDai roadmap 2021] (https://www.xdaichain.com/about-xdai/roadmap/2021-roadmap)
+For more information see [the xDai roadmap 2021](https://www.xdaichain.com/about-xdai/roadmap/2021-roadmap).
+
