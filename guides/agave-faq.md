@@ -11,8 +11,7 @@ Agave, in a few words, is Aave on xDai. For more information, please refer to th
 
 **What is the total supply of $AGVE?**  
 Total Supply: 100 k  
-Circulating Supply: 27,799k  
-
+Circulating Supply: 27,799k
 
 **Is there a Website for Agave?**  
 A brand new website is about to be ready for Agave. You can already visit the landing page at [Agave.Finance](https://agave.finance/).
