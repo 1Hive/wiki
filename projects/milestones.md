@@ -1,5 +1,5 @@
 ---
-description: Upcoming milestones
+Description: Upcoming Milestones
 ---
 
 # Milestones
@@ -8,15 +8,11 @@ description: Upcoming milestones
 
 See the forum posts below for the most recent updates from various swarms.
 
-[1Hive Weekly Recap \(4th Jan - 11th Jan\)](https://forum.1hive.org/t/1hive-weekly-recap-cw-53-4th-jan-11th-jan/1815)   
-[1Hive Weekly Recap \(28 Dec - 4 Jan\)](https://forum.1hive.org/t/1hive-weekly-recap-cw-52-28-dec-4-jan/1765)  
-[1Hive Biweekly Recap \(January 11th to January 25th\)](https://forum.1hive.org/t/1hive-biweekly-recap-january-11th-to-january-25th/2001)
+[1Hive Monthly Recap \(Feb 9th - Mar 21st\)](https://forum.1hive.org/t/1hive-monthly-recap-february-9th-to-march-21/3139/1) 
 
 ## 1Hive Milestones
 
-{% hint style="warning" %}
-These milestones are rough estimates specified and updated by the relevant Swarm. It is kept up-to-date at the best of the ability of each Swarm responsible. For a more accurate status of each project it is best to check out the public discussion on [Discord](https://discord.com/invite/P4rRDUKTAU), [the Forum](https://forum.1hive.org/), [Telegram](https://t.me/honeyswapDEX) and other social channels and the [weekly recaps](milestones.md#weekly-recap).
-{% endhint %}
+These milestones are rough estimates specified and updated by the relevant Swarm. It is kept up-to-date at the best of the ability of each Swarm responsible. For a more accurate status of each project it is best to check out the public discussion on [Discord](https://discord.com/invite/P4rRDUKTAU), [the Forum](https://forum.1hive.org/), [Telegram](https://t.me/honeyswapDEX) and other social channels.
 
 ### **Celeste**
 
@@ -46,7 +42,9 @@ For more information see [Gardens](gardens/).
 
 ### **Bi-directional** OmniBridge
 
-🎯 **Target Date:** Q1-Q2 2021 \(or [maybe sooner](https://forum.1hive.org/t/easy-hny-xdai-mainnet-bridge-idea/1436/12)\)
+🎯 **Target Date:** Q1-Q2 2021 
+
+For more information see [the xDai roadmap 2021] (https://www.xdaichain.com/about-xdai/roadmap/2021-roadmap)
 
 This will enable 1Hive to bridge HNY back to the Ethereum mainnet. Currently it is only possible to bridge ERC20 tokens from the Ethereum mainnet. For more information see [the xDai roadmap](https://www.xdaichain.com/about-xdai/roadmap#omnibridge-phase-2).
 
@@ -58,5 +56,6 @@ This will enable 1Hive to bridge HNY back to the Ethereum mainnet. Currently it 
 
 ### xDai General Roadmap
 
-1Hive is currently running on the xDai network. Any developments that happen on xDai could have an effect on the 1Hive ecosystem. See [the xDai roadmap](https://www.xdaichain.com/about-xdai/roadmap).
+1Hive is currently running on the xDai network. Any developments that happen on xDai could have an effect on the 1Hive ecosystem.
 
+For more information see [the xDai roadmap 2021] (https://www.xdaichain.com/about-xdai/roadmap/2021-roadmap)
