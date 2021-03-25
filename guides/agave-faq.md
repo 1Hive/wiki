@@ -66,7 +66,7 @@ The best way to get help from a member of the 1Hive community is to land on the 
 Alvin is an erc20 that is exchangeable \(in whole number quantities\) for a limited edition plushie of the agave logo character \(named Alvin\) and an NFT - Non Fungible Token. Inspired by the success obtained by Unisocks \(worth over 100k at the time of writing\), it’s the first collaboration \(Cross-Pollination\) between [1Hive](https://1hive.org/) and [Shenanigan](https://she.energy/).  
 ALVIN v3: 0x50DBde932A94b0c23D27cdd30Fbc6B987610c831  
 Blockscout: [$ALVIN](https://blockscout.com/poa/xdai/address/0x50DBde932A94b0c23D27cdd30Fbc6B987610c831/transactions) / [Alvin v3](https://info.honeyswap.org/token/0x50dbde932a94b0c23d27cdd30fbc6b987610c831)  
-Total Supply: 100
+Total Supply: 122
 
 **What is Dripp?**  
 Dripp - [http://dripp.farm/ ](http://dripp.farm/)is the platform where users can stake their Honey, Particle or both in order to earn Alvin, Shweatpants, or both. Staking will be possible for roughly 30 days from launch. \(March 4th\)  
