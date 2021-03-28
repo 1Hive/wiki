@@ -17,7 +17,7 @@ Circulating Supply: 27,799k
 A brand new website is about to be ready for Agave. You can already visit the landing page at [Agave.Finance](https://agave.finance/).
 
 **Where can I find regular updates about the project?**  
-Out [Milestones](https://wiki.1hive.org/projects/milestones) page is where we publish major updates regarding 1Hive and Agave. 
+Our [Milestones](https://wiki.1hive.org/projects/milestones) page is where we publish major updates regarding 1Hive and Agave. 
 
 **When will the product launch?**  
 Currently, Agave's product is under audit to make sure the release will be successful. Therefore, as soon as the auditing process will be completed, Agave's product should be up and running. Although the hope is to release the product soon, we do not want to rush deliveries.
