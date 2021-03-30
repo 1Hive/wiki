@@ -24,7 +24,7 @@
   * [For Traders](projects/honeyswap/for-traders.md)
   * [For Liquidity Providers](projects/honeyswap/for-liquidity-providers.md)
   * [For Developers](projects/honeyswap/for-developers.md)
-* [Gardens \(Demnächst\)](projects/gardens-1/README.md)
+* [Celeste \(Demnächst\)](projects/gardens-1/README.md)
   * [User Process](projects/gardens-1/user-process.md)
 * [Gardens \(Demnächst\)](projects/gardens/README.md)
   * [Technical Overview](projects/gardens/alt-overview.md)
