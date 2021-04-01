@@ -41,7 +41,7 @@ Yes! Here’s the link: [$AGVE - Coingecko](https://www.coingecko.com/en/coins/a
 Your participation is always welcome. As of now a few bounties are open, and you can check them all [here](https://www.notion.so/3e13ef2a5d614a828b684640af2212b4?v=20b21ead637341faa87416b85202b584) and claim them by getting in touch with Buzz Dao. We are working on a proposal to create new bounties accessible to all users, mostly related to token listings. \(Coinmarketcap, Blockfolio, Dappradar, Coinpaprika, Dune Analytics etc\) 
 
 **Where can I see a chart of $AGVE?**  
-Right now the most “complete” chart for Agave are on [Coingecko](https://www.coingecko.com/en/coins/agave-token) and [Moontools](https://app.moontools.io/pairs/honeyswap/0x0e3e9cceb13c9f8c6faf7a0f00f872d6291630de); As soon as some Subgraph related issues will be resolved, $AGVE’s chart will be also available [Here](https://info.honeyswap.org/token/0x3a97704a1b25f08aa230ae53b352e2e72ef52843).
+[Here](https://info.honeyswap.org/token/0x3a97704a1b25f08aa230ae53b352e2e72ef52843) you can see Agve's chart from the Honeyswap analytics page. Other available charts are on [Coingecko](https://www.coingecko.com/en/coins/agave-token) and [Moontools](https://app.moontools.io/pairs/honeyswap/0x0e3e9cceb13c9f8c6faf7a0f00f872d6291630de); 
 
 **Where can I track LP rewards?**  
 LP tracking can be found on [Liquidityfolio ](https://www.liquidityfolio.com/)
@@ -59,7 +59,7 @@ Although this is pure speculation at this point, the team did mention that in th
 During the token launch traders experienced high volatility due to a mistake made while opening the AGVE/HNY pool: The intended ratio of 50HNY/10,000 AGVE ratio was set at 50HNY/1000AGVE. This created a chain of events which caused extreme volatility and the team pulled the liquidity off and reinserted it in another pool \(AGVE-WETH\) at the proper ratio. Some users may have occurred in some losses, while others may have benefited from this. Please, read [Reflection on the Agave Launch ](https://forum.1hive.org/t/reflection-on-the-agave-launch/2517)to gather more context.
 
 **I was affected by the mistake regarding the initial liquidity and bought $AGVE at a very high price. What will happen now?**  
-Given that, when trading, the responsibility is of the trader, those who were heavily affected by $AGVE’s price will receive some sort of compensation, outlined in [this post](https://forum.1hive.org/t/agave-reparations-proposal/2822). A snapshot was taken to understand who was particularly affected and, after working on the compensation proposal, the community is now welcome to vote for this compensation to take place. 
+Given that, when trading, the responsibility is of the trader, those who were heavily affected by $AGVE’s price received a compensation proposed by the team members and voted by the community, outlined in [this post](https://forum.1hive.org/t/agave-reparations-proposal/2822). 
 
 **How can I provide liquidity and for which pair?**  
 At the moment, there are 3 pairs for $AGVE: [AGVE-WETH](https://info.honeyswap.org/pair/0xeba7cc57e6f745b8d5cab829e07346c65393d78e), [AGVE-HNY](https://info.honeyswap.org/pair/0x50a4867aee9cafd6ddc84de3ce59df027cb29084) and [AGVE-XDAI](https://info.honeyswap.org/pair/0x0e3e9cceb13c9f8c6faf7a0f00f872d6291630de). You can provide liquidity by clicking [here](https://app.honeyswap.org/#/pool) → Add Liquidity → Select which pair you want to provide liquidity for.
