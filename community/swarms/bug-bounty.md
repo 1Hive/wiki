@@ -19,6 +19,7 @@ The 🐛Bug Bounty Swarm manages the funds available through the [Bug Bounty Pro
 | [fabriv](https://forum.1hive.org/u/fabriv) | Seed and DAO member |
 | [lkngtn](https://forum.1hive.org/u/lkngtn) | Seed and DAO member |
 | [onbjerg](https://forum.1hive.org/u/onbjerg) | Seed and DAO member |
+| [crisog](https://github.com/crisog) | DAO member |
 
 Each of the above members have equal voting weight within the bug bounty DAO to distribute rewards.
 
