@@ -5,18 +5,44 @@ $AGVE: 0x3a97704a1b25F08aa230ae53B352e2e72ef52843
 Blockscout: [$AGVE](https://blockscout.com/poa/xdai/address/0x3a97704a1b25F08aa230ae53B352e2e72ef52843/transactions)
 
 **¿Qué es agave?**  
-Agave, en pocas palabras, es Aave en xDai. Para más información, por favor revisa estos artículos: [AGVE Token Launch](https://forum.1hive.org/t/ag-token-launch/2108) - [Announcing Agave, Aave on xDai](https://forum.1hive.org/t/announcing-agaave-aave-on-xdai/1792)
+Agave, en pocas palabras, es Aave en xDai. Para más información, por favor revisa estos artículos: [AGVE Token Launch](https://forum.1hive.org/t/ag-token-launch/2108) - [Announcing Agave, Aave on xDai](https://forum.1hive.org/t/announcing-agaave-aave-on-xdai/1792). Una introducción detallada está disponible en nuestro [Medium](https://medium.com/1hivees/1hive-introducci%C3%B3n-a-agave-agve-b528b5e2f82c).
 
 **¿Cuál es el suministro total de $AGVE?**  
 Suministro total: 100k  
-Suministro en circulación: 27,799k  
-Capitalización de mercado actual: 13.5ML USD 
+Suministro en circulación: 27,799k
 
 **¿Existe un sitio web para Agave?**  
 Un nuevo sitio para Agave está casi listo. Puedes visitar la pagina principal en [Agave.Finance](https://agave.finance/).
 
+**¿Dónde puedo encontrar actualizaciones regulares del proyecto?**  
+Nuestra página de [Metas ](../projects/metas.md)es donde publicamos actualizaciones importantes sobre 1Hive y Agave.
+
 **¿Cuándo será el lanzamiento del producto?**  
-Lo más probable es que en unas pocas semanas \(final del primer trimestre\) el producto estará en funcionamiento.
+Actualmente, el producto de Agave está bajo auditoría para asegurarse de que el lanzamiento sea exitoso. Por lo tanto, tan pronto como se complete el proceso de auditoría, el producto de Agave debería estar publicado y en funcionamiento. Aunque se quiere lanzar el producto pronto, no queremos apresurar las entregas.   
+  
+A partir de ahora, en el front-end estamos completando y conectando los contratos. En el back-end, la auditoría está en progreso y estamos trabajando para resolver un problema relacionado con el Subgraph.
+
+**¿Dónde puedo conseguir un roadmap para Agave?**  
+Aquí puedes darle un vistazo al roadmap de Agave
+
+![](../.gitbook/assets/image%20%281%29.png)
+
+**¿Y el marketing?**   
+El marketing comenzará tan pronto como se implemente Agave, como se presenta en el roadmap. Cualquier marketing indirecto antes del lanzamiento del token solo ocurrirá a través de propuestas, documentación, listados de tokens.   
+  
+Nuestro principal impulso de marketing será en coordinación con la implementación de Agave, Celeste, Honeyswap v3, para promover todo el ecosistema de 1hive en conjunto.
+
+**¿Está AGVE en Coingecko?**  
+¡Sí! Aquí está el link: [$AGVE - Coingecko](https://www.coingecko.com/en/coins/agave-token).
+
+**¿Puedo contribuir de alguna manera?**  
+Tu participación siempre es bienvenida. Justo ahora, hay algunas recompensas abiertas y puedes verlas todas [acá](https://www.notion.so/3e13ef2a5d614a828b684640af2212b4?v=20b21ead637341faa87416b85202b584) y puedes reclamarlas poniendote en contacto con el Dao Buzz. Estamos trabajando en una propuesta para crear nuevas recompensas para todos los usuarios, relacionadas con el listado del token. \(Coinmarketcap, Blockfolio, Dappradar, Coinpaprika, Dune Analytics etc\) 
+
+**¿Dónde puedo ver una gráfica de $AGVE?**  
+Agave fue lanzada alrededor de hace 24h, justo ahora puedes revisar [esta gráfica](https://analytics.blep.ai/charts/honeyswap.0x0E3e9CCeb13c9f8c6FAF7a0f00F872d6291630dE.trade-1m0s), y tan pronto como se cargue parte del historial, podrás ver el gráfico de $AGVE [Aquí](https://info.honeyswap.org/token/0x3a97704a1b25f08aa230ae53b352e2e72ef52843).  
+
+**¿Dónde puedo ver mis recompensas del LP?**  
+Puedes darle seguimiento a tu LP acá [Liquidityfolio ](https://www.liquidityfolio.com/)
 
 **¿Por qué no fuí elegible para el airdrop?**  
 Más que un airdrop, el token $AGVE se distribuyó a los contribuyentes y a los miembros activos de la comunidad de 1Hive, antes de un snapshot que tuvo lugar el 25 de enero. Aquí puedes encontrar información sobre el suministro de tokens, la asignación de tokens y la lista de direcciones elegibles.
@@ -33,14 +59,7 @@ Durante el lanzamiento del token, los traders experimentaron una alta volatilida
 **Fuí afectado por el error con respecto a la liquidez inicial y compré $AGVE a un precio muy elevado. ¿Qué pasará ahora?**  
 Dado que, cuando se hace trading, la responsabilidad es del trader, aquellos que se vieron muy afectados por el precio de $AGVE pueden recibir algún tipo de compensación. El equipo está trabajando arduamente en una propuesta y cada miembro puede votar por el bien de la comunidad de 1Hive. Se tomó una snapshot para detectar quiénes se vieron particularmente afectados. Está atento y verifica los canales oficiales para estar al tanto de todo.
 
-**¿Está AGVE en Coingecko?**  
-¡Sí! Aquí está el link: [$AGVE - Coingecko](https://www.coingecko.com/en/coins/agave-token).
-
-**¿Puedo contribuir de alguna manera?**  
-Tu participación siempre es bienvenida. Justo ahora, hay algunas recompensas abiertas y puedes verlas todas [acá](https://www.notion.so/3e13ef2a5d614a828b684640af2212b4?v=20b21ead637341faa87416b85202b584).
-
-**¿Dónde puedo ver una gráfica de $AGVE?**  
-Agave fue lanzada alrededor de hace 24h, justo ahora puedes revisar [esta gráfica](https://analytics.blep.ai/charts/honeyswap.0x0E3e9CCeb13c9f8c6FAF7a0f00F872d6291630dE.trade-1m0s), y tan pronto como se cargue parte del historial, podrás ver el gráfico de $AGVE [Aquí](https://info.honeyswap.org/token/0x3a97704a1b25f08aa230ae53b352e2e72ef52843).  
+\*\*\*\*
 
 **¿Cómo puedo proveer liquidez y para cuáles pares?**  
 En este momento, Hay dos pares para $AGVE: [AGVE-WETH](https://info.honeyswap.org/pair/0xeba7cc57e6f745b8d5cab829e07346c65393d78e) y [AGVE-HNY](https://info.honeyswap.org/pair/0x50a4867aee9cafd6ddc84de3ce59df027cb29084). Puedes proveer liquidez haciendo click [aquí](https://app.honeyswap.org/#/pool) → selecciona Add Liquidity → Selecciona el par al cual quieres proveer de liquidez. 
