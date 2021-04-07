@@ -86,6 +86,12 @@ ALVIN v3: 0x50DBde932A94b0c23D27cdd30Fbc6B987610c831
 Blockscout: [$ALVIN](https://blockscout.com/poa/xdai/address/0x50DBde932A94b0c23D27cdd30Fbc6B987610c831/transactions) / [Alvin v3](https://info.honeyswap.org/token/0x50dbde932a94b0c23d27cdd30fbc6b987610c831)  
 Total Supply: 122
 
+**I want to redeem my Alvin plushie \(Or my Shweatpants\). How do I do that?**  
+If you want to redeem your Alvin plushie \(or your Shenanigan Shweatpants\) you can easily do that by landing on [dripp.farm](https://www.dripp.farm/) and click on the "Buy" Button. Your item will be shipped anywhere in the world.
+
+**How it's priced:**   
+Dripp tokens are listed starting at predetermined prices of the item. Each buy/sell will move the price. The increase or decrease follows a [bonding curve](https://blog.relevant.community/bonding-curves-in-depth-intuition-parametrization-d3905a681e0a). Each Dripp will eventually find an equilibrium based on market demand.
+
 **What is Dripp?**  
 Dripp - [http://dripp.farm/ ](http://dripp.farm/)is the platform where users can stake their Honey, Particle or both in order to earn Alvin, Shweatpants, or both. Staking will be possible for roughly 30 days from launch. \(March 4th\)  
 For more info, you can read [this ](https://medium.com/frst/money-laundry-the-rise-of-the-crypto-sock-market-f979aafc3796)article.
