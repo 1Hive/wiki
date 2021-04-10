@@ -8,7 +8,7 @@ There are various **Projects** and [**Swarms**](../community/swarms/), with goal
 
 [🍃**Honeyswap**](../projects/honeyswap/) - A fork of Uniswap v2 on xDai enabling Swaps, Flash Loans, and Oracles for the xDai community. A portion of fees from volume on Honeyswap is used to buy Honey and send it to the 1Hive common pool.
 
-[🌞**Celeste**](../projects/celeste/) - A subjective oracle protocol that incorporates BrightId to make participation less capital intensive. It will be used, among other things, to enforce the [1Hive Community Covenant](../community-covenant.md).
+[🌞**Celeste**](../projects/celeste.md) - A subjective oracle protocol that incorporates BrightId to make participation less capital intensive. It will be used, among other things, to enforce the [1Hive Community Covenant](../community-covenant.md).
 
 [🌻**Gardens**](../projects/gardens/) - A platform where communities can issue their own currencies and existing token projects can engage their community by sponsoring community directed development efforts.
 

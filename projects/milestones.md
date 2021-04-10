@@ -21,7 +21,7 @@ These milestones are rough estimates specified and updated by the relevant Swarm
 
 🎯 **Target Date:** Q1 2021
 
-For more information see [Celeste](celeste/)
+For more information see [Celeste](celeste.md)
 
 ### **Change to Issuance Policy**
 
