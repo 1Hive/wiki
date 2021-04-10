@@ -18,7 +18,7 @@
   * [Issuance](projects/honey/issuance.md)
   * [Distribution](projects/honey/distribution.md)
   * [Decisions](projects/honey/decisions.md)
-  * [For Developers](projects/honey/for-developers.md)
+  * [Developers](projects/honey/developers.md)
   * [Planned Improvements](projects/honey/planned-improvements.md)
 * [Honeyswap](projects/honeyswap/README.md)
   * [For Traders](projects/honeyswap/for-traders.md)
