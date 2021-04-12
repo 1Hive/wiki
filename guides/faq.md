@@ -27,7 +27,13 @@ In the case of the 1Hive DAO, a community currency called Honey is used to creat
 We have rough [milestones](../projects/milestones.md) updated by individual swarms.
 
 **Can I stake Honey?**  
-Currently it is not possible to stake Honey. This feature will become available through [Celeste](https://1hive.gitbook.io/1hive/projects/celeste) once it is launched.
+Since April 11th, we're happy to announce that our subjective oracle [Celeste](https://celeste.1hive.org/#/dashboard) is finally live. Users can stake their HNY, and may be drafted to resolve disputes that may arise. [Click here](https://1hive.gitbook.io/celeste/) to access the Celeste Wiki page were all sort of information are displayed.
+
+**What is the APY for staking HNY with Celeste?**  
+At the moment we cannot give an estimation of the APY through Celeste. The staking rewards are a positive side-effect of Celeste, whose main purpose is to provide the community with a tool to prevent malicious behavior. To participate in Celeste you need to have at least 0.5 HNY, and staking rewards will be distributed monthly.
+
+**Is there any incentive for holding Honey?**  
+Holding at least 0.5 HNY allows you to participate in [Celeste](https://1hive.gitbook.io/celeste/) and, besides that, holding Honey is primarily used for voting on proposals and to [provide liquidity](https://link.medium.com/Zb26x6KQWcb).
 
 **When will Honey be on Uniswap?**   
 The reverse omnibridge enabling moving Honey to Mainnet to add to Uniswap will most likely land on the Ethereum Mainnet in Q1-Q2 2021.
@@ -36,9 +42,6 @@ Since February 2021 HNY is also on Mainnet. Currently on [Sushiswap](https://ana
 
 **I saw a "Matic" channel on Discord. Are we leaving xDai?**   
 Currently there are no plans to leave xDai, but 1Hive is exploring what opportunities may exist to extend the community and ecosystem of products to additional networks including Matic and in development roll-up chains such as Arbitrum.
-
-**Is there any incentive for holding Honey?**  
-Until staking becomes a reality with [Celeste](https://1hive.gitbook.io/1hive/projects/celeste), holding Honey is primarily used for voting on proposals and to [provide liquidity](https://link.medium.com/Zb26x6KQWcb).
 
 **Does** _**"voting on a proposal"**_ **actually cost Honey?**  
 No, it doesn't. You are not spending your HNY when voting. Your HNY is not locked either, withdraw your vote and trade if you wish. 
@@ -68,7 +71,7 @@ Market cap can be found here on [CoinGecko](https://www.coingecko.com/en/coins/h
 Market cap = \(Total Supply - Common Pool\) x Honey Price 
 
 **What is Honey's current Issuance Policy?**  
-The inflation rate is currently set to 30% per year. At first, the inflation rate was 60% but the community voted to change it. A dynamic inflation rate has been developed and is likely to be integrated in Q1/Q2. See [issuance page](../projects/honey/issuance.md) for more details.
+After an initial inflation rate of 60%, adjusted by the community to 30% per year, a dynamic inflation rate has been developed and is integrated as of April 2021. [Click here](https://forum.1hive.org/t/dynamic-honey-supply-policy-proposal/2224) and [here](https://wiki.1hive.org/projects/honey/planned-improvements#dynamic-issuance-policy) to gather more context, and the [issuance page](../projects/honey/issuance.md) for more details.
 
 **Where does the newly inflated currency go?**  
 The inflation rate is used to fill the Common Pool, which holds the Honey the DAO has available to use and can only be withdrawn from by passing Honey proposals.
@@ -125,7 +128,7 @@ To add a token first find the token address from one of these lists:  [Bridged T
 You can do so by going on [Honeyswap](https://app.honeyswap.org/#/swap) → Pool → Remove Liquidity \(It may take a few moments to load\).
 
 **What is the easiest way to purchase xDai?**  
-You can bridge DAI into xDAI from the Ethereum network using the [bridge](https://dai-bridge.poa.network/), or you can buy xDai with fiat using [Ramp](https://ramp.network/buy/?swapAsset=XDAI).
+You can bridge DAI into xDAI from the Ethereum network using the [bridge](https://dai-bridge.poa.network/), or you can buy xDai on the exchange Bitmax or with fiat using [Ramp](https://ramp.network/buy/?swapAsset=XDAI). Recently, more bridges were implemented \(some in beta version, please practice caution\): [xDai-Polygon Bridge](https://www.youtube.com/watch?v=RlcyBtz3R2w) \([guide](https://medium.com/honeyswap/introducing-xdai-to-matic-polygon-matic-polygon-to-xdai-connext-bridge-36e4bc6393dc)\), [xDai-Bsc Chain Bridge](https://www.youtube.com/watch?v=mGqKPqCF6Zc&t=19s) \([guide](https://forum.1hive.org/t/how-to-use-binance-as-an-on-ramp-for-xdai/2412)\).
 
 **Any tutorial on how to purchase xDai and on how to use Honeyswap?**  
 To use Honeyswap you need to follow a few easy steps: First, send your token \(For example, DAI\) to your Metamask, on the Ethereum network. Then, once you create an xDai network RPC, you can quickly bridge your token through the token bridge \(you’ll need a few $ of ETH for such transaction\). You can read more [here](https://medium.com/honeyswap/introducing-honeyswap-fa34b24e6978) and watch a tutorial [here](https://forum.1hive.org/t/1hive-101-beeginner-video-tutorials/217?u=jasper).
