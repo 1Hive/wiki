@@ -20,7 +20,7 @@ A brand new website is about to be ready for Agave. You can already visit the la
 Our [Milestones](https://wiki.1hive.org/projects/milestones) page is where we publish major updates regarding 1Hive and Agave. 
 
 **When will the product launch?**  
-Currently, Agave's product is under audit to make sure the release will be successful. Therefore, as soon as the auditing process will be completed, Agave's product should be up and running. Although the hope is to release the product soon, we do not want to rush deliveries.
+Currently, Agave's product is under audit to make sure the release will be successful. The company taking care of the audit is [Chainsulting](https://chainsulting.de/). Therefore, as soon as the auditing process will be completed, Agave's product should be up and running. Although the hope is to release the product soon, we do not want to rush deliveries.
 
 As of now, on the front-end we are completing and connecting the contracts. On the back-end, the audit is in progress, and we are at work to resolve an issue related to the Subgraph.
 
@@ -32,7 +32,7 @@ Here you can give a look to Agave's roadmap, subject to change
 **What about Marketing?**  
 Marketing will begin as soon as Agave is deployed, as presented in the roadmap. Any indirect marketing before token launch will just occur through proposals, documentation, token listings. 
 
-Our main marketing push will be in coordination with Agave's deployment, Celeste, Honeyswap v3, to promote the entire 1hive ecosystem as a whole.
+Our main marketing push will be in coordination with Agave's deployment, [Celeste](https://1hive.gitbook.io/celeste/), Honeyswap v3, to promote the entire 1hive ecosystem as a whole.
 
 **Is $AGVE on Coingecko?**  
 Yes! Here’s the link: [$AGVE - Coingecko](https://www.coingecko.com/en/coins/agave-token).
