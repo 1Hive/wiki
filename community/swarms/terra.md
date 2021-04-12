@@ -41,15 +41,15 @@ Each of the above members have equal voting weight within the Terra DAO to manag
 | [dw](https://forum.1hive.org/u/farmerd/summary) | Portuguese |
 | [luigy](https://forum.1hive.org/u/luigy/summary) | Portuguese QA |
 | [stonky](https://forum.1hive.org/u/stonky/summary) | Italian |
-| TBA | Italian QA |
+| [Goldoni](https://forum.1hive.org/u/goldoni/summary) | Italian QA |
 | [boring877](https://forum.1hive.org/u/boring877/summary) | Chinese  |
 | TBA | Chinese QA |
-| TBA | German |
-| TBA | German QA |
+| [Fried](https://forum.1hive.org/u/friedrengi/summary) | German |
+| Laura P | German QA |
 | [omahs](https://forum.1hive.org/u/omahs/summary) | French |
 | [Felix](https://forum.1hive.org/u/felix/summary) | French QA |
 
 ## Funding Proposals
 
-Only one funding proposal has been made, which can be seen throughout the following forum post: [https://forum.1hive.org/t/terra-dao-proposal/1912](https://forum.1hive.org/t/terra-dao-proposal/1912)
+2 funding proposals have been made so far. [Click here](https://forum.1hive.org/t/terra-dao-proposal/1912) for the first Terra DAO proposal and [here](https://forum.1hive.org/t/terra-dao-2nd-proposal/3032) for the 2nd one.
 
