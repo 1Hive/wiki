@@ -32,5 +32,6 @@ It should be known that 1hive is interested in maintaining secure infrastructure
 
 ## Bounty Payouts
 
-$2000 in Honey for an email spoofing vulnerability: [https://forum.1hive.org/t/email-spoofing-vulnerability-payout/2187](https://forum.1hive.org/t/email-spoofing-vulnerability-payout/2187)
+[$2000 in Honey for an email spoofing vulnerability.](https://forum.1hive.org/t/email-spoofing-vulnerability-payout/2187)  
+[$2000 in Honey for a domain takeover vulnerability.](https://forum.1hive.org/t/domain-takeover-vulnerability-payout/3333)
 
