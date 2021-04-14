@@ -32,7 +32,13 @@ Le amministrazioni “centralizzate” sono un mezzo potente e flessibile per sc
 1Hive ha una serie di [milestones](../projects/milestones.md)  che vengono aggiornati continuamente dai singoli swarms \(sciami\)
 
 **E’ possibile fare lo staking di Honey?**  
-Al momento non è possibile mettere Honey in stake. Questa feature sarà disponibile non appena[ Celeste](https://1hive.gitbook.io/1hive/projects/celeste) verrà rilasciato.
+Siamo lieti di annunciare che dall'11 Aprile il nostro oracolo soggettivo [Celeste](https://celeste.1hive.org/#/dashboard) è finalmente live. Gli utenti possono mettere i loro HNY in staking, e potrebbero essere selezionati per risolvere eventuali dispute. [Clicca qui](https://1hive.gitbook.io/celeste/) per accedere alla pagina Wiki di  Wiki dove ogni sorta di informazione è facilmente reperibile.
+
+**Quale è l'APY \(Average per Year\) per lo staking di HNY sul Celeste?**  
+Al momento non siamo ancora in grado di dare una stima esatta dell'APY con Celeste. I guadagni dallo staking sono un effetto collaterale positivo di Celeste, il cui principale obiettivo è di fornire la community di uno strumento per evitare un comportamento dannoso da parte di alcuni utenti. Per partecipare in Celeste bisogna mettere in staking un minimo di 0.5 HNY,  e i guadagni relativi allo staking verranno distribuiti mensilmente.
+
+**C'è un incentivo nell'holdare HNY?**  
+Fare holding di almeno 0.5 HNY permette di partecipare in [Celeste](https://1hive.gitbook.io/celeste/) e, inoltre, possedere Honey è un modo per votare e contribuire alle proposte della community o per fornire liquidità. \([provide liquidity](https://link.medium.com/Zb26x6KQWcb)\).
 
 **E’ possibile avere Honey su Uniswap, e quando?**   
 L’ omnibridge universale che permetterà ad Honey di atterrare nel Mainnet Ethereum dovrebbe essere pronto e ultimato tra il Q1 e Q2 2021. 
@@ -42,8 +48,8 @@ Da Febbraio 2021 HNY è anche sul Mainnet; Attualmente, su [Sushiswap](https://a
 **Nel Discord ho notato un canale "Matic" 1Hive vuole lasciare xDai?**   
 Al momento non ci sono piani di lasciare la xDai chain, ma 1Hive è un organismo flessibile ed è in continua esplorazione di opportunità che possa estendere la community e il proprio ecosistema, il che potrebbe portare ad aperture ad altri networks come Matic o altre roll-up chains come Arbitrum.
 
-**Cosa guadagno nell’“holdare” Honey?**  
-Finchè lo staking non sarà attivo con l’avvento di[ Celeste](https://1hive.gitbook.io/1hive/projects/celeste), avere Honey permette di diventare un liquidity provider e di votare nelle proposte di 1Hive. \(Lettura consigliata:[ provide liquidity](https://link.medium.com/Zb26x6KQWcb)\).
+_**"Votare una proposta"**_  **ha un costo?**  
+No, assolutamente. Sebbene si vota con il proprio corrispettivo di HNY, il token non è nè speso nè bloccato. Si può ritirare il voto o fare trading in qualsiasi momento.
 
 ## Tokenomics
 
