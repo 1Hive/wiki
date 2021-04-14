@@ -1,7 +1,5 @@
 # Agave FAQ
 
-## **Agave FAQ**
-
 ## **Generali**
 
 **Quale è il Ticker ed il Contract Address di Agave?**  
