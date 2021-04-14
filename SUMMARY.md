@@ -40,7 +40,7 @@
   * [🏵 Pollen](community/swarms/pollen.md)
   * [�� Morphosis](community/swarms/morphosis.md)
   * [🌜 Luna](community/swarms/luna.md)
-  * [🐱 Fauna](community/swarms/fauna.md)
+  * [�� Fauna](community/swarms/fauna.md)
   * [🐛 Bug Bounty](community/swarms/bug-bounty.md)
 * [Média](community/media/README.md)
   * [Comptes sociaux](community/media/social-accounts.md)

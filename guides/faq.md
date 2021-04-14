@@ -27,7 +27,13 @@ Dans le cas de la DAO 1Hive, une monnaie communautaire appelée Honey est utilis
 Nous avons des [étapes](https://wiki.1hive.org/v/francais/projects/milestones) approximatives mis à jour par les essaims.
 
 **Puis-je stake Honey ?**  
-Le staking de Honey n’est pas possible pour l’instant. Cette fonctionnalité sera disponible via [Celeste](https://wiki.1hive.org/v/francais/projects/celeste) une fois qu’il sera lancé.
+Nous sommes heureux de vous annoncer que notre oracle subjectif[ Celeste](https://celeste.1hive.org/#/dashboard) a été lancé le 11 avril. Chaque utilisateur peut stake son HNY et peut être tiré au sort pour résoudre les différends qui peuvent survenir.[ Cliquez ici](https://1hive.gitbook.io/celeste/) pour accéder à la page du Wiki Celeste où vous trouverez d’avantage d’informations.
+
+**Y a-t-il une incitation à détenir du Honey ?**  
+Détenir au moins 0,5 HNY vous permet de participer à Celeste et, en plus de cela, la détention de Honey sert principalement à voter sur des propositions et à [fournir des liquidités](https://link.medium.com/Zb26x6KQWcb).
+
+**Quel est l'APY de staking en HNY sur Celeste?**  
+Nous ne pouvons pas donner d'estimation de l'APY sur Celeste pour le moment..Les récompenses de _staking_ sont un effet secondaire positif de Celeste, dont le but principal est de fournir à la communauté un outil pour prévenir les comportements malveillants. Pour participer à Celeste, vous devez avoir au moins 0,5 HNY, les récompenses de _staking_ seront distribuées tous les mois.
 
 **Quand Honey sera-t-il sur Uniswap ?**  
 L'omnibridge inversé permettant d’envoyer du Honey sur Mainnet pour l'ajouter à Uniswap arrivera très probablement sur le réseau principal Ethereum au premier ou deuxième trimestre 2021.
@@ -36,9 +42,6 @@ Depuis février 2021, HNY est également sur Mainnet. Actuellement sur [Sushiswa
 
 **J'ai vu une chaîne « Matic » sur Discord. Sommes-nous en train de quitter xDai ?**  
 Actuellement, il n'est pas prévu de quitter xDai, mais 1Hive explore les opportunités qui ****pourraient exister pour étendre la communauté et l'écosystème de produits à des réseaux supplémentaires, y compris Matic et dans des chaînes de développement telles qu'Arbitrum.
-
-**Y a-t-il une incitation à détenir du Honey ?**  
-Jusqu'à ce que le staking devienne une réalité avec [Celeste](https://wiki.1hive.org/v/francais/projects/celeste), la détention de Honey est principalement utilisée pour voter sur des propositions et pour [fournir des liquidités](https://link.medium.com/Zb26x6KQWcb).
 
 **Est-ce que** _**« voter pour une proposition »**_ **coûte réellement du Honey ?**  
 Non, ce n'est pas le cas. Vous ne dépensez pas votre HNY lorsque vous votez. Votre HNY n'est pas verrouillé non plus, vous pouvez retirer votre vote et trader si vous le souhaitez.
@@ -125,7 +128,7 @@ Pour ajouter un token, recherchez d'abord l'adresse du token dans l'une de ces l
 Vous pouvez le faire en allant sur [Honeyswap](https://app.honeyswap.org/#/swap) → Pool → Remove Liquidity \(Le chargement peut prendre quelques instants\).
 
 **Quelle est la manière la plus simple d'acheter des xDai ?**  
-Vous pouvez _bridger_ DAI à xDAI à partir du réseau Ethereum en utilisant le [bridge](https://dai-bridge.poa.network/), ou vous pouvez acheter xDai avec du fiat sur [Ramp](https://ramp.network/buy/?swapAsset=XDAI).
+Vous pouvez _bridger_ DAI à xDAI à partir du réseau Ethereum en utilisant le [bridge](https://dai-bridge.poa.network/). Vous pouvez aussi acheter des xDai sur l'échange Bitmax ou avec du fiat sur [Ramp](https://ramp.network/buy/?swapAsset=XDAI). De nouveaux ponts ont été implémentés récemment \(certains en version bêta, soyez prudent\) : [xDai-Polygon Bridge](https://www.youtube.com/watch?v=RlcyBtz3R2w) \([guide](https://medium.com/1hivefr/pr%C3%A9sentation-du-pont-connext-xdai-vers-matic-polygon-matic-polygon-vers-xdai-c68fd0bc26be)\), [xDai-Bsc Chain Bridge](https://www.youtube.com/watch?v=mGqKPqCF6Zc&t=19s) \([guide](https://medium.com/1hivefr/comment-utiliser-binance-comme-connecteur-au-r%C3%A9seau-xdai-fa4d49643432)\).
 
 **Existe-t-il un tutoriel sur comment acheter des xDai et comment utiliser Honeyswap ?**  
 Pour utiliser Honeyswap, vous devez suivre quelques étapes simples : Tout d'abord, envoyez votre token \(par exemple, DAI\) sur votre Metamask, sur le réseau Ethereum. Ensuite, une fois que vous avez créé un RPC réseau xDai, vous pouvez rapidement relier votre jeton à travers le bridge \(vous aurez besoin d’un peu d'ETH pour cette transaction\). Pour en savoir plus c’est [ici](https://medium.com/honeyswap/introducing-honeyswap-fa34b24e6978) et pour regarder un tutoriel, [ici](https://forum.1hive.org/t/1hive-101-beeginner-video-tutorials/217).
