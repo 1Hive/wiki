@@ -2,7 +2,7 @@
 description: A guide to updating the 1Hive Wiki.
 ---
 
-# FAQ
+# 1Hive FAQ
 
 ## **Domande Generali**
 
