@@ -1,4 +1,4 @@
-# Perguntas Frequentes
+# 1Hive Perguntas Frequentes
 
 ## **Perguntas Gerais**
 

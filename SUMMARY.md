@@ -41,5 +41,6 @@
 ## 🐑Guias <a id="guides"></a>
 
 * [Contribuições na Wiki](guides/wiki-contribution.md)
-* [Perguntas Frequentes](guides/faq.md)
+* [1Hive Perguntas Frequentes](guides/faq.md)
+* [Agave Perguntas Frequentes](guides/agave-perguntas-frequentes.md)
 
