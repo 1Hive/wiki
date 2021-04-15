@@ -6,14 +6,14 @@
 $AGVE: 0x3a97704a1b25F08aa230ae53B352e2e72ef52843  
 Blockscout: [$AGVE](https://blockscout.com/poa/xdai/address/0x3a97704a1b25F08aa230ae53B352e2e72ef52843/transactions)**​**
 
-**What is Agave?**  
+**Cosa è Agave?**  
 Agave, in poche parole, è Aave su xDai. Per maggiori informazioni, fai riferimento ai seguenti articoli:[ AGVE Token Launch](https://forum.1hive.org/t/ag-token-launch/2108) -[ Announcing Agave, Aave on xDai](https://forum.1hive.org/t/announcing-agaave-aave-on-xdai/1792). Una dettagliata introduzione ad Agave è anche disponibile nel nostro [Canale Medium](https://agavefinance.medium.com/introduction-to-agave-7ea3d9b54f84).
 
 **Quale è la supply totale di $AGVE?**  
 Supply ****Totale: 100 k  
 Supply Circolante: 27,799k
 
-**Is there a Website for Agave?**  
+**Quale è la pagina web di Agave?**  
 Una pagina web nuova di zecca sta per essere lanciata. E’ già disponibile la pagina di destinazione[ Agave.Finance](https://agave.finance/).
 
 **Dove posso trovare aggiornamenti regolari riguardanti il progetto?**  
@@ -48,10 +48,10 @@ La tua partecipazione è sempre molto apprezzata. In questo momento, un paio di 
 Puoi tener traccia dei tuoi LP su [Liquidityfolio](https://www.liquidityfolio.com/).​
 
 **Perchè non ho ricevuto l’airdrop?**  
-Più che un airdrop, $AGVE è stato distribuito a contributori e membri attivi della community di 1Hive, prima di una instantanea effettuata il 25 di Gennaio 2021.[Clicca qui](https://forum.1hive.org/t/agave-contributor-distribution-announcement/2373) per trovare info sulla supply del token, l’allocazione, e la lista degli indirizzi che hanno ricevuto l’iniziale distribuzione.
+Più che un airdrop, $AGVE è stato distribuito a contributori e membri attivi della community di 1Hive, prima di uno snapshot effettuato il 25 di Gennaio 2021.[Clicca qui](https://forum.1hive.org/t/agave-contributor-distribution-announcement/2373) per trovare info sulla supply del token, l’allocazione, e la lista degli indirizzi che hanno ricevuto l’iniziale distribuzione.
 
 **Come posso rivendicare \(claim\) il mio airdrop?**  
-Qualora il tuo indirizzo fosse eleggibile a ricevere l’airdrop \([Clicca qui](https://pastebin.com/hjYcbK1k) per la lista degli indirizzi\) la tua allocazione di $AGVE è già stata inviata nel tuo portafoglio.
+Qualora il tuo indirizzo fosse idoneo a ricevere l’airdrop \([Clicca qui](https://pastebin.com/hjYcbK1k) per la lista degli indirizzi\) la tua allocazione di $AGVE è già stata inviata nel tuo portafoglio.
 
 **Ci saranno altri airdrop?**  
 Sebbene questa sia, al momento, pura speculazione, il team ha menzionato che in futuro un nuovo airdrop potrebbe avvenire.
@@ -82,7 +82,7 @@ Il miglior modo per ricevere aiuto dai membri della community 1Hive è sul canal
 ## **Alvin**
 
 **Cosa / Chi è Alvin?**  
-Alvin è un token erc20 che è scambiabile \(in quantità intere\) con un peluche in edizione limitata del personaggio del logo dell'agave \(chiamato Alvin\) e un NFT - Token non Fungibile -. Ispirato dal successo ottenuto da Unisocks \(attualmente di valore superiore a 100k\), si tratta della prima collaborazione \(Cross-Pollination\) tra [1Hive](https://1hive.org/) e[ Shenanigan](https://she.energy/).  
+Alvin è un token Erc20 che è scambiabile \(in quantità intere\) con un peluche in edizione limitata del personaggio del logo dell'agave \(chiamato Alvin\) e un NFT - Token non Fungibile -. Ispirato dal successo ottenuto da Unisocks \(attualmente di valore superiore a 100k\), si tratta della prima collaborazione \(Cross-Pollination\) tra [1Hive](https://1hive.org/) e[ Shenanigan](https://she.energy/).  
 ALVIN v3: 0x50DBde932A94b0c23D27cdd30Fbc6B987610c831  
 Blockscout: [$ALVIN](https://blockscout.com/poa/xdai/address/0x50DBde932A94b0c23D27cdd30Fbc6B987610c831/transactions) / [Alvin v3](https://info.honeyswap.org/token/0x50dbde932a94b0c23d27cdd30fbc6b987610c831)  
 Supply Totale: 122
@@ -94,6 +94,6 @@ Se vuoi riscattare il tuo peluche Alvin \(o i tuoi Shweatpants\) puoi sempliceme
 I tokens Dripp sono elencati a partire da prezzi predeterminati dell'articolo. Ogni acquisto / vendita sposterà il prezzo. L'aumento o la diminuzione segue una curva di legame \([bonding curve](https://blog.relevant.community/bonding-curves-in-depth-intuition-parametrization-d3905a681e0a)\). Ogni Dripp alla fine troverà un equilibrio basato sulla domanda del mercato.
 
 **Cosa è Dripp?**  
-Dripp -[ http://dripp.farm/](http://dripp.farm/) è la piattaforma dove gli utenti possono mettere in staking i propri Honey, Particle o entrambi, per guadagnare Alvin, Shweatpants, o entrambi. Lo staking è stato disponibile per circa 30 giorni a partire dal lancio della piattaforma \( 4 Marzo\)  s the platform where users can stake their Honey, Particle or both in order to earn Alvin, Shweatpants, or both. Staking will be possible for roughly 30 days from launch \(March 4th\). [Clicca qui](https://medium.com/frst/money-laundry-the-rise-of-the-crypto-sock-market-f979aafc3796) per ulteriori informazioni.  
+Dripp -[ http://dripp.farm/](http://dripp.farm/) è la piattaforma dove gli utenti possono mettere in staking i propri Honey, Particle o entrambi, per guadagnare Alvin, Shweatpants, o entrambi. Lo staking è stato disponibile per circa 30 giorni a partire dal lancio della piattaforma \( 4 Marzo\). [Clicca qui](https://medium.com/frst/money-laundry-the-rise-of-the-crypto-sock-market-f979aafc3796) per ulteriori informazioni.  
 
 
