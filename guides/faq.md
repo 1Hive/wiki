@@ -34,7 +34,15 @@ Yol haritası yerine wwarmların her biri tarafından güncellenen [kilometre ta
 
 **Honey stake edebilir miyim?** 
 
-Şu anda Honey stake etmek mümkün değil. Bu özellik, [Celeste ](../projects/celeste/)yayınlandığında kullanılabilir hale gelecek.
+11 Nisan'dan itibaren, sonunda subjektif oracle olarak işleyecek [Celeste](https://celeste.1hive.org/#/dashboard)'i yayınladık. Kullanıcılar, HNY stak ederek ortaya çıkabilecek ihtilafların çözülmesi için keeper olara seçilebilirler. Celeste hakkında bilgilerin bulunduğu Celeste Wiki sayfası için [buraya](https://1hive.gitbook.io/celeste/) tıklayabilirsiniz.
+
+**Celeste üzerinde HNY stake ettiğimde APY ne olur?**
+
+Şu anda, Celeste üzerinde APY'ye ilişkin bir tahminde bulunamıyoruz. Staking ödülleri, Celeste'in pozitif bir yan etkisidir; Celeste'in temel amacı, kötü niyetli davranışların önlenmesi amacıyla topluluğa bir araç sağlamaktır. Celeste'e katılmak için, en az 0.5 HNY'e sahip olmanız gerekmektedir ve staking ödülleri aylık olarak dağıtılacaktır.
+
+**Honey tutmak için herhangi bir teşvik var mı?**
+
+En az 0.5 HNY ile [Celeste](https://1hive.gitbook.io/celeste/)'e katılabilir; ayrıca HNY'i tekliflere oy vermek ve [likidite sağlamak](https://finematics.medium.com/how-do-liquidity-pools-work-defi-explained-6d3418ea71fa) için kullanabilirsiniz.
 
 **Honey'i ne zaman Uniswap'tan alabilirim?** 
 
@@ -46,9 +54,9 @@ Honey'nin Ethereum mainnet'e taşınmasına ve Uniswap'e eklenmesine olanak sağ
 
 Şu anda, xDai'den ayrılma gibi bir planımız yok; ancak 1Hive topluluğun ve ürün ekosisteminin Matic gibi ekstra ağlara ve Arbitrum gibi geliştirme aşamasındaki zincirlere uzanması için mevcut fırsatları araştırmaktadır.
 
-**Honey tutmak için bir teşvik bulunuyor mu?**
+**Bir teklife oy verdiğimde Honey mi harcamış olurum?**
 
-[Celeste ](../projects/celeste/)ile staking gelene kadar, Honey temel olarak tekliflere oy vermek veya [likidite sağlamak](https://finematics.medium.com/how-do-liquidity-pools-work-defi-explained-6d3418ea71fa) için kullanılmaktadır..
+Hayır, kaybetmezsiniz. Oy verdiğinizde HNY harcamazsınız. HNY'nizi kilitlemiş de olmazsınız; istediğiniz zaman oyunuzu geri çekip HNY'nizi satabilirsiniz.
 
 ## Tokenomics <a id="tokenomics"></a>
 
@@ -74,7 +82,7 @@ Piyasa değeri = \(Toplam arz - Ortak Havuz\) x Honey Fiyatı şeklinde hesaplan
 
 **Honey'nin mevcut ihraç politikası nasıldır?** 
 
-Enflasyon oranı, şu anda yıllık %30 olarak belirlenmiştir. Başlangıçta enflasyon oranı %60'tı; ancak topluluk oylarıyla bunun değiştirilmesine karar verdi. Dinamik bir enflasyon oranı geliştirildi ve muhtemelen 2021 yılının birinci veya ikinci çeyreğinde yürürlüğe konacak. Ayrıntılı bilgi için [ihraç ](../projects/honey/issuance.md)sayfasına bakabilirsiniz.
+Başlangıçtaki %60 enflasyon oranının topluluk tarafından yıllık %30 olarak ayarlanmasından sonra, yeni bir dinamik enflasyon oranı geliştirilip 2021 yılının Nisan ayında entege edildi. Ayrıntılı bilgi için, [buraya ](https://forum.1hive.org/t/dynamic-honey-supply-policy-proposal/2224)ve [buraya ](../projects/honey/honey-improvements.md#dinamik-ihrac-politikasi)tıklayabilir; ayrıca wiki'de bulunan [ihraç ](../projects/honey/issuance.md)sayfasına göz atabilirsiniz.
 
 **Yeni basılan Honey'ler nereye gidiyor?** 
 
@@ -149,6 +157,10 @@ Metamask'e token eklemek için, token adresini öncelikle şu listelerden bulman
 **xDai satın almanın en kolay yolu nedir?** 
 
 [Bridge](https://dai-bridge.poa.network/)'i kullanarak Ethereum ağındaki DAI'nizi xDai'ye dönüştürebilir veya [Ramp](https://ramp.network/buy/?swapAsset=XDAI) kullanarak doğrudan xDai satın alabilirsiniz.
+
+En kolay xDai nasıl alınır?
+
+[Dai bridge](https://dai-bridge.poa.network/)'i kullanarak Ethereum ağından DAI'nizi xDai olarak geçirebilir, Bitmax \(Ascendex\) üzerinden xDai alabilir veya [Ramp](https://ramp.network/buy/?swapAsset=XDAI)'i kullanarak doğrudan para ile satın alabilirsiniz. Son zamanlarda birkaç köprü daha kullanıma sunuldu \(bunların bazıları beta sürümde olduğu için kullanırken dikkatli olunuz\): [xDai-Polygon Bridge](https://www.youtube.com/watch?v=RlcyBtz3R2w) \([nasıl kullanılır](https://medium.com/1hivetr/%C3%A7ift-y%C3%B6nl%C3%BC-matic-polygon-xdai-k%C3%B6pr%C3%BCs%C3%BC-c5cd85034afc)\), [xDai-Bsc Chain Bridge](https://www.youtube.com/watch?v=mGqKPqCF6Zc&t=19s) \([nasıl kullanılır](https://medium.com/1hivetr/binance-smart-chain-xdai-chain-k%C3%B6pr%C3%BCs%C3%BC-ile-binanceden-xdai-ye-ge%C3%A7i%C5%9F-5fe99af4f640)\).
 
 **xDai satın almak ve Honeyswap kullanmak için bir öğretici video veya yazı var mı?** 
 
