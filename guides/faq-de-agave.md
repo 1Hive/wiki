@@ -18,7 +18,7 @@ Un nuevo sitio para Agave está casi listo. Puedes visitar la pagina principal e
 Nuestra página de [Metas ](../projects/metas.md)es donde publicamos actualizaciones importantes sobre 1Hive y Agave.
 
 **¿Cuándo será el lanzamiento del producto?**  
-Actualmente, el producto de Agave está bajo auditoría para asegurarse de que el lanzamiento sea exitoso. Por lo tanto, tan pronto como se complete el proceso de auditoría, el producto de Agave debería estar publicado y en funcionamiento. Aunque se quiere lanzar el producto pronto, no queremos apresurar las entregas.   
+Actualmente, el producto de Agave está bajo auditoría para asegurarse de que el lanzamiento sea exitoso. La Compañia a cargo de la auditoría es[ Chainsulting](https://chainsulting.de/). Por lo tanto, tan pronto como se complete el proceso de auditoría, el producto de Agave debería estar publicado y en funcionamiento. Aunque se quiere lanzar el producto pronto, no queremos apresurar las entregas.   
   
 A partir de ahora, en el front-end estamos completando y conectando los contratos. En el back-end, la auditoría está en progreso y estamos trabajando para resolver un problema relacionado con el Subgraph.
 
@@ -30,7 +30,7 @@ Aquí puedes darle un vistazo al roadmap de Agave
 **¿Y el marketing?**   
 El marketing comenzará tan pronto como se implemente Agave, como se presenta en el roadmap. Cualquier marketing indirecto antes del lanzamiento del token solo ocurrirá a través de propuestas, documentación, listados de tokens.   
   
-Nuestro principal impulso de marketing será en coordinación con la implementación de Agave, Celeste, Honeyswap v3, para promover todo el ecosistema de 1hive en conjunto.
+Nuestro principal impulso de marketing será en coordinación con la implementación de Agave, [Celeste](https://1hive.gitbook.io/celeste/), Honeyswap v3, para promover todo el ecosistema de 1hive en conjunto.
 
 **¿Está AGVE en Coingecko?**  
 ¡Sí! Aquí está el link: [$AGVE - Coingecko](https://www.coingecko.com/en/coins/agave-token).
@@ -57,9 +57,7 @@ Aunque esto es pura especulación en este punto, el equipo de Agave mencionó qu
 Durante el lanzamiento del token, los traders experimentaron una alta volatilidad debido a un error cometido al abrir el par AGVE/HNY: La proporción pretendida de  50HNY/10,000AGVE se fijó en 50HNY/1000AGVE. Esto creó una cadena de eventos que causó una volatilidad extrema y el equipo retiró la liquidez y la insertó en otro par \(AGVE-WETH\) en la proporción adecuada. Algunos usuarios pueden haber tenido algunas pérdidas, mientras que otros pueden haberse beneficiado de esto. Por favor, lee [La Reflexión sobre el lanzamiento de Agavee](https://forum.1hive.org/t/reflection-on-the-agave-launch/2517) para obtener más contexto.
 
 **Fuí afectado por el error con respecto a la liquidez inicial y compré $AGVE a un precio muy elevado. ¿Qué pasará ahora?**  
-Dado que, cuando se hace trading, la responsabilidad es del trader, aquellos que se vieron muy afectados por el precio de $AGVE pueden recibir algún tipo de compensación. El equipo está trabajando arduamente en una propuesta y cada miembro puede votar por el bien de la comunidad de 1Hive. Se tomó una snapshot para detectar quiénes se vieron particularmente afectados. Está atento y verifica los canales oficiales para estar al tanto de todo.
-
-\*\*\*\*
+Dado que, al hacer trading, la responsabilidad es del comerciante, aquellos que se vieron muy afectados por el precio de $AGVE recibieron una compensación propuesta por los miembros del equipo y votada por la comunidad, que se describe en [esta publicación](https://forum.1hive.org/t/agave-reparations-proposal/2822).
 
 **¿Cómo puedo proveer liquidez y para cuáles pares?**  
 En este momento, Hay dos pares para $AGVE: [AGVE-WETH](https://info.honeyswap.org/pair/0xeba7cc57e6f745b8d5cab829e07346c65393d78e) y [AGVE-HNY](https://info.honeyswap.org/pair/0x50a4867aee9cafd6ddc84de3ce59df027cb29084). Puedes proveer liquidez haciendo click [aquí](https://app.honeyswap.org/#/pool) → selecciona Add Liquidity → Selecciona el par al cual quieres proveer de liquidez. 
@@ -82,7 +80,13 @@ ALVIN v3: 0x50DBde932A94b0c23D27cdd30Fbc6B987610c831
 Blockscout: [$ALVIN](https://blockscout.com/poa/xdai/address/0x50DBde932A94b0c23D27cdd30Fbc6B987610c831/transactions) / [Alvin v3  
 ](https://info.honeyswap.org/token/0x50dbde932a94b0c23d27cdd30fbc6b987610c831)Suministro Total: 50
 
+**Quiero canjear mi peluche de Alvin \(o mis pantalones deportivos\). ¿Cómo puedo hacer eso?**  
+Puedes hacer eso fácilmente entrando en [dripp.farm](https://www.dripp.farm/) y haciendo click en el botón "Buy". Tu artículo se enviará a cualquier parte del mundo.
+
 **¿Qué es Dripp?**  
 Dripp - [http://dripp.farm/ 1](http://dripp.farm/) es la plataforma en la cual los usuarios pueden hacer stake de su Honey, Particle o ambos para ganar Alvin, Shweatpants \(Pantalones deportivos\), o ambos. El staking estará disponible durante aproximadamente 30 días después del lanzamiento\) will be possible for roughly 30 days from launch. \(4 de marzo\)  
 Para más información, puedes leer [este](https://medium.com/frst/money-laundry-the-rise-of-the-crypto-sock-market-f979aafc3796) artículo.
+
+**Cómo se cotiza:**   
+Los tokens Dripp se enumeran a partir de los precios predeterminados del artículo. Cada compra/venta moverá el precio. Cada Dripp eventualmente encontrará un equilibrio basado en la demanda del mercado.
 
