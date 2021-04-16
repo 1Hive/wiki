@@ -27,7 +27,13 @@ En el caso del DAO 1Hive, una moneda comunitaria llamada Honey se utiliza para c
  Tenemos [metas](../projects/metas.md) aproximadas actualizadas por cada swarm. 
 
 **¿Puedo hacer stake de Honey?**  
-Actualmente no es posible hacer stake de Honey. Esta función estará disponible a través de [Celeste](../projects/celeste.md) una vez que se lance. 
+Desde el 11 de abril, nos complace anunciar que [Celeste](https://celeste.1hive.org/#/dashboard) finalmente está activo. Los usuarios pueden hacer stake de su HNY y pueden ser seleccionados para resolver disputas que puedan surgir. Haz clic [aquí](https://1hive.gitbook.io/celeste/) para acceder al Wiki de Celeste donde se muestra todo tipo de información. 
+
+**¿Cuál es el APY de hacer stake de HNY con Celeste?**   
+Por el momento no podemos dar una estimación del APY a través de Celeste. Las recompensas de participación son un efecto secundario positivo de Celeste, cuyo objetivo principal es proporcionar a la comunidad una herramienta para prevenir comportamientos maliciosos. Para participar en Celeste, tienes que tener al menos 0.5 HNY, y las recompensas de staking se distribuirán mensualmente.
+
+**¿Hay algún incentivo por tener Honey?**   
+Tener al menos 0.5 HNY te permite participar en Celeste y, por otro lado, poseer Honey se usa principalmente para votar en propuestas y proporcionar liquidez.
 
 **¿Cuándo estará Honey en Uniswap?**   
 El omnibridge inverso que permite mover Honey a Mainnet para agregarlo a Uniswap probablemente llegará a Ethereum Mainnet en el primer o segundo trimestre de 2021. 
@@ -37,8 +43,8 @@ Desde febrero de 2021, HNY está también en la Mainnet. Actualmente en [Sushisw
 **Vi un canal de "Matic" en Discord. ¿Nos vamos de xDai?**   
 Actualmente no hay planes para dejar xDai, pero 1Hive está explorando qué oportunidades pueden existir para extender la comunidad y el ecosistema de productos a redes adicionales, incluido Matic, y en cadenas de desarrollo como Arbitrum. 
 
-**¿Hay algún incentivo por poseer Honey?**  
-Hasta que el staking se convierta en realidad con [Celeste](../projects/celeste.md), Honey se utiliza principalmente para votar propuestas y [proporcionar liquidez](https://link.medium.com/Zb26x6KQWcb).
+**¿"Votar sobre una propuesta" realmente cuesta a Honey?**  
+No, no es así. No estás gastando tu HNY al votar. Tu HNY tampoco está bloqueada, retira tu voto y podrás cambiar tu HNY si lo deseas.
 
 ## Tokenomics
 
@@ -115,7 +121,7 @@ Para agregar un token, primero busca la dirección del token en una de estas lis
 **¿Cómo puedo retirar mi liquidez de Honeyswap V2 usando LP Tokens?** Puedes hacerlo yendo a [Honeyswap](https://app.honeyswap.org/#/swap) → Pool → Remove Liquidity \(puede tardar unos minutos en cargarse\). 
 
 **¿Cuál es la forma más fácil de comprar xDai?**   
-Puedes pasar DAI a xDAI desde la red Ethereum usando el [puente](https://dai-bridge.poa.network/), o puedes comprar xDai con fiat usando [Ramp](https://ramp.network/buy/?swapAsset=XDAI).
+Puedes pasar DAI a xDAI desde la red Ethereum usando el [puente](https://dai-bridge.poa.network/), o puedes comprar xDai con fiat usando [Ramp](https://ramp.network/buy/?swapAsset=XDAI). Recientemente, se implementaron más puentes \(algunos en versión beta, ten cuidado\): [xDai-Polygon Bridge](https://www.youtube.com/watch?v=RlcyBtz3R2w) \([guía](https://medium.com/1hivees/puente-de-canales-de-estado-xdai-polygon-matic-impulsado-por-connext-1fa5f80ffdb1)\), [xDai-Bsc Chain Bridge](https://www.youtube.com/watch?v=mGqKPqCF6Zc&t=19s) \([guía](https://medium.com/1hivees/c%C3%B3mo-usar-binance-como-una-rampa-para-entrar-a-xdai-2e1b051ad0e7)\).
 
 **¿Algún tutorial sobre cómo comprar xDai y cómo usar Honeyswap?**   
 Para usar Honeyswap, tienes que seguir unos sencillos pasos: Primero, manda tus tokens \(por ejemplo, DAI\) a tu Metamask, en la red Ethereum. Luego, una vez que crees un RPC de la red xDai, puedes conectar rápidamente tus tokens a través del puente de tokens \(necesitarás unos pocos $ en ETH para realizar dicha transacción\). Puedes leer más [aquí](https://medium.com/honeyswap/introducing-honeyswap-fa34b24e6978) y ver un tutorial [aquí](https://forum.1hive.org/t/1hive-101-beeginner-video-tutorials/217?u=jasper). 
