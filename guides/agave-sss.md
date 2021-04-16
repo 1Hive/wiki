@@ -12,7 +12,7 @@ Blockscout: [$AGVE](https://blockscout.com/poa/xdai/address/0x3a97704a1b25F08aa2
 
 **Agave nedir?**
 
-En kısa şekilde, Agave xDai üzerinde Aave'dir diyebiliriz. Ayrıntılı bilgi için şu yazılara bakabilirsiniz: [AGVE Token Launch 2](https://forum.1hive.org/t/ag-token-launch/2108) - [Announcing Agave, Aave on xDai](https://forum.1hive.org/t/announcing-agaave-aave-on-xdai/1792)
+En kısa şekilde, Agave xDai üzerinde Aave'dir diyebiliriz. Ayrıntılı bilgi için şu yazılara bakabilirsiniz: [AGVE Token Launch 2](https://forum.1hive.org/t/ag-token-launch/2108) - [Announcing Agave, Aave on xDai](https://forum.1hive.org/t/announcing-agaave-aave-on-xdai/1792). Ayrıca [Medium](https://medium.com/agavetr/agaveyi-tan%C4%B1yal%C4%B1m-bc1c5a989053) üzerinde de ayrıntılı bir makale bulunmaktadır.
 
 **Toplam $AGVE arzı kaçtır?**  
 Toplam Arz: 100 k  
@@ -23,8 +23,43 @@ Mevcut Piyasa Değeri: 14ML USD
 
 Agave, [http://agave.finance/](http://agave.finance/) adresinde olacaktır. Şu anda platform kullanıma açılmamıştır; ancak giriş sayfasına ve ayrıntılı bilgiye bu sayfadan ulaşılabilir.
 
-**Agave ne zaman kullanılabilir olacak?**  
-Çok büyük ihtimalle, birkaç hafta içinde \(Q1 sonunda\) Agave platformu çalışır ve kullanılabilir hale gelecek.
+**Projeyle ilgili güncellemeler hakkında nereden bilgi alabilirim?**
+
+1Hive ve Agave ile ilgili önemli güncel bilgileri [Kilometre Taşları](../projects/1hive-updates.md) sayfamızda paylaşıyoruz.
+
+Platform ne zaman açılacak?
+
+Şu anda, Agave platformu başarılı bir şekilde açılabilmesi açısından audit sürecinde. Audit'i [Chainsulting ](https://chainsulting.de/)gerçekleştiriyor. Dolayısıyla, audit süreci tamamlanır tamamlanmaz Agave platformu açılmış olacak. Her ne kadar platformu olabildiğince hızlı açmak istesek de aceleye de getirmek istemiyoruz.
+
+Şu anda, front-end için kontratları tamamlayıp bağlıyoruz. Back-end konusunda audit devamediyor ve Subgraph'la ilgili karşılaştığımız sorunu çözmek için çalışıyoruz.
+
+Agave yol haritasını nereden görebilirim?
+
+Aşağıdaki görsel genel hatlarıyla Agave yol haritasını göstermektedir:
+
+![Agave Yol Haritas&#x131;](../.gitbook/assets/image%20%282%29.png)
+
+**Tanıtım çalışmaları ne durumda?**
+
+Tanıtım \(marketing\) çalışmaları yol haritasında da görüldüğü üzere, Agave platformu açılır açılmaz başlayacak. Platformun açılışından önce yapılan dolaylı tanıtım çalışmaları teklifler, dokümanlar ve token'in listelenmesi yoluyla gerçekleşecek.
+
+Tanıtım çalışmalarımız; 1Hive ekosistemini tamamen tanıtmak amacıyla Agave açılışı, [Celeste ](https://1hive.gitbook.io/celeste/)ve Honeyswap v3 ile koordinasyon içerisinde gerçekleştirilecek.
+
+**$AGVE'yi Coingecko'da bulabilir miyim?**
+
+Evet! [$AGVE - Coingecko](https://www.coingecko.com/en/coins/agave-token).
+
+**Katkıda bulunmak için ne yapabilirim?**
+
+1Hive'da katılım her zaman hoş karşılanır. Şu anda birkaç bounty açık ve bu bounty'leri [şu adresten](https://www.notion.so/3e13ef2a5d614a828b684640af2212b4?v=20b21ead637341faa87416b85202b584) kontrol edip Buzz DAO ile iletişime geçerek üstlenebilirsiniz. Yoğunlukla Token listelenmesiyle ilgili bütün kullanıcılara açık yeni bounty'ler oluşturmak için bir teklif üzerinde çalışıyoruz.
+
+**$AGVE fiyat grafiğini nereden görebilirim?**
+
+Agave fiyat grafiğini [Coingecko](https://www.coingecko.com/en/coins/agave-token) üzerinde görebilirsiniz. Token 28 Şubat günü piyasaya sürüldü, [Honeyswap Info](https://info.honeyswap.org/token/0x3a97704a1b25f08aa230ae53b352e2e72ef52843) sayfası üzerinden de fiyat grafiğine bakabilirsiniz.
+
+LP kazançlarımı nereden takip edebilirim?
+
+Sağladığınız likidite durumunu, [Liquidtyfolio ](https://www.liquidityfolio.com/)üzerinden takip edebilirsiniz.
 
 **Neden Airdrop'a dahil edilmedim?**  
 $AGVE token, airdrop'tan öte 25 Ocak tarihinde alınan bir snapshot ile 1hive topluluğuna katkıda bulunanlara ve topluluğun aktif üyelerine dağıtıldı. Token arzı, token dağıtımı ve seçilen cüzdanlar hakkında bilgi almak için şu [forum paylaşımına](https://forum.1hive.org/t/agave-contributor-distribution-announcement/2373) bakabilirsiniz.
@@ -41,19 +76,7 @@ Token piyasaya sürülürken, AGVE/HNY havuzu açılırken yapılan bir hatadan 
 
 **İlk likiditeden doları zarara uğrayıp $AGVE'yi çok yüksek fiyattan aldım. Şimdi ne olacak?**
 
-Bu konuda, alım satım yaparken sorumluluğun her zaman alım satım yapan kişide olduğunu belirtmekle birlikte, $AGVE'de yaşanan bu volatiliteden yüksek derecede etkilenenlerin zararları telafi edilecek. Ekip şu anda bir teklif üzerinde çalışıyor ve hatta bir teklif de hazırlandı, bu teklif oylamaya sunulduğunda elinde $AGVE bulunduran herkes oy vererek 1Hive topluluğu için en iyi olana karar verecektir. Tam olarak kimlerin bu hatadan etkilendiğini belirlemek için bir snapshot alındı. Bu konuda resmi kanalları takipte kalmanızı öneririz.
-
-**$AGVE'yi Coingecko'da bulabilir miyim?**
-
-Evet! [$AGVE - Coingecko](https://www.coingecko.com/en/coins/agave-token).
-
-**Katkıda bulunmak için ne yapabilirim?**
-
-1Hive'da katılım her zaman hoş karşılanır. Şu anda birkaç bounty açık ve bu bounty'leri [şu adresten](https://www.notion.so/3e13ef2a5d614a828b684640af2212b4?v=20b21ead637341faa87416b85202b584) kontrol edebilirsiniz.
-
-**$AGVE fiyat grafiğini nereden görebilirim?**
-
-Agave fiyat grafiğini [Coingecko](https://www.coingecko.com/en/coins/agave-token) üzerinde görebilirsiniz. Token 28 Şubat günü piyasaya sürüldü, [Honeyswap Info](https://info.honeyswap.org/token/0x3a97704a1b25f08aa230ae53b352e2e72ef52843) sayfası üzerinden de fiyat grafiğine bakabilirsiniz.
+Bu konuda, alım satım yaparken sorumluluğun her zaman alım satım yapan kişide olduğunu belirtmekle birlikte, $AGVE'de yaşanan bu volatiliteden yüksek derecede etkilenenlerin zararları [şu forum paylaşımında](https://forum.1hive.org/t/agave-reparations-proposal/2822) açıklandığı şekilde ekip üyelerinin teklifi üzerinde topluluk oylamasıyla tazmin edildi.
 
 **Nasıl likidite ekleyebilirim?**
 
@@ -84,7 +107,15 @@ Reddit: [https://www.reddit.com/r/AGVE/](https://www.reddit.com/r/AGVE/)
 Alvin, sınırlı sayısdaki Agave logosunun Alvin isimli peluşu ve NFT'sini alacak şekilde takas edilebilen ERC20 tokenidir. Unisocks'un \(şu anda 100bin doların üzerinde değeri olan\) yakaladığı başarıdan ilham alınan Alvin, [1Hive](https://1hive.org/) ve [Shenanigan](https://she.energy/) arasındaki ilk iş birliği projesidir.  
 ALVIN v3: 0x50DBde932A94b0c23D27cdd30Fbc6B987610c831  
 Blockscout: [$ALVIN](https://blockscout.com/poa/xdai/address/0x50DBde932A94b0c23D27cdd30Fbc6B987610c831/transactions) / [Alvin v3](https://info.honeyswap.org/token/0x50dbde932a94b0c23d27cdd30fbc6b987610c831)  
-Total Sayısı: 50
+Toplam Sayısı: 122
+
+**Alvin pelüşümü \(veya Shweatpants'i\) almak istiyorum. Nasıl alabilirim?**
+
+Alvin pelüşünüzü \(veya Shenanigan Shweatpants'inizi\) almak istiyorsanız, [dripp.farm](https://www.dripp.farm/) sayfasına gidip "Buy" \(Satın Al\) butonuna tıklayarak alabilirsiniz. Pelüşünüz veya shweatpants dünyanın her yerine kargo ile gönderilir.
+
+Fiyatı nasıl belirlenir?
+
+Dripp tokenleri, ürünün önceden belirlenmiş fiyatıyla başlayacak şekilde listelenir. Her alım/satım işlemi fiyatı değiştirir. Artış ve düşüş, bir [bonding curve](https://blog.relevant.community/bonding-curves-in-depth-intuition-parametrization-d3905a681e0a) hareketini izler. Dripp'lerin her biri, piyasadaki talep durumuna göre en nihayetinde bir dengeye ulaşır.
 
 **Dripp Nedir?**
 
