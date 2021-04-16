@@ -34,7 +34,17 @@ Nós temos [marcos](https://1hive.gitbook.io/1hive/projects/milestones) atingido
 
 **Posso alocar \(Stake\) Honey?**
 
-Atualmente não é possível stake Honey. Essa função estará disponível através do [Celeste](https://1hive.gitbook.io/1hive/projects/celeste), após seu lançamento.
+Desde onze de abril temos o prazer de anunciar que nosso oráculo subjetivo [Celeste](https://celeste.1hive.org/#/dashboard) está finalmente funcionando. Usuários podem alocar HNY e, talvez, participar na resolução de disputas. [Clique aqui](https://1hive.gitbook.io/celeste/) para acessar a página wiki do Celeste onde você pode encontrar todas as informações.  
+
+
+**Qual o APY para fazer alocação de HNY no Celeste?**
+
+Até o momento nós não podemos dar uma estimativa de APY no Celeste. As recompensas pela alocação são um efeito colateral positivo do Celeste, porém o propósito principal é proporcionar à comunidade uma ferramenta para proteção de atitudes maliciosas. Para participar você precisa no mínimo 0.5 HNY, as recompensas serão distribuídas mensalmente.
+
+**Qual o incentivo para manter Honey?**
+
+Manter pelo menos 0.5 HNY permite que você participe do [Celeste](https://1hive.gitbook.io/celeste/) e, além disso, manter Honey é primariamente utilizado para votar em propostas e [fornecer liquidez](https://link.medium.com/Zb26x6KQWcb).  
+
 
 **Quando Honey estará disponível na Uniswap?** 
 
@@ -47,9 +57,10 @@ Desde Fevereiro de 2012 está também na Mainnet. Até o momento encontra-se na 
 
 Atualmente não existem planos para deixar xDai, porém 1Hive está explorando quais as oportunidades existentes para expandir a comunidade e o ecossistema de produtos para redes adicionais incluindo Matic e redes de desenvolvimento roll-up como Arbitrum
 
-**Existe algum incentivo para guardar Honey?**
+**Votar em propostas custa Honey?**
 
-Até que [Celeste](https://1hive.gitbook.io/1hive/projects/celeste) fique pronto e o staking seja possível, Honey é primariamente utilizada para votar em propostas e para [prover liquidez](https://link.medium.com/Zb26x6KQWcb).
+Não, votar não custa nada. Você não está gastando HNY quando vota. Seu HNY também não fica preso, você pode sacar e retirar seu voto quando desejar.  
+ ****
 
 ## **Economia do Token**
 
@@ -82,7 +93,7 @@ Capitalização de mercado = \( Fornecimento circulante total - Fundos comunitá
 
 **Qual a política de emissão atual?**
 
-A taxa de inflação está atualmente definida em 30% ao ano. No início a taxa era de 60% ao ano, mas a comunidade votou para mudá-la. Uma taxa de inflação dinâmica foi desenvolvida e será integrada provavelmente entre o primeiro e segundo trimestre de 2021. Veja mais sobre a [emissão](https://1hive.gitbook.io/1hive/projects/honey/issuance).
+A inflação anual de 60% foi ajustada pela comunidade para 30% ao ano, um índice de inflação dinâmico foi desenvolvido e integrado em abril de 2021. [Clique aqui](https://forum.1hive.org/t/dynamic-honey-supply-policy-proposal/2224) e[ aqui](https://wiki.1hive.org/projects/honey/planned-improvements#dynamic-issuance-policy) para entender melhor e na página de emissão para mais detalhes.
 
 **Para onde vão as moedas emitidas recentemente?**
 
@@ -153,7 +164,8 @@ Você pode fazerisso indo em [ Honeyswap](https://app.honeyswap.org/#/swap) → 
 
 **Qual a forma mais fácil de comprar xDai?**
 
-Você pode utilizar a [ponte](https://dai-bridge.poa.network/) de DAI para xDai em Ethereum, ou você pode comprar xDai com dinheiro utilizando [Ramp](https://ramp.network/buy/?swapAsset=XDAI).
+Você pode fazer a [ponte](https://dai-bridge.poa.network/) DAI/xDai pela rede Ethereum utilizando a ponte, você pode comprar xDai na exchange Bitmax ou utilizar [Ramp](https://ramp.network/buy/?swapAsset=XDAI) para comprar com dinheiro. Recentemente novas pontes foram implementadas \( algumas ainda em versão beta, tenha cautela\): [xDai-Polygon Bridge](https://www.youtube.com/watch?v=RlcyBtz3R2w) \([instruções](https://medium.com/honeyswap/introducing-xdai-to-matic-polygon-matic-polygon-to-xdai-connext-bridge-36e4bc6393dc)\), [xDai-Bsc Chain Bridge](https://www.youtube.com/watch?v=mGqKPqCF6Zc&t=19s) \([instruções](https://forum.1hive.org/t/how-to-use-binance-as-an-on-ramp-for-xdai/2412)\).  
+
 
 **Algum tutorial sobre como comprar xDai e como utilizar Honeyswap?**
 
