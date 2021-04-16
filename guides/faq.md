@@ -34,7 +34,15 @@ Wir haben grobe [Meilensteine](../projects/milestones.md), die von einzelnen Sch
 
 **Kann man mit Honey stake ansetzen?** 
 
-Derzeit ist es nicht möglich, Honey zu setzen. Diese Funktion wird nach dem Start über [Celeste](https://1hive.gitbook.io/1hive/projects/celeste) verfügbar sein.
+Wir sind stolz, Dir mitteilen zu können, dass [Celeste ](https://celeste.1hive.org/#/dashboard)seit dem 11. April endlich live ist. Benutzer können ihr HNY anlegen und können zur Klärung von eventuell auftretenden Streitigkeiten herangezogen werden. Klicke [hier](https://1hive.gitbook.io/celeste/), um zum Celeste-Wiki zu gelangen, wo alle wichtigen Informationen zu finden sind.
+
+**Wie hoch ist der APY \(jährlicher Prozentertrag\) für das Anlegen von HNY mit Celeste?** 
+
+Im Moment können wir keine Schätzung des APYs durch Celeste geben, dessen Hauptzweck es ist, der Community ein Werkzeug zur Verfügung zu stellen, um missbräuchliches Verhalten zu verhindern. Die Staking Rewards sind ein positiver Nebeneffekt dessen. Um an Celeste teilzunehmen, musst Du mindestens 0,5 HNY haben, und die Staking Rewards werden monatlich ausgezahlt.
+
+**Gibt es einen Anreiz, Honey zu besitzen?** 
+
+Wenn Du mindestens 0,5 HNY hast, kannst Du an [Celeste ](https://1hive.gitbook.io/celeste/)teilnehmen. Abgesehen davon dient der Besitz von Honey in erster Linie dazu, über Vorschläge abzustimmen und [Liquidität bereitzustellen](https://link.medium.com/Zb26x6KQWcb).
 
 **Wann wird Honey auf Uniswap sein?**
 
@@ -44,9 +52,9 @@ Die umgekehrte Omnibridge, die es ermöglicht, Honey auf das Mainnet zu verschie
 
 Derzeit gibt es keine Pläne, xDai zu verlassen, aber 1Hive untersucht, welche Möglichkeiten bestehen könnten, um die Community und das Ökosystem von Produkten auf zusätzliche Netzwerke wie Matic und in Entwicklungs-Roll-up-Ketten wie Arbitrum auszudehnen.
 
-**Gibt es einen Anreiz, Honey zu halten?**
+**Kostet das "Abstimmen über einen Vorschlag" tatsächlich Honey?** 
 
-Bis zum Staken mit [Celeste](https://1hive.gitbook.io/1hive/projects/celeste) wird das Halten von Honey hauptsächlich zur Abstimmung über Vorschläge und zur Bereitstellung von [Liquidität verwendet](https://1hive.gitbook.io/1hive/projects/celeste).
+Nein, das tut es nicht. Du gibst Dein HNY nicht aus, wenn Du abstimmst. Dein HNY ist auch nicht gesperrt - Wenn Du möchtest, kannst Du Deine Stimme zurückziehen und stattdessen handeln.
 
 ## **Token-Ekonomik**
 
@@ -73,7 +81,7 @@ Marktkapitalisierung = \(Gesamtangebot - gemeinsamer Pool\) x Honey-Preis
 
 **Was ist die aktuelle Emissionsrichtlinie von Honey?**
 
-Die Inflationsrate beträgt derzeit 30% pro Jahr. Anfangs lag die Inflationsrate bei 60%, aber die Gemeinde stimmte dafür, sie zu ändern. Eine dynamische Inflationsrate wurde entwickelt und wird voraussichtlich in Q1 / Q2 integriert. Weitere Informationen finden Sie auf der [Ausstellungsseite](../projects/honey/issuance.md).
+Nach einer anfänglichen Inflationsrate von 60%, die von der Community auf 30% pro Jahr reduziert wurde, wurde eine dynamische Inflationsrate entwickelt, die ab April 2021 integriert wird. Klicke [hier ](https://forum.1hive.org/t/dynamic-honey-supply-policy-proposal/2224)und [hier](https://wiki.1hive.org/projects/honey/planned-improvements#dynamic-issuance-policy), um mehr Hintergrundinformationen zu erhalten, und auf die [Emissionsseite ](https://wiki.1hive.org/projects/honey/issuance)für weitere Details.
 
 **Wohin geht die neu gemünzte Währung?**
 
@@ -139,7 +147,7 @@ Sie können dies tun, indem Sie auf [Honeyswap](https://app.honeyswap.org/#/swap
 
 **Was ist der einfachste Weg, um xDai zu kaufen?**   
   
-Sie können DAI über die [Brücke](https://dai-bridge.poa.network/) aus dem Ethereum-Netzwerk in xDAI überbrücken oder xDai mit Fiat über [Ramp](https://ramp.network/buy/?swapAsset=XDAI) kaufen.
+Du kannst DAI in xDAI aus dem Ethereum-Netzwerk mit der [Brücke ](https://dai-bridge.poa.network/)überführen, oder Du kannst xDai an der Börse Bitmax \(Ascendex\) oder mit Fiat auf [Ramp ](https://ramp.network/buy/?swapAsset=XDAI)kaufen. Vor kurzem wurden weitere Brücken implementiert \(einige in der Beta-Version, Vorsicht bitte!\), wie die [xDai-Polygon - Brücke](https://www.youtube.com/watch?v=RlcyBtz3R2w) \([Anleitung](https://medium.com/1hivede/einf%C3%BChrung-xdai-zu-matic-polygon-matic-polygon-zu-xdai-connext-br%C3%BCcke-c4f1eaff0f70?source=collection_home---6------0-----------------------)\) und die [xDai-Bsc Chain - Brücke](https://www.youtube.com/watch?v=mGqKPqCF6Zc&t=19s) \([Anleitung](https://medium.com/1hivede/binance-smart-chain-xdai-br%C3%BCcke-82744c3b9f4b?source=collection_home---6------2-----------------------)\).
 
 **Gibt es ein Tutorial zum Kauf von xDai und zur Verwendung von Honeyswap?**  
   
