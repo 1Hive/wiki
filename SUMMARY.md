@@ -59,5 +59,6 @@
 * [BrightID](guides/brightid.md)
 * [Wiki-Beiträge](guides/wiki-contribution.md)
 * [Troubleshooting](guides/troubleshooting.md)
-* [FAQ](guides/faq.md)
+* [1Hive HGF](guides/faq.md)
+* [Agave HGF](guides/agave-hgf.md)
 
