@@ -19,7 +19,6 @@
   * [Distribution](projects/honey/distribution.md)
   * [Decisions](projects/honey/decisions.md)
   * [Developers](projects/honey/developers.md)
-  * [Planned Improvements](projects/honey/planned-improvements.md)
 * [Honeyswap](projects/honeyswap/README.md)
   * [For Traders](projects/honeyswap/for-traders.md)
   * [For Liquidity Providers](projects/honeyswap/for-liquidity-providers.md)

@@ -27,7 +27,7 @@ For more information see [Celeste](celeste.md)
 
 🎯 **Target Date:** Q1 2021
 
-Issuance \(new Honey creation\) was initially set to 60% per year. It was reduced in November of 2020 to 30%. We are now developing a dynamic issuance policy, details can be seen in [Issuance Planned Improvements](honey/planned-improvements.md#dynamic-issuance-policy).
+Issuance \(new Honey creation\) was initially set to 60% per year. It was reduced in November of 2020 to 30%. We are now developing a dynamic issuance policy, details can be seen in [Issuance Planned Improvements]().
 
 ### **Honeyswap Landing Page**
 
