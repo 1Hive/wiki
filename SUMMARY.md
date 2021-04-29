@@ -15,7 +15,7 @@
 
 * [Honey](projects/honey/README.md)
   * [Participation](projects/honey/participation.md)
-  * [Issuance](projects/honey/issuance.md)
+  * [Supply](projects/honey/issuance.md)
   * [Distribution](projects/honey/distribution.md)
   * [Decisions](projects/honey/decisions.md)
   * [Developers](projects/honey/developers.md)
