@@ -39,7 +39,7 @@ Nuestro principal impulso de marketing será en coordinación con la implementac
 Tu participación siempre es bienvenida. Justo ahora, hay algunas recompensas abiertas y puedes verlas todas [acá](https://www.notion.so/3e13ef2a5d614a828b684640af2212b4?v=20b21ead637341faa87416b85202b584) y puedes reclamarlas poniendote en contacto con el Dao Buzz. Estamos trabajando en una propuesta para crear nuevas recompensas para todos los usuarios, relacionadas con el listado del token. \(Coinmarketcap, Blockfolio, Dappradar, Coinpaprika, Dune Analytics etc\) 
 
 **¿Dónde puedo ver una gráfica de $AGVE?**  
-Agave fue lanzada alrededor de hace 24h, justo ahora puedes revisar [esta gráfica](https://analytics.blep.ai/charts/honeyswap.0x0E3e9CCeb13c9f8c6FAF7a0f00F872d6291630dE.trade-1m0s), y tan pronto como se cargue parte del historial, podrás ver el gráfico de $AGVE [Aquí](https://info.honeyswap.org/token/0x3a97704a1b25f08aa230ae53b352e2e72ef52843).  
+Justo ahora puedes revisar [esta gráfica](https://analytics.blep.ai/charts/honeyswap.0x0E3e9CCeb13c9f8c6FAF7a0f00F872d6291630dE.trade-1m0s), y tan pronto como se cargue parte del historial, podrás ver el gráfico de $AGVE [Aquí](https://info.honeyswap.org/token/0x3a97704a1b25f08aa230ae53b352e2e72ef52843).  
 
 **¿Dónde puedo ver mis recompensas del LP?**  
 Puedes darle seguimiento a tu LP acá [Liquidityfolio ](https://www.liquidityfolio.com/)
