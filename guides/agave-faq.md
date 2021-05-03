@@ -49,11 +49,11 @@ LP tracking can be found on [Liquidityfolio ](https://www.liquidityfolio.com/)
 **Why wasn’t I eligible for the airdrop?**  
 More than an airdrop, the $AGVE token was distributed to contributors and active members of the 1Hive community, prior to a snapshot which took place on January 25th. [Here](https://forum.1hive.org/t/agave-contributor-distribution-announcement/2373) you can find info regarding the token supply, the token allocation, and the list of eligible addresses.
 
-**How do I claim my airdrop?**  
-If you were eligible for the airdrop \(Please check the list of addresses [here](https://pastebin.com/hjYcbK1k)\) your allocation of $AGVE was already sent to your wallet.
+**How do I claim my contributor distribution?**  
+If you were eligible for the contributor distribution \(Please check the list of addresses [here](https://pastebin.com/hjYcbK1k)\) your allocation of $AGVE was already sent to your wallet.
 
-**Will there be other airdrops?**  
-Although this is pure speculation at this point, the team did mention that in the future a marketing airdrop may take place.
+**Will there be a future airdrop?**  
+Although this is pure speculation since we are a DAO and this would require a community vote there appears to be some interest in an airdrop after deployment. The airdrop could focus on attracting TVL. This portion of the airdrop can be very specifically targeted to eliminate gaming. There may also be a marketing/hype component giving people ample time to so people may participate.
 
 **What happened during the token launch on February 28th?**  
 During the token launch traders experienced high volatility due to a mistake made while opening the AGVE/HNY pool: The intended ratio of 50HNY/10,000 AGVE ratio was set at 50HNY/1000AGVE. This created a chain of events which caused extreme volatility and the team pulled the liquidity off and reinserted it in another pool \(AGVE-WETH\) at the proper ratio. Some users may have occurred in some losses, while others may have benefited from this. Please, read [Reflection on the Agave Launch ](https://forum.1hive.org/t/reflection-on-the-agave-launch/2517)to gather more context.
@@ -62,7 +62,7 @@ During the token launch traders experienced high volatility due to a mistake mad
 Given that, when trading, the responsibility is of the trader, those who were heavily affected by $AGVE’s price received a compensation proposed by the team members and voted by the community, outlined in [this post](https://forum.1hive.org/t/agave-reparations-proposal/2822). 
 
 **How can I provide liquidity and for which pair?**  
-At the moment, there are 3 pairs for $AGVE: [AGVE-WETH](https://info.honeyswap.org/pair/0xeba7cc57e6f745b8d5cab829e07346c65393d78e), [AGVE-HNY](https://info.honeyswap.org/pair/0x50a4867aee9cafd6ddc84de3ce59df027cb29084) and [AGVE-XDAI](https://info.honeyswap.org/pair/0x0e3e9cceb13c9f8c6faf7a0f00f872d6291630de). You can provide liquidity by clicking [here](https://app.honeyswap.org/#/pool) → Add Liquidity → Select which pair you want to provide liquidity for.
+At the moment, the 3 largest pairs for $AGVE: [AGVE-WETH](https://info.honeyswap.org/pair/0xeba7cc57e6f745b8d5cab829e07346c65393d78e), [AGVE-HNY](https://info.honeyswap.org/pair/0x50a4867aee9cafd6ddc84de3ce59df027cb29084) and [AGVE-XDAI](https://info.honeyswap.org/pair/0x0e3e9cceb13c9f8c6faf7a0f00f872d6291630de). You can provide liquidity by clicking [here](https://app.honeyswap.org/#/pool) → Add Liquidity → Select which pair you want to provide liquidity for.
 
 **Can I stake $AGVE?**  
 Not yet, as of now you can hold or be a Liquidity Provider.
@@ -73,7 +73,8 @@ Agave Discord: [Agave Discord 1](https://discord.com/channels/816889381737725963
 1Hive Discord: [1Hive Discord](https://discord.com/invite/xTZjbRjc8t) [1Hive - Agave Channel](https://discord.com/channels/698287700834517064/813823983120023583)  
 Telegram: [https://t.me/Agave1Hive 1](https://t.me/Agave1Hive)  
 Twitter: [https://twitter.com/Agave\_lending](https://twitter.com/Agave_lending)  
-Reddit: [https://www.reddit.com/r/AGVE/](https://www.reddit.com/r/AGVE/)
+Reddit: [https://www.reddit.com/r/AGVE/](https://www.reddit.com/r/AGVE/)  
+Medium: [https://agavefinance.medium.com/](https://agavefinance.medium.com/)
 
 **My issue was not addressed in the FAQ. What can I do?**  
 The best way to get help from a member of the 1Hive community is to land on the [⛈**help**](https://discord.gg/3AjG7XvRJZ) channel on Discord.
