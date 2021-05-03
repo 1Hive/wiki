@@ -42,13 +42,13 @@ Each of the above members have equal voting weight within the Buzz DAO to manage
 | [berserk](https://forum.1hive.org/u/berserk/summary) | Social Admin |
 | [dogeking](https://forum.1hive.org/u/dogeking/summary) | Social Admin |
 | [monstrosity](https://forum.1hive.org/u/monstrosity/summary) | Social Admin |
-| [harry](https://forum.1hive.org/u/harry/summary) | Social Admin |
+| [EFRA](https://forum.1hive.org/u/efra) | Social Admin |
 | [lkngtn](https://forum.1hive.org/u/lkngtn) | Social Admin |
 | [chuygarcia92](https://forum.1hive.org/u/chuygarcia92/summary) | Social Admin |
-| [brandonz](https://forum.1hive.org/u/brandonz/summary) | Social Admin |
 | [therealmo](https://forum.1hive.org/u/therealmo/summary) | Social Admin |
 | [rod](https://forum.1hive.org/u/rod/summary) | Social Admin |
 | [noice](https://forum.1hive.org/u/noice/summary) | Social Admin |
+| [Stonky](https://forum.1hive.org/u/stonky) | Social Admin |
 
 ## Funding Proposals
 
