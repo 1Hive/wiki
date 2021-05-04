@@ -10,7 +10,7 @@ Pollen is a contributor rank used to recognize contributions to 1Hive’s [Disco
 
 As soon as you start interacting on 1Hive’s Discord, Forum, and Github communities you’ll start earning Pollen, which gets added to your registered wallet as sweet sweet Honey.
 
-In order to receive weekly pollen distributions you’ll need to create accounts on supported platforms and link them to your xDai address. You can do this by posting the below in 1hive Discord’s [🐛**onboarding**](https://discord.gg/eYwxwv4nzk) channel:
+In order to receive weekly pollen distributions you’ll need to create accounts on supported platforms and link them to your xDai address. You can do this by posting the below in 1hive Discord’s [🐛**pollen-onboarding**](https://discord.gg/eYwxwv4nzk) channel:
 
 ```text
 #🏵pollen
