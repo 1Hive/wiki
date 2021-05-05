@@ -6,7 +6,7 @@ description: >-
 
 # Honeyswap
 
-As Ethereum scales we expect to see the bulk of transaction on L1 to shift to settlement of L2 transactions. The bulk of applications and capital will be used on EVM compatible rollups. In the short term sidechains like xDai, Matic, and others will continue to play a role, but as EVM capable L2 tech matures sidechains will be upgraded to L2 rollups that inherit security from Ethereum or become significantly less relevant as users move to L2 solution that offer a better cost-for-security proposition. 
+As Ethereum scales we expect to see the bulk of transactions on L1 to shift to settlement of L2 transactions. The bulk of applications and capital will be used on EVM compatible rollups. In the short term sidechains like xDai, Matic, and others will continue to play a role, but as EVM capable L2 tech matures sidechains will be upgraded to L2 rollups that inherit security from Ethereum or become significantly less relevant as users move to L2 solutions that offer a better cost-for-security proposition. 
 
 This network topology introduces some new challenges, each L2 chain will have transaction composability locally, enabling composite transaction to settle atomically, but it will not be possible to create atomic cross-chain interactions. This means that while each L2 chain will have a unique set of applications and protocols running, there are likely to be common primitives, like swapping, that must be deployed on every L2 chain. 
 
