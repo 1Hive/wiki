@@ -4,7 +4,7 @@ description: Receba Honey por suas contribuições
 
 # Pollen
 
-Pólen é uma forma de classificar e reconhecer contribuições dentro das comunidades Discord, Fórum e do github da Hive. Uma recompensa em Honey semanal aos que contribuírem**.**  
+Pólen é uma forma de classificar e reconhecer contribuições dentro das comunidades Discord, Fórum e do github da 1Hive. Uma recompensa em Honey semanal aos que contribuírem**.**  
 
 
 ## **Como Posso Participar** 
