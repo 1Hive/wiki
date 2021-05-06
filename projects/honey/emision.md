@@ -1,18 +1,50 @@
 ---
 description: >-
-  Honey no tiene un suministro fijo, una política de emisión controla la tasa a
-  la que se crea Honey a lo largo del tiempo
+  Honey is minted and burned automatically to stabilize the ratio between
+  circulating supply and the common pool reserve.
 ---
 
-# Emisión
+# Suministro
 
-La emisión se refiere al proceso en el cual se acuña \(mint\) nueva Honey. Actualmente Honey esta configurada para incrementar su suministro a una tasa del **30% anual**. A medida que se agrega Honey al suministro, se coloca directamente en el Fondo común \(common pool\), donde está disponible para su distribución a través de propuestas. La tasa de emisión se puede ajustar mediante [propuestas de decisión](decisiones.md).
+The total supply of Honey fluctuates as it is automatically minted and burned from the common pool reserves. Therefore, Honey does not have a fixed total supply. However, token supply adjustments follow a policy which makes them predictable and allows them to be projected out based on simple assumptions about inflows and outflows to the common pool. 
 
-La política de emisión actual permite que cualquiera haga una función para acuñar Honey al fondo común y la cantidad de Honey emitida depende del parámetro de tasa de emisión y del número de bloques que ha pasado desde la última vez que se creo esta función. Por lo tanto, la tasa de capitalización depende de la frecuencia con la que se utilice a esta función.
+The policy will mint Honey, increasing the supply, when the common pool balance is less than 30% of the total supply. It will burn Honey, reducing the supply, when the common pool balance is above 30% of the supply. Adjustments will be made proportionally to the distance from the target ratio, however adjustments will not exceed the throttle rate of 10% per year in either direction. 
 
-Es importante recalcar que la tasa de emisión es un tema importante y [controvertido](https://forum.1hive.org/t/discussion-honey-issuance-policy/231) entre la comunidad y el consenso general es que se debe modificar la política de emisión. Como resultado de esas discusiones en curso, El [Swarm Luna](../../community/swarms/luna.md) ha comenzado a trabajar para modelar y proponer formalmente una [política de emisión dinámica](mejoras-planificadas.md#politica-de-emision-dinamica) para reemplazar la política actual.
+### Policy 
 
-{% hint style="info" %}
-Una propuesta de decisión formal para adoptar la política de emisión dinámica junto con la parametrización recomendada se espera en algún momento de enero de 2021.
-{% endhint %}
+[This is the deployed contract](https://blockscout.com/poa/xdai/address/0x783Da66eeA5a93F46F386806Fce49Ce18937F861/read-proxy) which manages supply adjustments. The policy is intended to operate without governance intervention indefinitely but it can be upgraded and its parameters changed via a [Decision](). Anyone can call the `executeAdjustment()` function, which will check the last time the function was called and mint or burn the appropriate amount of Honey to/from the common pool.
+
+It is encouraged for people who are interested in understanding the mechanism to carefully review the [solidity implementation](https://github.com/1Hive/issuance/blob/master/contracts/Issuance.sol) as well as the [research summary and mechanism proposal](https://forum.1hive.org/t/dynamic-honey-supply-policy-proposal/2224). However, the policy can be summarized as follows:
+
+Adjustments to the supply are calculated using a proportional control function where the further from the target ratio the system is the greater the magnitude of adjustment are.
+
+```text
+error = (1 - current_ratio / target_ratio) / seconds_per_year
+```
+
+This `error` term tells us how much we should be adjusting the supply to get back to the target ratio. The `seconds_per_year` constant smooths the adjustments so that even though we can adjust on a per block basis, it would take approximately a year \(all else equal\) for the system to get back to the target ratio.
+
+To ensure that we can provide a simple and easy to understand upper bound on how quickly the total supply can change over time, we limit the magnitude of any adjustment by a throttle parameter.
+
+```text
+error = (1 - current_ratio / target_ratio) / seconds_per_year
+
+if error < 0:
+	adjustment = max(error, -throttle) * supply
+else:
+  adjustment = min(error, throttle) * supply 
+```
+
+In practice the throttle is an artificial limit on the ability for the mechanism to adjust supply, if the throttle kicks in it will take longer for the system to reach the target ratio and may reach an equilibrium that is higher or lower than desired. 
+
+The two important parameters of the policy are set to the following values. 
+
+| Parameter | Value | Notes |
+| :--- | :--- | :--- |
+| targetRatio | 3000000000 | Fractional ratio value multiplied by RATIO\_PRECISION in contract \(1e10\) eg a target ratio of 30% or **0.3** would be 3e9 |
+| maxAdjustmentRatioPerSecond | 3170979198 | A max adjustment ratio \(throttle\) of 10% or **0.1** would be 0.1 / 31536000 \(seconds in year\) = 0.000000003170979198 multiplied by EXTRA\_PRECISION in contract \(1e18\) = 3170979198 |
+
+### Automation
+
+There is not currently any automation to ensure that the `executeAdjustment()` function is called regularly. However, anyone is welcome to call it and can do so by clicking the honey logo on the `1hive.org` frontend. 
 

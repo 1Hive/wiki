@@ -17,7 +17,7 @@
 
 * [Honey](projects/honey/README.md)
   * [Participación](projects/honey/participacion.md)
-  * [Emisión](projects/honey/emision.md)
+  * [Suministro](projects/honey/emision.md)
   * [Distribución](projects/honey/distribucion.md)
   * [Decisiones](projects/honey/decisiones.md)
   * [Mejoras Planificadas](projects/honey/mejoras-planificadas.md)
