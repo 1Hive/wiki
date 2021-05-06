@@ -48,10 +48,10 @@ Puedes darle seguimiento a tu LP acá [Liquidityfolio ](https://www.liquidityfol
 Más que un airdrop, el token $AGVE se distribuyó a los contribuyentes y a los miembros activos de la comunidad de 1Hive, antes de un snapshot que tuvo lugar el 25 de enero. Aquí puedes encontrar información sobre el suministro de tokens, la asignación de tokens y la lista de direcciones elegibles.
 
 **¿Cómo reclamo mi airdrop?**  
-Si fuiste elegible para el airdrop \(Por favor, revisa la lista de direcciones [aquí](https://pastebin.com/hjYcbK1k)\) tus tokens de $AGVE asignados ya se enviaron a tu billetera.
+Si fuiste elegible para la distribución de contribuidores \(Por favor, revisa la lista de direcciones [aquí](https://pastebin.com/hjYcbK1k)\) tus tokens de $AGVE asignados ya se enviaron a tu billetera.
 
-**¿Habrán otros airdrops?**  
-Aunque esto es pura especulación en este punto, el equipo de Agave mencionó que en el futuro podría haber un airdrop. 
+**¿Airdrop en el futuro?**  
+Aunque esto es pura especulación, y ya que somos un DAO, esto requeriría un voto de la comunidad, y parece haber cierto interés en un airdrop después del lanzamiento. El airdrop podría centrarse en atraer TVL. Esta porción del airdrop puede tener un objetivo muy específico de eliminar el gaming. También puede haber un componente de marketing/publicidad que dé a las personas tiempo suficiente para participar.
 
 **¿Qué pasó durante el lanzamiento del token el 28 de febrero?**  
 Durante el lanzamiento del token, los traders experimentaron una alta volatilidad debido a un error cometido al abrir el par AGVE/HNY: La proporción pretendida de  50HNY/10,000AGVE se fijó en 50HNY/1000AGVE. Esto creó una cadena de eventos que causó una volatilidad extrema y el equipo retiró la liquidez y la insertó en otro par \(AGVE-WETH\) en la proporción adecuada. Algunos usuarios pueden haber tenido algunas pérdidas, mientras que otros pueden haberse beneficiado de esto. Por favor, lee [La Reflexión sobre el lanzamiento de Agavee](https://forum.1hive.org/t/reflection-on-the-agave-launch/2517) para obtener más contexto.
@@ -60,14 +60,15 @@ Durante el lanzamiento del token, los traders experimentaron una alta volatilida
 Dado que, al hacer trading, la responsabilidad es del comerciante, aquellos que se vieron muy afectados por el precio de $AGVE recibieron una compensación propuesta por los miembros del equipo y votada por la comunidad, que se describe en [esta publicación](https://forum.1hive.org/t/agave-reparations-proposal/2822).
 
 **¿Cómo puedo proveer liquidez y para cuáles pares?**  
-En este momento, Hay dos pares para $AGVE: [AGVE-WETH](https://info.honeyswap.org/pair/0xeba7cc57e6f745b8d5cab829e07346c65393d78e) y [AGVE-HNY](https://info.honeyswap.org/pair/0x50a4867aee9cafd6ddc84de3ce59df027cb29084). Puedes proveer liquidez haciendo click [aquí](https://app.honeyswap.org/#/pool) → selecciona Add Liquidity → Selecciona el par al cual quieres proveer de liquidez. 
+En este momento, Hay 3 pares para $AGVE:  [AGVE-WETH](https://info.honeyswap.org/pair/0xeba7cc57e6f745b8d5cab829e07346c65393d78e), [AGVE-HNY](https://info.honeyswap.org/pair/0x50a4867aee9cafd6ddc84de3ce59df027cb29084) y [AGVE-XDAI](https://info.honeyswap.org/pair/0x0e3e9cceb13c9f8c6faf7a0f00f872d6291630de). Puedes proveer liquidez haciendo click [aquí](https://app.honeyswap.org/#/pool) → selecciona Add Liquidity → Selecciona el par al cual quieres proveer de liquidez. 
 
 **¿Cómo sigo los próximos anuncios de Agave?**  
 Hay varias formas de estar en contacto con la comunidad de Agave:   
 Discord: [1Hive Discord](https://discord.com/invite/xTZjbRjc8t) [1Hive - Agave Channel](https://discord.com/channels/698287700834517064/813823983120023583) \(english\)  
 Telegram: [https://t.me/Agave1Hive](https://t.me/Agave1Hive) \(english\)   
 Twitter: [https://twitter.com/Agave\_Es](https://twitter.com/Agave_Es)   
-Reddit: [https://www.reddit.com/r/AGVE/](https://www.reddit.com/r/AGVE/) \(english\)
+Reddit: [https://www.reddit.com/r/AGVE/](https://www.reddit.com/r/AGVE/) \(english\)  
+Medium: [https://medium.com/agavees](https://medium.com/agavees)
 
 **Mi problema no se abordó en las preguntas frecuentes. ¿Qué puedo hacer?**  
 La mejor manera de obtener ayudad e un miembro de la comunidad de 1Hive es en el canal de Discord [⛈help-es](https://discord.gg/AdKuMTt).
