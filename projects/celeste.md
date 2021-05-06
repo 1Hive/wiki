@@ -34,7 +34,7 @@ The protocol selects participants \(keepers\) to evaluate a dispute and provide 
 
 By incorporating brightID in Celeste we improve upon purely stake based incentives by ensuring that influence over outcomes are broadly distributed and represent a greater number of unique perspectives in the eventual outcomes, making the mechanism more resilient to attacks and making the subjective resolutions more legitimate.
 
-## Why its important
+## Why it's important
 
 There are a bunch of new and interesting opportunities that can be built on Celeste, we can use it to settle prediction markets, create escrow type workflows, curate and categorize tokens on honeyswap, and even help validate computation that happens off-chain.
 
