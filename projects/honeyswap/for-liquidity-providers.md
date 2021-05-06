@@ -1,4 +1,4 @@
-# For Liquidity Providers
+# Liquidity Providers
 
 ## Liquidity Provider Return on Investment \(ROI\)
 

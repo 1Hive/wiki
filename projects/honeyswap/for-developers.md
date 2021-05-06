@@ -1,4 +1,4 @@
-# For Developers
+# Developers
 
 ## HoneySwap
 

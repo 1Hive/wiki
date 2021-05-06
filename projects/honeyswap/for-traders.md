@@ -1,4 +1,4 @@
-# For Traders
+# Traders
 
 ## Consider the total cost to trade 
 
