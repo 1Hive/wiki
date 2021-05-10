@@ -65,7 +65,10 @@ Given that, when trading, the responsibility is of the trader, those who were he
 At the moment, the 3 largest pairs for $AGVE: [AGVE-WETH](https://info.honeyswap.org/pair/0xeba7cc57e6f745b8d5cab829e07346c65393d78e), [AGVE-HNY](https://info.honeyswap.org/pair/0x50a4867aee9cafd6ddc84de3ce59df027cb29084) and [AGVE-XDAI](https://info.honeyswap.org/pair/0x0e3e9cceb13c9f8c6faf7a0f00f872d6291630de). You can provide liquidity by clicking [here](https://app.honeyswap.org/#/pool) → Add Liquidity → Select which pair you want to provide liquidity for.
 
 **Can I stake $AGVE?**  
-Not yet, as of now you can hold or be a Liquidity Provider.
+Staking is live on Monday May 10, 2021 you will be able to find the link from the landing page [Agave.finance](https://agave.finance/)
+
+**Is there a bug bounty program?**  
+Not yet, but it could be closely modeled after the [1hive bug bounty](../community/security/#bug-bounty)
 
 **How do I follow Agave’s upcoming announcements?**  
 There are several ways to be in touch with the Agave’s community:  
