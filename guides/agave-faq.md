@@ -20,9 +20,7 @@ A brand new website is about to be ready for Agave. You can already visit the la
 Our [Milestones](https://wiki.1hive.org/projects/milestones) page is where we publish major updates regarding 1Hive and Agave. 
 
 **When will the product launch?**  
-Currently, Agave's product is under audit to make sure the release will be successful. The company taking care of the audit is [Chainsulting](https://chainsulting.de/). Therefore, as soon as the auditing process will be completed, Agave's product should be up and running. Although the hope is to release the product soon, we do not want to rush deliveries.
-
-As of now, on the front-end we are completing and connecting the contracts. On the back-end, the audit is in progress, and we are at work to resolve an issue related to the Subgraph.
+On May 1st, we received a successful feedback from [Chainsulting](https://chainsulting.de/), the company running the audit of Agave's contracts. Before the official launch of the platform, we will run a testing phase to make sure that everything is running perfectly. After this step, Agave's platform will be launched. Although the hope is to release the product soon, we do not want to rush deliveries.
 
 **Where can I find a generic roadmap for Agave?**  
 Here you can give a look to Agave's roadmap, subject to change
@@ -64,9 +62,6 @@ Given that, when trading, the responsibility is of the trader, those who were he
 **How can I provide liquidity and for which pair?**  
 At the moment, the 3 largest pairs for $AGVE: [AGVE-WETH](https://info.honeyswap.org/pair/0xeba7cc57e6f745b8d5cab829e07346c65393d78e), [AGVE-HNY](https://info.honeyswap.org/pair/0x50a4867aee9cafd6ddc84de3ce59df027cb29084) and [AGVE-XDAI](https://info.honeyswap.org/pair/0x0e3e9cceb13c9f8c6faf7a0f00f872d6291630de). You can provide liquidity by clicking [here](https://app.honeyswap.org/#/pool) → Add Liquidity → Select which pair you want to provide liquidity for.
 
-**Can I stake $AGVE?**  
-Staking is live on Monday May 10, 2021 you will be able to find the link from the landing page [Agave.finance](https://agave.finance/)
-
 **Is there a bug bounty program?**  
 Not yet, but it could be closely modeled after the [1hive bug bounty](../community/security/#bug-bounty)
 
@@ -81,6 +76,38 @@ Medium: [https://agavefinance.medium.com/](https://agavefinance.medium.com/)
 
 **My issue was not addressed in the FAQ. What can I do?**  
 The best way to get help from a member of the 1Hive community is to land on the [⛈**help**](https://discord.gg/3AjG7XvRJZ) channel on Discord.
+
+## Staking
+
+**Can I stake $AGVE?**  
+As of May 10th, you can finally stake your Agave. [Click here](https://app.agave.finance/#/stake) to access the app
+
+**What is the cooldown period?**  
+The cool down is how long you have to wait to withdraw a stake. It is a "safety module". The idea is that you can't immediately withdraw your staked tokens, since you are staking to protect from a shortfall event.
+
+**What is a shortfall?**  
+[Click here](https://www.investopedia.com/terms/s/shortfall.asp) for a definition of shortfall.
+
+**What happens when I click on "Activate Cooldown?**  
+When you activate the cooldown period you'll have to wait 10 days before unstaking your tokens. Then, you'll have 2 days to click "unstake" --&gt; window closes
+
+**What happens if you don’t withdraw during 2 day window?**  
+If you don't withdraw within the 2 days, the window closes and you have to reactivate the cooldown period.
+
+**Do I still receive staking rewards during the cooldown period?**  
+Yes! You receive staking rewards until you don't unstake your tokens.
+
+**Where did the 500 AGAVE come from?**  
+The 500 Agave \(0.5% of the total supply\) were proposed and voted by the community in one of the recent votes. [Click here](https://forum.1hive.org/t/agave-votes-apr-22/3489) to read more.
+
+**If I stake AGAVE, do i get a "stakedAGAVE" token?**  
+Yes you get stkAGVE.
+
+**Will it be possible to vote with stkAGVE too?**  
+In the future this will be possible. Currently, this is not possible, but everything is in place to allow this function once we upgrade the DAO. We will be having an "unstake party" to vote when that happens.
+
+**What happens in 6 months, does it automatically unstake?**  
+Maybe. You may still have to manually unstake at that time. We’ll communicate before then about what will happen when the period ends. There won't be any loss of rewards if you don't unstake right away, but you will still have the cooldown to contend with. Our plan is that this will transition to receiving a share of the protocol rewards when it launches, in which case you wouldn't ever want to unstake.
 
 ## Alvin 
 
