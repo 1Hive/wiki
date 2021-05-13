@@ -8,11 +8,11 @@ description: >-
 
 ## Overview
 
-Honeyswap is comprised of decentralized exchange contracts deployed to multiple EVM compatible blockchain networks which share common frontend interfaces that are maintained by the 1Hive community. Currently Honeyswap supports xDai and Polygon, but will expand to other EVM chains and rollups in the future. 
+Honeyswap is comprised of liquidity pool contracts deployed to multiple EVM compatible blockchain networks which share common frontend interfaces that are maintained by the 1Hive community. Currently Honeyswap supports xDai and Polygon, but plans to expand support to other EVM chains and rollups in the future. 
 
-Every Honeyswap deployment contributes a portion of swap fees back to the 1Hive community in the form of automated **Honey** repurchasing. In return the 1Hive community develops, maintains, supports, and promotes adoption and network effects for all of the Honeyswap deployments. 
+Every Honeyswap deployment contributes a portion of swap fees back to the 1Hive community in the form of automated **Honey** repurchasing. In return the 1Hive community develops, maintains, supports, and promotes adoption of all of the Honeyswap deployments. 
 
-Additionally each Honeyswap deployment has an associated **Comb** **token** which is also repurchased using swap fees. These Comb tokens are used to supplement incentives for liquidity contributions through farming rewards associated with a particular network's deployment. 
+Additionally each Honeyswap deployment has an associated **Comb** **token** which is also automatically repurchased using swap fees. These Comb tokens are used to supplement the base fees for liquidity providers through farming rewards associated with a particular network's deployment. 
 
 Swap fees on Honeyswap are split 1/12 to Honey, 1/12 to associated Comb token, and 5/6 directly to the pool of liquidity providers facilitating the swap. 
 

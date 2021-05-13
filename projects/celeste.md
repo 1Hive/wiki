@@ -1,5 +1,5 @@
 ---
-description: An in development subjective oracle.
+description: A subjective oracle protocol.
 ---
 
 # Celeste
