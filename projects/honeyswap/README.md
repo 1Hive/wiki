@@ -1,50 +1,36 @@
 ---
 description: >-
-  Honeyswap is a decentralized exchange network focused on supporting EVM
-  compatible chains and rollups.
+  Honeyswap is network of decentralized exchanges which are supported and
+  maintained by the 1Hive community.
 ---
 
 # Honeyswap
 
-As Ethereum scales we expect to see the bulk of transactions on L1 to shift to settlement of L2 transactions. The bulk of applications and capital will be used on EVM compatible rollups. In the short term sidechains like xDai, Matic, and others will continue to play a role, but as EVM capable L2 tech matures sidechains will be upgraded to L2 rollups that inherit security from Ethereum or become significantly less relevant as users move to L2 solutions that offer a better cost-for-security proposition. 
+## Introduction
 
-This network topology introduces some new challenges, each L2 chain will have transaction composability locally, enabling composite transaction to settle atomically, but it will not be possible to create atomic cross-chain interactions. This means that while each L2 chain will have a unique set of applications and protocols running, there are likely to be common primitives, like swapping, that must be deployed on every L2 chain. 
+Honeyswap is comprised of decentralized exchange contracts deployed to multiple EVM compatible blockchain networks which share common frontend interfaces that are maintained by the 1Hive community. Currently Honeyswap supports xDai and Polygon, but will expand to other EVM chains and rollups in the future. 
 
-With these considerations in mind Honeyswap v2 introduces a multi-token farming model to enable cross-chain network effects associated with support, development, and promotion with localized farming incentives to effectively allocate resources to LP providers on each chain. 
+Every Honeyswap deployment contributes a portion of swap fees back to the 1Hive community in the form of automated **Honey** repurchasing. In return the 1Hive community develops, maintains, supports, and promotes adoption and network effects for all of the Honeyswap deployments. 
 
-## Honey and Comb Tokens 
+Additionally each Honeyswap deployment has an associated **Comb** **token** which is also repurchased using swap fees. These Comb tokens are used to supplement incentives for liquidity contributions through farming rewards associated with a particular network's deployment. 
 
-A portion of all swap fees on Honeyswap are used to support the platform by repurchasing Honey and Comb tokens. 
+Swap fees on Honeyswap are split 1/12 to Honey, 1/12 to associated Comb token, and 5/6 directly to the pool of liquidity providers facilitating the swap. 
 
-Honey is the community currency of 1Hive, and has been used by the 1Hive community to fund, support, and promote Honeyswap. Comb tokens are fixed supply tokens associated with each supported chain, for example xComb for xDai and pComb for Polygon and are distributed to LPs via farming. 
+## Honeyswap Frontend
 
-### AMM Upgrades
+The [Honeyswap frontend](https://app.honeyswap.org) is maintained by 1Hive and provides an open source interface for trading and pooling liquidity. It also supports routing trades to third-party liquidity pools so that users can be sure they are getting the best trade execution when they choose to interact using Honeyswap's frontend. 
 
+You can connect to Honeyswap from any supported network, and will be able to interact with the pool on that network. 
 
+## Honeyswap Analytics 
 
+[Honeyswap Analytics](https://info.honeyswap.org) is maintained by 1Hive and provides an open source interface for analyzing liquidity, volume, and trading history. 
 
+## Honeycomb Asset Manager
 
+Honeycomb is maintained by 1Hive and provides an open source interface for managing DeFi positions, including depositing and withdrawing from Comb farms. 
 
+## Honeyswap Deployments
 
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-Honeyswap is a decentralized exchange built on the [xDai Chain](https://www.xdaichain.com/), this enables users to experience fast and secure transactions with incredibly low fees. Multiple tokens are available with which you can swap and add liquidity.
-
-Analytics like volume, liquidity and transactions can be found [here](https://info.honeyswap.org).
-
-1Hive and Honeyswap are integrated, 0.05% of the collected fees on the exchange are used to buy the honey token and deposit it to the [common pool](../honey/#economic-overview), so as the exchange's volume increases, buy pressure on honey increases as well as the responsibility of honey holders to allocate tokens in a productive manner through the DAO's [governance](../honey/participation.md).
+The contracts and associated parameters associated with different Honeyswap deployments are similar but not identical. Please see the relevant sub-sections of this page for detailed information associated with specific deployments. 
 
