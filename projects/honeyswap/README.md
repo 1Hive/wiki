@@ -26,7 +26,7 @@ You can connect to Honeyswap from any supported network, and will be able to int
 
 [Honeyswap Analytics](https://info.honeyswap.org) is maintained by 1Hive and provides an open source interface for analyzing liquidity, volume, and trading history. 
 
-## Honeycomb Asset Manager
+## Honeycomb Asset Manager 
 
 Honeycomb is maintained by 1Hive and provides an open source interface for managing DeFi positions, including depositing and withdrawing from Comb farms. 
 
