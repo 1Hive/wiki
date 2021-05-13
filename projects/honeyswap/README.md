@@ -6,7 +6,7 @@ description: >-
 
 # Honeyswap
 
-## Introduction
+## Overview
 
 Honeyswap is comprised of decentralized exchange contracts deployed to multiple EVM compatible blockchain networks which share common frontend interfaces that are maintained by the 1Hive community. Currently Honeyswap supports xDai and Polygon, but will expand to other EVM chains and rollups in the future. 
 
@@ -18,19 +18,19 @@ Swap fees on Honeyswap are split 1/12 to Honey, 1/12 to associated Comb token, a
 
 ## Honeyswap Frontend
 
-The [Honeyswap frontend](https://app.honeyswap.org) is maintained by 1Hive and provides an open source interface for trading and pooling liquidity. It also supports routing trades to third-party liquidity pools so that users can be sure they are getting the best trade execution when they choose to interact using Honeyswap's frontend. 
+The [Honeyswap frontend](https://app.honeyswap.org) provides an open source interface for trading and pooling liquidity. It also supports routing trades to third-party liquidity pools so that users can be sure they are getting the best trade execution when they choose to interact using Honeyswap's frontend. 
 
 You can connect to Honeyswap from any supported network, and will be able to interact with the pool on that network. 
 
 ## Honeyswap Analytics 
 
-[Honeyswap Analytics](https://info.honeyswap.org) is maintained by 1Hive and provides an open source interface for analyzing liquidity, volume, and trading history. 
+[Honeyswap Analytics](https://info.honeyswap.org)  provides an open source interface for analyzing liquidity, volume, and trading history. 
 
 ## Honeycomb Asset Manager 
 
-Honeycomb is maintained by 1Hive and provides an open source interface for managing DeFi positions, including depositing and withdrawing from Comb farms. 
+Honeycomb provides an open source interface for managing DeFi positions, including depositing and withdrawing from Comb farms. 
 
-## Honeyswap Deployments
+## Honeyswap Contracts and Deployment Info
 
-The contracts and associated parameters associated with different Honeyswap deployments are similar but not identical. Please see the relevant sub-sections of this page for detailed information associated with specific deployments. 
+The contracts and associated deployment are similar but not identical. Please see the relevant sub-sections for detailed information associated with deployments on the various supported networks. 
 
