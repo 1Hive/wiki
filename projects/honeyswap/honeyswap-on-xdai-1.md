@@ -1,20 +1,22 @@
 # Honeyswap on xDai
 
-## Pool Contracts
+## Supported Liquidity Pools
 
-Honeyswap on xDai uses Uniswap v2 contracts for pooling liquidity. All pools have a 0.3% swap fee, of which 5/6 go directly to Liquidity Providers involved in the swap. The remaining 1/6 is split evenly between buybacks of Honey and xComb.
+Honeyswap on xDai uses the Uniswap v2 contracts for pooling liquidity. All pools have a 0.3% swap fee, of which 5/6 go directly to Liquidity Providers involved in the swap. The remaining 1/6 is split evenly between buybacks of Honey and xComb.
 
-## xComb 
+## xComb Token
+
+The xComb token is the local incentive token for Honeyswap on xDai.
 
 The value of xComb is derived from trading activity that occurs on Honeyswap on xDai through automated buybacks tied to swap fees. Half of the repurchased xComb tokens are burned, the other half recycled back into the Farming mechanism for future distribrution. The xComb token has a fixed supply, which will become deflationary as a result of half of the xComb buybacks being burned. 
 
-### xComb Emmisions 
+### xComb Supply and Emissions 
 
-The total fixed supply of xComb tokens is `1,000,000`. An initial airdrop of `5%` of the total fixed supply was airdropped to existing Honeyswap Liquidity providers proportional to the amount of liquidity and time provided. Airdropped tokens are subject to a vesting period, releasing continously over `xdays` . 
+The total fixed supply of xComb tokens is `1,000,000`. An initial airdrop of `5%` of the total fixed supply was airdropped to existing Honeyswap Liquidity providers proportional to the amount time and liquidity value contributed to Honeyswap prior to the airdrop. Airdropped tokens are not immediately liquid, they are subject to a vesting period and get released continuously over `xdays` . 
 
-The remaining tokens are distributed via the farming over the course of `2 years`, decaying linearly such that by the end of the initial emmission period  the rate is `25%` of the initial rate. 
+The remaining xComb supply is scheduled to be distributed via the farming over the course of `2 years`, the emission rate decays linearly such that by the end of the initial emmission period  the rate is `25%` of the initial rate. 
 
-1% of the farming distribution can be earned by referring people to the farms, encouraging people to integrate and promote the farms.  The remainder is split between honeyswap pairs using allocation points to determine how much of the per block emmissions are proportionally allocated to which pairs. Allocation points will be adjusted over time to curate the available liquidity in order to attract traders and maximize volume on the exchange. The following table shows the current distribution of allocation points among pairs:
+1% of the xComb emissions can be earned by referring people to the farms, encouraging people to integrate and promote the farms.  The remainder of emissions are split between honeyswap pairs proportionally to their allocation points. Allocation points will be adjusted over time to curate the available liquidity in order to attract traders and maximize volume on the exchange. The following table shows the current distribution of allocation points among pairs:
 
 | Pair | Points |
 | :--- | :--- |
@@ -29,7 +31,7 @@ The remaining tokens are distributed via the farming over the course of `2 years
 | HNY-WBTC | 1 |
 | USDC-xDAI | 1 |
 
-These initial pairs took existing trading volume on Honeyswap into account, a framework for evaluating and adding additional pairs is forthcoming. Stay tuned!
+This initial allocation of points to pairs took historic trading volume on Honeyswap into account, a framework for evaluating and adding additional pairs is being worked on. Stay tuned!
 
 ## Deployment Information
 
