@@ -2,38 +2,40 @@
 
 ## Supported Liquidity Pools
 
-Honeyswap on Polygon uses the Swapr contracts \(which are lightly modified from Uniswap v2\) for pooling liquidity. The Swapr contracts support adjusting fees on a per pool basis. By default all pools have a 0.3% swap fee, with the exception of pools containing WETH, which have a 0.15% swap fee. This fee structure is designed to encourage the use of a common base pair in order to optimize liquidity pathways.
+Honeyswap on Polygon uses the Swapr contracts \(which are lightly modified from Uniswap v2\) for pooling liquidity. The Swapr contracts support adjusting fees on a per pool basis. By default all pools have a 0.3% swap fee, with the exception of pools containing WETH, which have a 0.15% swap fee. This fee structure is designed to encourage the use of a common base pair in order to optimize liquidity pathways, however, there is not a strict requirement to use WETH pairs. 
 
 Swap fees are split between Liquidity Providers involved in the swap \(5/6\) and the Platforms Fee Reciever contract \(1/6\). The Fee Receiver contract uses 1/2 of incoming fees to buyback Honey and the other half to buyback pComb tokens. 
 
-## pComb Token
+## pCOMB Token
 
-The pComb token is the local incentive token for Honeyswap on Polygon.
+**The pComb token is the local incentive token for Honeyswap on Polygon.**
 
-The value of pComb is derived from trading activity that occurs on Honeyswap on Polygon through automated buybacks tied to swap fees. Half of the repurchased xComb tokens are burned, the other half recycled back into the Farming mechanism for future distribrution. The xComb token has a fixed supply, which will become deflationary as a result of half of the xComb buybacks being burned. 
+The value of pComb is derived from trading activity that occurs on Honeyswap on Polygon through automated buybacks tied to swap fees. Half of the repurchased pComb tokens are burned, the other half recycled back into the Farming mechanism for future distribrution. The pComb token has a fixed supply, which will become deflationary as a result of half of the pComb buybacks being burned. 
 
-### xComb Supply and Emissions 
+### pCOMB Supply and Emissions 
 
-The total fixed supply of xComb tokens is `1,000,000`. An initial airdrop of `5%` of the total fixed supply was airdropped to existing Honeyswap Liquidity providers proportional to the amount time and liquidity value contributed to Honeyswap prior to the airdrop. Airdropped tokens are not immediately liquid, they are subject to a vesting period and get released continuously over `xdays` . 
+The total fixed supply of pComb tokens is `1,000,000`. An initial airdrop of `5%` of the total fixed supply was airdropped to the Polygon user community. Airdropped tokens are not immediately liquid, they are subject to a vesting period and get released continuously over `xdays` . 
 
-The remaining xComb supply is scheduled to be distributed via the farming over the course of `2 years`, the emission rate decays linearly such that by the end of the initial emmission period  the rate is `25%` of the initial rate. 
+The remaining pComb supply is scheduled to be distributed via the farming over the course of `2 years`, the emission rate decays linearly such that by the end of the initial emmission period  the rate is `25%` of the initial rate. 
 
-1% of the xComb emissions can be earned by referring people to the farms, encouraging people to integrate and promote the farms.  The remainder of emissions are split between honeyswap pairs proportionally to their allocation points. Allocation points will be adjusted over time to curate the available liquidity in order to attract traders and maximize volume on the exchange. The following table shows the current distribution of allocation points among pairs:
+1% of the pComb emissions can be earned by referring people to the farms, encouraging people to integrate and promote the farms.  The remainder of emissions are split between honeyswap pairs proportionally to their allocation points. Allocation points will be adjusted over time to curate the available liquidity in order to attract traders and maximize volume on the exchange. The following table shows the current distribution of allocation points among pairs:
 
 | Pair | Points |
 | :--- | :--- |
-| HNY-xComb | 20 |
-| HNY-AGVE | 4 |
-| HNY-WETH | 4 |
-| HNY-xDAI | 4 |
-| AGVE-WETH | 2 |
-| HNY-STAKE | 2 |
-| HNY-LINK | 2 |
-| WETH-WBTC | 1 |
-| HNY-WBTC | 1 |
-| USDC-xDAI | 1 |
+| wETH-pCOMB | 18 |
+| wETH-USDC | 3 |
+| wETH-HNY | 3 |
+| wETH-wMATIC | 3 |
+| wETH-wBTC | 3 |
+| wETH-USDT | 2 |
+| wETH-DAI | 2 |
+| wETH-AAVE | 2 |
+| wETH-MUST | 1 |
+| wETH-QUICK | 1 |
+| wETH-GHST | 1 |
+| wETH-LINK | 1 |
 
-This initial allocation of points to pairs took historic trading volume on Honeyswap into account, a framework for evaluating and adding additional pairs is being worked on. Stay tuned!
+This initial allocation of points to pairs took historic trading volume on Polygon based exchanges into account, a framework for evaluating and adding additional pairs is being worked on. Stay tuned!
 
 ## Honeyswap Contracts
 
