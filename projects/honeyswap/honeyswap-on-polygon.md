@@ -1,5 +1,9 @@
 # Honeyswap on Polygon
 
+{% hint style="warning" %}
+Honeyswap on Polygon and the pComb token has not been fully deployed. Information here is subject to change. 
+{% endhint %}
+
 ## Supported Liquidity Pools
 
 Honeyswap on Polygon uses the Swapr contracts \(which are lightly modified from Uniswap v2\) for pooling liquidity. The Swapr contracts support adjusting fees on a per pool basis. By default all pools have a 0.3% swap fee, with the exception of pools containing WETH, which have a 0.15% swap fee. This fee structure is designed to encourage the use of a common base pair in order to optimize liquidity pathways, however, there is not a strict requirement to use WETH pairs. 

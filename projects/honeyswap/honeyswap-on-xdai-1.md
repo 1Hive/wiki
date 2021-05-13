@@ -1,5 +1,9 @@
 # Honeyswap on xDai
 
+{% hint style="warning" %}
+This page is being updated to reflect significant changes to Honeyswap on xDai and the introduction of the xComb token. Information may still be innacurate or incomplete. 
+{% endhint %}
+
 ## Supported Liquidity Pools
 
 Honeyswap on xDai uses the Uniswap v2 contracts for pooling liquidity. All pools have a 0.3% swap fee, of which 5/6 go directly to Liquidity Providers involved in the swap. The remaining 1/6 is split evenly between buybacks of Honey and xComb.
