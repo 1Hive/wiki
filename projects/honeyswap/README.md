@@ -6,6 +6,10 @@ description: >-
 
 # Honeyswap
 
+{% hint style="warning" %}
+This page reflects upcoming changes to Honeyswap and may still be incomplete or inaccurate.
+{% endhint %}
+
 ## Overview
 
 Honeyswap is comprised of liquidity pool contracts deployed to multiple EVM compatible chains which share common frontend interfaces that are maintained by the 1Hive community. Currently Honeyswap supports xDai and Polygon, but plans to expand support to other EVM chains and rollups in the future. 
