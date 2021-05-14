@@ -76,6 +76,38 @@ Reddit : [https://www.reddit.com/r/AGVE/](https://www.reddit.com/r/AGVE/)
 **Mon problème n'a pas été abordé dans la FAQ. Que puis-je faire ?**  
 La meilleure façon d'obtenir de l'aide d'un membre de la communauté 1Hive est d’aller sur la chaîne[ ](https://discord.gg/3AjG7XvRJZ)[⛈**help**](https://discord.gg/3AjG7XvRJZ) sur Discord.
 
+## Staking <a id="staking"></a>
+
+**Puis-je stake $AGVE ?**   
+Depuis le 10 mai, le staking d'Agave est enfin disponible. [Cliquez ici](https://app.agave.finance/#/stake) pour accéder à l'application.
+
+**Qu'est-ce que le délai de** _**Cooldown**_ **?**   
+Le Cooldown est le temps que vous devez attendre pour retirer vos fonds stakés. Il s'agit d'un "module de sécurité". L'idée est que vous ne pouvez pas retirer immédiatement vos tokens stakés, puisque vous stakez pour vous protéger d'un événement _Shortfall_.
+
+**Qu'est-ce qu'un** _**shortfall**_ **?**   
+[Cliquez ici](https://www.investopedia.com/terms/s/shortfall.asp) pour la définiton de shortfall.
+
+**Que se passe-t-il lorsque je clique sur "Activate Cooldown" ?**  
+Lorsque vous activez le cooldown, vous devez attendre 10 jours avant de débloquer vos tokens. Ensuite, vous aurez 2 jours pour cliquer sur "unstake", sans quoi il vous faudra recommencer et attendre à nouveau.
+
+**Que se passe-t-il si vous n'effectuez pas de retrait pendant la fenêtre de 2 jours ?**  
+Si vous ne retirez pas dans les 2 jours, la fenêtre se ferme et vous devez réactiver la période de cooldown.
+
+**Est-ce que je continue à recevoir des récompenses de staking pendant la période de cooldown ?**  
+Oui ! Vous recevez des récompenses de staking tant que vos tokens ne sont pas retirés.
+
+**D'où viennent les 500 AGAVE ?**  
+Les 500 Agave \(0,5% de l'approvisionnement total\) sont issus d'une proposition votée par la communauté lors d'un vote récent. [Cliquez ici](https://forum.1hive.org/t/agave-votes-apr-22/3489) pour en savoir plus.
+
+**Si je stake AGAVE, est-ce que je reçois un token "stakedAGAVE" ?**  
+Oui, vous recevrez des stkAGVE.
+
+**Peut-on aussi voter avec stkAGVE ?**  
+C'est en projet futur, cela sera possible. Actuellement, ce n'est pas possible, mais tout est en place pour permettre cette fonction une fois que nous aurons mis à niveau la DAO. Nous organiserons une "unstake party" pour voter lorsque cela se produira.
+
+**Que se passe-t-il dans 6 mois, est-ce que ça se unstake automatiquement ?**   
+Peut-être. Il se peut que vous ayez à unstake manuellement à ce moment-là. Nous vous informerons d'ici là de ce qui se passera à la fin de la période. Vous ne perdrez pas vos récompenses si vous ne vous désengagez pas immédiatement, mais vous devrez quand même faire face à la période de cooldown. Nous prévoyons une transition vers un système offrant une part des récompenses du protocole lors de son lancement, auquel cas vous ne voudrez jamais unstaker.
+
 ## Alvin 
 
 **Qui est Alvin ? Qu’est-ce que c’est ?**  
