@@ -51,3 +51,12 @@ Discussion about Celeste:
 
 {% embed url="https://forum.1hive.org/t/celeste-a-brief-primer/1483" %}
 
+{% hint style="info" %}
+Figma files:   
+[Celeste site](https://www.figma.com/file/gYca1YXb8nNJg600RQ7Gau/%F0%9F%8C%9A-%F0%9F%8C%9E-Celeste-site?node-id=0%3A1)  
+[Celeste dark mode site](https://www.figma.com/file/mG1aCNe9nSCy68QVGZ2VSn/Celeste-dark-mode?node-id=0%3A1)  
+[Celeste assets](https://www.figma.com/file/3Gd9WteDzKhcNi8G7Gajht/Celeste-assets?node-id=0%3A1)
+{% endhint %}
+
+
+
