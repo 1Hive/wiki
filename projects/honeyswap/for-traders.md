@@ -22,11 +22,12 @@ Honeyswap is an automated market maker \(AMM\) exchange. This means the price is
 
 ### Gas Fees
 
-On xDai the gas price never needs to be higher than 1 GWEI. See how much you have [spent in fees on the Ethereum Mainnet.](https://fees.wtf/) 
+On xDai the gas price never needs to be higher than 1 GWEI. See how much you have [spent in fees on the Ethereum Mainnet.](https://fees.wtf/) or on the [Binance Smart Chain Mainnet](https://bscfee.wtf).
 
 | Networks | Average Fee |
 | :--- | :--- |
 | Eth Mainnet | $3 |
+| BSC Mainnet | $0.02 |
 | xDai | $0.0004 |
 | Matic | $0.000001 |
 
