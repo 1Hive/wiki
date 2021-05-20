@@ -23,8 +23,7 @@
   * [Honeyswap on xDai](projects/honeyswap/honeyswap-on-xdai-1.md)
   * [Honeyswap on Polygon](projects/honeyswap/honeyswap-on-polygon.md)
 * [Celeste](projects/celeste.md)
-* [Gardens](projects/gardens/README.md)
-  * [Technical Overview](projects/gardens/alt-overview.md)
+* [Gardens](projects/gardens.md)
 * [Milestones](projects/milestones.md)
 
 ## 🌳Community
@@ -33,6 +32,7 @@
   * [🌐 Commons](community/swarms/commons.md)
   * [🌺 Flora](community/swarms/flora.md)
   * [🌞 Celeste](community/swarms/celeste.md)
+  * [🌻 Gardens](community/swarms/gardens.md)
   * [🌍 Terra](community/swarms/terra.md)
   * [🐝 Buzz](community/swarms/buzz.md)
   * [🏵 Pollen](community/swarms/pollen.md)
