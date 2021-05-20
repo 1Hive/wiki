@@ -23,7 +23,7 @@ GitHub [Garden Swarm repositories](https://github.com/orgs/1Hive/teams/gardens-s
 | [willjgriff](https://github.com/willjgriff) | Solidity developer and DAO member |
 | [fiore](https://forum.1hive.org/u/fioreb/summary) | Designer and DAO member |
 | [Sacha](https://gardens.substack.com/people/882863-0xmiel-) | Technical writer |
-| [Ana Pereira](https://uy.linkedin.com/in/ana-pereira-a3119a30) | Project Manager Advisor |
+| [Ana](https://uy.linkedin.com/in/ana-pereira-a3119a30) | Project Manager Advisor |
 | [Paul](https://github.com/pglavin2) | Research and content |
 | [Gabi](https://github.com/0xGabi) | Web3 developer and DAO member |
 
