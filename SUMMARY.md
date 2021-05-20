@@ -23,7 +23,7 @@
   * [Honeyswap on xDai](projects/honeyswap/honeyswap-on-xdai-1.md)
   * [Honeyswap on Polygon](projects/honeyswap/honeyswap-on-polygon.md)
 * [Celeste](projects/celeste.md)
-* [Gardens \(Coming soon\)](projects/gardens/README.md)
+* [Gardens](projects/gardens/README.md)
   * [Technical Overview](projects/gardens/alt-overview.md)
 * [Milestones](projects/milestones.md)
 
