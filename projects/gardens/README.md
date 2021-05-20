@@ -4,7 +4,7 @@ description: 1Hive like DAO's
 
 # Gardens
 
-Visit the [Gardens documentation](https://1hive.gitbook.io/celeste/) for more detailed information.
+Visit the [Gardens documentation](https://1hive.gitbook.io/gardens/) for more detailed information.
 
 Gardens are a generalization of the infrastructure the 1Hive protocol uses. This will enable other communities to experiment with a similar setup, allowing them to raise funds and make decisions amongst themselves effectively. Through Gardens, communities can launch their own token with their own issuance policy or use an existing token. To give a new token value they can provide some Honey during the creation process to create some initial liquidity, they may also convince the 1Hive community to give up some Honey to provide more liquidity. From there they can use whatever tools they like for coordination; chat rooms, forums etc, and the token will be used for deciding how funds are used and how their infrastructure is configured, the same as the 1Hive protocol.
 
