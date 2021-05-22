@@ -18,8 +18,6 @@
   * [Supply](projects/honey/issuance.md)
   * [Distribution](projects/honey/distribution.md)
   * [Decisions](projects/honey/decisions.md)
-  * [Developers](projects/honey/developers/README.md)
-    * [Aragon infrastructure](projects/honey/developers/aragon-infrastructure.md)
 * [Honeyswap](projects/honeyswap/README.md)
   * [Honeyswap on xDai](projects/honeyswap/honeyswap-on-xdai-1.md)
   * [Honeyswap on Polygon](projects/honeyswap/honeyswap-on-polygon.md)
@@ -51,6 +49,13 @@
   * [Data Analysis](community/courses/data-analysis.md)
 * [Security](community/security/README.md)
   * [Bug Bounty](community/security/bug-bounty.md)
+
+## 💻 Developers
+
+* [1Hive protocol](developers/developers.md)
+* [Aragon infrastructure](developers/aragon-infrastructure/README.md)
+  * [xDai deployments](developers/aragon-infrastructure/xdai-deployments.md)
+  * [Polygon deployments](developers/aragon-infrastructure/polygon-deployments.md)
 
 ## 🐑Guides
 

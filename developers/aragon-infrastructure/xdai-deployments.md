@@ -1,6 +1,4 @@
-# Aragon infrastructure
-
-## xDai deployments
+# xDai deployments
 
 ### ENS registry
 

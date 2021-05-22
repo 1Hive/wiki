@@ -1,4 +1,4 @@
-# Developers
+# 1Hive protocol
 
 The 1Hive protocol is based on software built by Aragon. The Aragon client interface to the 1Hive DAO is [found here](https://aragon.1hive.org/#/0x8ccbeab14b5ac4a431fffc39f4bec4089020a155). The 1Hive protocol is made up of various Aragon apps tied into the Aragon infrastructure, external contracts and Celeste.
 
