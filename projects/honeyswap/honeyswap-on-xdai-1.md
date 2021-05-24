@@ -24,18 +24,18 @@ The remaining `95%` of the xComb supply is scheduled to be distributed via farmi
 
 | Pair | Points |
 | :--- | :--- |
-| HNY-xComb | 20 |
-| HNY-AGVE | 4 |
-| HNY-WETH | 4 |
-| HNY-xDAI | 4 |
-| AGVE-WETH | 2 |
-| HNY-STAKE | 2 |
-| HNY-LINK | 2 |
-| WETH-WBTC | 1 |
-| HNY-WBTC | 1 |
+| xDAI-xComb | 20 |
+| xDAI-HNY | 5 |
+| xDAI-AGVE | 5 |
+| HNY-AGVE | 3 |
+| HNY-WETH | 3 |
+| xDAI-STAKE | 2 |
+| xDAI-LINK | 2 |
+| WETH-WBTC | 2 |
+| xDAI-WETH | 2 |
 | USDC-xDAI | 1 |
 
-This initial allocation of points to pairs took historic trading volume on Honeyswap into account, a framework for evaluating and adding additional pairs is being worked on. Stay tuned!
+The pairs included in the farms will be adjusted over time, a framework for evaluating and adding additional pairs is being worked on. Stay tuned!
 
 ## Deployment Information
 
