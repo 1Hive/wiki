@@ -95,8 +95,6 @@ The common pool is used to fund pollen, faucet, bounties and collaboration with 
 **Provide Liquidity on Honeyswap**  
 [https://honeyswap.org/liquidity-pool](https://honeyswap.org/liquidity-pool)
 
-[Understanding Providing Liquidity](https://1hive.gitbook.io/1hive/projects/honeyswap/for-liquidity-providers)
-
 **Understanding Yield Farming on Honeycomb**  
 [https://honeyswap.org/yield-farming](https://honeyswap.org/yield-farming)
 
