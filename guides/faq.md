@@ -24,7 +24,7 @@ While centralized administration is a powerful and flexible means to scale human
 In the case of the 1Hive DAO, a community currency called Honey is used to create a circular economy where public goods and investments that grow the 1Hive economy can be collectively funded with [**conviction voting**](../projects/honey/).
 
 **Does 1Hive have a roadmap?**  
-We have rough [milestones](../projects/milestones.md) updated by individual swarms.
+We have rough [milestones]() updated by individual swarms.
 
 **Can I stake Honey?**  
 Since April 11th, we're happy to announce that our subjective oracle [Celeste](https://celeste.1hive.org/#/dashboard) is finally live. Users can stake their HNY, and may be drafted to resolve disputes that may arise. [Click here](https://1hive.gitbook.io/celeste/) to access the Celeste Wiki page were all sort of information are displayed.

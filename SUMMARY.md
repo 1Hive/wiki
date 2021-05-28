@@ -23,7 +23,6 @@
   * [Honeyswap on Polygon](projects/honeyswap/honeyswap-on-polygon.md)
 * [Celeste](https://1hive.gitbook.io/celeste/)
 * [Gardens](https://1hive.gitbook.io/gardens/)
-* [Milestones](projects/milestones.md)
 
 ## 🌳Community
 
