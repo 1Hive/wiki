@@ -21,7 +21,7 @@ These milestones are rough estimates specified and updated by the relevant Swarm
 
 🎯 **Target Date:** Q1 2021
 
-For more information see [Celeste](celeste.md)
+For more information see [Celeste]()
 
 ### **Change to Issuance Policy**
 
@@ -39,7 +39,7 @@ A user friendly landing page for [Honeyswap](honeyswap/) including links to guid
 
 🎯 **Target Date:** Q2-Q3 2021
 
-For more information see [Gardens](gardens.md).
+For more information see [Gardens]().
 
 ## External Milestones important for 1Hive
 
