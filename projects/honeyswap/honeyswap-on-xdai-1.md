@@ -73,7 +73,7 @@ Honeyswap on xDai uses the Uniswap v2 AMM contracts.
 
 **ReferralRewardManager:** [`0x82374C59709AAc2f7864191a3c492932379536F4`](https://blockscout.com/poa/xdai/address/0x82374C59709AAc2f7864191a3c492932379536F4/read-contract)
 
-**FeeReciever:** xComb update is Pending Deployment
+**FeeReciever:** [`0x7390d41CC179248E23C1BFc9004A467E5b78771a`](https://blockscout.com/xdai/mainnet/address/0x7390d41CC179248E23C1BFc9004A467E5b78771a/)
 
 ### Subgraphs
 
