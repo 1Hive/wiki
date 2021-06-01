@@ -1,7 +1,7 @@
 # Honeyswap on xDai
 
 {% hint style="warning" %}
-This page is being updated to reflect significant changes to Honeyswap on xDai and the introduction of the xComb token. Information may still be innacurate or incomplete. 
+This page is being updated to reflect significant changes to Honeyswap on xDai and the introduction of the xComb token. Information may still be innacurate or incomplete.
 {% endhint %}
 
 ## Supported Liquidity Pools
@@ -12,15 +12,15 @@ Honeyswap on xDai uses the Uniswap v2 contracts for pooling liquidity. All pools
 
 The xComb token is the local incentive token for Honeyswap on xDai.
 
-The value of xComb is derived from trading activity that occurs on Honeyswap on xDai through automated buybacks tied to swap fees. Half of the repurchased xComb tokens are burned, the other half recycled back into the Farming mechanism for future distribrution. The xComb token has a fixed supply, which will become deflationary as a result of half of the xComb buybacks being burned. 
+The value of xComb is derived from trading activity that occurs on Honeyswap on xDai through automated buybacks tied to swap fees. Half of the repurchased xComb tokens are burned, the other half recycled back into the Farming mechanism for future distribrution. The xComb token has a fixed supply, which will become deflationary as a result of half of the xComb buybacks being burned.
 
-### xComb Supply and Emissions 
+### xComb Supply and Emissions
 
-The total fixed supply of xComb tokens is `1,000,000`. An initial airdrop of `5%` of the total fixed supply was airdropped to existing Honeyswap Liquidity providers proportional to the amount time and liquidity value contributed to Honeyswap prior to the airdrop. `10%` of airdropped tokens are immediately liquid, and the other `90%` are released continuously over `6 Months` . 
+The total fixed supply of xComb tokens is `1,000,000`. An initial airdrop of `5%` of the total fixed supply was airdropped to existing Honeyswap Liquidity providers proportional to the amount time and liquidity value contributed to Honeyswap prior to the airdrop. `10%` of airdropped tokens are immediately liquid, and the other `90%` are released continuously over `6 Months` .
 
-The remaining `95%` of the xComb supply is scheduled to be distributed via farming over the course of `2 years`, the emission rate decays linearly such that by the end of the initial emmission period  the rate is `25%` of the initial rate. 
+The remaining `95%` of the xComb supply is scheduled to be distributed via farming over the course of `2 years`, the emission rate decays linearly such that by the end of the initial emmission period the rate is `25%` of the initial rate.
 
-1% of the xComb emissions can be earned by referring people to the farms, encouraging people to integrate and promote the farms.  The remainder of emissions are split between honeyswap pairs proportionally to their allocation points. Allocation points will be adjusted over time to curate the available liquidity in order to attract traders and maximize volume on the exchange. The following table shows the current distribution of allocation points among pairs:
+1% of the xComb emissions can be earned by referring people to the farms, encouraging people to integrate and promote the farms. The remainder of emissions are split between honeyswap pairs proportionally to their allocation points. Allocation points will be adjusted over time to curate the available liquidity in order to attract traders and maximize volume on the exchange. The following table shows the current distribution of allocation points among pairs:
 
 | Pair | Points |
 | :--- | :--- |
@@ -39,23 +39,23 @@ The pairs included in the farms will be adjusted over time, a framework for eval
 
 ## Governance
 
-The Honeyswap AMM contracts are not upgradeable. Governance is limited to setting the fee reciever address. 
+The Honeyswap AMM contracts are not upgradeable. Governance is limited to setting the fee reciever address.
 
-The xComb token does not have any governance, it has a fixed supply and cannot be upgraded. 
+The xComb token does not have any governance, it has a fixed supply and cannot be upgraded.
 
-xComb farming contract is not upgradeable, but the xComb tokens held by the contract can be withdrawn to via governance in order to transition the farming rewards to a new contract. Governance of the farms has been split into two distinct roles using a wrapper contract. 
+xComb farming contract is not upgradeable, but the xComb tokens held by the contract can be withdrawn to via governance in order to transition the farming rewards to a new contract. Governance of the farms has been split into two distinct roles using a wrapper contract.
 
-**Manager:** Can add, remove, and adjust allocation points of pools. 
+**Manager:** Can add, remove, and adjust allocation points of pools.
 
-**Admin**: Can change the manager address and initialize a migration by withdrawing xComb and unlocking all time-locked deposits. 
+**Admin**: Can change the manager address and initialize a migration by withdrawing xComb and unlocking all time-locked deposits.
 
-Initially the Tulip swarm will serve as the Manager via a multisig, and 1Hive [Decisions](../honey/decisions.md) will control the Admin role. 
+Initially the Tulip swarm will serve as the Manager via a multisig, and 1Hive [Decisions](../honey/decisions.md) will control the Admin role.
 
 ## Deployment Information
 
 ### AMM Contracts
 
-Honeyswap on xDai uses the Uniswap v2 AMM contracts. 
+Honeyswap on xDai uses the Uniswap v2 AMM contracts.
 
 **UniswapV2Factory**:[`0xA818b4F111Ccac7AA31D0BCc0806d64F2E0737D7`](https://blockscout.com/poa/xdai/address/0xA818b4F111Ccac7AA31D0BCc0806d64F2E0737D7)\*\*\*\*
 

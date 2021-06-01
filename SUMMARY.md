@@ -49,7 +49,7 @@
 * [Security](community/security/README.md)
   * [Bug Bounty](community/security/bug-bounty.md)
 
-## 💻 Developers
+## 🌾Developers
 
 * [1Hive protocol](developers/developers.md)
 * [Aragon infrastructure](developers/aragon-infrastructure/README.md)
