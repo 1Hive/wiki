@@ -18,7 +18,7 @@ The value of pComb is derived from trading activity that occurs on Honeyswap on 
 
 ### pCOMB Supply and Emissions 
 
-The total fixed supply of pComb tokens is `1,000,000`. An initial airdrop of `5%` of the total fixed supply was airdropped to the Polygon user community. `10%` of airdropped tokens are immediately liquid, and the other `90%` are released continuously over `6 Months` .  
+The total fixed supply of pComb tokens is `1,000,000`. An initial airdrop of `5%` of the total fixed supply will be airdropped to Honeyswap on Polygon user community. `10%` of airdropped tokens are immediately liquid, and the other `90%` are released continuously over `6 Months` .  
 
 The remaining `95%` of pComb supply is scheduled to be distributed via the farming over the course of `2 years`, the emission rate decays linearly such that by the end of the initial emmission period  the rate is `25%` of the initial rate. 
 
