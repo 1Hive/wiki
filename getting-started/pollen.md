@@ -10,17 +10,16 @@ Pollen is a contributor rank used to recognize contributions to 1Hive’s [Disco
 
 As soon as you start interacting on 1Hive’s Discord, Forum, and Github communities you’ll start earning Pollen, which gets added to your registered wallet as sweet sweet Honey.
 
-In order to receive weekly pollen distributions you’ll need to create accounts on supported platforms and link them to your xDai address. You can do this by posting the below in 1hive Discord’s [🐛**onboarding**](https://discord.gg/eYwxwv4nzk) channel:
+In order to receive weekly pollen distributions you’ll need to create accounts on supported platforms and link them to your xDai address. You can do this by sending the following commands in 1Hive Discord’s 🤖**bot-commands** channel:
 
-```text
-#🏵pollen
-github: justabee
-discourse: justabee
-discord: justabee#1234
-xDai: 0x0...000
-```
+- **Save Discord account**: Send `!pollen save-discord` to add your Discord ID and tag to the Pollen DB.
+- **Save Discourse (Forum) account - optional**: Send `!pollen verify-discourse <discourse-username>` and follow the process to verify and add your Discourse username to the Pollen DB.
+- **Save GitHub account - optional**: Send `!pollen verify-github <github-username>` and follow the process to verify and add your GitHub username (in case you have one) to the Pollen DB.
+- **Save wallet address - optional**: Send `!pollen save-wallet <wallet-address>` to add your wallet address to the Pollen DB (Although this step is optional, you won't be able to receive HNY until you save a valid address).
 
-Replacing`justabee`, `justabee#1234` and `0x0...000` with your accounts. Note `Discourse` refers to [the Forum](https://forum.1hive.org/).
+Make sure to replace `<discourse-username>`, `<github-username>` and `<wallet-address>` with your accounts.
+
+You also have a `!pollen userinfo` command to check the info you saved in the DB.
 
 If you have questions, are interested in how pollen is calculated, or auditing the distributions, just hop on the [🏵**pollen**](https://discord.com/invite/y8fPNcNdAa) channel.
 
