@@ -1,4 +1,4 @@
-# xDai deployments
+# xDai Deployments
 
 ### ENS registry
 

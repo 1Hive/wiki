@@ -4,7 +4,7 @@ description: Bug reward management
 
 # 🐛 Bug Bounty
 
-The 🐛Bug Bounty Swarm manages the funds available through the [Bug Bounty Program](../security/bug-bounty.md). It is currently made up of 1Hive Seed group members who have been working on 1Hive for over a year and have a strong degree of trust in each other.
+The 🐛Bug Bounty Swarm manages the funds available through the [Bug Bounty Program](../../developers/security/bug-bounty.md). It is currently made up of 1Hive Seed group members who have been working on 1Hive for over a year and have a strong degree of trust in each other.
 
 ## Useful Links 
 

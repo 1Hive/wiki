@@ -46,15 +46,15 @@
   * [Brand Guidelines](community/design/brand-guidelines.md)
 * [Courses](community/courses/README.md)
   * [Data Analysis](community/courses/data-analysis.md)
-* [Security](community/security/README.md)
-  * [Bug Bounty](community/security/bug-bounty.md)
 
 ## 🌾Developers
 
-* [1Hive protocol](developers/developers.md)
-* [Aragon infrastructure](developers/aragon-infrastructure/README.md)
-  * [xDai deployments](developers/aragon-infrastructure/xdai-deployments.md)
-  * [Polygon deployments](developers/aragon-infrastructure/polygon-deployments.md)
+* [1Hive Protocol](developers/1hive-protocol.md)
+* [Aragon Infrastructure](developers/aragon-infrastructure/README.md)
+  * [xDai Deployments](developers/aragon-infrastructure/xdai-deployments.md)
+  * [Polygon Deployments](developers/aragon-infrastructure/polygon-deployments.md)
+* [Security](developers/security/README.md)
+  * [Bug Bounty](developers/security/bug-bounty.md)
 
 ## 🐑Guides
 

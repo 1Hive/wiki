@@ -1,4 +1,4 @@
-# Polygon deployments
+# Polygon Deployments
 
 ### Aragon base contracts
 

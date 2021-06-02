@@ -4,7 +4,7 @@ description: Smart contract bug bounty program
 
 # Bug Bounty
 
-This program covers all currently deployed 1hive related smart contracts on the xDai network that are actively being used from the [1Hive Github organisation](https://github.com/1Hive/). Contracts that 1hive uses that are not built by 1hive community members may also be considered depending on the extent to which they have been used within the 1hive ecosystem and the consequences they could produce. This evaluation will be at the discretion of the bug bounty swarm members using the [CVSS Risk Rating scale ](https://www.first.org/cvss/calculator/3.0)and funds available are held in an Aragon DAO. The members and a link to the DAO holding the funds can be seen in the [Bug Bounty Swarm](../swarms/bug-bounty.md) details.
+This program covers all currently deployed 1hive related smart contracts on the xDai network that are actively being used from the [1Hive Github organisation](https://github.com/1Hive/). Contracts that 1hive uses that are not built by 1hive community members may also be considered depending on the extent to which they have been used within the 1hive ecosystem and the consequences they could produce. This evaluation will be at the discretion of the bug bounty swarm members using the [CVSS Risk Rating scale ](https://www.first.org/cvss/calculator/3.0)and funds available are held in an Aragon DAO. The members and a link to the DAO holding the funds can be seen in the [Bug Bounty Swarm](../../community/swarms/bug-bounty.md) details.
 
 ## Requirements
 
