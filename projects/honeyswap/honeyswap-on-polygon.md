@@ -49,7 +49,7 @@ Honeyswap on Polygon uses the DxSwap contracts, which were forked from the Unisw
 
 **Factory**: [`0x6F937495013C7DC42aF752d3E0BcC090bd34F7AB`](https://explorer-mainnet.maticvigil.com/address/0x6F937495013C7DC42aF752d3E0BcC090bd34F7AB)\`\`
 
-**Router**:[`0x346880305b57c5A8AaF4170D951f13e91c0bE0a7`](https://explorer-mainnet.maticvigil.com/address/0x346880305b57c5A8AaF4170D951f13e91c0bE0a7/transactions)\`\`
+**Router**:[`0xaD340d0CD0B117B0140671E7cB39770e7675C848`](https://explorer-mainnet.maticvigil.com/address/0xaD340d0CD0B117B0140671E7cB39770e7675C848/transactions)\`\` Are these contract addresses still accurate? A transaction seemed to reveal https://explorer-mainnet.maticvigil.com/address/0xaD340d0CD0B117B0140671E7cB39770e7675C848/transactions as the configured contract
 
 ### Subgraphs
 
