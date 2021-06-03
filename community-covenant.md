@@ -14,7 +14,7 @@ The 1Hive Community Covenant is currently [open for review](https://forum.1hive.
 
 The goal of the 1Hive protocol is to foster a healthy community economy by allocating a steady stream of Honey towards development, maintenance, and improvement of the common goods that bring the most value to the 1Hive community.
 
-The growth of the 1Hive economy is directly related to the communities ability to foster an inclusive and welcoming culture that people feel proud and delighted to adopt as their own. When someone chooses to buy or hold Honey and participate in the Honey economy they are implicitly supporting the communities culture, values, and norms.
+The growth of the 1Hive economy is directly related to the community's ability to foster an inclusive and welcoming culture that people feel proud and delighted to adopt as their own. When someone chooses to buy or hold Honey and participate in the Honey economy they are implicitly supporting the community's culture, values, and norms.
 
 To this end, the 1Hive protocol depends on a social contract, which sets expectations for how members should engage both with the protocol and with one another.
 
