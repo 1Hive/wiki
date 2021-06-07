@@ -53,7 +53,7 @@ Initially the [Tulip swarm multisig ](https://xdai.gnosis-safe.io/app/#/safes/0x
 
 Honeyswap on xDai uses the Uniswap v2 AMM contracts.
 
-**UniswapV2Factory**:[`0xA818b4F111Ccac7AA31D0BCc0806d64F2E0737D7`](https://blockscout.com/poa/xdai/address/0xA818b4F111Ccac7AA31D0BCc0806d64F2E0737D7)\*\*\*\*
+**UniswapV2Factory**:[`0xA818b4F111Ccac7AA31D0BCc0806d64F2E0737D7`](https://blockscout.com/poa/xdai/address/0xA818b4F111Ccac7AA31D0BCc0806d64F2E0737D7)
 
 **UniswapV2Router02**:[`0x1C232F01118CB8B424793ae03F870aa7D0ac7f77`](https://blockscout.com/poa/xdai/address/0x1C232F01118CB8B424793ae03F870aa7D0ac7f77)
 
@@ -69,7 +69,7 @@ Honeyswap on xDai uses the Uniswap v2 AMM contracts.
 
 **ReferralRewardManager:** [`0x82374C59709AAc2f7864191a3c492932379536F4`](https://blockscout.com/poa/xdai/address/0x82374C59709AAc2f7864191a3c492932379536F4/read-contract)
 
-**FeeReciever:** [`0x7390d41CC179248E23C1BFc9004A467E5b78771a`](https://blockscout.com/xdai/mainnet/address/0x7390d41CC179248E23C1BFc9004A467E5b78771a/)
+**FeeReciever:** [`0xbA13a6414C677d9e7BD3c0BDE5BA4055BF2e72f7`](https://blockscout.com/xdai/mainnet/address/0xbA13a6414C677d9e7BD3c0BDE5BA4055BF2e72f7/transactions)\`\`
 
 ### Subgraphs
 
@@ -79,13 +79,7 @@ The deployment data is indexed by forks of two subgraphs:
 
 [Ethereum Blocks](https://thegraph.com/explorer/subgraph/1hive/xdai-blocks): A fork of the Blocklytics Ethereum Blocks subgraph with no modifications, deployed for xDai. Source code can be found [here](https://github.com/1Hive/ethereum-blocks).
 
-### Fee Receiver Contract
+### Honeymaker
 
-Honeymaker is a SushiMaker deployment and accompanying bot that converts LP shares on Honeyswap into Honey for the Honey Common Pool.
-
-SushiMaker is deployed at [`0x076b64f9F966e3bBD0FCdC79D490Ab71cF961bb0`](https://blockscout.com/poa/xdai/address/0x076b64f9F966e3bBD0FCdC79D490Ab71cF961bb0).
-
-The bot periodically calls the `convert` function on the SushiMaker contract for selected pairs on Honeyswap to convert the LP shares to Honey.
-
-The source code for the bot can be found [here](https://github.com/1hive/honeymaker).
+[Honeymaker](https://github.com/1hive/honeymaker) is an accompanying bot that periodically calls the `takeProtocolFee()` function on the FeeReceiver contract for selected pairs on Honeyswap to convert the LP fees earned to Honey and xComb.
 
