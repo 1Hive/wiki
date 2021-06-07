@@ -5,7 +5,7 @@ The 1Hive protocol is based on software built by Aragon. The Aragon client inter
 ## 1Hive Aragon DAO addresses
 
 ```text
-DAO/Kernal: 0x8ccbeab14b5ac4a431fffc39f4bec4089020a155
+DAO/Kernel: 0x8ccbeab14b5ac4a431fffc39f4bec4089020a155
 ACL: 0xbc4fb635636b81e60a4e356c4dceb53cac507d03
 ConvictionVoting: 0x0b21081c6f8b1990f53fc76279cc41ba22d7afe2
 DisputableVoting: 0xfbd0b2726070a9d6aff6d7216c9e9340eae68b2a
