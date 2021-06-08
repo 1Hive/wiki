@@ -14,10 +14,10 @@ Total Supply: 100 k
 Circulating Supply: 27,799k
 
 **Is there a Website for Agave?**  
-A brand new website is about to be ready for Agave. You can already visit the landing page at [Agave.Finance](https://agave.finance/).
+[Agave.Finance](https://agave.finance/) is our brand new website.
 
 **Where can I find regular updates about the project?**  
-Our [Milestones](https://wiki.1hive.org/projects/milestones) page is where we publish major updates regarding 1Hive and Agave. 
+We are providing weekly updates. You can check them all here: Agave Weekly Updates: [\#1](https://medium.com/agavefinance/agave-development-update-65a8e0baba83), [\#2](https://medium.com/agavefinance/agave-development-update-2-a8e92727483b), [\#3](https://medium.com/agavefinance/agave-development-update-week-of-april-17-2021-99f5b5fd2821), [\#4](https://medium.com/agavefinance/agave-development-update-4-3a0984d95983), [\#5](https://medium.com/agavefinance/agave-development-updates-5-1-8-may-2021-5ec91ca0b301), [\#6](https://medium.com/agavefinance/agave-development-updates-6-8-14-may-2021-524bea4ee5d8), [\#7](https://medium.com/agavefinance/agave-development-updates-7-9-21-may-2021-415932cd959e), [\#8](https://medium.com/agavefinance/agave-development-updates-8-21-28-may-2021-9e2bb95c3210), [\#9](https://medium.com/agavefinance/agave-development-update-9-28-may-04-june-2021-a87353f4ea9) 
 
 **When will the product launch?**  
 On May 1st, we received a successful feedback from [Chainsulting](https://chainsulting.de/), the company running the audit of Agave's contracts. Before the official launch of the platform, we will run a testing phase to make sure that everything is running perfectly. After this step, Agave's platform will be launched. Although the hope is to release the product soon, we do not want to rush deliveries.
@@ -111,19 +111,12 @@ Maybe. You may still have to manually unstake at that time. We’ll communicate 
 
 ## Alvin 
 
+**What happened to Alvin?**  
+On May 25th, 2021, [http://dripp.farm](http://dripp.farm/) had its liquidity pools drained for both the ALVIN and SHWEATPANTS tokens, resulting in a collapse of the price. Although Agave is not responsible for what happened - nor affiliated with the creator of the project - we will support our holder who occurred in losses. [Read here](https://forum.1hive.org/t/dripp-farm-a-retrospective/3895) for a post-mortem and [here](https://forum.1hive.org/t/alvin-and-the-dripp-ocalypse/3757) for more information.  
+
 **What / Who is Alvin?**  
-Alvin is an erc20 that is exchangeable \(in whole number quantities\) for a limited edition plushie of the agave logo character \(named Alvin\) and an NFT - Non Fungible Token. Inspired by the success obtained by Unisocks \(worth over 100k at the time of writing\), it’s the first collaboration \(Cross-Pollination\) between [1Hive](https://1hive.org/) and [Shenanigan](https://she.energy/).  
-ALVIN v3: 0x50DBde932A94b0c23D27cdd30Fbc6B987610c831  
-Blockscout: [$ALVIN](https://blockscout.com/poa/xdai/address/0x50DBde932A94b0c23D27cdd30Fbc6B987610c831/transactions) / [Alvin v3](https://info.honeyswap.org/token/0x50dbde932a94b0c23d27cdd30fbc6b987610c831)  
-Total Supply: 122
+Alvin is an erc20 that is exchangeable \(in whole number quantities\) for a limited edition plushie of the agave logo character \(named Alvin\) and an NFT - Non Fungible Token. Inspired by the success obtained by Unisocks \(worth over 100k at the time of writing\), it’s the first collaboration \(Cross-Pollination\) between [1Hive](https://1hive.org/) and [Shenanigan](https://she.energy/).
 
-**I want to redeem my Alvin plushie \(Or my Shweatpants\). How do I do that?**  
-If you want to redeem your Alvin plushie \(or your Shenanigan Shweatpants\) you can easily do that by landing on [dripp.farm](https://www.dripp.farm/) and click on the "Buy" Button. Your item will be shipped anywhere in the world.
-
-**How it's priced:**   
-Dripp tokens are listed starting at predetermined prices of the item. Each buy/sell will move the price. The increase or decrease follows a [bonding curve](https://blog.relevant.community/bonding-curves-in-depth-intuition-parametrization-d3905a681e0a). Each Dripp will eventually find an equilibrium based on market demand.
-
-**What is Dripp?**  
-Dripp - [http://dripp.farm/ ](http://dripp.farm/)is the platform where users can stake their Honey, Particle or both in order to earn Alvin, Shweatpants, or both. Staking will be possible for roughly 30 days from launch. \(March 4th\)  
-For more info, you can read [this ](https://medium.com/frst/money-laundry-the-rise-of-the-crypto-sock-market-f979aafc3796)article.
+**Can I still redeem my Alvin plushie \(Or my Shweatpants\)?**  
+At this point, we are looking for a fair solution to solve the situation, by keeping in consideration the needs and the rights of everyone involved. We will update the community as soon as there is something tangible to share.
 

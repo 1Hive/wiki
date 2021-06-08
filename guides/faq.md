@@ -3,15 +3,12 @@
 ## General questions
 
 **Will there be a Honey Airdrop?**  
-At the moment there are no plans for an airdrop. Members of the 1Hive community can earn Honey through the [Faucet](https://faucet.1hive.org/#/) and through [Pollen](https://1hive.gitbook.io/1hive/getting-started/pollen) by participating on Discord, the Forum and Github.
+At the moment there are no plans for an airdrop of HNY. 1Hive contributors have received a first distribution of Agave Tokens and xComb tokens. Furthermore, members of the 1Hive community can earn Honey through the [Faucet](https://faucet.1hive.org/#/) and through [Pollen](https://1hive.gitbook.io/1hive/getting-started/pollen) by participating on Discord, the Forum and Github.
 
 As of now, the majority of the community believes that airdropping Honey would not have a beneficial impact on the price and sustainability of the project.
 
 **Will the faucet be topped up? What happens once it is over?**  
 The [Faucet](https://faucet.1hive.org/#/) pays out 5% of its balance every 48h; Therefore, it never truly “ends”. However, there are discussions about topping it up in order to have it as an incentive for newcomers. You can read and share your opinions about this topic [here](https://forum.1hive.org/t/temporarily-suspend-the-faucet/1580/2). So far over 600 HNY has been distributed through the faucet.
-
-**When will Farms open again?**  
-1Hive conducted 2 farming periods; The last one ended on December 25th, 2020. At this time farms are inactive and there are no farm proposals set to pass in the near future.
 
 **Is the team legit?**   
 1Hive is a DAO \(Decentralized Autonomous Organization\), which means that the team consists of its community members. Anyone can join the 1Hive community, helping it grow and proposing ideas / collaborations of all kinds.
@@ -23,28 +20,47 @@ While centralized administration is a powerful and flexible means to scale human
 
 In the case of the 1Hive DAO, a community currency called Honey is used to create a circular economy where public goods and investments that grow the 1Hive economy can be collectively funded with [**conviction voting**](../projects/honey/).
 
-**Does 1Hive have a roadmap?**  
-We have rough [milestones]() updated by individual swarms.
-
 **Can I stake Honey?**  
-Since April 11th, we're happy to announce that our subjective oracle [Celeste](https://celeste.1hive.org/#/dashboard) is finally live. Users can stake their HNY, and may be drafted to resolve disputes that may arise. [Click here](https://1hive.gitbook.io/celeste/) to access the Celeste Wiki page were all sort of information are displayed.
+Since April 11th, we're happy to announce that our subjective oracle [Celeste](https://celeste.1hive.org/#/dashboard) is finally live. Users can stake their HNY, and may be drafted to resolve disputes that may arise. [Click here](https://1hive.gitbook.io/celeste/) to access the Celeste Wiki page where all sort of information are displayed.
 
 **What is the APY for staking HNY with Celeste?**  
 At the moment we cannot give an estimation of the APY through Celeste. The staking rewards are a positive side-effect of Celeste, whose main purpose is to provide the community with a tool to prevent malicious behavior. To participate in Celeste you need to have at least 0.5 HNY, and staking rewards will be distributed monthly.
 
 **Is there any incentive for holding Honey?**  
-Holding at least 0.5 HNY allows you to participate in [Celeste](https://1hive.gitbook.io/celeste/) and, besides that, holding Honey is primarily used for voting on proposals and to [provide liquidity](https://link.medium.com/Zb26x6KQWcb).
+Holding at least 0.5 HNY allows you to participate in [Celeste](https://1hive.gitbook.io/celeste/) and, besides that, holding Honey is primarily used for voting on proposals and to [provide liquidity](https://link.medium.com/Zb26x6KQWcb). 
 
 **When will Honey be on Uniswap?**   
-The reverse omnibridge enabling moving Honey to Mainnet to add to Uniswap will most likely land on the Ethereum Mainnet in Q1-Q2 2021.
-
 Since February 2021 HNY is also on Mainnet. Currently on [Sushiswap](https://analytics.sushiswap.fi/pairs/0xdae3ac391756d65fff76502ff4d1d7697a991c5a%20) with the Contract Address [0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE](https://etherscan.io/address/0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE)
 
-**I saw a "Matic" channel on Discord. Are we leaving xDai?**   
-Currently there are no plans to leave xDai, but 1Hive is exploring what opportunities may exist to extend the community and ecosystem of products to additional networks including Matic and in development roll-up chains such as Arbitrum.
+**I saw a "Matic" and "Arbitrum" channel on Discord. Are we leaving xDai?**   
+Currently there are no plans to leave xDai, but 1Hive's mission is to be available to as many as possible. Therefore, we are exploring what opportunities may exist to extend the community and ecosystem of products to additional networks including Matic and in development roll-up chains such as Arbitrum.
+
+Since June 2021 Honeyswap is already on [Polygon](https://info.honeyswap.org/token/0x71850b7e9ee3f13ab46d67167341e4bdc905eef9#/home)!
 
 **Does** _**"voting on a proposal"**_ **actually cost Honey?**  
 No, it doesn't. You are not spending your HNY when voting. Your HNY is not locked either, withdraw your vote and trade if you wish. 
+
+locked either, withdraw your vote and trade if you wish. 
+
+## Farming
+
+**When will Farms open again?**  
+On June 2nd, 2021, 1Hive presented a major update, introducing Honeycomb and our new farms. [Click Here](https://honeyswap.medium.com/introducing-honeycomb-with-token-farming-by-1hive-e89e09032756) for an in-depth presentation. You can farm at [1hive.io](https://1hive.io/).
+
+**How can I claim my xComb Airdrop?**  
+If you provided liquidity in the months prior the launch of the new farms, you received an airdrop of xComb, depending on the length and amount that was provided. 10% is immediately available to be claimed on Honeycomb's [Airdrop](https://1hive.io/#/airdrop) page, while the other 90% is vested and linearly available within the coming 6 months  
+
+**Is there a tutorial on how to farm?**  
+[Click here](https://www.youtube.com/watch?v=6nGqJ913DGI&t=1s) for an in-depth video tutorial on the Honeycomb DeFi Wallet and 1Hive Farms.
+
+**When will farms start on Polygon?**  
+We expect to launch the farms on Polygon around the middle of June 2021.
+
+**Am I still in time to participate in the pComb airdrop?**  
+Yes, you are! Details regarding snapshots are not disclosed, but there is still time to provide liquidity on Honeyswap-Polygon and get rewarded with the farming token pComb.
+
+**Will farming pairs change?**  
+It is possible that new pairs will be added in the future. 
 
 ## Tokenomics
 
@@ -91,6 +107,9 @@ The common pool is used to fund pollen, faucet, bounties and collaboration with 
 
 **Bridge Any Token**  
 [https://honeyswap.org/xdai-bridges](https://honeyswap.org/xdai-bridges)
+
+**Multi-Chain Bridge \(xDai, Polygon, Fantom, BSC\)**  
+[https://www.xpollinate.io/](https://www.xpollinate.io/)
 
 **Provide Liquidity on Honeyswap**  
 [https://honeyswap.org/liquidity-pool](https://honeyswap.org/liquidity-pool)

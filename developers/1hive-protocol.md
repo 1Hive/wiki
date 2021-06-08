@@ -26,11 +26,11 @@ FeesUpdater: 0xeb24f7001437188baF2D5Ef0b0FcFadAD4564517
 
 ### IncentivisedSlidingWindowOracle
 
-Anyone can update the Honey price used, fetched from Honeyswap, which is used for calculating the value of Honey payouts in stable token funding proposals and calculating Celeste fees. 
+Anyone can update the Honey price used, fetched from Honeyswap, which is used for calculating the value of Honey payouts in stable token funding proposals and calculating Celeste fees.
 
-To update the price for a particular pair requires calling the `update` function on the [IncentivisedSlidingWindowOracle in Blockscout](https://blockscout.com/poa/xdai/address/0x6f38D112b13eda1E3abAFC61E296Be2E27F15071/write-contract) with the tokens that you want to update the price for. 1Hive runs a service that should call this automatically but it is available for anyone to call. For our purposes we want to call it with the tokens:  
-  
-Honey `0x71850b7e9ee3f13ab46d67167341e4bdc905eef9`    
+To update the price for a particular pair requires calling the `update` function on the [IncentivisedSlidingWindowOracle in Blockscout](https://blockscout.com/poa/xdai/address/0x6f38D112b13eda1E3abAFC61E296Be2E27F15071/write-contract) with the tokens that you want to update the price for. 1Hive runs a service that should call this automatically but it is available for anyone to call. For our purposes we want to call it with the tokens:
+
+Honey `0x71850b7e9ee3f13ab46d67167341e4bdc905eef9`  
 Wrapped xDai`0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d`
 
 The price oracle requires `update` to be called once every 3 hours for a specific pair. If it is not updated once every 3 hours within the previous 24 hours, calls checking prices will revert.
