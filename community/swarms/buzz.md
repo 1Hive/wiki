@@ -47,8 +47,10 @@ Each of the above members have equal voting weight within the Buzz DAO to manage
 | [chuygarcia92](https://forum.1hive.org/u/chuygarcia92/summary) | Social Admin |
 | [therealmo](https://forum.1hive.org/u/therealmo/summary) | Social Admin |
 | [rod](https://forum.1hive.org/u/rod/summary) | Social Admin |
-| [noice](https://forum.1hive.org/u/noice/summary) | Social Admin |
 | [Stonky](https://forum.1hive.org/u/stonky) | Social Admin |
+| [Paul](https://forum.1hive.org/u/paul) | Social Admin |
+| [Blazingthirdeye](https://forum.1hive.org/u/blazingthirdeye) | Social Admin |
+| [T Wells](https://forum.1hive.org/u/twells) | Social Admin |
 
 ## Funding Proposals
 
