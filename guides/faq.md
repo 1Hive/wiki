@@ -29,6 +29,9 @@ At the moment we cannot give an estimation of the APY through Celeste. The staki
 **Is there any incentive for holding Honey?**  
 Holding at least 0.5 HNY allows you to participate in [Celeste](https://1hive.gitbook.io/celeste/) and, besides that, holding Honey is primarily used for voting on proposals and to [provide liquidity](https://link.medium.com/Zb26x6KQWcb). 
 
+**How can I contribute?**  
+If you wish to contribute, make sure to check [BuzzDAO's Bounty Board](https://www.notion.so/3e13ef2a5d614a828b684640af2212b4?v=20b21ead637341faa87416b85202b584)!
+
 **When will Honey be on Uniswap?**   
 Since February 2021 HNY is also on Mainnet. Currently on [Sushiswap](https://analytics.sushiswap.fi/pairs/0xdae3ac391756d65fff76502ff4d1d7697a991c5a%20) with the Contract Address [0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE](https://etherscan.io/address/0xc3589F56B6869824804A5EA29F2c9886Af1B0FcE)
 
