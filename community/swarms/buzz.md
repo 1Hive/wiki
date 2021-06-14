@@ -18,6 +18,8 @@ The Buzz Swarm creates and maintains documentation associated with the 1Hive DAO
 
 [Buzz meeting calendar.](https://calendar.google.com/calendar/u/0/embed?src=c_k77c78d1kdt9e1vpk2cvjcc7jg@group.calendar.google.com&ctz)
 
+[Buzz DAO Bounty Board](https://www.notion.so/3e13ef2a5d614a828b684640af2212b4?v=20b21ead637341faa87416b85202b584)
+
 ## Roles and Responsibilities
 
 ### Buzz DAO Members
