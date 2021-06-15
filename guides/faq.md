@@ -1,4 +1,4 @@
-# 1Hive HGF
+# 1Hive FAQ
 
 ## Allgemeine Fragen
 

@@ -1,4 +1,4 @@
-# Agave HGF
+# Agave FAQ
 
 **Wie lautet der Agave-Ticker und die Vertragsadresse?**
 
