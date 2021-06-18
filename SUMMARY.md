@@ -21,6 +21,7 @@
 * [Honeyswap](projects/honeyswap/README.md)
   * [Honeyswap on xDai](projects/honeyswap/honeyswap-on-xdai-1.md)
   * [Honeyswap on Polygon](projects/honeyswap/honeyswap-on-polygon.md)
+  * [Audits & Security](projects/honeyswap/audits-and-security.md)
 * [Celeste](https://1hive.gitbook.io/celeste/)
 * [Gardens](https://1hive.gitbook.io/gardens/)
 
