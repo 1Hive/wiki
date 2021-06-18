@@ -12,9 +12,9 @@ As soon as you start interacting on 1Hive’s Discord, Forum, and Github communi
 
 In order to receive weekly pollen distributions you’ll need to create accounts on supported platforms and link them to your xDai address. You can do this by sending the following commands in 1Hive Discord’s 🤖**bot-commands** channel:
 
-- **Save wallet address and Discord information - required**: Send `!pollen save-wallet <wallet-address>` to add your wallet address, Discord ID and Discord username to the Pollen DB.
-- **Save Discourse (Forum) account - optional**: Send `!pollen verify-discourse <discourse-username>` and follow the process to verify and add your Discourse username to the Pollen DB.
-- **Save GitHub account - optional**: Send `!pollen verify-github <github-username>` and follow the process to verify and add your GitHub username (in case you have one) to the Pollen DB.
+* **Save wallet address and Discord information - required**: Send `!pollen save-wallet <wallet-address>` to add your wallet address, Discord ID and Discord username to the Pollen DB.
+* **Save Discourse \(Forum\) account - optional**: Send `!pollen verify-discourse <discourse-username>` and follow the process to verify and add your Discourse username to the Pollen DB.
+* **Save GitHub account - optional**: Send `!pollen verify-github <github-username>` and follow the process to verify and add your GitHub username \(in case you have one\) to the Pollen DB.
 
 Make sure to replace `<wallet-address>`, `<discourse-username>` and `<github-username>` with your information.
 
