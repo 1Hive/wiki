@@ -8,7 +8,7 @@ Honeyswap on Polygon and the pComb token has not been fully deployed. Informatio
 
 Honeyswap on Polygon uses the Swapr contracts \(which are lightly modified from Uniswap v2\) for pooling liquidity. The Swapr contracts support adjusting fees on a per pool basis. By default all pools have a 0.3% swap fee, with the exception of pools containing wETH, which have a 0.15% swap fee. This fee structure is designed to encourage the use of a common base pair in order to optimize liquidity pathways, however, there is not a strict requirement to use wETH pairs. 
 
-Swap fees are split between Liquidity Providers involved in the swap and the Platform's Fee Receiver contract. Liquidity Providers receive 0.25% in fees from each swap, while the Platform Fee Receiver contract receives 0.05% of each swap. The Fee Receiver contract uses 50% of incoming fees to buy back Honey (0.025% of each swap) and the other 50% to buy back pComb tokens (0.025% of each swap). 
+Swap fees are split between Liquidity Providers involved in the swap and the Platform's Fee Receiver contract. Liquidity Providers receive 5/6 in fees from each swap, while the Platform Fee Receiver contract receives 1/6 of each swap fee. The Fee Receiver contract uses 1/2 of incoming fees to buy back Honey and the other 1/2 to buy back pComb tokens. 
 
 ## pCOMB Token
 
