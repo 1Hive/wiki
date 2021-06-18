@@ -64,6 +64,7 @@ We plan on piloting additional incentive programs over the next few months using
 | wETH-USDT | 25 | Discretionary |
 | wETH-DAI | 25 | Discretionary |
 | wETH-AAVE | 25 | Discretionary |
+| stkWETH-GHST | 25 | Pending GHST Vote |
 
 ## Honeyswap Contracts
 
