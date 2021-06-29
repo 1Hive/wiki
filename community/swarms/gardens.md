@@ -22,7 +22,7 @@ GitHub [Garden Swarm repositories](https://github.com/orgs/1Hive/teams/gardens-s
 | [fabri](https://github.com/fabriziovigevani) | UI developer and DAO member |
 | [willjgriff](https://github.com/willjgriff) | Solidity developer and DAO member |
 | [fiore](https://forum.1hive.org/u/fioreb/summary) | Designer and DAO member |
-| [Sacha](https://gardens.substack.com/people/882863-0xmiel-) | Technical writer |
+| [Sacha](https://gardens.substack.com/people/882863-0xmiel-) | Writer and DAO member |
 | [Fabi](https://github.com/famole/) | Web Developer |
 | [Ana](https://uy.linkedin.com/in/ana-pereira-a3119a30) | Project Manager Advisor |
 | [Paul](https://github.com/pglavin2) | Research and content |

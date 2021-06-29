@@ -1,5 +1,5 @@
 ---
-description: Discord is where the most 1Hive DAO related activity gets buzzing.
+description: Discord is where most of the 1Hive DAO activity gets buzzing.
 ---
 
 # Discord
@@ -10,14 +10,14 @@ Discord is one of the main tools we use to communicate. On this platform we catc
 
 ## Channels
 
-Most channels are focussed on discussion around a particular topic, which can be seen in the channel description at the top of the Discord screen. However, some channels are used for purposes other than discussion:
+Most channels are focused on discussion around a particular topic, which can be seen in the channel description at the top of the Discord screen. However, some channels are used for purposes other than discussion:
 
 * **🐛onboarding** is for opting into [Pollen](pollen.md), check the pinned message and follow the instructions.
 * **🤖bot-commands** is for summoning Discord bots to give information, register your account with BrightID or setup a tipping account. See [details below](discord.md#bot-commands) for commands that can be used in the bot commands channel.
 * **✅check-in** is for daily/multi-daily/weekly status updates from 1Hive contributors.
 * **🍄nominations** is where you can recognize the work of others, particularly those that you feel are not being properly recognized elsewhere. Pollen is weighted differently in this channel, see the end of the [Discord Pollen Weights](pollen.md#discord-pollen-weights) section for details.
 * 🐝**social-curation** is for curating content that is posted to the 1Hive social media channels, details can be seen in the [social curation](../community/media/social-curation.md) section.
-* 🍯**keepers** is for those with the 🍯**Honey** role which can only be assigned if you own 1 Honey.
+* 🍯**keepers** is for those with the 🍯**Honey** role which can only be assigned if you own 1 Honey. Ask a Fauna \(mod\) to grant you the role.
 
 ## Roles and Swarms
 
@@ -30,8 +30,6 @@ The working group channels are for technical discussion regarding the developmen
 Commands can be executed in the **🤖bot-commands** channel which provide useful information or register your account with various services.
 
 `!hny help` - Displays a list of commands used for displaying info about 1Hive.
-
-`!join` - If you have more than 1HNY, then you can execute this and follow the guide in the chat to give you access to the 🍯**keepers** channel.
 
 `$help` -  Enables you to connect with your tip bot account. It will show info about depositing/withdrawing to/from your tip bot account, allowing you tip HNY to other members of the community through Discord. You can react with emojis under the help message for more details.
 
