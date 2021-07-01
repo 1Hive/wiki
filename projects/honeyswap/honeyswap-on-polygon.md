@@ -14,7 +14,7 @@ Swap fees are split between Liquidity Providers involved in the swap and the Pla
 
 **The pComb token is the local incentive token for Honeyswap on Polygon.**
 
-The value of pComb is derived from trading activity that occurs on Honeyswap on Polygon through automated buybacks tied to swap fees. Half of the repurchased pComb tokens are burned, the other half recycled back into the Farming mechanism for future distribrution. The pComb token has a fixed supply, which will become deflationary as a result of half of the pComb buybacks being burned.
+The value of pComb is derived from trading activity that occurs on Honeyswap on Polygon through automated buybacks tied to swap fees. Half of the repurchased pComb tokens are burned, the other half recycled back into the Farming mechanism for future distribution. The pComb token has a fixed supply, which will become deflationary as a result of half of the pComb buybacks being burned.
 
 ### pCOMB Supply and Emissions
 
@@ -36,9 +36,9 @@ The Tulip Swarm's goal for managing the allocation points is to promote the grow
 
 #### Current Allocation
 
-At the time of launch the farms will only be using 600 out of a total of 1000 available allocation points. As the remaining 400 allocation points are added the proportioanl rewards will be diluted.
+At the time of launch the farms will only be using 600 out of a total of 1000 available allocation points. As the remaining 400 allocation points are added the proportional rewards will be diluted.
 
-**Keystone Pool** - We have allocated up to **300** points to support the keystone pair **pComb-WEth** in order to ensure there is a strong incentive to provide liquidity to the reward token.
+**Keystone Pool** - We have allocated up to **300** points to support the keystone pair **pComb-wETH** in order to ensure there is a strong incentive to provide liquidity to the reward token.
 
 **Discretionary Pool** - We have **300** points reserved for discretionary use. These points have been used to establish the initial incentivized pairs. **After 4 months** of farming rewards these points will be reassessed and may be re-allocated.
 
@@ -46,9 +46,9 @@ At the time of launch the farms will only be using 600 out of a total of 1000 av
 
 We plan on piloting additional incentive programs over the next few months using the allocation point system and have reserved allocation points accordingly.
 
-**Trader Pool** - We have allocated **300** points for a trading incentive program. The intent of this program is to reward traders for using Honeyswap. Traders will be periodically awarded a token proportional to their trading volume on Honeyswap. Once the trading incentive program launches, users will be able to deposit this token to earn pComb rewards just like an LP token.
+**Trader Pool** - We have allocated **300** points for a trading incentive program. The intent of this program is to reward traders for using Honeyswap. Traders will be periodically awarded pComb proportional to their trading volume on Honeyswap. Details on the trading rewards program will be announced as they become available.
 
-**Performance Pool** - We have allocated **75** points to support a KPI-driven reward program, where a set of eligible pools compete for allocation points in an initial 4-month long pilot season.
+**Performance Pool** - We have allocated **75** points to support a metrics-driven reward program, where a set of eligible pools compete for allocation points in an initial 4-month long pilot season.
 
 **Discovery Pool** - We have allocated **25** points to promote new or relatively illiquid tokens in an effort to establish Honeyswap as the primary venue for trading these tokens.
 
