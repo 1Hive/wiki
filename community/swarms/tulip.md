@@ -21,7 +21,6 @@ The 🌷 Tulip swarm is responsible for building, deploying, maintaining and upg
 | [ceresbzns](https://github.com/ceresbzns/) | product manager |
 | [lkngtn](https://github.com/lkngtn) | researcher & contributor |
 | [crisOG](https://github.com/crisog) | development |
-| [onbjerg](https://github.com/onbjerg) | development |
 | [Px](https://github.com/pxbee) | development |
 | [Philogy](https://github.com/mrclottom) | development |
 | [willjgriff](https://github.com/willjgriff) | development |
