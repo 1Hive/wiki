@@ -10,10 +10,10 @@ Discord est l'un des principaux outils que nous utilisons pour communiquer. Sur 
 
 ## Chaînes
 
-La plupart des chaînes sont axées sur la discussion autour d'un sujet particulier, qui peut être vu dans la description de la chaîne en haut de l'écran sur Discord. Cependant, certains canaux sont utilisés à des fins autres que la discussion :
+La plupart des chaînes sont axées sur la discussion autour d'un sujet particulier, qui peut être vu dans la description de la chaîne en haut de l'écran sur Discord. Cependant, certains chaînes sont utilisées à des fins autres que la discussion :
 
-* **🐛onboarding** est pour vous inscrire au [Pollen](https://wiki.1hive.org/getting-started/pollen), lisez le message épinglé et suivez les instructions.
-* **🤖bot-commands** pour les commandes aux bots Discord. Informations, enregistrement de votre compte avec BrightID, configuration d’un compte pour les pourboires. Voir les [détails ci-dessous](https://wiki.1hive.org/getting-started/discord#bot-commands) pour les commandes qui peuvent être utilisées avec les bots.
+* **🐛onboarding** vous permet de vous inscrire au [Pollen](https://wiki.1hive.org/getting-started/pollen), lisez le message épinglé et suivez les instructions.
+* **🤖bot-commands** pour les commandes des bots Discord. Informations, enregistrement de votre compte avec BrightID, configuration d’un compte pour les pourboires. Voir les [détails ci-dessous](https://wiki.1hive.org/getting-started/discord#bot-commands) pour les commandes qui peuvent être utilisées avec les bots.
 * **✅check-in** est pour les mises à jour de statut quotidiennes / multi-quotidiennes / hebdomadaires des contributeurs 1Hive.
 * **🍄nominations** C'est là que vous pouvez faire reconnaître le travail des autres en les mentionnant, en particulier ceux dont vous pensez ne pas être correctement reconnus ailleurs. Le pollen est pondéré différemment sur cette chaîne, voir la fin de la section [Discord Pollen Weights](https://wiki.1hive.org/getting-started/pollen#discord-pollen-weights) pour plus de détails.
 * 🐝**social-curation** est destiné à la conservation du contenu publié sur les canaux de médias sociaux 1Hive, les détails peuvent être consultés dans la section de [curation sociale](https://wiki.1hive.org/community/media/social-curation).
