@@ -1,5 +1,5 @@
 ---
-description: Discord est l'endroit où l'activité liée à 1Hive DAO est la plus bourdonnante.
+description: C'est sur Discord que l'activité liée à 1Hive DAO est la plus bourdonnante.
 ---
 
 # Discord

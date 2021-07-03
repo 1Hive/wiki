@@ -2,7 +2,7 @@
 
 1Hive est une communauté ouverte, si vous souhaitez nous aider pour quelque chose, impliquez-vous ! Nous sommes à l'avant-garde des organisations décentralisées, testant et explorant différentes alternatives pour l'avenir, et nous serions ravis que vous fassiez également partie de cette aventure. 
 
-Chacun peut venir et commencer à contribuer. La source du potentiel de 1Hive est la communauté, c'est de là que vient l’immense pouvoir des DAO : ils peuvent puiser dans les vastes talents dont disposent les membres et tout le monde en profite.
+Chacun peut venir et commencer à contribuer. La source du potentiel de 1Hive est la communauté, c'est de là que vient l’immense pouvoir des DAO : elles peuvent puiser dans les vastes talents dont disposent les membres et tout le monde en profite.
 
 ## **Comment contribuer**
 

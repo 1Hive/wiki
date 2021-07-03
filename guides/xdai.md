@@ -33,9 +33,9 @@ Pour convertir des tokens ERC20 depuis le réseau Ethereum en tokens ERC20 sur l
 
 ## **Autres infos**
 
-Peu importe ce que MetaMask définit comme coût de gaz, vous pouvez toujours le définir sur 1. Le coût du gaz xDai est toujours de 1 Gwei. En payant moins que cela, il est peu probable que votre transaction soit acceptée. üayer plus que cela gaspillera des xDai. La limite de gaz doit généralement être laissée telle quelle.
+Peu importe ce que MetaMask définit comme coût de gaz, vous pouvez toujours le définir sur 1. Le coût du gaz xDai est toujours de 1 Gwei. En payant moins que cela, il est peu probable que votre transaction soit acceptée. Payer davantage gaspillera des xDai. La limite de gaz doit généralement être laissée telle quelle.
 
-[L'explorateur de blocs](https://blockscout.com/poa/xdai) xDai, similaire à Etherscan, peut être utilisé pour voir les transactions et les comptes.
+[L'explorateur de blocs](https://blockscout.com/poa/xdai) xDai, similaire à Etherscan, peut être utilisé pour examiner les transactions et les comptes.
 
-Si vous avez besoin d'aide pour vous connecter ou utiliser l'un des services ci-dessus, accédez à la chaîne [`#⛈help`](https://discord.gg/3AjG7XvRJZ)sur Discord.
+Si vous avez besoin d'aide pour vous connecter ou utiliser l'un des services ci-dessus, rendez-vous sur la chaîne [`⛈#help-fr`](https://discord.gg/3AjG7XvRJZ)sur Discord.
 

@@ -8,7 +8,7 @@ Pour le moment, il n'y a pas de projet d’airdrop. Les membres de la communaut�
 À l'heure actuelle, la majorité de la communauté pense qu’un airdrop de Honey n'aurait pas un impact bénéfique sur le prix et la durabilité du projet.
 
 **Le faucet sera-t-il rempli ? Que se passe-t-il une fois que c'est fini ?**  
-Le [Faucet](https://faucet.1hive.org/#/) distribue 5% de son solde toutes les 48h. Par conséquent, cela ne « se termine » jamais vraiment. Cependant, il y a des discussions sur le fait de le remplir à nouveau, comme incitation pour les nouveaux arrivants. Vous pouvez lire et partager vos opinions sur ce sujet [ici](https://forum.1hive.org/t/temporarily-suspend-the-faucet/1580/2). Jusqu'à présent, plus de 600 HNY ont été distribués via le faucet.
+Le [Faucet](https://faucet.1hive.org/#/) distribue 5% de son solde toutes les 48h. Par conséquent, cela ne « se termine » jamais vraiment. Cependant, il y a des discussions sur le fait de le remplir à nouveau, comme incitation pour les nouveaux arrivants. Vous pouvez lire et partager vos opinions sur ce sujet [ici](https://forum.1hive.org/t/temporarily-suspend-the-faucet/1580/2). Jusqu'à présent, plus de 640 HNY ont été distribués via le faucet.
 
 **Quand les fermes ouvriront-elles à nouveau?**  
 1Hive a mené 2 périodes de farming. La dernière a pris fin le 25 décembre 2020. Pour le moment, les fermes sont inactives et aucune proposition de ferme ne devrait être adoptée dans un proche avenir.
