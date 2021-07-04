@@ -10,7 +10,7 @@ The 🌷 Tulip swarm is responsible for building, deploying, maintaining and upg
 
 [Honeyswap ](https://honeyswap.org/)is a decentralized exchange \(dex\), which uses automated market makers \(AMM\) to allow traders to swap tokens without having to interact with a third party. Honeyswap is currently deployed to [xDai ](../../projects/honeyswap/honeyswap-on-xdai-1.md)and [Polygon](../../projects/honeyswap/honeyswap-on-polygon.md).
 
-[Honeycomb](https://1hive.io/#/) is a web interface that is intended to become a central hub for interacting with 1Hive DeFi services, such as Honeyswap and Honeycomb farms.  At present, it is primarily the way to interact with Honeycomb staking rewards.
+[Honeycomb](https://1hive.io/#/) is a web interface that is intended to become a central hub for interacting with 1Hive DeFi services, such as Honeyswap and Honeycomb farms. At present, it is primarily the way to interact with Honeycomb staking rewards.
 
 ## Roles and Responsibilities
 

@@ -41,9 +41,7 @@ Currently there are no plans to leave xDai, but 1Hive's mission is to be availab
 Since June 2021 Honeyswap is already on [Polygon](https://info.honeyswap.org/token/0x71850b7e9ee3f13ab46d67167341e4bdc905eef9#/home)!
 
 **Does** _**"voting on a proposal"**_ **actually cost Honey?**  
-No, it doesn't. You are not spending your HNY when voting. Your HNY is not locked either, withdraw your vote and trade if you wish. 
-
-locked either, withdraw your vote and trade if you wish. 
+No, it doesn't. You are not spending your HNY when voting. Your HNY is not locked either, withdraw your vote and trade if you wish.
 
 ## Farming
 
