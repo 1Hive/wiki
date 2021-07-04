@@ -18,12 +18,12 @@ Pour participer à cette chaîne, vous devez réagir avec une coche dans le cana
 
 ## Pour les électeurs :
 
-Votez pour les messages publiés sur la chaîne en cliquant sur "J'aime" ou "Je n'aime pas". Essayez de ne pas voter les deux, car cliquer sur les deux emojis sans quoi votre vote sera neutre !
+Votez pour les messages publiés sur la chaîne en cliquant sur "J'aime" ou "Je n'aime pas". Essayez de ne pas voter les deux, sans quoi votre vote sera neutre !
 
 ## Pour les administrateurs sociaux :
 
 1. Les administrateurs sociaux monitorent la chaîne 🐝[**social-curation**](https://discord.gg/wKM3NnFfsS) ****et attendent qu'une coche bleue apparaisse sous une demande.
 2. Si une coche bleue apparaît sous une demande, les administrateurs sociaux gérant les chaînes concernées doivent accepter la demande de publication.
 
-Facultatif: les administrateurs d'autres comptes sociaux peuvent également partager le contenu s'il concerne leur chaîne.
+Facultatif : les administrateurs d'autres comptes sociaux peuvent également partager le contenu s'il concerne leur chaîne.
 
