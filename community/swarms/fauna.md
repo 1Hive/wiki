@@ -1,37 +1,37 @@
 ---
-description: Platform moderation
+description: Modération de plateforme
 ---
 
-# �� Fauna
+# 🐱 Fauna
 
-The 🐱Fauna Swarm are active individuals who monitor and moderate the various chat platforms and ensure users maintain the [community covenant](../../community-covenant.md). They also regularly provide support for users through help channels and elsewhere. The chat platforms moderated include but are not limited to Discord, the Forum and Telegram.
+Les membres du 🐱Fauna Swarm sont des personnes actives qui surveillent et modèrent les différentes plateformes de discussion et veillent à ce que les utilisateurs respectent le [pacte communautaire](https://wiki.1hive.org/v/francais/community-covenant). Ils apportent aussi régulièrement leur soutien aux utilisateurs sur les chaînes d'aide et ailleurs. Les plateformes de chat modérées comprennent notamment Discord, le Forum et Telegram.
 
-## Useful Links 
+## Liens utiles
 
- [Aragon DAO](https://aragon.1hive.org/#/fauna/) holding funds.
+ [DAO Aragon](https://aragon.1hive.org/#/fauna/) détenant les fonds.
 
-## Roles and Responsibilities
+## Rôles et responsabilités
 
-### Fauna Members
+### Membres de Fauna
 
-| Member | Language and timezone |
+| Membre | Langue et fuseau horaire |
 | :--- | :--- |
-| [rayne](https://forum.1hive.org/u/rayne/summary) | English/Dutch/Spanish UTC +1 |
-| [jasper](https://forum.1hive.org/u/jasper/summary) | English/Dutch UTC +1 |
-| [befitsandpiper](https://forum.1hive.org/u/befitsandpiper/summary) | English/Spanish UTC -4 |
-| [harry](https://forum.1hive.org/u/harry/summary) | English/Dutch/Spanish  UTC +1 |
-| [blazar](https://forum.1hive.org/u/blazar/summary) | English UTC -7 |
-| [escanor](https://forum.1hive.org/u/escanor/summary) | English/Spanish/Portuguese/German |
-| [luigy](https://forum.1hive.org/u/luigy/summary) | English/Portuguese |
-| [eth\_man/RogueTwo](https://forum.1hive.org/u/eth_man/summary) | English |
-| [crisog](https://forum.1hive.org/u/crisog/summary) | Spanish/English UTC -4 |
-| [d0sh](https://forum.1hive.org/u/d0sh/summary) | English UTC -7 |
-| [solarmkd](https://forum.1hive.org/u/solarmkd/summary) | English/Romanian/Macedonian UTC +1 |
-| [freshprince](https://forum.1hive.org/u/freshprince/summary) | English/Dutch UTC +1 |
+| [rayne](https://forum.1hive.org/u/rayne/summary) | Anglais/Néerlandais/Espagnol UTC +1 |
+| [jasper](https://forum.1hive.org/u/jasper/summary) | Anglais/Néerlandais UTC +1 |
+| [befitsandpiper](https://forum.1hive.org/u/befitsandpiper/summary) | Anglais/Espagnol UTC -4 |
+| [harry](https://forum.1hive.org/u/harry/summary) | Anglais/Néerlandais/Espagnol  UTC +1 |
+| [blazar](https://forum.1hive.org/u/blazar/summary) | Anglais UTC -7 |
+| [escanor](https://forum.1hive.org/u/escanor/summary) | Anglais/Espagnol/Portugais/Allemand |
+| [luigy](https://forum.1hive.org/u/luigy/summary) | Anglais/Portugais |
+| [eth\_man/RogueTwo](https://forum.1hive.org/u/eth_man/summary) | Anglais |
+| [crisog](https://forum.1hive.org/u/crisog/summary) | Espagnol/Anglais UTC -4 |
+| [d0sh](https://forum.1hive.org/u/d0sh/summary) | Anglais UTC -7 |
+| [solarmkd](https://forum.1hive.org/u/solarmkd/summary) | Anglais/Roumain/Macédonien UTC +1 |
+| [freshprince](https://forum.1hive.org/u/freshprince/summary) | Anglais/Néerlandais UTC +1 |
 
-Each of the above members have equal voting weight within the Fauna DAO to manage funds.
+Chacun des membres ci-dessus dispose d'un poids de vote égal au sein Fauna DAO pour la gestion des fonds.
 
-## Funding Proposals
+## Propositions de financement
 
-Many funding proposals have been made which can be seen throughout the following forum post: [https://forum.1hive.org/t/fauna-moderation-swarm-proposal/595](https://forum.1hive.org/t/fauna-moderation-swarm-proposal/595)
+De nombreuses propositions de financement ont été faites et peuvent être consultées sur le forum : [https://forum.1hive.org/t/fauna-moderation-swarm-proposal/5](https://forum.1hive.org/t/fauna-moderation-swarm-proposal/5)
 

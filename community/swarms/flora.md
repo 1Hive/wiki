@@ -4,19 +4,19 @@ description: Infrastructure & DevOps
 
 # 🌺 Flora
 
-The 🌺Flora Swarm are individuals who actively maintain server infrastructure for 1hive services.
+Les membres du 🌺Flora Swarm sont des personnes qui gèrent activement l'infrastructure des serveurs pour les services 1hive.
 
-## Useful Links
+## Liens utiles
 
-[xDAI Staking App](https://blockscout.com/poa/xdai/validators) Our validator is **0x91d8–a74127**. To delegate to it you will need a minimum of **200 STAKE**.
+[xDAI Staking App](https://blockscout.com/poa/xdai/validators) Notre validateur est **0x91d8–a74127**. Pour le déléguer, vous aurez besoin d'un minimum de **200 STAKE**.
 
 [Flora multisig](https://xdai.gnosis-safe.io/app/#/safes/0x91d8116fA60516Cf25E258Ef14dEaAcAf7a74127/balances)
 
-## Roles and Responsibilities
+## Rôles et responsabilités
 
-### Flora Members
+### Membres de Flora
 
-| Member | Role |
+| Membre | Rôle |
 | :--- | :--- |
 | [anisoptera](https://github.com/anisoptera) | Validator maintainer & multisig keyholder |
 | [lkngtn](https://github.com/lkngtn) | Multisig keyholder |

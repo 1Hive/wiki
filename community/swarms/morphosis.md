@@ -1,35 +1,35 @@
 ---
-description: Education
+description: Enseignement & cours
 ---
 
-# �� Morphosis
+# 🦋 Morphosis
 
-The 🦋Morphosis Swarm provides education and courses for 1hive members to learn various skills. These skills will allow people to make high value contributions to 1hive and other organizations in the blockchain/DAO space. The classes will initially be focused on skill sets that are valuable to the 1hive community.
+Le 🦋Morphosis Swarm fournit un enseignement et des cours aux membres de 1hive pour qu'ils acquièrent diverses compétences. Ces compétences permettront aux personnes d'apporter des contributions de grande valeur à 1hive et à d'autres organisations dans l'espace blockchain/DAO. Les cours seront initialement axés sur les compétences précieuses pour la communauté 1hive.
 
-## Useful Links
+## Liens utiles
 
-[Aragon DAO](https://aragon.1hive.org/?#/morphosis/) holding Morphosis funds.
+[DAO Aragon ](https://aragon.1hive.org/?#/morphosis/)détenant les fonds de Morphosis.
 
-[Google document](https://docs.google.com/document/d/1B-gIVnJwZ9nhhDttyhdDE81hpx-BDd3duHGCJNONjGc/edit#) with Morphosis notes.
+[Document Google ](https://docs.google.com/document/d/1B-gIVnJwZ9nhhDttyhdDE81hpx-BDd3duHGCJNONjGc/edit#)contenant des notes sur Morphosis.
 
-[Excel sheet](https://docs.google.com/spreadsheets/d/1c8xdLYi8SkElAyGNANBTd3Qe6wTxDTBTgaw1uIAqb1o/edit?usp=sharing) showing hours spent and payments made.
+[Feuille Excel ](https://docs.google.com/spreadsheets/d/1c8xdLYi8SkElAyGNANBTd3Qe6wTxDTBTgaw1uIAqb1o/edit?usp=sharing)indiquant les heures de travail et les paiements effectués.
 
-[Morphosis meeting calendar.](https://calendar.google.com/calendar/u/0/embed?src=c_k77c78d1kdt9e1vpk2cvjcc7jg@group.calendar.google.com&ctz)
+[Calendrier Morphosis – Réunions](https://calendar.google.com/calendar/u/0/embed?src=c_k77c78d1kdt9e1vpk2cvjcc7jg@group.calendar.google.com&ctz)
 
-## Roles and Responsibilities
+## Rôles et responsabilités
 
-| Member | Role |
+| Membre | Rôle |
 | :--- | :--- |
-| [befitsandpiper](https://forum.1hive.org/u/befitsandpiper/summary) | DAO member |
-| [santigs](https://forum.1hive.org/u/santigs) | DAO member |
-| [kryptobi](https://forum.1hive.org/u/kryptobi) | DAO member |
-| [davidphoenix2020](https://forum.1hive.org/u/davidphoenix2020) | DAO member |
-| [solarmkd](https://forum.1hive.org/u/solarmkd) | DAO member |
-| [blazar](https://forum.1hive.org/u/blazar) | DAO member |
+| [befitsandpiper](https://forum.1hive.org/u/befitsandpiper/summary) | Membre de la DAO |
+| [santigs](https://forum.1hive.org/u/santigs) | Membre de la DAO |
+| [kryptobi](https://forum.1hive.org/u/kryptobi) | Membre de la DAO |
+| [davidphoenix2020](https://forum.1hive.org/u/davidphoenix2020) | Membre de la DAO |
+| [solarmkd](https://forum.1hive.org/u/solarmkd) | Membre de la DAO |
+| [blazar](https://forum.1hive.org/u/blazar) | Membre de la DAO |
 
-Each **DAO member** has equal voting weight in the Aragon DAO and the roles will evolve as Morphosis becomes more established.
+Chaque **membre de la DAO** a un poids égal dans la DAO Aragon, les rôles évolueront au fur et à mesure que Morphosis évoluera.
 
-## Funding Proposals
+## Propositions de financement
 
-One funding proposal was made which was accepted by the community: [https://forum.1hive.org/t/morphosis-funding-proposal/1517](https://forum.1hive.org/t/morphosis-funding-proposal/1517).
+Une proposition de financement a été créée et acceptée par la communauté : [https://forum.1hive.org/t/morphosis-funding-proposal/1517](https://forum.1hive.org/t/morphosis-funding-proposal/1517).
 

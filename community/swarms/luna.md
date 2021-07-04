@@ -1,37 +1,37 @@
 ---
-description: Simulation and Modelling
+description: Simulation et modélisation
 ---
 
 # 🌜 Luna
 
-The 🌜Luna Swarm is a collaboration of individuals and organisations that seek to rigorously model the 1Hive ecosystem in [cadCAD](http://cadcad.org/), providing tools for operational decision support including future design and governance decisions.
+Le 🌜Luna Swarm est une collaboration d'individus et d'organisations qui cherchent à modéliser rigoureusement l'écosystème 1Hive sur [cadCAD](http://cadcad.org/), en fournissant des outils pour l'aide à la décision opérationnelle, y compris les futures décisions de conception et de gouvernance.
 
-The Luna swarm encourages anyone interested to get involved to experiment with building new models and to help interpret the models currently being built.
+Le Luna Swarm encourage toute personne intéressée à s'impliquer pour expérimenter la construction de nouveaux modèles et pour aider à interpréter les modèles en cours de construction.
 
-## Useful Links 
+## Liens utiles
 
- [Aragon DAO](https://aragon.1hive.org/#/luna/) holding Luna funds.
+ [DAO Aragon ](https://aragon.1hive.org/#/luna/)détenant les fonds de Luna.
 
- [Google document](https://docs.google.com/document/d/1UkWflaDNh5aF8BeRUoIQx3g3z7P2mE0cU0N4dbwz4Sk/edit#heading=h.jq42e3ro14o3) for Luna notes.
+ [Document Google ](https://docs.google.com/document/d/1UkWflaDNh5aF8BeRUoIQx3g3z7P2mE0cU0N4dbwz4Sk/edit#heading=h.jq42e3ro14o3)notes sur Luna.
 
- [Excel sheet](https://docs.google.com/spreadsheets/d/1pnKFUvbeWdS_C7KlFoM_GM2mFq0yCCfdVVI-UFqP20s/edit#gid=0) showing hours spent and payments made.
+[Feuille Excel ](https://docs.google.com/spreadsheets/d/1pnKFUvbeWdS_C7KlFoM_GM2mFq0yCCfdVVI-UFqP20s/edit#gid=0)indiquant les heures de travail et les paiements effectués.
 
-[Beginners course ](https://www.cadcad.education/%20)in cadCAD, ask in the [`#🌜luna`](https://discord.gg/efpG78vZ4q)discord channel for a free discount code.
+[Cours pour débutants](https://www.cadcad.education/) sur cadCAD, demandez un code de réduction gratuit sur la chaîne discord [`🌜#luna`](https://discord.gg/efpG78vZ4q).
 
-[Luna meetings calendar](https://calendar.google.com/calendar/embed?src=cadcad.org%40gmail.com&ctz=America%2FVancouver).
+[Calendrier des meetings Luna](https://calendar.google.com/calendar/embed?src=cadcad.org%40gmail.com&ctz=America%2FVancouver)
 
-## Roles and Responsibilities
+## Rôles et responsabilités
 
-| Member | Role |
+| Membre | Rôle |
 | :--- | :--- |
 | [lkngtn](https://forum.1hive.org/u/lkngtn) | Researcher |
 | [mzargham](https://forum.1hive.org/u/mzargham/summary) | Tutor and Founder of [BlockScience](https://block.science/) |
 | [jeffemmett](https://forum.1hive.org/u/jeffemmett/summary) | Researcher \(at [Commons Stack](https://commonsstack.org/)\) |
 | [JessicaZartler](https://forum.1hive.org/u/jessicazartler/summary) | Communications \(at [TE Commons](https://tecommons.org/)\) |
 
-The members above have equal voting rights in the Aragon DAO.
+Les membres ci-dessus ont des droits de vote égaux dans la DAO Aragon.
 
-## Funding Proposals
+## Propositions de financement
 
-One funding proposal was made which was accepted by the community: [https://forum.1hive.org/t/luna-swarm-launch-month-1-funding/1590](https://forum.1hive.org/t/luna-swarm-launch-month-1-funding/1590).
+Une proposition de financement a été créée et acceptée par la communauté : [https://forum.1hive.org/t/luna-swarm-launch-month-1-funding/1590](https://forum.1hive.org/t/luna-swarm-launch-month-1-funding/1590).
 
