@@ -46,19 +46,15 @@ No, it doesn't. You are not spending your HNY when voting. Your HNY is not locke
 ## Farming
 
 **When will Farms open again?**  
-On June 2nd, 2021, 1Hive presented a major update, introducing Honeycomb and our new farms. [Click Here](https://honeyswap.medium.com/introducing-honeycomb-with-token-farming-by-1hive-e89e09032756) for an in-depth presentation. You can farm at [1hive.io](https://1hive.io/).
+On June 2nd, 2021, 1Hive presented a major update, introducing Honeycomb and our new farms. [Click Here](https://honeyswap.medium.com/introducing-honeycomb-with-token-farming-by-1hive-e89e09032756) for an in-depth presentation. You can farm at [1hive.io](https://1hive.io/). 
 
-**How can I claim my xComb Airdrop?**  
-If you provided liquidity in the months prior the launch of the new farms, you received an airdrop of xComb, depending on the length and amount that was provided. 10% is immediately available to be claimed on Honeycomb's [Airdrop](https://1hive.io/#/airdrop) page, while the other 90% is vested and linearly available within the coming 6 months  
+On July 1st, 2021, 1Hive's farms landed on Polygon too. [Click here](https://medium.com/honeyswap/1hive-celebrates-polygon-launch-with-airdrop-farms-dac8a467dfb9) for an in-depth presentation.
+
+**How can I claim my xComb / pComb Airdrop?**  
+If you provided liquidity in the months prior the launch of the new farms, you received an airdrop of xComb \(on xDai\) or pComb \(on Polygon\), depending on the length and amount that was provided. 10% is immediately available to be claimed on Honeycomb's [Airdrop](https://1hive.io/#/airdrop) page, while the other 90% is vested and linearly available within the coming 6 months  
 
 **Is there a tutorial on how to farm?**  
 [Click here](https://www.youtube.com/watch?v=6nGqJ913DGI&t=1s) for an in-depth video tutorial on the Honeycomb DeFi Wallet and 1Hive Farms.
-
-**When will farms start on Polygon?**  
-We expect to launch the farms on Polygon around the middle of June 2021.
-
-**Am I still in time to participate in the pComb airdrop?**  
-Yes, you are! Details regarding snapshots are not disclosed, but there is still time to provide liquidity on Honeyswap-Polygon and get rewarded with the farming token pComb.
 
 **Will farming pairs change?**  
 It is possible that new pairs will be added in the future. 
