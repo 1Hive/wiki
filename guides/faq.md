@@ -107,6 +107,9 @@ Vous pouvez suivre n'importe quelle transaction sur la chaîne xDai sur [Blocksc
 **Bridges pour vos tokens**  
 [https://honeyswap.org/xdai-bridges](https://honeyswap.org/xdai-bridges)
 
+**Bridge Multi-Chaîne \(xDai, Polygon, Fantom, BSC\)**  
+[https://www.xpollinate.io/](https://www.xpollinate.io/)
+
 **Fournir de la liquidité sur Honeyswap**  
 [https://honeyswap.org/liquidity-pool](https://honeyswap.org/liquidity-pool)
 
