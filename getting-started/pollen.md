@@ -26,7 +26,7 @@ If you have questions, are interested in how pollen is calculated, or auditing t
 
 Pollen is computed using **SourceCred** to create and analyze a graph of interactions between community members. While not a perfect representation of the value of contributions, Pollen can help reward the interactions that are important but too granular to warrant creating proposals for or claiming from a Swarm.
 
-SourceCred monitors all messages and contributions to Discord, the Forum and GitHub and applies a multiplier to a base score of 1 cred per action. One of the primary ways of earning cred is when text you write or actions you create are responded too positively by other members through the use of emojis. Writing messages alone do not earn cred. The weights for Cred distribution are decided by the 1Hive community.
+SourceCred monitors all messages and contributions to Discord, the Forum and GitHub and applies a multiplier to a base score of 1 cred per action. One of the primary ways of earning cred is when text you write or actions you create are responded to positively by other members through the use of emojis. Writing messages alone do not earn cred. The weights for Cred distribution are decided by the 1Hive community.
 
 Cred earned within 1Hive is only useful within 1Hive. It isn't transferable and scoring is retroactive so if you sign up to pollen after having earned some, you will still receive cred for that period \(although you will only receive a honey reward for your cred for the period after registering\).
 
