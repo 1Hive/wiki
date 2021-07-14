@@ -36,7 +36,7 @@ The Tulip Swarm's goal for managing the allocation points is to promote the grow
 
 #### Current Allocation
 
-At the time of launch the farms will only be using 600 out of a total of 1000 available allocation points. As the remaining 400 allocation points are added the proportional rewards will be diluted.
+At the time of launch the farms will only be using 575 out of a total of 1000 available allocation points. As the remaining 425 allocation points are added the proportional rewards will be diluted.
 
 **Keystone Pool** - We have allocated up to **300** points to support the keystone pair **pComb-wETH** in order to ensure there is a strong incentive to provide liquidity to the reward token.
 
@@ -50,7 +50,7 @@ We plan on piloting additional incentive programs over the next few months using
 
 **Performance Pool** - We have allocated **75** points to support a metrics-driven reward program, where a set of eligible pools compete for allocation points in an initial 4-month long pilot season.
 
-**Discovery Pool** - We have allocated **25** points to promote new or relatively illiquid tokens in an effort to establish Honeyswap as the primary venue for trading these tokens.
+**Discovery Pool** - We have allocated **50** points to promote new or relatively illiquid tokens in an effort to establish Honeyswap as the primary venue for trading these tokens.
 
 ### Current pComb Allocation Points Table
 
@@ -64,7 +64,6 @@ We plan on piloting additional incentive programs over the next few months using
 | wETH-USDT | 25 | Discretionary |
 | wETH-DAI | 25 | Discretionary |
 | wETH-AAVE | 25 | Discretionary |
-| stkWETH-GHST | 25 | Pending GHST Vote |
 
 ## Honeyswap Contracts
 
