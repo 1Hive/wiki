@@ -25,7 +25,7 @@ A partir de ahora, en el front-end estamos completando y conectando los contrato
 **¿Dónde puedo conseguir un roadmap para Agave?**  
 Aquí puedes darle un vistazo al roadmap de Agave
 
-![](../.gitbook/assets/image%20%284%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
+![](../.gitbook/assets/image%20%284%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
 
 **¿Y el marketing?**   
 El marketing comenzará tan pronto como se implemente Agave, como se presenta en el roadmap. Cualquier marketing indirecto antes del lanzamiento del token solo ocurrirá a través de propuestas, documentación, listados de tokens.   
