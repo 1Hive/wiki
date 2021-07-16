@@ -72,11 +72,11 @@ On Discord, in order to mint cred for other users through emoji responses, users
 
 | Total Cred | Mint Weight |
 | :--- | :--- |
-| 120+ Cred | 1x |
-| 90+ Cred | 0.75x |
-| 60+ Cred | 0.5x |
-| 30+ Cred | 0.25x |
-| 0 to 30 Cred | 0x |
+| 160+ Cred | 1x |
+| 120+ Cred | 0.75x |
+| 80+ Cred | 0.5x |
+| 40+ Cred | 0.25x |
+| 0 to 40 Cred | 0x |
 
 All emojis give 1 cred, apart from the below exceptions.
 
@@ -87,9 +87,11 @@ All emojis give 1 cred, apart from the below exceptions.
 | 💩 | 0x |
 | 👎 | 0x |
 
-Channels that give 0 cred include: ✅**check-in**, 🐸**memes**, 🤖**bot-commands**, 🕹**arcade**, 🦩**lounge**, 🍱**kitchen**, 🐱**Fauna** channels and all of the **Information** channels.
+Channels that give 0 cred include: 🐸**memes**, 🤖**bot-commands**, 🕹**arcade**, 🦩**lounge**, 🍱**kitchen**, 🐱**Fauna** channels and all of the **Information** channels.
 
-The 🐝**social-curation** channel gives 0.25x the standard cred weight.
+The 🐝**social-curation** channel gives 0.5x the standard cred weight.
+
+The 🌈**design** channel gives 0.75x the standard cred weight.
 
 The 🍄**nominations** channel mints 95% of cred for users who have been tagged in messages. Users sharing a tagged user get 5% cred for responses. All users tagged will share cred equally amongst all tagged users in that message.
 
