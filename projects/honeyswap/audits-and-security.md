@@ -78,7 +78,7 @@ none
  broken down into a triangle and rectangle. The sum of their areas should  
  be equal to the total reward distribution:
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%2815%29.png)
 
 Now that the starting distribution rate is calculated one can easily  
  calculate the slope since it’s simply the change in the distribution rate  
@@ -106,7 +106,7 @@ The final piece of math that is needed is how to calculate the amount to be
  again can simply splits the area into geometric shapes to calculate its  
  area and simplifies the resulting equation:
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image%20%2817%29.png)
 
 Which brings us to the final equation which is used in the  
  `getDistribution` method. The result is scaled by the `SCALE` constant:  

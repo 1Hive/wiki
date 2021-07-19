@@ -25,6 +25,10 @@ The 🌷 Tulip swarm is responsible for building, deploying, maintaining and upg
 | [Philogy](https://github.com/mrclottom) | development |
 | [willjgriff](https://github.com/willjgriff) | development |
 | [tonga](https://github.com/harthor) | development |
+| hernandoagf | development |
+| D0$H | marketing |
+| Paul2 | marketing |
+| monstrosity | business development |
 | borisblock | design |
 | Blazar | bursar |
 
@@ -34,4 +38,5 @@ Several funding proposals have been passed to fund the Tulip Swarm:
 
 * [https://1hive.org/\#/proposal/7](https://1hive.org/#/proposal/7)
 * [https://1hive.org/\#/proposal/17](https://1hive.org/#/proposal/17)
+* [https://1hive.org/?\#/proposal/27](https://1hive.org/?#/proposal/27)
 
