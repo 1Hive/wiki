@@ -24,8 +24,8 @@ The 🌷 Tulip swarm is responsible for building, deploying, maintaining and upg
 | [Px](https://github.com/pxbee) | development |
 | [Philogy](https://github.com/mrclottom) | development |
 | [willjgriff](https://github.com/willjgriff) | development |
-| [tonga](https://github.com/harthor) | development |
 | hernandoagf | development |
+| jupiterdev | development |
 | D0$H | marketing |
 | Paul2 | marketing |
 | monstrosity | business development |
