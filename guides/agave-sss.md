@@ -37,7 +37,7 @@ Agave yol haritasını nereden görebilirim?
 
 Aşağıdaki görsel genel hatlarıyla Agave yol haritasını göstermektedir:
 
-![Agave Yol Haritas&#x131;](../.gitbook/assets/image%20%284%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
+![Agave Yol Haritas&#x131;](../.gitbook/assets/image%20%284%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
 
 **Tanıtım çalışmaları ne durumda?**
 
