@@ -87,7 +87,7 @@ All emojis give 1 cred, apart from the below exceptions.
 | 💩 | 0x |
 | 👎 | 0x |
 
-Channels that give 0 cred include: 🐸**memes**, 🤖**bot-commands**, 🕹**arcade**, 🦩**lounge**, 🍱**kitchen**, 🐱**Fauna** channels and all of the **Information** channels.
+Channels that give 0 cred include: 🐸**memes**, 🤖**bot-commands**, 🕹**arcade**, 🦩**lounge**, 🍱**kitchen**, ☕**cafe** 🐱**Fauna** channels and all of the **Information** channels.
 
 The 🐝**social-curation** channel gives 0.5x the standard cred weight.
 
