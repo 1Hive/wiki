@@ -10,17 +10,15 @@ Le Pollen est un classement de contribution utilisé pour reconnaître les contr
 
 Dès que vous interagissez sur les communautés 1Hive \(Discord, Forum et Github\), vous commencerez à gagner du Pollen, qui sera envoyé dans votre portefeuille enregistré en délicieux Honey !
 
-Afin de recevoir des distributions hebdomadaires de pollen, vous devrez créer des comptes sur les plates-formes prises en charge et les associer à votre adresse xDai. Vous pouvez le faire en publiant ce qui suit sur la chaîne [ 🐛**onboarding**](https://discord.gg/eYwxwv4nzk) du Discord 1hive :
+Afin de recevoir des distributions hebdomadaires de pollen, vous devrez créer des comptes sur les plates-formes prises en charge et les associer à votre adresse xDai. Vous pouvez le faire en tapant les commandes suivantes dans la chaîne 🤖**bot-commands** du Discord 1Hive :
 
-```text
-#🏵pollen
-github: justabee
-discourse: justabee
-discord: justabee#1234
-xDai: 0x0...000
-```
+* **Enregistrer l'adresse du wallet et les infos Discord - obligatoire :** Tapez `!pollen save-wallet <addresse-de-votre-wallet>` pour ajouter votre adresse de wallet, votre ID Discord et votre nom d'utilisateur Discord à la base de données Pollen.
+* **Enregistrer votre compte Discourse \(Forum\) - facultatif :** Tapez `!pollen verify-discourse <nom-d'utilisateur-discourse>` et suivez la procédure pour vérifier et ajouter votre nom d'utilisateur Discourse à la base de données Pollen.
+* **Enregistrer votre compte GitHub - facultatif** : Tapez `!pollen verify-github <nom-d'utilisateur-github>` et suivez la procédure pour vérifier et ajouter votre nom d'utilisateur GitHub \(si vous en avez un\) à la base de données Pollen.
 
-Remplacez`justabee`, `justabee#1234` et `0x0...000` avec vos comptes. `Discourse` fait référence au [Forum](https://forum.1hive.org/).
+Assurez-vous de remplacer `<addresse-de-votre-wallet>,` `<nom-d'utilisateur-discourse>`et `<nom-d'utilisateur-github`par vos informations.
+
+La commande **`!pollen userinfo`**vous permet de vérifier les informations que vous avez enregistrées dans la base de données.
 
 Si vous avez des questions, souhaitez savoir comment le pollen est calculé ou vérifier les distributions, il vous suffit d’aller sur la chaîne [🏵**pollen**](https://discord.com/invite/y8fPNcNdAa).
 

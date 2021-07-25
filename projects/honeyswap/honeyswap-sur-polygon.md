@@ -1,14 +1,16 @@
 # Honeyswap sur Polygon
 
+{% hint style="info" %}
 Honeyswap on Polygon and the pComb token has not been fully deployed. Information here is subject to change.
+{% endhint %}
 
-## Supported Liquidity Pools <a id="supported-liquidity-pools"></a>
+## Pools de liquidité supportés <a id="supported-liquidity-pools"></a>
 
 Honeyswap on Polygon uses the Swapr contracts \(which are lightly modified from Uniswap v2\) for pooling liquidity. The Swapr contracts support adjusting fees on a per pool basis. By default all pools have a 0.3% swap fee, with the exception of pools containing wETH, which have a 0.15% swap fee. This fee structure is designed to encourage the use of a common base pair in order to optimize liquidity pathways, however, there is not a strict requirement to use wETH pairs.
 
 Swap fees are split between Liquidity Providers involved in the swap and the Platform's Fee Receiver contract. Liquidity Providers receive 5/6 in fees from each swap, while the Platform Fee Receiver contract receives 1/6 of each swap fee. The Fee Receiver contract uses 1/2 of incoming fees to buy back Honey and the other 1/2 to buy back pComb tokens.
 
-## pCOMB Token <a id="pcomb-token"></a>
+## Token pComb  <a id="pcomb-token"></a>
 
 **The pComb token is the local incentive token for Honeyswap on Polygon.**
 
@@ -52,11 +54,11 @@ We plan on piloting additional incentive programs over the next few months using
 
 ### Current pComb Allocation Points Table <a id="current-pcomb-allocation-points-table"></a>
 
-## Honeyswap Contracts <a id="honeyswap-contracts"></a>
+## Contrats Honeyswap  <a id="honeyswap-contracts"></a>
 
 Honeyswap on Polygon uses the DxSwap contracts, which were forked from the Uniswap v2 contracts. These contracts allow fees to be adjusted on a per pool basis, the default fee per pool is still 0.3%, but pools containing WETH have a 0.15% fee.
 
-### Contracts <a id="contracts"></a>
+### Contrats <a id="contracts"></a>
 
 **Factory**: [`0x6F937495013C7DC42aF752d3E0BcC090bd34F7AB`](https://explorer-mainnet.maticvigil.com/address/0x6F937495013C7DC42aF752d3E0BcC090bd34F7AB)​
 

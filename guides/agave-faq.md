@@ -110,19 +110,12 @@ Peut-être. Il se peut que vous ayez à unstake manuellement à ce moment-là. N
 
 ## Alvin 
 
+**Que s'est-il passé avec Alvin ?**  
+Le 25 mai 2021, les pools de liquidités de [http://dripp.farm](http://dripp.farm) ont été vidés \(tokens ALVIN et SHWEATPANTS\), entraînant un effondrement des prix. Agave n'est pas responsable de ce qui s'est passé - ni affilié au créateur du projet - mais nous soutiendrons les membres de notre communauté qui ont subi des pertes. Lisez [ici](https://forum.1hive.org/t/dripp-farm-a-retrospective/3895) le post-mortem et ce [post du forum](https://forum.1hive.org/t/alvin-and-the-dripp-ocalypse/3757) pour plus d'informations.
+
 **Qui est Alvin ? Qu’est-ce que c’est ?**  
-Alvin est un erc20 échangeable \(en nombre entier\) contre une peluche en édition limitée du personnage du logo agave \(nommé Alvin\) et un NFT - Non Fungible Token. Inspiré par le succès d’Unisocks \(d'une valeur de plus de 100k au moment de la rédaction\), il s'agit de la première collaboration \(Cross-Pollination\) entre [1Hive](https://1hive.org/) et [Shenanigan](https://she.energy/).   
-ALVIN v3: 0x50DBde932A94b0c23D27cdd30Fbc6B987610c831   
-Blockscout:[ $ALVIN](https://blockscout.com/poa/xdai/address/0x50DBde932A94b0c23D27cdd30Fbc6B987610c831/transactions) /[ Alvin v3](https://info.honeyswap.org/token/0x50dbde932a94b0c23d27cdd30fbc6b987610c831)   
-Total Supply: 122
+Alvin est un erc20 échangeable \(en nombre entier\) contre une peluche en édition limitée du personnage du logo agave \(nommé Alvin\) et un NFT - Non Fungible Token. Inspiré par le succès d’Unisocks \(d'une valeur de plus de 100k au moment de la rédaction\), il s'agit de la première collaboration \(Cross-Pollination\) entre [1Hive](https://1hive.org/) et [Shenanigan](https://she.energy/). 
 
-**Je veux réclamer ma peluche Alvin \(ou mon Shweatpants\). Comment faire ?**  
-Si vous souhaitez réclamer votre peluche Alvin \(ou votre Shenanigan Shweatpants\), vous pouvez facilement le faire en allant sur [dripp.farm](https://www.dripp.farm/) et en cliquant sur le bouton « Buy ». Votre article sera expédié dans le monde entier.
-
-**Comment est-ce tarifé ?**  
-Les tokens Dripp sont répertoriés à partir de prix prédéterminés pour l'article. Chaque achat / vente influencera le prix. L'augmentation ou la diminution suit une [bonding curve](https://blog.relevant.community/bonding-curves-in-depth-intuition-parametrization-d3905a681e0a). Chaque Dripp finira par trouver un équilibre basé sur la demande du marché.
-
-**Qu'est-ce que Dripp ?**  
-Dripp -[ http://dripp.farm/](http://dripp.farm/) est une plate-forme où les utilisateurs peuvent placer \(staking\) Honey, Particle ou les deux afin de gagner des Alvin, des Shweatpants ou les deux. Le staking sera possible pendant environ 30 jours à compter du lancement. \(4 mars\)   
-****Pour plus d'informations, vous pouvez lire [cet article](https://medium.com/frst/money-laundry-the-rise-of-the-crypto-sock-market-f979aafc3796).
+**Puis-je encore recevoir ma peluche Alvin \(ou Shweatpants\) ?**  
+À ce stade, nous recherchons une solution équitable pour résoudre la situation, en tenant compte des besoins et des droits de toutes les personnes concernées. Nous informerons la communauté dès que nous aurons quelque chose de concret à partager.
 
