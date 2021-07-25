@@ -95,6 +95,8 @@ The 🌈**design** channel gives 0.75x the standard cred weight.
 
 The 🍄**nominations** channel mints 95% of cred for users who have been tagged in messages. Users sharing a tagged user get 5% cred for responses. All users tagged will share cred equally amongst all tagged users in that message.
 
+All support channels such as ⛈**help**, **help-es**, and **help-fr** give 2.5x the standard cred weight.
+
 ### Forum Pollen Weights
 
 On the Forum the total cred a user can mint is dependent on the trust level of the user.
