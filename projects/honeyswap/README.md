@@ -7,32 +7,35 @@ description: >-
 # Honeyswap
 
 {% hint style="info" %}
-This page reflects upcoming changes to Honeyswap and may still be incomplete or inaccurate.
+Cette page reflète les changements à venir sur Honeyswap et peut encore être incomplète ou inexacte.
 {% endhint %}
 
-## Overview
+## Aperçu
 
-Honeyswap is comprised of liquidity pool contracts deployed to multiple EVM compatible chains which share common frontend interfaces that are maintained by the 1Hive community. Currently Honeyswap supports xDai and Polygon, but plans to expand support to other EVM chains and rollups in the future. 
+Honeyswap est un dispositif composé de contrats de pool de liquidité déployés sur plusieurs chaînes compatibles EVM qui partagent des interfaces communes gérées par la communauté 1Hive. Pour le moment, Honeyswap fonctionne sur xDai et Polygon, mais prévoit d'étendre le support à d'autres chaînes EVM et rollups dans le futur.
 
-Honeyswap uses a **multi-token model** to manage the balance between **Global** and **Local** incentives. Development, support, and maintainence work that has **Global** benefits are funded using **Honey** from 1Hive's common pool. Farming Rewards, where benefits are localized to a one supported chain use a **Comb token** which can be valued as a derivative of the volume on that specific chain.
+Honeyswap utilise un **modèle multi-token** pour gérer l'équilibre entre les incitations **globales** et **locales**. Le développement, le support et le travail de maintenance qui ont des avantages **globaux** sont financés en utilisant le Honey du pool commun de 1Hive. Les récompenses des fermes, où les avantages sont localisés sur une chaîne spécifique, utilisent **un token Comb** qui peut être considéré comme un dérivé du volume sur cette chaîne spécifique.
 
-Swap fees on Honeyswap are split 1/12 to Honey, 1/12 to the local Comb token for that chain, and 5/6 directly to the pool of liquidity providers facilitating the swap. 
+Les frais d'échange sur Honeyswap sont répartis comme suit :   
+1/12 → Honey  
+1/12 → Token Comb local de la chaîne   
+5/6 → Directement vers le pool de fournisseurs de liquidités ayant facilité l'échange
 
-## Honeyswap Frontend
+## Interface Honeyswap
 
-The [Honeyswap frontend](https://app.honeyswap.org) provides an open source interface for trading and pooling liquidity. It also supports routing trades to third-party liquidity pools so that users can be sure they are getting the best trade execution when they choose to interact using Honeyswap's frontend. 
+L'[interface Honeyswap](https://app.honeyswap.org/#/swap) offre une expérience open source pour le trading et le pooling de liquidité. Elle prend également en charge le routage des transactions vers des pools de liquidité tiers, de sorte que les utilisateurs soient sûrs d'obtenir la meilleure exécution pour leurs transactions.
 
-You can connect to Honeyswap from any supported network, and will be able to interact with the pool on that network. 
+Vous pouvez vous connecter à Honeyswap à partir de n'importe quel réseau pris en charge, et vous serez en mesure d'interagir avec le pool sur ce réseau.
 
 ## Honeyswap Analytics 
 
-[Honeyswap Analytics](https://info.honeyswap.org)  provides an open source interface for analyzing liquidity, volume, and trading history. 
+[Honeyswap Analytics](https://info.honeyswap.org) offre une interface open source pour analyser la liquidité, le volume et l'historique des transactions.
 
-## Honeycomb Asset Manager 
+## Gestionnaire d'actifs Honeycomb
 
-Honeycomb provides an open source interface for managing DeFi positions, including depositing and withdrawing from Comb farms. 
+Honeycomb offre une interface open source pour la gestion des positions DeFi, y compris le dépôt et le retrait sur les fermes Comb.
 
-## Honeyswap Contracts and Deployment Info
+## Contrats Honeyswap et informations sur le déploiement 
 
-The contracts and associated deployment are similar but not identical. Please see the relevant sub-sections for detailed information associated with deployments on the various supported networks.
+Les contrats et le déploiement associé sont similaires mais pas identiques. Veuillez consulter les sous-sections correspondantes pour obtenir des informations détaillées sur les déploiements sur les différents réseaux pris en charge.
 

@@ -4,7 +4,7 @@ description: >-
   community
 ---
 
-# Planned Improvements
+# Améliorations prévues
 
 ## Dynamic issuance policy
 

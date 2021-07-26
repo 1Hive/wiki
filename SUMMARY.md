@@ -15,10 +15,10 @@
 
 * [Honey](projects/honey/README.md)
   * [Participation](projects/honey/participation.md)
-  * [Issuance](projects/honey/issuance.md)
+  * [Émission](projects/honey/issuance.md)
   * [Distribution](projects/honey/distribution.md)
-  * [Decisions](projects/honey/decisions.md)
-  * [Planned Improvements](projects/honey/planned-improvements.md)
+  * [Décisions](projects/honey/decisions.md)
+  * [Améliorations prévues](projects/honey/planned-improvements.md)
 * [Honeyswap](projects/honeyswap/README.md)
   * [Honeyswap sur xDai](projects/honeyswap/honeyswap-sur-xdai.md)
   * [Honeyswap sur Polygon](projects/honeyswap/honeyswap-sur-polygon.md)

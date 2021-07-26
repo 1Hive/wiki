@@ -4,7 +4,7 @@ description: >-
   discrete, binary choice decisions via voting.
 ---
 
-# Decisions
+# Décisions
 
 ## Decision Surface
 

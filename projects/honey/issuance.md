@@ -4,7 +4,7 @@ description: >-
   which Honey is minted over time.
 ---
 
-# Issuance
+# Émission
 
 Issuance refers to the process that mints new Honey. Honey is currently set to increase in supply at a rate of **30% per year.** As Honey is added to the supply it is put straight into the Common Pool, where it is available for distribution via proposals. The issuance rate can be adjusted via [decision proposals](decisions.md). 
 
