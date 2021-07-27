@@ -81,7 +81,7 @@ Honeyswap on Polygon uses the DxSwap contracts, which were forked from the Unisw
 
 **ReferralRewardReceiver**: [`0xf72e8827aa4c03e2c49aa95a6550dd4c8a65a969`](https://polygonscan.com/address/0xf72e8827aa4c03e2c49aa95a6550dd4c8a65a969#code)\`\`
 
-**FeeReceiver**: [`0xA25958B0C9bbEE1821dB5CE3d85bc56848Fddf78`](https://polygonscan.com/address/0xA25958B0C9bbEE1821dB5CE3d85bc56848Fddf78#code)\`\`
+**FeeReceiver**: [`0xA25958B0C9bbEE1821dB5CE3d85bc56848Fddf78`](https://polygonscan.com/address/0xA25958B0C9bbEE1821dB5CE3d85bc56848Fddf78#code)
 
 ### Subgraphs
 
