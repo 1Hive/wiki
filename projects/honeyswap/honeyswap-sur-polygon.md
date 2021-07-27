@@ -1,22 +1,22 @@
 # Honeyswap sur Polygon
 
 {% hint style="info" %}
-Honeyswap on Polygon and the pComb token has not been fully deployed. Information here is subject to change.
+Honeyswap sur Polygon et le token pComb n'ont pas été entièrement déployés. Les informations présentées ici sont susceptibles d'être modifiées.
 {% endhint %}
 
 ## Pools de liquidité supportés <a id="supported-liquidity-pools"></a>
 
-Honeyswap on Polygon uses the Swapr contracts \(which are lightly modified from Uniswap v2\) for pooling liquidity. The Swapr contracts support adjusting fees on a per pool basis. By default all pools have a 0.3% swap fee, with the exception of pools containing wETH, which have a 0.15% swap fee. This fee structure is designed to encourage the use of a common base pair in order to optimize liquidity pathways, however, there is not a strict requirement to use wETH pairs.
+Honeyswap sur Polygon utilise les contrats Swapr \(qui sont légèrement modifiés à partir d'Uniswap v2\) pour le pool de liquidité. Les contrats Swapr permettent d'ajuster les frais sur une base par pool. Par défaut, tous les pools ont des frais de swap de 0,3%, à l'exception des pools contenant wETH, qui ont des frais de swap de 0,15%. Cette structure de frais est conçue pour encourager l'utilisation d'une paire de base commune afin d'optimiser les voies de liquidité, cependant, il n'y a pas d'obligation stricte d'utiliser les paires wETH.
 
-Swap fees are split between Liquidity Providers involved in the swap and the Platform's Fee Receiver contract. Liquidity Providers receive 5/6 in fees from each swap, while the Platform Fee Receiver contract receives 1/6 of each swap fee. The Fee Receiver contract uses 1/2 of incoming fees to buy back Honey and the other 1/2 to buy back pComb tokens.
+Les frais de swap sont répartis entre les fournisseurs de liquidité impliqués dans le swap et le contrat Fee Receiver de la plate-forme. Les fournisseurs de liquidité reçoivent 5/6 des frais de chaque swap, tandis que le contrat Fee Receiver de la plateforme reçoit 1/6 des frais de swap. Le contrat Fee Receiver utilise la moitié des frais entrants pour racheter du Honey et l'autre moitié pour racheter des tokens pComb.
 
 ## Token pComb  <a id="pcomb-token"></a>
 
-**The pComb token is the local incentive token for Honeyswap on Polygon.**
+**pComb est le token d'incitation local de Honeyswap sur Polygon.**
 
-The value of pComb is derived from trading activity that occurs on Honeyswap on Polygon through automated buybacks tied to swap fees. Half of the repurchased pComb tokens are burned, the other half recycled back into the Farming mechanism for future distribution. The pComb token has a fixed supply, which will become deflationary as a result of half of the pComb buybacks being burned.
+La valeur de pComb est liée à l'activité de trading de Honeyswap sur Polygon par le biais de rachats automatisés liés aux frais de swap. La moitié des tokens pComb rachetés sont brûlés, l'autre moitié est recyclée dans le mécanisme de _Farming_ pour une distribution future. Le token pComb a une offre fixe, qui deviendra déflationniste du fait que la moitié des rachats de pComb sera brûlée.
 
-### pCOMB Supply and Emissions <a id="pcomb-supply-and-emissions"></a>
+### pComb – Offre et émission  <a id="pcomb-supply-and-emissions"></a>
 
 The total fixed supply of pComb tokens is `1,000,000`. An initial airdrop of `5%` of the total fixed supply will be airdropped to the Polygon DeFi user community, including liquidity providers on Honeyswap. `10%` of airdropped tokens are immediately liquid, and the other `90%` are released continuously over `6 months` .
 
@@ -28,21 +28,21 @@ The remaining `90%` of pComb supply is scheduled to be distributed via farming o
 
 The pComb allocation points are managed by a multisig of Tulip swarm contributors. _This privilege may be revoked or re-assigned via a pComb-weighted decision vote following the deployment of Gardens, 1Hive's on-chain governance platform, to Polygon_.
 
-The Tulip Swarm's goal for managing the allocation points is to promote the growth of both liquidity and volume on the exchange. Therefore we may need to adjust the Allocation Points policy over time.
+L'objectif du Tulip Swarm en matière de gestion des points d'allocation est de promouvoir la croissance de la liquidité et du volume sur l'échange. Par conséquent, il se peut que nous devions ajuster la politique des points d'allocation au fil du temps.
 
-### Our Current Policy <a id="our-current-policy"></a>
+### Notre politique actuelle <a id="our-current-policy"></a>
 
-**Allocation Point Capacity** - We have chosen to limit the total number of allocation points assigned at any one time to **1,000**. There may be less than 1,000 points assigned at any given time, but not more.
+**Nombre de points d'allocation** - Nous avons choisi de limiter à 1000 le nombre total de points d'allocation attribués à un moment donné. Il peut y avoir moins de 1000 points d'allocation à un moment donné, mais pas plus.
 
-#### Current Allocation <a id="current-allocation"></a>
+#### Allocation actuelle <a id="current-allocation"></a>
 
-At the time of launch the farms will only be using 600 out of a total of 1000 available allocation points. As the remaining 400 allocation points are added the proportional rewards will be diluted.
+Au moment du lancement, les fermes n'utiliseront que 600 points d'allocation sur un total de 1000 disponibles. Au fur et à mesure que les 400 points d'allocation restants seront ajoutés, les récompenses proportionnelles seront diluées.
 
-**Keystone Pool** - We have allocated up to **300** points to support the keystone pair **pComb-wETH** in order to ensure there is a strong incentive to provide liquidity to the reward token.
+**Keystone Pool** - Nous avons alloué jusqu'à **300** points pour soutenir la paire clé **pComb-wETH** afin de garantir une forte incitation à fournir des liquidités au token de récompense.
 
-**Discretionary Pool** - We have **300** points reserved for discretionary use. These points have been used to establish the initial incentivized pairs. **After 4 months** of farming rewards these points will be reassessed and may be re-allocated.
+**Réserve à discrétion** - Nous avons **300** points réservés pour une utilisation à discrétion. Ces points ont été utilisés pour établir les premières paires incitatives. Après **4 mois** de farming, ces points seront réévalués et pourront être réaffectés.
 
-#### Projected Allocations <a id="projected-allocations"></a>
+#### Allocations prévues <a id="projected-allocations"></a>
 
 We plan on piloting additional incentive programs over the next few months using the allocation point system and have reserved allocation points accordingly.
 
@@ -52,11 +52,22 @@ We plan on piloting additional incentive programs over the next few months using
 
 **Discovery Pool** - We have allocated **25** points to promote new or relatively illiquid tokens in an effort to establish Honeyswap as the primary venue for trading these tokens.
 
-### Current pComb Allocation Points Table <a id="current-pcomb-allocation-points-table"></a>
+### Tableau des points d'allocation actuels de pComb <a id="current-pcomb-allocation-points-table"></a>
+
+| Paire | Points | Catégorie |
+| :--- | :--- | :--- |
+| wETH-pCOMB | 300 | Keystone |
+| wETH-HNY | 50 | à discrétion |
+| wETH-wMATIC | 50 | à discrétion |
+| wETH-wBTC | 50 | à discrétion |
+| wETH-USDC | 50 | à discrétion |
+| wETH-USDT | 25 | à discrétion |
+| wETH-DAI | 25 | à discrétion |
+| wETH-AAVE | 25 | à discrétion |
 
 ## Contrats Honeyswap  <a id="honeyswap-contracts"></a>
 
-Honeyswap on Polygon uses the DxSwap contracts, which were forked from the Uniswap v2 contracts. These contracts allow fees to be adjusted on a per pool basis, the default fee per pool is still 0.3%, but pools containing WETH have a 0.15% fee.
+Honeyswap sur Polygon utilise les contrats DxSwap, qui sont un fork des contrats Uniswap v2. Ces contrats permettent d'ajuster les frais de chaque pool, les frais par défaut par pool sont toujours de 0,3%, mais les pools contenant du WETH ont des frais de 0,15%.
 
 ### Contrats <a id="contracts"></a>
 
@@ -66,9 +77,9 @@ Honeyswap on Polygon uses the DxSwap contracts, which were forked from the Unisw
 
 ### Subgraphs <a id="subgraphs"></a>
 
-Pending Deployment
+Déploiement en attente
 
 ### Fee Receiver Contract <a id="fee-receiver-contract"></a>
 
-Pending Deployment.
+Déploiement en attente
 
