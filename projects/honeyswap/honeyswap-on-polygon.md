@@ -71,15 +71,19 @@ Honeyswap on Polygon uses the DxSwap contracts, which were forked from the Unisw
 
 ### Contracts
 
-**Factory**: [`0x6F937495013C7DC42aF752d3E0BcC090bd34F7AB`](https://explorer-mainnet.maticvigil.com/address/0x6F937495013C7DC42aF752d3E0BcC090bd34F7AB)
+**Honeyswap Factory**: [`0x03DAa61d8007443a6584e3d8f85105096543C19c`](https://polygonscan.com/address/0x03DAa61d8007443a6584e3d8f85105096543C19c/contracts#code)\*\*\*\*
 
-**Router**:[`0x346880305b57c5A8AaF4170D951f13e91c0bE0a7`](https://explorer-mainnet.maticvigil.com/address/0x346880305b57c5A8AaF4170D951f13e91c0bE0a7/transactions)
+**Honeyswap Router**: [`0xaD340d0CD0B117B0140671E7cB39770e7675C848`](https://polygonscan.com/address/0xaD340d0CD0B117B0140671E7cB39770e7675C848/contracts#code)
+
+**pComb Farm**: ****[`0x62d7E2484FCFc6752B9473260efE1B86caBAc34e`](https://polygonscan.com/address/0x62d7E2484FCFc6752B9473260efE1B86caBAc34e#code)
+
+**pComb Token**: [`0x37d1ebc3af809b8fadb45dce7077efc629b2b5bb`](https://polygonscan.com/token/0x37d1ebc3af809b8fadb45dce7077efc629b2b5bb)
+
+**ReferralRewardReceiver**: [`0xf72e8827aa4c03e2c49aa95a6550dd4c8a65a969`](https://polygonscan.com/address/0xf72e8827aa4c03e2c49aa95a6550dd4c8a65a969#code)\`\`
+
+**FeeReceiver**: [`0xA25958B0C9bbEE1821dB5CE3d85bc56848Fddf78`](https://polygonscan.com/address/0xA25958B0C9bbEE1821dB5CE3d85bc56848Fddf78#code)\`\`
 
 ### Subgraphs
 
 Pending Deployment
-
-### Fee Receiver Contract
-
-Pending Deployment.
 
