@@ -18,15 +18,15 @@ La valeur de pComb est liée à l'activité de trading de Honeyswap sur Polygon 
 
 ### pComb – Offre et émission  <a id="pcomb-supply-and-emissions"></a>
 
-The total fixed supply of pComb tokens is `1,000,000`. An initial airdrop of `5%` of the total fixed supply will be airdropped to the Polygon DeFi user community, including liquidity providers on Honeyswap. `10%` of airdropped tokens are immediately liquid, and the other `90%` are released continuously over `6 months` .
+L'offre totale fixe de tokens pComb est de `1'000'000`. Un premier airdrop de `5%` de l'offre totale sera effectué auprès de la communauté DeFi sur Polygon, y compris les fournisseurs de liquidités sur Honeyswap. `10%` des jetons largués sont immédiatement liquides, et les `90%` restants sont distribués en continu sur `6 mois`.
 
-Another `5%` of total fixed supply has been reserved for future promotional purposes by the Tulip Swarm.
+`5%` de l'offre totale fixe a été réservée à des fins promotionnelles futures par le Tulip Swarm.
 
-The remaining `90%` of pComb supply is scheduled to be distributed via farming over the course of `2 years`, the emission rate decays linearly such that by the end of the initial emission period the rate is `25%` of the initial rate.
+Les `90%` restants de l'approvisionnement en pComb seront distribués par le biais du farming sur une période de `2 ans`, le taux d'émission décroît linéairement de telle sorte qu'à la fin de la période d'émission initiale, le taux sera `25%` du taux initial.
 
-1% of the pComb emissions can be earned by referring people to the farms, encouraging people to integrate and promote the farms. The remainder of emissions are split between Honeyswap pairs proportionally to their allocation points.
+1% des émissions de pComb peuvent être gagnées en référant des personnes aux fermes, en encourageant les gens à participer et en faisant la promotion des fermes. Le reste des émissions est réparti entre les paires d'échange de Honeyswap proportionnellement à leurs points d'allocation.
 
-The pComb allocation points are managed by a multisig of Tulip swarm contributors. _This privilege may be revoked or re-assigned via a pComb-weighted decision vote following the deployment of Gardens, 1Hive's on-chain governance platform, to Polygon_.
+Les points d'allocation pComb sont gérés par un multisig de contributeurs du Tulip Swarm. Ce privilège peut être révoqué ou réattribué par le biais d'un vote de décision pondéré par pComb, après le déploiement de Gardens, la plateforme de gouvernance on-chain de 1Hive.
 
 L'objectif du Tulip Swarm en matière de gestion des points d'allocation est de promouvoir la croissance de la liquidité et du volume sur l'échange. Par conséquent, il se peut que nous devions ajuster la politique des points d'allocation au fil du temps.
 
@@ -44,13 +44,13 @@ Au moment du lancement, les fermes n'utiliseront que 600 points d'allocation sur
 
 #### Allocations prévues <a id="projected-allocations"></a>
 
-We plan on piloting additional incentive programs over the next few months using the allocation point system and have reserved allocation points accordingly.
+Nous prévoyons de déployer d'autres programmes d'incitation au cours des prochains mois et avons réservé des points d'allocation en conséquence.
 
-**Trader Pool** - We have allocated **300** points for a trading incentive program. The intent of this program is to reward traders for using Honeyswap. Traders will be periodically awarded pComb proportional to their trading volume on Honeyswap. Details on the trading rewards program will be announced as they become available.
+**Trader Pool** - Nous avons alloué 300 points pour un programme d'incitation au trading. Le but de ce programme est de récompenser les traders qui utilisent Honeyswap. Les traders recevront périodiquement des pComb proportionnellement à leur volume d'échange sur Honeyswap. Les détails sur le programme de récompenses de trading seront annoncés dès qu'ils seront disponibles.
 
-**Performance Pool** - We have allocated **75** points to support a metrics-driven reward program, where a set of eligible pools compete for allocation points in an initial 4-month long pilot season.
+**Performance Pool** - Nous avons alloué 75 points pour soutenir un programme de récompense basé sur des données chiffrées, dans lequel un ensemble de pools éligibles sont en concurrence pour obtenir des points d'allocation au cours d'une saison pilote initiale de 4 mois.
 
-**Discovery Pool** - We have allocated **25** points to promote new or relatively illiquid tokens in an effort to establish Honeyswap as the primary venue for trading these tokens.
+**Discovery Pool** - Nous avons alloué 25 points pour promouvoir des nouveaux tokens, ou relativement illiquides, dans le but d'établir Honeyswap comme principal lieu d'échange pour ces tokens.
 
 ### Tableau des points d'allocation actuels de pComb <a id="current-pcomb-allocation-points-table"></a>
 

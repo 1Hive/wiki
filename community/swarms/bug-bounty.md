@@ -1,18 +1,18 @@
 ---
-description: Bug reward management
+description: Gestion des récompenses pour les bugs
 ---
 
 # 🐛 Bug Bounty
 
-The 🐛Bug Bounty Swarm manages the funds available through the [Bug Bounty Program](../security/bug-bounty.md). It is currently made up of 1Hive Seed group members who have been working on 1Hive for over a year and have a strong degree of trust in each other.
+Le 🐛Bug Bounty Swarm gère les fonds disponibles par le biais du [programme Bug Bounty](../security/bug-bounty.md). Il est actuellement composé de membres du groupe _1Hive Seeds_ qui travaillent sur 1Hive depuis plus d'un an et qui ont un fort degré de confiance les uns envers les autres.
 
-## Useful Links 
+## Liens utiles
 
  [Aragon DAO](https://aragon.1hive.org/#/1hivebounty/) holding the bug bounty funds.
 
-## Roles and Responsibilities
+## Rôles et responsabilités
 
-| Member | Role |
+| Membre | Rôle |
 | :--- | :--- |
 | [willjgriff](https://forum.1hive.org/u/willjgriff) | Seed and DAO member |
 | [rperez89](https://forum.1hive.org/u/rperez89) | Seed and DAO member |
@@ -20,9 +20,9 @@ The 🐛Bug Bounty Swarm manages the funds available through the [Bug Bounty Pro
 | [lkngtn](https://forum.1hive.org/u/lkngtn) | Seed and DAO member |
 | [onbjerg](https://forum.1hive.org/u/onbjerg) | Seed and DAO member |
 
-Each of the above members have equal voting weight within the bug bounty DAO to distribute rewards.
+Chacun des membres susmentionnés dispose d'un poids de vote égal au sein de Bug Bounty DAO pour la distribution des récompenses.
 
 ## Funding Proposals
 
-One funding proposal was made which was accepted by the community: [https://forum.1hive.org/t/funding-for-the-bug-bounty-swarm-dao/1392](https://forum.1hive.org/t/funding-for-the-bug-bounty-swarm-dao/1392).
+Une proposition de financement a été soumise et acceptée par la communauté : [https://forum.1hive.org/t/funding-for-the-bug-bounty-swarm-dao/1392](https://forum.1hive.org/t/funding-for-the-bug-bounty-swarm-dao/1392).
 

@@ -1,22 +1,22 @@
 ---
-description: Sourcecred management
+description: Gestion de Sourcecred
 ---
 
 # 🏵 Pollen
 
-The 🏵Pollen Swarm manages the 1Hive SourceCred instance. Details can be seen in [Earn Pollen](../../getting-started/pollen.md). The Swarm is responsible for ensuring the system isn't easily exploitable, keeping parameters up-to-date and distributing pollen rewards. 
+Le 🏵Pollen Swarm gère l'instance SourceCred de 1Hive. Les détails peuvent être consultés [ici](https://wiki.1hive.org/v/francais/getting-started/pollen). Ce Swarm est chargé de veiller à ce que le système ne soit pas facilement exploitable, de maintenir les paramètres à jour et de distribuer les récompenses en pollen.
 
-## Useful Links
+## Liens utiles
 
- [Aragon DAO](https://aragon.1hive.org/#/pollen) holding Pollen funds.
+ [DAO Aragon ](https://aragon.1hive.org/#/pollen)détenant des fonds de Pollen.
 
 [1Hive Pollen GitHub Repository](https://github.com/1Hive/pollen)
 
-[SourceCred documentation](https://sourcecred.io/docs/)
+[Documentation SourceCred](https://sourcecred.io/docs/)
 
-## Roles and Responsibilities
+## Rôles et responsabilités
 
-| Member | Role |
+| Membre | Rôle |
 | :--- | :--- |
 | [befitsandpiper](https://forum.1hive.org/u/befitsandpiper/summary) | Primary Operator and DAO member |
 | [lkngtn](https://forum.1hive.org/u/lkngtn) | DAO member |
@@ -26,11 +26,11 @@ The 🏵Pollen Swarm manages the 1Hive SourceCred instance. Details can be seen 
 | [jasper](https://forum.1hive.org/u/jasper/summary) | DAO member |
 | [sem](https://forum.1hive.org/u/sem) | DAO member |
 
-Each of the above members have equal voting weight within the Pollen DAO to manage funds.
+Chacun des membres ci-dessus dispose d'un poids de vote égal au sein de Pollen DAO pour la gestion des fonds.
 
-## Funding Proposals
+## Propositions de financement
 
-Many funding proposals have been made to fund the Pollen Swarm:
+De nombreuses propositions de financement ont été soumises pour financer le Pollen Swarm :
 
 * [https://forum.1hive.org/t/dev-cred-proposal/29/6](https://forum.1hive.org/t/dev-cred-proposal/29/6)
 * [https://forum.1hive.org/t/social-cred-proposal/40/5](https://forum.1hive.org/t/social-cred-proposal/40/5)

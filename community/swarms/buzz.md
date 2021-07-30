@@ -1,28 +1,28 @@
 ---
-description: Media and communication
+description: Média et communication
 ---
 
 # 🐝 Buzz
 
-The 🐝 Buzz Swarm is responsible for promoting the 1Hive DAO, its community, and related projects including Honeyswap. Active social media include Twitter, Telegram, Discord, the Forum, GitHub, Reddit, Instagram, Medium, Hacker Noon and YouTube.
+Le 🐝Buzz Swarm est chargé de promouvoir 1Hive DAO, sa communauté et les projets connexes, notamment Honeyswap.
 
-The Buzz Swarm creates and maintains documentation associated with the 1Hive DAO, including this wiki. 
+Les réseaux sociaux actifs comprennent Twitter, Telegram, Discord, le Forum, GitHub, Reddit, Instagram, Medium, Hacker Noon et YouTube. Le Buzz Swarm crée et alimente la documentation associée à 1Hive DAO, dont ce wiki.
 
-## Useful Links
+## Liens utiles
 
-[Aragon DAO](https://aragon.1hive.org/#/buzzdao/) holding Buzz funds.
+[DAO Aragon](https://aragon.1hive.org/#/buzzdao/) détenant les fonds de Buzz.
 
-[Buzz Marketing Plan](https://drive.google.com/file/d/1giD4QcVfHNUaAwcXWqEdV4jI2CUSQH24/view).
+[Plan Marketing](https://drive.google.com/file/d/1giD4QcVfHNUaAwcXWqEdV4jI2CUSQH24/view)
 
-[Excel sheet](https://docs.google.com/spreadsheets/d/1UNrQMLVDWS-r7z6Z5MLNRSRP70f_gjbG5DYVceDLrXU/edit#gid=0) showing payment of Buzz.
+[Feuille Excel](https://docs.google.com/spreadsheets/d/1UNrQMLVDWS-r7z6Z5MLNRSRP70f_gjbG5DYVceDLrXU/edit#gid=0) – paiements de Buzz.
 
-[Buzz meeting calendar.](https://calendar.google.com/calendar/u/0/embed?src=c_k77c78d1kdt9e1vpk2cvjcc7jg@group.calendar.google.com&ctz)
+[Buzz meeting – calendrier](https://calendar.google.com/calendar/u/0/embed?src=c_k77c78d1kdt9e1vpk2cvjcc7jg@group.calendar.google.com&ctz)
 
-## Roles and Responsibilities
+## Rôles et responsabilités
 
-### Buzz DAO Members
+### Membres de Buzz DAO
 
-| Members | Role |
+| Membre | Rôle |
 | :--- | :--- |
 | [d0sh](https://forum.1hive.org/u/d0sh/summary) | Marketing Lead |
 | [blazar](https://forum.1hive.org/u/blazar/summary) | Marketing Specialist & Document Manager |
@@ -30,11 +30,11 @@ The Buzz Swarm creates and maintains documentation associated with the 1Hive DAO
 | [davidphoenix2020](https://forum.1hive.org/u/davidphoenix2020/summary) | SEO & Dev. Lead |
 | [dogeking](https://forum.1hive.org/u/dogeking/summary) | Community Manager |
 
-Each of the above members have equal voting weight within the Buzz DAO to manage funds.
+Chacun des membres ci-dessus dispose d'un poids de vote égal au sein de Buzz DAO pour la gestion des fonds.
 
-### Buzz Contributors
+### Contributeurs Buzz 
 
-| Members | Role |
+| Membre | Rôle |
 | :--- | :--- |
 | [escanor](https://forum.1hive.org/u/escanor/summary) | Social Admin |
 | [sp7290](https://forum.1hive.org/u/sp7290/summary) | Social Admin |
@@ -50,8 +50,8 @@ Each of the above members have equal voting weight within the Buzz DAO to manage
 | [rod](https://forum.1hive.org/u/rod/summary) | Social Admin |
 | [noice](https://forum.1hive.org/u/noice/summary) | Social Admin |
 
-## Funding Proposals
+## Proposition de financement
 
-One funding proposal was made which was accepted by the community:  
+Une proposition de financement a été soumise et acceptée par la communauté :  
 [https://forum.1hive.org/t/proposal-buzz-dao/1645/](https://forum.1hive.org/t/proposal-buzz-dao/1645).
 

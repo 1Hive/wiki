@@ -4,17 +4,17 @@ description: Traductions et intégration globale
 
 # 🌍 Terra
 
-The 🌍 Terra Swarm is responsible for translating documentation from other swarms, keeping the wiki updated in every language, and managing the new [1Hive international discord server](https://discord.gg/gM8Cy8mcPm). Also, Terra DAO members assist in creating content other DAOs, especially in terms of making the text SEO-friendly as it requires a specific skill set.
+Le 🌍Terra Swarm est responsable de la traduction de la documentation des autres Swarms, de la mise à jour du wiki dans toutes les langues et de la gestion du nouveau serveur [discord international 1Hive](https://discord.gg/gM8Cy8mcPm). De plus, les membres de Terra DAO aident à la création de contenu pour les autres DAO, en particulier en ce qui concerne l'optimisation du texte pour le référencement, car cela requiert des compétences spécifiques.
 
 ## Liens utiles
 
-[Aragon DAO](https://aragon.1hive.org/#/terradao/0x339fa43b3001f4e17a530a5abf5cc744b54ee79b/) holding Terra funds.
+[DAO Aragon ](https://aragon.1hive.org/#/terradao/0x339fa43b3001f4e17a530a5abf5cc744b54ee79b/)détenant les fonds de Terra
 
-[Excel sheet](https://docs.google.com/spreadsheets/d/1LXZkwA3uxJoi5jw_O0pzMBlO1af91Sn2_ESl-9tv7nU/edit?usp=sharing) showing payment of Terra
+[Feuille Excel ](https://docs.google.com/spreadsheets/d/1LXZkwA3uxJoi5jw_O0pzMBlO1af91Sn2_ESl-9tv7nU/edit?usp=sharing)– paiements de Terra
 
-[Excel sheet](https://docs.google.com/spreadsheets/d/1GBnIRy5IBD99sLtW_dCaBJbjDbxDDqMDkbURy7fuCrM/edit?usp=sharing) showing translation progress.
+[Feuille Excel ](https://docs.google.com/spreadsheets/d/1GBnIRy5IBD99sLtW_dCaBJbjDbxDDqMDkbURy7fuCrM/edit?usp=sharing)– progression des traductions
 
-[Terra DAO](https://docs.google.com/document/d/1SC1FOmX3PA3A-Z8D9OEAalXKBFQJeWYAJHrVo310TyU/edit#heading=h.3sdj4z5mrep9) proposal
+[Terra DAO](https://docs.google.com/document/d/1SC1FOmX3PA3A-Z8D9OEAalXKBFQJeWYAJHrVo310TyU/edit#heading=h.3sdj4z5mrep9) – proposition
 
 ## Rôles et responsabilités
 
@@ -41,15 +41,15 @@ Chacun des membres ci-dessus a un poids de vote égal au sein de Terra DAO pour 
 | [dw](https://forum.1hive.org/u/farmerd/summary) | Portugais |
 | [luigy](https://forum.1hive.org/u/luigy/summary) | Portugais QR |
 | [stonky](https://forum.1hive.org/u/stonky/summary) | Italien |
-| TBA | Italien QR |
+| [Goldoni](https://forum.1hive.org/u/goldoni/summary) | Italien QR |
 | [boring877](https://forum.1hive.org/u/boring877/summary) | Chinois  |
 | TBA | Chinois QR |
-| TBA | Allemand |
-| TBA | Allemand QR |
+| [Fried](https://forum.1hive.org/u/friedrengi/summary) | Allemand |
+| Laura P | Allemand QR |
 | [omahs](https://forum.1hive.org/u/omahs/summary) | Français |
 | [Felix](https://forum.1hive.org/u/felix/summary) | Français QR |
 
 ## Propositions de financement
 
-Une seule proposition de financement a été faite, elle peut être vue sur le forum : [https://forum.1hive.org/t/terra-dao-proposal/1912](https://forum.1hive.org/t/terra-dao-proposal/1912)
+Deux propositions de financement ont été faites jusqu'à présent. Cliquez [ici](https://forum.1hive.org/t/terra-dao-proposal/1912) pour la première proposition de Terra DAO et [ici](https://forum.1hive.org/t/terra-dao-2nd-proposal/3032) pour la seconde.
 
