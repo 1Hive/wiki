@@ -35,7 +35,7 @@ The pairs included in the farms will be adjusted over time, a framework for eval
 
 ## Governance
 
-The Honeyswap AMM contracts are not upgradeable. Governance is limited to setting the fee reciever address.
+The Honeyswap AMM contracts are not upgradeable. Governance is limited to setting the fee receiver address.
 
 The xComb token does not have any governance, it has a fixed supply and cannot be upgraded.
 
@@ -69,7 +69,7 @@ Honeyswap on xDai uses the Uniswap v2 AMM contracts.
 
 **ReferralRewardManager:** [`0x82374C59709AAc2f7864191a3c492932379536F4`](https://blockscout.com/poa/xdai/address/0x82374C59709AAc2f7864191a3c492932379536F4/read-contract)
 
-**FeeReciever:** [`0xbA13a6414C677d9e7BD3c0BDE5BA4055BF2e72f7`](https://blockscout.com/xdai/mainnet/address/0xbA13a6414C677d9e7BD3c0BDE5BA4055BF2e72f7/transactions)\`\`
+**FeeReceiver:** [`0xbA13a6414C677d9e7BD3c0BDE5BA4055BF2e72f7`](https://blockscout.com/xdai/mainnet/address/0xbA13a6414C677d9e7BD3c0BDE5BA4055BF2e72f7/transactions)\`\`
 
 ### Subgraphs
 
