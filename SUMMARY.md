@@ -40,6 +40,7 @@
   * [🦋 Morphosis](community/swarms/morphosis.md)
   * [🌍 Terra](community/swarms/terra.md)
   * [🌷Tulip](community/swarms/tulip.md)
+  * [Tulip Swarm Contributor Onboarding Handbook](community/swarms/tulip-swarm-contributor-onboarding-handbook.md)
 * [Media](community/media/README.md)
   * [Social Accounts](community/media/social-accounts.md)
   * [Social Curation](community/media/social-curation.md)
