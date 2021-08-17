@@ -1,5 +1,5 @@
 ---
-description: Sourcecred management
+description: SourceCred management
 ---
 
 # 🏵 Pollen
@@ -18,22 +18,14 @@ The 🏵Pollen Swarm manages the 1Hive SourceCred instance. Details can be seen 
 
 | Member | Role |
 | :--- | :--- |
-| [befitsandpiper](https://forum.1hive.org/u/befitsandpiper/summary) | Primary Operator and DAO member |
+| [sandpiper](https://forum.1hive.org/u/befitsandpiper/summary) | Primary Operator and DAO member |
 | [lkngtn](https://forum.1hive.org/u/lkngtn) | DAO member |
 | [crisog](https://forum.1hive.org/u/crisog) | DAO member |
 | [luigy](https://forum.1hive.org/u/luigy/summary) | DAO member |
 | [rayne](https://forum.1hive.org/u/rayne/summary) | DAO member |
 | [jasper](https://forum.1hive.org/u/jasper/summary) | DAO member |
 | [sem](https://forum.1hive.org/u/sem) | DAO member |
-
-Each of the above members have equal voting weight within the Pollen DAO to manage funds.
-
-## Funding Proposals
-
-Many funding proposals have been made to fund the Pollen Swarm:
-
-* [https://forum.1hive.org/t/dev-cred-proposal/29/6](https://forum.1hive.org/t/dev-cred-proposal/29/6)
-* [https://forum.1hive.org/t/social-cred-proposal/40/5](https://forum.1hive.org/t/social-cred-proposal/40/5)
-* [https://forum.1hive.org/t/new-pollen-proposal-for-period-starting-oct-23/407](https://forum.1hive.org/t/new-pollen-proposal-for-period-starting-oct-23/407)
-* [https://forum.1hive.org/t/new-pollen-proposal-for-period-starting-nov-30/1515](https://forum.1hive.org/t/new-pollen-proposal-for-period-starting-nov-30/1515)
+| [hernandoagf](https://forum.1hive.org/u/hernandoagf/summary) | DAO member |
+| [felix](https://forum.1hive.org/u/felix/summary) | DAO member |
+| [clip](https://forum.1hive.org/u/cryptoclip/summary) | DAO member |
 

@@ -14,8 +14,6 @@ The 🌺Flora Swarm are individuals who actively maintain server infrastructure 
 
 ## Roles and Responsibilities
 
-### Flora Members
-
 | Member | Role |
 | :--- | :--- |
 | [anisoptera](https://github.com/anisoptera) | Validator maintainer & multisig keyholder |

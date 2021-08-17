@@ -29,7 +29,3 @@ The 🦋Morphosis Swarm provides education and courses for 1Hive members to lear
 
 Each **DAO member** has equal voting weight in the Aragon DAO and the roles will evolve as Morphosis becomes more established.
 
-## Funding Proposals
-
-One funding proposal was made which was accepted by the community: [https://forum.1hive.org/t/morphosis-funding-proposal/1517](https://forum.1hive.org/t/morphosis-funding-proposal/1517).
-

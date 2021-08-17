@@ -1,6 +1,6 @@
 # 🌻 Gardens
 
-The 🌻 Garden Swarm members are responsible for building, maintaining the Garden. Payment for contributions is executed once every 2 weeks and can be seen in the Aragon DAO. Development can be seen in the 1Hive Github organization. Links below.
+The 🌻Garden Swarm members are responsible for building, maintaining Gardens. Payment for contributions is executed once every 2 weeks and can be seen in the Aragon DAO. Development can be seen in the 1Hive Github organization. Links below.
 
 ## Useful Links
 
@@ -29,8 +29,4 @@ GitHub [Garden Swarm repositories](https://github.com/orgs/1Hive/teams/gardens-s
 | [Gabi](https://github.com/0xGabi) | Web3 developer and DAO member |
 
 Each **DAO member** has equal voting weight in the Aragon DAO used to distribute funds.
-
-## Funding Proposals
-
-[Proposal \#1](https://forum.1hive.org/t/gardens-swarm-funding-proposal/3414)
 

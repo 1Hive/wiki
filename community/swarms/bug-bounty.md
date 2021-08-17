@@ -23,7 +23,3 @@ The 🐛Bug Bounty Swarm manages the funds available through the [Bug Bounty Pro
 
 Each of the above members have equal voting weight within the bug bounty DAO to distribute rewards.
 
-## Funding Proposals
-
-One funding proposal was made which was accepted by the community: [https://forum.1hive.org/t/funding-for-the-bug-bounty-swarm-dao/1392](https://forum.1hive.org/t/funding-for-the-bug-bounty-swarm-dao/1392).
-

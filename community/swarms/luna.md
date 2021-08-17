@@ -31,7 +31,3 @@ The Luna swarm encourages anyone interested to get involved to experiment with b
 
 The members above have equal voting rights in the Aragon DAO.
 
-## Funding Proposals
-
-One funding proposal was made which was accepted by the community: [https://forum.1hive.org/t/luna-swarm-launch-month-1-funding/1590](https://forum.1hive.org/t/luna-swarm-launch-month-1-funding/1590).
-

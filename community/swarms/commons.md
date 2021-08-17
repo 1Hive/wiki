@@ -55,9 +55,3 @@ The Commons Swarm is built on top of the Gardens project. Both Gardens and Commo
 
 Each of the above members, swarm team and advisors, have equal voting weight within the Commons DAO to manage funds, or are not in the DAO.
 
-## Funding Proposals
-
-One funding proposal was made which was accepted by the community:
-
-* [https://forum.1hive.org/t/bootstrapping-the-1hive-gardens-swarm-dao/1159](https://forum.1hive.org/t/bootstrapping-the-1hive-gardens-swarm-dao/1159)
-

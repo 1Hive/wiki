@@ -4,7 +4,7 @@ description: Media and communication
 
 # 🐝 Buzz
 
-The 🐝 Buzz Swarm is responsible for promoting the 1Hive DAO, its community, and related projects including Honeyswap. Active social media include Twitter, Telegram, Discord, the Forum, GitHub, Reddit, Instagram, Medium, Hacker Noon and YouTube.
+The 🐝Buzz Swarm is responsible for promoting the 1Hive DAO, its community, and related projects including Honeyswap. Active social media include Twitter, Telegram, Discord, the Forum, GitHub, Reddit, Instagram, Medium, Hacker Noon and YouTube.
 
 The Buzz Swarm creates and maintains documentation associated with the 1Hive DAO, including this wiki. 
 
@@ -21,8 +21,6 @@ The Buzz Swarm creates and maintains documentation associated with the 1Hive DAO
 [Buzz DAO Bounty Board](https://www.notion.so/3e13ef2a5d614a828b684640af2212b4?v=20b21ead637341faa87416b85202b584)
 
 ## Roles and Responsibilities
-
-### Buzz DAO Members
 
 | Members | Role |
 | :--- | :--- |
@@ -53,9 +51,4 @@ Each of the above members have equal voting weight within the Buzz DAO to manage
 | [Paul](https://forum.1hive.org/u/paul) | Social Admin |
 | [Blazingthirdeye](https://forum.1hive.org/u/blazingthirdeye) | Social Admin |
 | [T Wells](https://forum.1hive.org/u/twells) | Social Admin |
-
-## Funding Proposals
-
-One funding proposal was made which was accepted by the community:  
-[https://forum.1hive.org/t/proposal-buzz-dao/1645/](https://forum.1hive.org/t/proposal-buzz-dao/1645).
 

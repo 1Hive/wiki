@@ -46,7 +46,7 @@ No, it doesn't. You are not spending your HNY when voting. Your HNY is not locke
 ## Farming
 
 **When will Farms open again?**  
-On June 2nd, 2021, 1Hive presented a major update, introducing Honeycomb and our new farms. [Click Here](https://honeyswap.medium.com/introducing-honeycomb-with-token-farming-by-1hive-e89e09032756) for an in-depth presentation. You can farm at [1hive.io](https://1hive.io/). 
+On June 2nd, 2021, 1Hive presented a major update, introducing [Honeycomb ](../projects/honeycomb/)and our new farms. [Click Here](https://honeyswap.medium.com/introducing-honeycomb-with-token-farming-by-1hive-e89e09032756) for an in-depth presentation. You can farm at [1hive.io](https://1hive.io/). 
 
 On July 1st, 2021, 1Hive's farms landed on Polygon too. [Click here](https://medium.com/honeyswap/1hive-celebrates-polygon-launch-with-airdrop-farms-dac8a467dfb9) for an in-depth presentation.
 

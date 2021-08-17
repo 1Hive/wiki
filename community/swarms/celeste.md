@@ -29,7 +29,3 @@ The 🌞Celeste Swarm members are responsible for building, maintaining and init
 
 Each **DAO member** has equal voting weight in the Aragon DAO used to distribute funds and on launch they will have governance power to update Celeste's config. 
 
-## Funding Proposals
-
-One funding proposal was made which was accepted by the community: [https://forum.1hive.org/t/celeste-swarm-funding-proposal/1451](https://forum.1hive.org/t/celeste-swarm-funding-proposal/1451).
-

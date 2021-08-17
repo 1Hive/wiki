@@ -31,6 +31,14 @@ To convert DAI on the Ethereum network to xDai that lives on the xDai network us
 
 To convert ERC20 tokens on the Ethereum network to ERC20 tokens on the xDai network use the [omnibridge](https://xdai-omnibridge.web.app/).
 
+## Bridging Tokens from other Sidechains
+
+To transfer stablecoins between sidechains using the [xPollinate](https://xpollinate.io/) bridge, which uses [Connext](https://connext.network)'s State Channels, a technology that enables bridging without introducing any new trust assumptions or external validators.
+
+Currently supports the transferring of DAI, USDC and USDT between the Polygon, xDai, Fantom and BSC mainnets.
+
+{% page-ref page="xpollinate.md" %}
+
 ## Other Info
 
 Ensure that no matter what MetaMask sets your gas cost to, that you always set it to 1. xDai gas cost is always 1 Gwei, paying less than this it's unlikely your transaction will be accepted, paying more than this will waste xDai. The gas limit should typically be left as it is.
