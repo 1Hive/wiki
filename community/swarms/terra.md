@@ -36,7 +36,7 @@ Each of the above members have equal voting weight within the Terra DAO to manag
 | [enti](https://forum.1hive.org/u/eenti/activity) | Spanish |
 | [hernandoagf](https://forum.1hive.org/u/hernandoagf/summary) | Spanish |
 | [mrtdlgc](https://forum.1hive.org/u/mrtdlgc/summary) | Turkish |
-| [armaggan](https://forum.1hive.org/u/armggan/summary) | Turkish |
+| [armaggan](https://forum.1hive.org/u/armog/summary) | Turkish |
 | bugonasafari | Turkish |
 | [Etsyo](https://forum.1hive.org/u/etsyo/summary) | Turkish |
 | [dw](https://forum.1hive.org/u/farmerd/summary) | Portuguese |
