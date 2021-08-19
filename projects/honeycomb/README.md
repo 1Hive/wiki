@@ -36,7 +36,7 @@ Under development, currently sends you to the Honeyswap webpage.
 
 ## Lend/Borrow
 
-Under development, currently sends you to the Honeyswap webpage.
+Under development, see [Agave ](../agave.md)for more information.
 
 ## Airdrop
 
