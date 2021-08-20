@@ -66,7 +66,7 @@ xComb farming contract is not upgradeable, but the xComb tokens held by the cont
 
 **Admin**: Can change the manager address and initialize a migration by withdrawing xComb and unlocking all time-locked deposits.
 
-Initially the [Tulip swarm multisig ](https://polygon.gnosis-safe.io/app/#/safes/0xD5a0d695589Fa9dEC023638b8dD24D71f051C63C/balances)will serve as the Manager, and 1Hive [Decisions](../honey/decisions.md) will control the Admin role.
+Initially the [Tulip swarm multisig ](https://polygon.gnosis-safe.io/app/#/safes/0x8FD5d923530fb4276a85B262287665c3bcD560a6/balances)will serve as the Manager, and 1Hive [Decisions](../honey/decisions.md) will control the Admin role.
 
 ## Farm Contracts
 
