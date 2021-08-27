@@ -25,10 +25,10 @@
 * [Honeycomb](projects/honeycomb/README.md)
   * [Farms on xDai](projects/honeycomb/honeyswap-on-xdai-1.md)
   * [Farms on Polygon](projects/honeycomb/honeyswap-on-polygon.md)
-* [Quests](projects/quests.md)
 * [Celeste](https://1hive.gitbook.io/celeste/)
 * [Gardens](https://1hive.gitbook.io/gardens/)
 * [Agave](projects/agave.md)
+* [Quests](projects/quests.md)
 
 ## 🌳Community
 
