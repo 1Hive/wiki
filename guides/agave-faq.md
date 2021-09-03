@@ -23,10 +23,10 @@ Circulating Supply: 27,799k
 **Where can I find regular updates about the project?**  
 We are providing weekly updates. You can read them all here:
 
-[\#1](https://medium.com/agavefinance/agave-development-update-65a8e0baba83) / [\#2](https://medium.com/agavefinance/agave-development-update-2-a8e92727483b) / [\#3](https://medium.com/agavefinance/agave-development-update-week-of-april-17-2021-99f5b5fd2821) / [\#4](https://medium.com/agavefinance/agave-development-update-4-3a0984d95983) / [\#5](https://medium.com/agavefinance/agave-development-updates-5-1-8-may-2021-5ec91ca0b301) / [\#6](https://medium.com/agavefinance/agave-development-updates-6-8-14-may-2021-524bea4ee5d8) / [\#7](https://medium.com/agavefinance/agave-development-updates-7-9-21-may-2021-415932cd959e) / [\#8](https://medium.com/agavefinance/agave-development-updates-8-21-28-may-2021-9e2bb95c3210) / [\#9](https://medium.com/agavefinance/agave-development-update-9-28-may-04-june-2021-a87353f4ea9)  / [\#10](https://medium.com/agavefinance/agave-development-update-10-04-11-june-2021-85788483443f) / [\#11](https://medium.com/agavefinance/agave-development-update-11-11-18-june-2021-27672f402418) / [\#12](https://medium.com/agavefinance/agave-development-update-12-19-25-june-2021-771fb2b6b026) / [\#13](https://medium.com/agavefinance/agave-development-update-13-26-june-3-july-2021-b6cc74903a98)
+[\#1](https://medium.com/agavefinance/agave-development-update-65a8e0baba83) / [\#2](https://medium.com/agavefinance/agave-development-update-2-a8e92727483b) / [\#3](https://medium.com/agavefinance/agave-development-update-week-of-april-17-2021-99f5b5fd2821) / [\#4](https://medium.com/agavefinance/agave-development-update-4-3a0984d95983) / [\#5](https://medium.com/agavefinance/agave-development-updates-5-1-8-may-2021-5ec91ca0b301) / [\#6](https://medium.com/agavefinance/agave-development-updates-6-8-14-may-2021-524bea4ee5d8) / [\#7](https://medium.com/agavefinance/agave-development-updates-7-9-21-may-2021-415932cd959e) / [\#8](https://medium.com/agavefinance/agave-development-updates-8-21-28-may-2021-9e2bb95c3210) / [\#9](https://medium.com/agavefinance/agave-development-update-9-28-may-04-june-2021-a87353f4ea9)  / [\#10](https://medium.com/agavefinance/agave-development-update-10-04-11-june-2021-85788483443f) / [\#11](https://medium.com/agavefinance/agave-development-update-11-11-18-june-2021-27672f402418) / [\#12](https://medium.com/agavefinance/agave-development-update-12-19-25-june-2021-771fb2b6b026) / [\#13](https://medium.com/agavefinance/agave-development-update-13-26-june-3-july-2021-b6cc74903a98) / [\#14](https://medium.com/agavefinance/agave-development-update-14-04-10-july-2021-a8613fa8be0c) / [\#15](https://medium.com/agavefinance/agave-development-update-15-11-17-july-2021-92ba84578e9d) / [\#16](https://medium.com/agavefinance/agave-development-update-16-30th-july-6th-august-2021-78b778325dc3) / [\#17](https://medium.com/agavefinance/agave-development-update-17-7th-13th-august-2021-1729c1f97721) / [\#18](https://medium.com/agavefinance/agave-development-update-18-14th-20th-august-2021-610f22109b5e) / [\#19](https://medium.com/agavefinance/agave-development-update-19-21th-27th-august-2021-f60b48e8d940)
 
 **When will the product launch?**  
-On May 1st, we received successful feedback from [Chainsulting](https://chainsulting.de/), the company running the audit of Agave's contracts. Before the official launch of the platform, we will run a testing phase to make sure that everything is running perfectly. After this step, Agave's platform will be launched. Although the hope is to release the product soon, we do not want to rush deliveries.
+Our [Agave Platform](https://agave.finance/) is officially up and running from September 1st! Prior to launch, the audit of Agave's contracts has been completed by [Chainsulting](https://chainsulting.de/) on May 1st.
 
 **Where can I find a roadmap for Agave?**  
 Here is a simplified roadmap for Agave, subject to change
@@ -52,20 +52,8 @@ Other available charts are on [Coingecko](https://www.coingecko.com/en/coins/aga
 **Where can I track LP rewards?**  
 LP tracking can be found on [Liquidityfolio](https://www.liquidityfolio.com/)
 
-**Why wasn’t I eligible for the airdrop?**  
-More than an airdrop, the $AGVE token was distributed to contributors and active members of the 1Hive community, prior to a snapshot which took place on January 25th. [Here](https://forum.1hive.org/t/agave-contributor-distribution-announcement/2373) you can find info regarding the token supply, the token allocation, and the list of eligible addresses.
-
-**How do I claim my contributor distribution?**  
-If you were eligible for the contributor distribution \(Please check the list of addresses [here](https://pastebin.com/hjYcbK1k)\) your allocation of $AGVE was already sent to your wallet.
-
 **Will there be a future airdrop?**  
 Although this is pure speculation since we are a DAO and this would require a community vote there appears to be some interest in an airdrop after deployment. The airdrop could focus on attracting TVL. This portion of the airdrop can be very specifically targeted to eliminate gaming. There may also be a marketing/hype component giving people ample time to so people may participate.
-
-**What happened during the token launch on February 28th?**  
-During the token launch traders experienced high volatility due to a mistake made while opening the AGVE/HNY pool: The intended ratio of 50HNY/10,000 AGVE ratio was set at 50HNY/1000AGVE. This created a chain of events which caused extreme volatility and the team pulled the liquidity off and reinserted it in another pool \(AGVE-WETH\) at the proper ratio. Some users may have occurred in some losses, while others may have benefited from this. Please, read [Reflection on the Agave Launch](https://forum.1hive.org/t/reflection-on-the-agave-launch/2517) to gather more context.
-
-**I was affected by the mistake regarding the initial liquidity and bought $AGVE at a very high price. What will happen now?**  
-Given that, when trading, the responsibility is of the trader, those who were heavily affected by $AGVE’s price received a compensation proposed by the team members and voted by the community, outlined in [this post](https://forum.1hive.org/t/agave-reparations-proposal/2822).
 
 **How can I provide liquidity and for which pair?**  
 At the moment, the 3 largest pairs for $AGVE: [AGVE-WETH](https://info.honeyswap.org/pair/0xeba7cc57e6f745b8d5cab829e07346c65393d78e), [AGVE-HNY](https://info.honeyswap.org/pair/0x50a4867aee9cafd6ddc84de3ce59df027cb29084) and [AGVE-XDAI](https://info.honeyswap.org/pair/0x0e3e9cceb13c9f8c6faf7a0f00f872d6291630de).
@@ -118,15 +106,4 @@ Currently, this is not possible, but everything is in place to allow this functi
 
 **What happens in 6 months, does it automatically unstake?**  
 Maybe. You may still have to manually unstake at that time. We’ll communicate before then about what will happen when the period ends. There won't be any loss of rewards if you don't unstake right away, but you will still have the cooldown to contend with. Our plan is that this will transition to receiving a share of the protocol rewards when it launches, in which case you wouldn't ever want to unstake.
-
-## Alvin
-
-**What happened to Alvin?**  
-On May 25th, 2021, [http://dripp.farm](http://dripp.farm/) had its liquidity pools drained for both the ALVIN and SHWEATPANTS tokens, resulting in a collapse of the price. Although Agave is not responsible for what happened - nor affiliated with the creator of the project - we will support our community members who incurred losses. [Read here](https://forum.1hive.org/t/dripp-farm-a-retrospective/3895) for a post-mortem and [here](https://forum.1hive.org/t/alvin-and-the-dripp-ocalypse/3757) for more information.
-
-**What / Who is Alvin?**  
-Alvin is an ERC20 that is exchangeable \(in whole number quantities\) for a limited edition plushie of the agave logo character \(named Alvin\) and an NFT \(Non Fungible Token\). Inspired by the success obtained by Unisocks \(worth over 100k at the time of writing\), it is the first collaboration \(Cross-Pollination\) between [1Hive](https://1hive.org/) and [Shenanigan](https://she.energy/).
-
-**Can I still redeem my Alvin plushie \(Or my Shweatpants\)?**  
-At this point, we are looking for a fair solution to solve the situation, by keeping in consideration the needs and the rights of everyone involved. We will update the community as soon as there is something tangible to share.
 
