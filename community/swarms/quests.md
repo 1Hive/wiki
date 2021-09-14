@@ -1,4 +1,4 @@
-# 🌟Quests
+# 🌟 Quests
 
 The 🌟Quests Swarm members are responsible for building, maintaining Quests, a platform allowing different stakeholders to interact easily and interactively through a quest. A single quest is basically a fundable task where some people can complete it and earn a reward \(e.g. $HNY\).
 

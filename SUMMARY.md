@@ -38,7 +38,7 @@
   * [🌺 Flora](community/swarms/flora.md)
   * [🌞 Celeste](community/swarms/celeste.md)
   * [🌻 Gardens](community/swarms/gardens.md)
-  * [🌟Quests](community/swarms/quests.md)
+  * [🌟 Quests](community/swarms/quests.md)
   * [🏵 Pollen](community/swarms/pollen.md)
   * [🐝 Buzz](community/swarms/buzz.md)
   * [🌍 Terra](community/swarms/terra.md)
