@@ -12,5 +12,3 @@ For details about BrightID and getting verified see the BrightID website:
 
 {% embed url="https://www.brightid.org/" %}
 
-
-

@@ -22,9 +22,13 @@ Inside Honeycomb are also the farms for Honeyswap, which promote deep liquidity,
 
 You can view the incentivized trading pairs here:
 
-{% page-ref page="honeyswap-on-xdai-1.md" %}
+{% content-ref url="honeyswap-on-xdai-1.md" %}
+[honeyswap-on-xdai-1.md](honeyswap-on-xdai-1.md)
+{% endcontent-ref %}
 
-{% page-ref page="honeyswap-on-polygon.md" %}
+{% content-ref url="honeyswap-on-polygon.md" %}
+[honeyswap-on-polygon.md](honeyswap-on-polygon.md)
+{% endcontent-ref %}
 
 ## Swap
 
@@ -43,4 +47,3 @@ Under development, see [Agave ](../agave.md)for more information.
 Due to the launch of the farms, a retroactive airdrop was setted up as a reward and a thank you for those who were providing liquidity before the farms were launched.
 
 10% could be withdrawn from day one and the remaining 90% is vested for 6 months after launch; through this screen you can keep collecting your COMB tokens.
-

@@ -18,36 +18,35 @@ The 🌍Terra Swarm is responsible for translating documentation from other swar
 
 ### Terra DAO Members
 
-| Members | Role |
-| :--- | :--- |
-| [lescanore](https://forum.1hive.org/u/Escanor/summary) | Translations Lead, Multi Linguist & Demographic Expert |
-| [boring877](https://forum.1hive.org/u/boring877/summary) | Accounts and Management, Multi Linguist |
-| [mrtdlgc](https://forum.1hive.org/u/mrtdlgc/summary) | Translation Expert, Researcher |
-| [dogeking](https://forum.1hive.org/u/dogeking/summary) | Discord organizer and Active Member |
-| [stonky](https://forum.1hive.org/u/stonky/summary) | Translation Expert, Researcher |
+| Members                                                  | Role                                                   |
+| -------------------------------------------------------- | ------------------------------------------------------ |
+| [lescanore](https://forum.1hive.org/u/Escanor/summary)   | Translations Lead, Multi Linguist & Demographic Expert |
+| [boring877](https://forum.1hive.org/u/boring877/summary) | Accounts and Management, Multi Linguist                |
+| [mrtdlgc](https://forum.1hive.org/u/mrtdlgc/summary)     | Translation Expert, Researcher                         |
+| [dogeking](https://forum.1hive.org/u/dogeking/summary)   | Discord organizer and Active Member                    |
+| [stonky](https://forum.1hive.org/u/stonky/summary)       | Translation Expert, Researcher                         |
 
 Each of the above members have equal voting weight within the Terra DAO to manage funds.
 
 ### Terra Translators
 
-| Members | Language |
-| :--- | :--- |
-| [lescanore](https://forum.1hive.org/u/escanor/summary) | Spanish |
-| [enti](https://forum.1hive.org/u/eenti/activity) | Spanish |
-| [hernandoagf](https://forum.1hive.org/u/hernandoagf/summary) | Spanish |
-| [mrtdlgc](https://forum.1hive.org/u/mrtdlgc/summary) | Turkish |
-| [armaggan](https://forum.1hive.org/u/armog/summary) | Turkish |
-| bugonasafari | Turkish |
-| [Etsyo](https://forum.1hive.org/u/etsyo/summary) | Turkish |
-| [dw](https://forum.1hive.org/u/farmerd/summary) | Portuguese |
-| [luigy](https://forum.1hive.org/u/luigy/summary) | Portuguese |
-| [stonky](https://forum.1hive.org/u/stonky/summary) | Italian |
-| [Goldoni](https://forum.1hive.org/u/goldoni/summary) | Italian |
-| [Fried](https://forum.1hive.org/u/friedrengi/summary) | German |
-| amoxa | German |
-| [omahs](https://forum.1hive.org/u/omahs/summary) | French |
-| Merve | French |
-| [Felix](https://forum.1hive.org/u/felix/summary) | French |
-| [zer8](https://forum.1hive.org/u/zer8/summary) | Romanian |
-| [solarmkd](https://forum.1hive.org/u/solarmkd/summary) | Romanian |
-
+| Members                                                      | Language   |
+| ------------------------------------------------------------ | ---------- |
+| [lescanore](https://forum.1hive.org/u/escanor/summary)       | Spanish    |
+| [enti](https://forum.1hive.org/u/eenti/activity)             | Spanish    |
+| [hernandoagf](https://forum.1hive.org/u/hernandoagf/summary) | Spanish    |
+| [mrtdlgc](https://forum.1hive.org/u/mrtdlgc/summary)         | Turkish    |
+| [armaggan](https://forum.1hive.org/u/armog/summary)          | Turkish    |
+| bugonasafari                                                 | Turkish    |
+| [Etsyo](https://forum.1hive.org/u/etsyo/summary)             | Turkish    |
+| [dw](https://forum.1hive.org/u/farmerd/summary)              | Portuguese |
+| [luigy](https://forum.1hive.org/u/luigy/summary)             | Portuguese |
+| [stonky](https://forum.1hive.org/u/stonky/summary)           | Italian    |
+| [Goldoni](https://forum.1hive.org/u/goldoni/summary)         | Italian    |
+| [Fried](https://forum.1hive.org/u/friedrengi/summary)        | German     |
+| amoxa                                                        | German     |
+| [omahs](https://forum.1hive.org/u/omahs/summary)             | French     |
+| Merve                                                        | French     |
+| [Felix](https://forum.1hive.org/u/felix/summary)             | French     |
+| [zer8](https://forum.1hive.org/u/zer8/summary)               | Romanian   |
+| [solarmkd](https://forum.1hive.org/u/solarmkd/summary)       | Romanian   |

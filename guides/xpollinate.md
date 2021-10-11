@@ -16,7 +16,7 @@ _At a high level, Connext lets users swap **assetA** on **chainA** for **assetB*
 
 _1._ _Alice, a user of Connext, sends a conditional transfer of **assetA** to Bob._
 
-_2._ _Bob, a liquidity provider \(aka a router\), sends an equivalent amount of **assetB** to Alice._
+_2._ _Bob, a liquidity provider (aka a router), sends an equivalent amount of **assetB** to Alice._
 
 _3._ _Alice unlocks her conditional transfer to receive **assetB**, which in turn allows Bob to do the same._
 
@@ -27,36 +27,35 @@ It currently supports the transferring of DAI, USDC and USDT between the Polygon
 ## **How to Use xPollinate**
 
 {% hint style="info" %}
-If you run into any issues using the bridge, feel free to contact Connext support [here](https://support.connext.network/).
+If you run into any issues using the bridge, feel free to contact Connext support [here](https://support.connext.network).
 {% endhint %}
 
-**Step 1** — Go to [xpollinate.io](https://xpollinate.io/) and connect your wallet to the chain yo want to transfer from.
+**Step 1 **— Go to [xpollinate.io](https://xpollinate.io) and connect your wallet to the chain yo want to transfer from.
 
 _**Note:** Make sure to confirm that there's enough exit liquidity for the token and network you intend to bridge to._
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](<../.gitbook/assets/image (31).png>)
 
-**Step 2** — Enter the Receiver's address \(it can be the same address on the other chain, or you can choose a different address. Then press Swap.
+**Step 2 **— Enter the Receiver's address (it can be the same address on the other chain, or you can choose a different address. Then press Swap.
 
-![](../.gitbook/assets/sin-titulo%20%281%29.png)
+![](<../.gitbook/assets/Sin título.png>)
 
-**Step 3** — Sign in your wallet to confirm channel setup.
+**Step 3 **— Sign in your wallet to confirm channel setup.
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](<../.gitbook/assets/image (34).png>)
 
-**Step 4** — Enter the amount to transfer and confirm the Receiver Addres. Then press Swap.
+**Step 4 **— Enter the amount to transfer and confirm the Receiver Addres. Then press Swap.
 
-![](../.gitbook/assets/sin-titulo%20%282%29.png)
+![](<../.gitbook/assets/Sin título (2).png>)
 
-**Step 5** — Confirm the transaction in your web3 wallet.
+**Step 5 **— Confirm the transaction in your web3 wallet.
 
-![](../.gitbook/assets/sin-titulo%20%283%29.png)
+![](<../.gitbook/assets/Sin título (3).png>)
 
-**Step 6** — As a precaution, the transaction must have 10+ confirmations before being sent on the other network. After it's completed you will see the following success message. You can click on the VIEW TX button to see the transaction in the Block Explorer.
+**Step 6 **— As a precaution, the transaction must have 10+ confirmations before being sent on the other network. After it's completed you will see the following success message. You can click on the VIEW TX button to see the transaction in the Block Explorer.
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](<../.gitbook/assets/image (35).png>)
 
 The following short video also explains how easy and fast it is to use the bridge:
 
 {% embed url="https://youtu.be/RlcyBtz3R2w" %}
-

@@ -16,16 +16,15 @@ The 🏵Pollen Swarm manages the 1Hive SourceCred instance. Details can be seen 
 
 ## Roles and Responsibilities
 
-| Member | Role |
-| :--- | :--- |
+| Member                                                        | Role                            |
+| ------------------------------------------------------------- | ------------------------------- |
 | [sandpiper](https://forum.1hive.org/u/befitsandpiper/summary) | Primary Operator and DAO member |
-| [lkngtn](https://forum.1hive.org/u/lkngtn) | DAO member |
-| [crisog](https://forum.1hive.org/u/crisog) | DAO member |
-| [luigy](https://forum.1hive.org/u/luigy/summary) | DAO member |
-| [rayne](https://forum.1hive.org/u/rayne/summary) | DAO member |
-| [jasper](https://forum.1hive.org/u/jasper/summary) | DAO member |
-| [sem](https://forum.1hive.org/u/sem) | DAO member |
-| [hernandoagf](https://forum.1hive.org/u/hernandoagf/summary) | DAO member |
-| [felix](https://forum.1hive.org/u/felix/summary) | DAO member |
-| [clip](https://forum.1hive.org/u/cryptoclip/summary) | DAO member |
-
+| [lkngtn](https://forum.1hive.org/u/lkngtn)                    | DAO member                      |
+| [crisog](https://forum.1hive.org/u/crisog)                    | DAO member                      |
+| [luigy](https://forum.1hive.org/u/luigy/summary)              | DAO member                      |
+| [rayne](https://forum.1hive.org/u/rayne/summary)              | DAO member                      |
+| [jasper](https://forum.1hive.org/u/jasper/summary)            | DAO member                      |
+| [sem](https://forum.1hive.org/u/sem)                          | DAO member                      |
+| [hernandoagf](https://forum.1hive.org/u/hernandoagf/summary)  | DAO member                      |
+| [felix](https://forum.1hive.org/u/felix/summary)              | DAO member                      |
+| [clip](https://forum.1hive.org/u/cryptoclip/summary)          | DAO member                      |

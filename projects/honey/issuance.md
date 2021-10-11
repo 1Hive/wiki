@@ -18,15 +18,15 @@ It is encouraged for people who are interested in understanding the mechanism to
 
 Adjustments to the supply are calculated using a proportional control function where the further from the target ratio the system is the greater the magnitude of adjustment are.
 
-```text
+```
 error = (1 - current_ratio / target_ratio) / seconds_per_year
 ```
 
-This `error` term tells us how much we should be adjusting the supply to get back to the target ratio. The `seconds_per_year` constant smooths the adjustments so that even though we can adjust on a per block basis, it would take approximately a year \(all else equal\) for the system to get back to the target ratio.
+This `error` term tells us how much we should be adjusting the supply to get back to the target ratio. The `seconds_per_year` constant smooths the adjustments so that even though we can adjust on a per block basis, it would take approximately a year (all else equal) for the system to get back to the target ratio.
 
 To ensure that we can provide a simple and easy to understand upper bound on how quickly the total supply can change over time, we limit the magnitude of any adjustment by a throttle parameter.
 
-```text
+```
 error = (1 - current_ratio / target_ratio) / seconds_per_year
 
 if error < 0:
@@ -39,12 +39,11 @@ In practice the throttle is an artificial limit on the ability for the mechanism
 
 The two important parameters of the policy are set to the following values. 
 
-| Parameter | Value | Notes |
-| :--- | :--- | :--- |
-| targetRatio | 3000000000 | Fractional ratio value multiplied by RATIO\_PRECISION in contract \(1e10\) eg a target ratio of 30% or **0.3** would be 3e9 |
-| maxAdjustmentRatioPerSecond | 3170979198 | A max adjustment ratio \(throttle\) of 10% or **0.1** would be 0.1 / 31536000 \(seconds in year\) = 0.000000003170979198 multiplied by EXTRA\_PRECISION in contract \(1e18\) = 3170979198 |
+| Parameter                   | Value      | Notes                                                                                                                                                                              |
+| --------------------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| targetRatio                 | 3000000000 | Fractional ratio value multiplied by RATIO_PRECISION in contract (1e10) eg a target ratio of 30% or **0.3 **would be 3e9                                                           |
+| maxAdjustmentRatioPerSecond | 3170979198 | A max adjustment ratio (throttle) of 10% or **0.1** would be 0.1 / 31536000 (seconds in year) = 0.000000003170979198 multiplied by EXTRA_PRECISION in contract (1e18) = 3170979198 |
 
 ### Automation
 
 There is not currently any automation to ensure that the `executeAdjustment()` function is called regularly. However, anyone is welcome to call it and can do so by clicking the honey logo on the `1hive.org` frontend. 
-

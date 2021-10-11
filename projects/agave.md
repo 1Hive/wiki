@@ -10,9 +10,9 @@ This page reflects the [initial Agave proposal](https://forum.1hive.org/t/announ
 
 ## Overview
 
-Agave is a decentralized non-custodial money market protocol where users can participate as depositors or borrower. It is a fork of [Aave](https://aave.com/) deployed on xDAI.
+Agave is a decentralized non-custodial money market protocol where users can participate as depositors or borrower. It is a fork of [Aave](https://aave.com) deployed on xDAI.
 
-Depositors provide liquidity to the market to earn a passive income, while borrowers can borrow in an overcollateralized \(perpetually\) or undercollateralized \(one-block liquidity\) fashion \(i.e., flash loans\).
+Depositors provide liquidity to the market to earn a passive income, while borrowers can borrow in an overcollateralized (perpetually) or undercollateralized (one-block liquidity) fashion (i.e., flash loans).
 
 ### How does it work?
 
@@ -43,7 +43,7 @@ Agave has a token primarily used for governance over the protocol.
 * Adding/removing tokens from the market
 * Enabling/disabling the ability to use specific tokens as collateral
 * Setting the collateral rates
-* Maximum LTV \(loan to value rate\)
+* Maximum LTV (loan to value rate)
 * Liquidation threshold
 * Liquidation penalty
 * Used as collateral
@@ -53,7 +53,7 @@ The token is also stakeable, giving `AGAVE` holders the ability to earn a yield 
 
 ## How does this benefit 1Hive?
 
-Currently, we have Honeyswap, which allows users to trade on xDAI with super low transaction fees. Given the relatively low volume, the total fees generated in HoneySwap \(0.3% per trade\) are rather low, and as such we have subsidized liquidity providers by allowing them to farm `HNY`. This has had mixed results.
+Currently, we have Honeyswap, which allows users to trade on xDAI with super low transaction fees. Given the relatively low volume, the total fees generated in HoneySwap (0.3% per trade) are rather low, and as such we have subsidized liquidity providers by allowing them to farm `HNY`. This has had mixed results.
 
 With Agave, we would enable users to earn a yield on regular HoneySwap Liquidity tokens without a `HNY` subsidy. It also adds extra incentives to liquidity providers by giving them an additional stream of income above the fees generated on HoneySwap.
 
@@ -64,4 +64,3 @@ Although we will be forking Aave, we will use this as a base for a protocol that
 Token listing on Agave will be more frictionless than Aave. Using Celeste, anyone can add a token to the Agave market by staking the Agave token, if a token does not meet the associated [Aragon Agreement](https://aragon.org/agreements) it can be challenged with Celeste.
 
 These are some ways that Agave will provide `HNY` more utility as well as increase the price of `HNY`.
-

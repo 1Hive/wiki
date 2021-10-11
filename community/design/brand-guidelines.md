@@ -14,7 +14,7 @@ description: Guidance and assets for the 1Hive design aesthetic.
 ### Some aspects to take into account:
 
 * Avoid hard and straight lines, and an over emphasis on the alien/insect aesthetic.
-* Our brand should feel friendly and simple but it shouldn't look cartoonish \(eg a bee with a face\). 
+* Our brand should feel friendly and simple but it shouldn't look cartoonish (eg a bee with a face). 
 
 {% hint style="info" %}
 You can also see the brand guidelines in this [Figma File](https://www.figma.com/file/6o6Ik2f0D6HiLzRWwgeOQd/Brand-guidelines).
@@ -24,18 +24,18 @@ You can also see the brand guidelines in this [Figma File](https://www.figma.com
 
 We use the golden ratio for the proportions of the logo and in the development of different graphic elements for various reasons:
 
-* It is **present in nature**, like all the concepts used in 1Hive \(bees, honey, hive, dandelion, etc\)
+* It is **present in nature**, like all the concepts used in 1Hive (bees, honey, hive, dandelion, etc)
 * Things that possess it are **proportionally pleasing** and that is related to the fact that we seek to make our identity feel friendly, casual and relatable.
 * It doesn’t look complex at first glance, but it hides interesting logic. This is strongly related to 1Hive, because we want to maintain complexity below the surface.
 * When we were investigating, we found a curious fact: **golden ratio is present in hives too.** If you divide the number of female bees by the number of males bees you get 1.618, the golden ratio. This mathematical sequence works for any honeybee hive at any give time.
 
 
 
-![](../../.gitbook/assets/group-26-new.jpg)
+![](<../../.gitbook/assets/Group 26 new.jpg>)
 
 
 
-![](../../.gitbook/assets/group.png)
+![](../../.gitbook/assets/Group.png)
 
 {% hint style="info" %}
 The size of circles, rectangles and different forms we use are **multiplied or divided by 1,618** to respect the proportions of the golden ratio.
@@ -49,17 +49,17 @@ We also use opacities of 40% and overlapping elements that allows a more varied 
 
 ### Primary color
 
-![](../../.gitbook/assets/group-20.png)
+![](<../../.gitbook/assets/Group 20.png>)
 
 ### Secondary colors
 
-![](../../.gitbook/assets/group-21.png)
+![](<../../.gitbook/assets/Group 21.png>)
 
-![](../../.gitbook/assets/group-22.png)
+![](<../../.gitbook/assets/Group 22.png>)
 
-![](../../.gitbook/assets/group-23.png)
+![](<../../.gitbook/assets/Group 23.png>)
 
-![](../../.gitbook/assets/group-24.png)
+![](<../../.gitbook/assets/Group 24.png>)
 
 {% hint style="info" %}
 See this [Figma file](http://figma.com/file/6o6Ik2f0D6HiLzRWwgeOQd/Brand-guidelines?node-id=15%3A48) to check the HEX color codes and other details such as the grey scale and background's gradient.
@@ -70,4 +70,3 @@ See this [Figma file](http://figma.com/file/6o6Ik2f0D6HiLzRWwgeOQd/Brand-guideli
 [1Hive Design Assets](https://mega.nz/folder/t8dmmJZL) including logos, titles and ubuntu font. Requires the decryption key `giPbW4M9wRTApPF0J6VkgA`
 
 [Community contributed graphics and animations](http://bit.ly/2X7bOER).
-

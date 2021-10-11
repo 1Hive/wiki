@@ -11,7 +11,7 @@ description: >-
 
 At any given time there will be many proposals that have been submitted and are under active consideration. Users can explore all proposals using the open source frontend interface hosted at [1hive.org](https://1hive.org/#/home) and decide which proposals they want to support. Of course, more technical users can run the frontend locally, or interact with the contracts directly.
 
-![Proposal Feed](../../.gitbook/assets/image%20%285%29.png)
+![Proposal Feed](<../../.gitbook/assets/image (1).png>)
 
 You can filter the feed by proposal type or status, and can sort based on support or the time that were created. The feed contains different types of proposals and its important to understand the difference between proposal types.
 
@@ -37,7 +37,7 @@ In these instances a more traditional voting process is used, where a descrete a
 
 ## Submitting proposals
 
-Before submitting a proposal, you should first make a forum post on [forum.1hive.org](https://forum.1hive.org/). This is where you can provide a detailed description of your proposal and its rationale. It also provides a venue for discussion and debate among community members. Creating a proposal in the proposal category will prompt you with a template layout including all required information.
+Before submitting a proposal, you should first make a forum post on [forum.1hive.org](https://forum.1hive.org). This is where you can provide a detailed description of your proposal and its rationale. It also provides a venue for discussion and debate among community members. Creating a proposal in the proposal category will prompt you with a template layout including all required information.
 
 Currently if you fail to do this, you will simply be asked to withdraw your proposal, in the future you will be required to put up stake which could be lost if you don’t follow the appropriate procedure.
 
@@ -52,4 +52,3 @@ Be sure to provide a short but descriptive title, and link to your forum post.
 **Token Supply** is all of the tokens currently in existence.
 
 **Active** is the supply that is currently staked to proposals.
-

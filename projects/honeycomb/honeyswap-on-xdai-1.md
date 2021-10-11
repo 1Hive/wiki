@@ -14,18 +14,18 @@ The remaining `95%` of the xComb supply is scheduled to be distributed via farmi
 
 1% of the xComb emissions can be earned by referring people to the farms, encouraging people to integrate and promote the farms. The remainder of emissions are split between honeyswap pairs proportionally to their allocation points. Allocation points will be adjusted over time to curate the available liquidity in order to attract traders and maximize volume on the exchange. The following table shows the current distribution of allocation points among pairs:
 
-| Pair | Points |
-| :--- | :--- |
-| xDAI-xComb | 20 |
-| xDAI-HNY | 5 |
-| xDAI-AGVE | 5 |
-| HNY-AGVE | 3 |
-| HNY-WETH | 3 |
-| xDAI-STAKE | 2 |
-| xDAI-LINK | 2 |
-| WETH-WBTC | 2 |
-| xDAI-WETH | 2 |
-| USDC-xDAI | 1 |
+| Pair       | Points |
+| ---------- | ------ |
+| xDAI-xComb | 20     |
+| xDAI-HNY   | 5      |
+| xDAI-AGVE  | 5      |
+| HNY-AGVE   | 3      |
+| HNY-WETH   | 3      |
+| xDAI-STAKE | 2      |
+| xDAI-LINK  | 2      |
+| WETH-WBTC  | 2      |
+| xDAI-WETH  | 2      |
+| USDC-xDAI  | 1      |
 
 The pairs included in the farms will be adjusted over time, a framework for evaluating and adding additional pairs is being worked on. Stay tuned!
 
@@ -53,11 +53,9 @@ Initially the [Tulip swarm multisig ](https://xdai.gnosis-safe.io/app/#/safes/0x
 
 **xCombAirdrop:** [`0xdD36008685108aFafc11F88bBc66C39A851Df843`](https://blockscout.com/poa/xdai/address/0xdD36008685108aFafc11F88bBc66C39A851Df843/read-contract)
 
-**FeeReceiver:** [`0xbA13a6414C677d9e7BD3c0BDE5BA4055BF2e72f7`](https://blockscout.com/xdai/mainnet/address/0xbA13a6414C677d9e7BD3c0BDE5BA4055BF2e72f7/transactions)\`\`
+**FeeReceiver:** [`0xbA13a6414C677d9e7BD3c0BDE5BA4055BF2e72f7`](https://blockscout.com/xdai/mainnet/address/0xbA13a6414C677d9e7BD3c0BDE5BA4055BF2e72f7/transactions)``
 
 ### Subgraphs
 
 [Farms Subgraph on xDai](https://api.thegraph.com/subgraphs/name/1hive/honeyfarm-xdai). Source code can be found [here](https://github.com/1Hive/honeyfarm-subgraph).
-
-
 

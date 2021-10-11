@@ -10,5 +10,4 @@ Anyone is welcome to join the public calls scheduled throughout the week by vari
 Note the time is in UTC, regardless of where you're located. To see the calendar in your local time, open it your personal Google calendar by clicking "+ Google Calendar" in the bottom right corner.
 {% endhint %}
 
-{% embed url="https://calendar.google.com/calendar/embed?src=c\_k77c78d1kdt9e1vpk2cvjcc7jg%40group.calendar.google.com&ctz=utc" %}
-
+{% embed url="https://calendar.google.com/calendar/embed?src=c_k77c78d1kdt9e1vpk2cvjcc7jg%40group.calendar.google.com&ctz=utc" %}

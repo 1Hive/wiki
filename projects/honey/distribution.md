@@ -10,7 +10,7 @@ description: >-
 
 Conviction Voting allows proposals to be created and considered continuously and simultaneously. Participants can signal their preferences for the proposals they support, but they are not able to “double count” their influence across multiple proposals. 
 
-When they start supporting a proposal, the support \(called conviction\) does not immediately apply, but instead must charge up over time according to an exponential decay function or half-life.
+When they start supporting a proposal, the support (called conviction) does not immediately apply, but instead must charge up over time according to an exponential decay function or half-life.
 
 Currently there are two types of proposals that impact Honey distribution, signaling proposals which **do not** request honey, and funding proposals which **do** request honey.
 
@@ -18,5 +18,4 @@ For funding proposals, there is an execution threshold that is determined based 
 
 For a deeper dive on the conviction voting, check out this [cadCAD model](https://github.com/BlockScience/Aragon_Conviction_Voting) exploring the mechanism.
 
-The conviction voting implementation 1Hive uses has been developed in collaboration with [Aragon](https://aragon.org/), [Commons Stack](https://commonsstack.org/), and [Block Science](https://block.science/).
-
+The conviction voting implementation 1Hive uses has been developed in collaboration with [Aragon](https://aragon.org), [Commons Stack](https://commonsstack.org), and [Block Science](https://block.science).

@@ -15,4 +15,3 @@ Check out the [Buzz Bounties](../community/media/buzz-bounty.md) for various tas
 Provide help and advice around the community and you may be spotted by the [Support Swarm](../community/swarms/support.md) to be considered as a member.
 
 If there's something you think should be added or updated in the 1Hive Wiki then consider making a [Wiki Contribution](../guides/wiki-contribution.md).
-

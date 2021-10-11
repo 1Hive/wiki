@@ -4,7 +4,7 @@ The 1Hive protocol is based on software built by Aragon. The Aragon client inter
 
 ## 1Hive Aragon DAO addresses
 
-```text
+```
 DAO/Kernel: 0x8ccbeab14b5ac4a431fffc39f4bec4089020a155
 ACL: 0xbc4fb635636b81e60a4e356c4dceb53cac507d03
 ConvictionVoting: 0x0b21081c6f8b1990f53fc76279cc41ba22d7afe2
@@ -19,7 +19,7 @@ Staking (Honey): 0x0e25b918c9fb2fea5d42011d1f4b9f8c61b453e7
 
 ## External contract addresses
 
-```text
+```
 IncentivisedSlidingWindowOracle: 0x6f38D112b13eda1E3abAFC61E296Be2E27F15071
 FeesUpdater: 0xeb24f7001437188baF2D5Ef0b0FcFadAD4564517
 ```
@@ -30,7 +30,7 @@ Anyone can update the Honey price used, fetched from Honeyswap, which is used fo
 
 To update the price for a particular pair requires calling the `update` function on the [IncentivisedSlidingWindowOracle in Blockscout](https://blockscout.com/poa/xdai/address/0x6f38D112b13eda1E3abAFC61E296Be2E27F15071/write-contract) with the tokens that you want to update the price for. 1Hive runs a service that should call this automatically but it is available for anyone to call. For our purposes we want to call it with the tokens:
 
-Honey `0x71850b7e9ee3f13ab46d67167341e4bdc905eef9`  
+Honey `0x71850b7e9ee3f13ab46d67167341e4bdc905eef9`\
 Wrapped xDai`0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d`
 
 The price oracle requires `update` to be called once every 3 hours for a specific pair. If it is not updated once every 3 hours within the previous 24 hours, calls checking prices will revert.
@@ -41,7 +41,7 @@ Anyone can update the Celeste fees, paid for in Honey, but which are defined usi
 
 ## Celeste and modules addresses
 
-```text
+```
 Celeste: 0x44E4fCFed14E1285c9e0F6eae77D5fDd0F196f85
 Dispute: 0xeC7904e20b69F60966D6c6b9DC534355614dd922
 Registry: 0x8C9968a2b16bc1cD0eaD74F5eeF25E899e795501
@@ -49,4 +49,3 @@ Voting: 0x1a0d15f1f6d90C2b71EbA3859a1F30c91E5af9b
 Treasury: 0xeac1dc5ccF09E2b816F9544878CD513728Fa6af7
 Subscriptions: 0x4e4EA6845d7656d569DC4CCC7b68Bb3023720837
 ```
-

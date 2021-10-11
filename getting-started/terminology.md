@@ -12,7 +12,7 @@ There are various **Projects** and [**Swarms**](../community/swarms/), with goal
 
 [🌻**Gardens**](https://1hive.gitbook.io/gardens/) - A platform where communities can issue their own currencies and existing token projects can engage their community by sponsoring community directed development efforts.
 
-\*\*\*\*[**👨‍🌾Honeycomb**](../projects/honeycomb/) - An open platform open-source interface for managing DeFi positions, including depositing and withdrawing from Comb farms.
+****[**👨‍🌾Honeycomb**](../projects/honeycomb/) - An open platform open-source interface for managing DeFi positions, including depositing and withdrawing from Comb farms.
 
 [🌵**Agave**](../projects/agave.md) - A decentralised non-custodial liquidity market protocol where users can participate as depositors or borrowers. It's a fork of Aave and unlike our other projects, the Agave protocol is governed by its own token, [$AGVE](https://blockscout.com/xdai/mainnet/address/0x3a97704a1b25F08aa230ae53B352e2e72ef52843/transactions).
 
@@ -45,4 +45,3 @@ There are various **Projects** and [**Swarms**](../community/swarms/), with goal
 [💛**Support**](../community/swarms/support.md) - A swarm focused on the community, whether it's onboarding or helping users use our products. Members of this swarm are the ones you're likely to come in contact with should you need help with anything.
 
 [🐛**Bug Bounty**](../community/swarms/bug-bounty.md) - A swarm that manages funds available for the 1Hive Contract Bug Bounty program. It is responsible for interpreting and responding to uncovered exploits.
-

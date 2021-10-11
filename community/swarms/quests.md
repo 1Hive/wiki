@@ -1,6 +1,6 @@
 # 🌟 Quests
 
-The 🌟Quests Swarm members are responsible for building, maintaining Quests, a platform allowing different stakeholders to interact easily and interactively through a quest. A single quest is basically a fundable task where some people can complete it and earn a reward \(e.g. $HNY\).
+The 🌟Quests Swarm members are responsible for building, maintaining Quests, a platform allowing different stakeholders to interact easily and interactively through a quest. A single quest is basically a fundable task where some people can complete it and earn a reward (e.g. $HNY).
 
 ## Useful Links
 
@@ -12,11 +12,10 @@ The 🌟Quests Swarm members are responsible for building, maintaining Quests, a
 
 ## Roles and Responsibilities
 
-| Member | Role |
-| :--- | :--- |
-| [felix](https://forum.1hive.org/u/felix/summary) | DAO member |
-| [gossman](https://forum.1hive.org/u/gossman123/summary) | DAO member |
-| redabo8000 | DAO member |
-| fred17 | DAO member |
+| Member                                                      | Role       |
+| ----------------------------------------------------------- | ---------- |
+| [felix](https://forum.1hive.org/u/felix/summary)            | DAO member |
+| [gossman](https://forum.1hive.org/u/gossman123/summary)     | DAO member |
+| redabo8000                                                  | DAO member |
+| fred17                                                      | DAO member |
 | [sundeep](https://forum.1hive.org/u/sundeep_charan/summary) | DAO member |
-

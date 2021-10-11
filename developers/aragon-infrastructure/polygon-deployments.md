@@ -2,7 +2,7 @@
 
 ### Aragon base contracts
 
-```text
+```
 "Kernel" at 0x47c980A62bA89F738A668ED1709Ca5fef2384F21
 "ACL" at 0xe8BB56B204950b0E06188AFf22c0665E71ED8312
 "EVMScriptRegistryFactory" at 0xd066b4136E3318A9a054d04AA90e7B0fc0ae03cb
@@ -30,7 +30,7 @@ Creating subdomain aragonid.eth and assigning it to AragonID
 
 ### Aragon shared contracts
 
-```text
+```
 "BaseTemplate" at 0x8C50E11514E9aA69543F0b369c70c1BED90c78A8
 "MiniMeTokenFactory" at 0x64cDB6caa54Db0703078D6C693cf87Bc16EA777D
 ```
@@ -307,4 +307,3 @@ publish     |   Block number:  14710354
 publish     |   Gas used:      960675
 publish     |
 ```
-

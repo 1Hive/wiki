@@ -15,4 +15,3 @@ Currently 1Hive does not audit it's code, see this post regarding this:
 However, we did have an audit for Dandelion. ConsenSys Diligence conducted a security audit of 1Hive’s Dandelion org template and supporting apps. Dandelion orgs are a DAO template that function similarly to MolochDAO, and are comprised of a suite of modular Aragon apps that can be used in any Aragon DAO.
 
 {% embed url="https://consensys.net/diligence/audits/2019/12/dandelion-organizations/" %}
-

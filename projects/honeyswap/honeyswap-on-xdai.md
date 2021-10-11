@@ -12,7 +12,7 @@ Honeyswap on xDai uses the Uniswap v2 AMM contracts.
 
 **ReferralRewardManager:** [`0x82374C59709AAc2f7864191a3c492932379536F4`](https://blockscout.com/poa/xdai/address/0x82374C59709AAc2f7864191a3c492932379536F4/read-contract)
 
-**FeeReciever:** [`0xbA13a6414C677d9e7BD3c0BDE5BA4055BF2e72f7`](https://blockscout.com/xdai/mainnet/address/0xbA13a6414C677d9e7BD3c0BDE5BA4055BF2e72f7/transactions)\`\`
+**FeeReciever:** [`0xbA13a6414C677d9e7BD3c0BDE5BA4055BF2e72f7`](https://blockscout.com/xdai/mainnet/address/0xbA13a6414C677d9e7BD3c0BDE5BA4055BF2e72f7/transactions)``
 
 ### Subgraphs
 
@@ -23,4 +23,3 @@ Honeyswap on xDai uses the Uniswap v2 AMM contracts.
 ### Honeymaker
 
 [Honeymaker](https://github.com/1hive/honeymaker) is an accompanying bot that periodically calls the `takeProtocolFee()` function on the FeeReceiver contract for selected pairs on Honeyswap to convert the LP fees earned to Honey and xComb.
-

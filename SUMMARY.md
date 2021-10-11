@@ -46,7 +46,7 @@
   * [🌐 Commons](community/swarms/commons.md)
   * [🌜 Luna](community/swarms/luna.md)
   * [🐱 Fauna](community/swarms/fauna.md)
-  * [💛Support](community/swarms/support.md)
+  * [💛 Support](community/swarms/support.md)
   * [🐛 Bug Bounty](community/swarms/bug-bounty.md)
 * [Media](community/media/README.md)
   * [Social Accounts](community/media/social-accounts.md)
@@ -76,4 +76,3 @@
 * [Troubleshooting](guides/troubleshooting.md)
 * [1Hive FAQ](guides/faq.md)
 * [Agave FAQ](guides/agave-faq.md)
-

@@ -2,7 +2,7 @@
 
 ### ENS registry
 
-```text
+```
 Deploying ENSFactory...
 =========
 # ENSFactory:
@@ -19,7 +19,7 @@ Deployed PublicResolver: 0x4De3793A50474304a61276AD927E30eeD35F0edE
 
 ### Aragon base contracts
 
-```text
+```
 Deploying APM...
 Owner: 0x625236038836cecc532664915bd0399647e7826b
 ENS: 0xaafca6b0c89521752e559650206d7c925fd0e530
@@ -99,7 +99,7 @@ open.aragonpm.eth registry DAO: 0x792281C15227F16BbeC04425b60c5B9B678A1c94
 
 ### AragonID
 
-```text
+```
 Deploying AragonID with ENS: 0xaafca6b0c89521752e559650206d7c925fd0e530 and owner: 0x625236038836CecC532664915BD0399647E7826b
 =========
 # FIFSResolvingRegistrar:
@@ -118,7 +118,7 @@ Deployed AragonID: 0x0b3b17f9705783bb51ae8272f3245d6414229b36
 
 ### Minime factory
 
-```text
+```
 =========
 Deploying Minime factory...
 =========
@@ -132,7 +132,7 @@ Compiled at: 2020-05-24T05:55:24.771Z
 
 ### Aragon templates
 
-```text
+```
 =========
 # CompanyTemplate:
 Address: 0x6015b94e02c6cf3f96c59c8775b252695a00fd9d
@@ -167,4 +167,3 @@ Compiled at: 2020-07-24T14:33:19.589Z
 =========
 
 ```
-

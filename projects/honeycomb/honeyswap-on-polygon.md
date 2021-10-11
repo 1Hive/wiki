@@ -44,17 +44,17 @@ We plan on piloting additional incentive programs over the next few months using
 
 ### Current pComb Allocation Points Table
 
-| Pair | Points | Category |
-| :--- | :--- | :--- |
-| wETH-pCOMB | 300 | Keystone |
-| wETH-HNY | 50 | Discretionary |
-| wETH-wMATIC | 50 | Discretionary |
-| wETH-wBTC | 50 | Discretionary |
-| wETH-USDC | 50 | Discretionary |
-| wETH-USDT | 25 | Discretionary |
-| wETH-DAI | 25 | Discretionary |
-| wETH-AAVE | 25 | Discretionary |
-| SURF-WAVE | 13 | Discovery |
+| Pair        | Points | Category      |
+| ----------- | ------ | ------------- |
+| wETH-pCOMB  | 300    | Keystone      |
+| wETH-HNY    | 50     | Discretionary |
+| wETH-wMATIC | 50     | Discretionary |
+| wETH-wBTC   | 50     | Discretionary |
+| wETH-USDC   | 50     | Discretionary |
+| wETH-USDT   | 25     | Discretionary |
+| wETH-DAI    | 25     | Discretionary |
+| wETH-AAVE   | 25     | Discretionary |
+| SURF-WAVE   | 13     | Discovery     |
 
 ## Governance
 
@@ -72,11 +72,10 @@ Initially the [Tulip swarm multisig ](https://polygon.gnosis-safe.io/app/#/safes
 
 **pComb Token**: [`0x37d1ebc3af809b8fadb45dce7077efc629b2b5bb`](https://polygonscan.com/token/0x37d1ebc3af809b8fadb45dce7077efc629b2b5bb)
 
-**pComb Farm**: ****[`0x62d7E2484FCFc6752B9473260efE1B86caBAc34e`](https://polygonscan.com/address/0x62d7E2484FCFc6752B9473260efE1B86caBAc34e#code)
+**pComb Farm**:** **[`0x62d7E2484FCFc6752B9473260efE1B86caBAc34e`](https://polygonscan.com/address/0x62d7E2484FCFc6752B9473260efE1B86caBAc34e#code)
 
-**pCombAirdrop:** [`0x3Fe30742aD8491402c8aee251ff57e3E9b18Ff87`](https://polygonscan.com/address/0x3fe30742ad8491402c8aee251ff57e3e9b18ff87#code)\`\`
+**pCombAirdrop:** [`0x3Fe30742aD8491402c8aee251ff57e3E9b18Ff87`](https://polygonscan.com/address/0x3fe30742ad8491402c8aee251ff57e3e9b18ff87#code)``
 
 ### Subgraphs
 
 [Farms Subgraph on xDai](https://api.thegraph.com/subgraphs/name/1hive/honeyfarm-xdai). Source code can be found [here](https://github.com/1Hive/honeyfarm-subgraph).
-

@@ -14,10 +14,9 @@ The 🌺Flora Swarm are individuals who actively maintain server infrastructure 
 
 ## Roles and Responsibilities
 
-| Member | Role |
-| :--- | :--- |
+| Member                                      | Role                                      |
+| ------------------------------------------- | ----------------------------------------- |
 | [anisoptera](https://github.com/anisoptera) | Validator maintainer & multisig keyholder |
-| [lkngtn](https://github.com/lkngtn) | Multisig keyholder |
-| [crisOG](https://github.com/crisog) | Multisig keyholder |
-| [onbjerg](https://github.com/onbjerg) | Multisig keyholder |
-
+| [lkngtn](https://github.com/lkngtn)         | Multisig keyholder                        |
+| [crisOG](https://github.com/crisog)         | Multisig keyholder                        |
+| [onbjerg](https://github.com/onbjerg)       | Multisig keyholder                        |
