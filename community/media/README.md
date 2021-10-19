@@ -12,5 +12,3 @@ Les comptes de réseaux sociaux [comptes de réseaux sociaux](social-accounts.md
 
 Le [Buzz Swarm](../swarms/buzz.md) a été récemment créé pour la gestion des médias et de la communication. La décentralisation étant la pierre angulaire de 1Hive, les médias et la communication doivent être gérés pour et par la communauté. Consultez la [proposition marketing originale](https://drive.google.com/file/d/1giD4QcVfHNUaAwcXWqEdV4jI2CUSQH24/view) pour plus de détails sur le plan initial. Nous sommes impatients de partager nos expériences dans cette idée innovante de promotion décentralisée.
 
-
-

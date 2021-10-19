@@ -14,9 +14,9 @@ Le pacte communautaire 1Hive est actuellement [ouvert pour examen](https://forum
 
 1Hive est également un protocole économique, similaire à Bitcoin ou Ethereum, où une monnaie numérique, Honey, est émise et distribuée de façon préprogrammée. Contrairement à Bitcoin ou Ethereum, le protocole 1Hive ne définit pas étroitement l'ensemble des activités qui sont importantes, mais s'appuie plutôt sur les membres de la communauté pour guider le processus de distribution en créant et en votant pour des propositions de distribution de Honey.
 
-Le but du protocole 1Hive est de favoriser une économie communautaire saine en allouant un flux régulier de Honey au développement, à l'entretien et à l'amélioration des biens communs qui apportent le plus de valeur à la communauté 1Hive. 
+Le but du protocole 1Hive est de favoriser une économie communautaire saine en allouant un flux régulier de Honey au développement, à l'entretien et à l'amélioration des biens communs qui apportent le plus de valeur à la communauté 1Hive.&#x20;
 
-La croissance de l'économie de 1Hive est directement liée à la capacité des communautés à favoriser une culture inclusive et accueillante. Quand quelqu'un choisit d'acheter ou de conserver du Honey et de participer à l'économie du Honey, il soutient implicitement la culture, les valeurs et les normes de la communauté. 
+La croissance de l'économie de 1Hive est directement liée à la capacité des communautés à favoriser une culture inclusive et accueillante. Quand quelqu'un choisit d'acheter ou de conserver du Honey et de participer à l'économie du Honey, il soutient implicitement la culture, les valeurs et les normes de la communauté.&#x20;
 
 À cette fin, le protocole 1Hive dépend d'un contrat social, qui définit les attentes quant à la manière dont les membres doivent s'engager à la fois avec le protocole et entre eux.
 
@@ -46,17 +46,16 @@ Voici des exemples de comportements inacceptables :
 
 ## **Application en chaîne**
 
-Le mécanisme de mise en application en chaîne dépendra de l'achèvement de Celeste. 
+Le mécanisme de mise en application en chaîne dépendra de l'achèvement de Celeste.&#x20;
 
-La capacité du protocole 1Hive d'appliquer cette convention est limitée aux interactions directes que les membres de la communauté ont avec le protocole, en particulier la capacité des membres de la communauté à soumettre des propositions pour attribuer l'émission de Honey ou ajuster les paramètres du protocole. 
+La capacité du protocole 1Hive d'appliquer cette convention est limitée aux interactions directes que les membres de la communauté ont avec le protocole, en particulier la capacité des membres de la communauté à soumettre des propositions pour attribuer l'émission de Honey ou ajuster les paramètres du protocole.&#x20;
 
-Un membre de la communauté sera tenu de stake du Honey lors de la soumission d'une proposition, attestant que l'impact de la proposition pourrait être raisonnablement considéré comme conforme au contrat social de 1Hive. Un différend peut être créé par un autre membre de la communauté s'il n'est pas d'accord avec l'attestation du proposant en contestant la proposition et en stakant une quantité équivalente de Honey. Si, après avoir été contestée, la proposition n'est pas retirée, un oracle décentralisé sera utilisé pour régler le différend. 
+Un membre de la communauté sera tenu de stake du Honey lors de la soumission d'une proposition, attestant que l'impact de la proposition pourrait être raisonnablement considéré comme conforme au contrat social de 1Hive. Un différend peut être créé par un autre membre de la communauté s'il n'est pas d'accord avec l'attestation du proposant en contestant la proposition et en stakant une quantité équivalente de Honey. Si, après avoir été contestée, la proposition n'est pas retirée, un oracle décentralisé sera utilisé pour régler le différend.&#x20;
 
-On s'attend à ce que les participants au protocole de règlement des différends examinent la proposition, ce pacte et les différends antérieurs afin de fournir un jugement qui, selon eux, correspond le mieux aux normes établies et à l'intention de la communauté 1Hive. 
+On s'attend à ce que les participants au protocole de règlement des différends examinent la proposition, ce pacte et les différends antérieurs afin de fournir un jugement qui, selon eux, correspond le mieux aux normes établies et à l'intention de la communauté 1Hive.&#x20;
 
 Si l'oracle répond en faveur du proposant, la proposition sera déverrouillée et la participation du challenger sera transférée au proposant. En revanche, si le différend est résolu en faveur du challenger, la proposition sera retirée de l'examen et la participation des proposants sera donnée au challenger.
 
 ## **Application hors chaîne**
 
 Bien qu'il n'y ait pas de forum hors chaîne qui représente la communauté 1Hive, il existe des espaces communautaires, y compris les communautés 1Hive Discord, le forum et Github. D'autres forums pourraient émerger à l'avenir et devraient adhérer à cet engagement.
-

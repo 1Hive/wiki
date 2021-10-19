@@ -3,7 +3,7 @@
 * [Bienvenue sur 1Hive](README.md)
 * [Pacte communautaire](community-covenant.md)
 
-## 🌱Pour commencer <a id="getting-started"></a>
+## 🌱Pour commencer <a href="getting-started" id="getting-started"></a>
 
 * [Terminologie](getting-started/terminology.md)
 * [Discord](getting-started/discord.md)
@@ -11,7 +11,7 @@
 * [Calendrier](getting-started/calendar.md)
 * [Contribuer](getting-started/contributing.md)
 
-## ✨Projets <a id="projects"></a>
+## ✨Projets <a href="projects" id="projects"></a>
 
 * [Honey](projects/honey/README.md)
   * [Participation](projects/honey/participation.md)
@@ -26,26 +26,34 @@
   * [For Traders](projects/honeyswap/for-traders.md)
   * [For Liquidity Providers](projects/honeyswap/for-liquidity-providers.md)
   * [For Developers](projects/honeyswap/for-developers.md)
-* [Celeste \(Coming soon\)](projects/celeste/README.md)
+* [Honeycomb](projects/honeycomb/README.md)
+  * [Fermes xDai](projects/honeycomb/fermes-xdai.md)
+  * [Fermes Polygon](projects/honeycomb/fermes-polygon.md)
+* [Celeste (Coming soon)](projects/celeste/README.md)
   * [User Process](projects/celeste/user-process.md)
-* [Gardens \(Coming soon\)](projects/gardens/README.md)
+* [Gardens (Coming soon)](projects/gardens/README.md)
   * [Technical Overview](projects/gardens/alt-overview.md)
 * [Etapes](projects/milestones.md)
+* [Agave](projects/agave.md)
+* [Quests](projects/quests.md)
 
-## 🌳Communauté <a id="community"></a>
+## 🌳Communauté <a href="community" id="community"></a>
 
 * [Swarms](community/swarms/README.md)
-  * [🐝 Buzz](community/swarms/buzz.md)
-  * [🐛 Bug Bounty](community/swarms/bug-bounty.md)
-  * [🌞 Celeste](community/swarms/celeste.md)
-  * [🌐 Commons](community/swarms/commons.md)
-  * [🐱 Fauna](community/swarms/fauna.md)
+  * [🌷 Tulip](community/swarms/tulip.md)
   * [🌺 Flora](community/swarms/flora.md)
-  * [🌜 Luna](community/swarms/luna.md)
-  * [🦋 Morphosis](community/swarms/morphosis.md)
+  * [🌞 Celeste](community/swarms/celeste.md)
+  * [🌻 Gardens](community/swarms/gardens.md)
+  * [🌟 Quests](community/swarms/quests.md)
   * [🏵 Pollen](community/swarms/pollen.md)
+  * [🐝 Buzz](community/swarms/buzz.md)
   * [🌍 Terra](community/swarms/terra.md)
-  * [🌷Tulip](community/swarms/tulip.md)
+  * [🦋 Morphosis](community/swarms/morphosis.md)
+  * [🌐 Commons](community/swarms/commons.md)
+  * [🌜 Luna](community/swarms/luna.md)
+  * [🐱 Fauna](community/swarms/fauna.md)
+  * [💛 Support](community/swarms/support.md)
+  * [🐛 Bug Bounty](community/swarms/bug-bounty.md)
 * [Média](community/media/README.md)
   * [Comptes sociaux](community/media/social-accounts.md)
   * [Curation sociale](community/media/social-curation.md)
@@ -60,9 +68,9 @@
 ## 🐑Guides
 
 * [xDai](guides/xdai.md)
+* [Polygon](guides/polygon.md)
 * [BrightID](guides/brightid.md)
 * [Contribution au Wiki](guides/wiki-contribution.md)
 * [Dépannage](guides/troubleshooting.md)
 * [FAQ 1Hive](guides/faq.md)
 * [FAQ Agave](guides/agave-faq.md)
-

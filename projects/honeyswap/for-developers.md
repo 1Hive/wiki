@@ -6,7 +6,7 @@ HoneySwap is a modified deployment of UniSwap on xDai.
 
 ### Contracts
 
-**UniswapV2Factory**:[`0xA818b4F111Ccac7AA31D0BCc0806d64F2E0737D7`](https://blockscout.com/poa/xdai/address/0xA818b4F111Ccac7AA31D0BCc0806d64F2E0737D7)\*\*\*\*
+**UniswapV2Factory**:[`0xA818b4F111Ccac7AA31D0BCc0806d64F2E0737D7`](https://blockscout.com/poa/xdai/address/0xA818b4F111Ccac7AA31D0BCc0806d64F2E0737D7)****
 
 **UniswapV2Router02**:[`0x1C232F01118CB8B424793ae03F870aa7D0ac7f77`](https://blockscout.com/poa/xdai/address/0x1C232F01118CB8B424793ae03F870aa7D0ac7f77)
 
@@ -30,7 +30,7 @@ The fork is powered by forks of two subgraphs:
 
 The front-end is a fork of the official uniswap.info source code with modifications to use Blockscout instead of Etherscan along with minor adjustments to use the appropriate token lists and factory addresses.
 
- The source code for the front-end can be found [here](https://github.com/1Hive/uniswap-info/).
+&#x20;The source code for the front-end can be found [here](https://github.com/1Hive/uniswap-info/).
 
 ### Honeymaker
 
@@ -45,4 +45,3 @@ The source code for the bot can be found [here](https://github.com/1hive/honeyma
 ### Useful Links
 
 The [Common pool](https://thegraph.com/explorer/subgraph/onbjerg/honey) Subgraph.
-

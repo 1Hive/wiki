@@ -11,7 +11,7 @@ description: >-
 
 À tout moment, de nombreuses propositions qui ont été soumises sont activement examinées. Les utilisateurs peuvent voir toutes les propositions à l'aide de l'interface  open source hébergée sur [1hive.org](https://1hive.org/#/home) et décider des propositions qu'ils souhaitent soutenir. Bien entendu, les utilisateurs plus techniques peuvent exécuter le frontend localement ou interagir directement avec les contrats.
 
-![Flux de propositions](../../.gitbook/assets/image%20%285%29.png)
+![Flux de propositions](<../../.gitbook/assets/image (1).png>)
 
 Vous pouvez filtrer le flux par type de proposition ou par statut, et trier en fonction du support ou de l'heure de création. Le flux contient différents types de propositions et il est important de comprendre la différence entre les types de proposition.
 
@@ -37,7 +37,7 @@ In these instances a more traditional voting process is used, where a descrete a
 
 ## Submitting proposals
 
-Before submitting a proposal, you should first make a forum post on [forum.1hive.org](https://forum.1hive.org/). This is where you can provide a detailed description of your proposal and its rationale. It also provides a venue for discussion and debate among community members. Creating a proposal in the proposal category will prompt you with a template layout including all required information.
+Before submitting a proposal, you should first make a forum post on [forum.1hive.org](https://forum.1hive.org). This is where you can provide a detailed description of your proposal and its rationale. It also provides a venue for discussion and debate among community members. Creating a proposal in the proposal category will prompt you with a template layout including all required information.
 
 Currently if you fail to do this, you will simply be asked to withdraw your proposal, in the future you will be required to put up stake which could be lost if you don’t follow the appropriate procedure.
 
@@ -47,9 +47,8 @@ Be sure to provide a short but descriptive title, and link to your forum post.
 
 ## **Terminologie sur 1hive.org**
 
-**Common Pool** fait référence aux tokens détenus collectivement par la communauté. Ils sont disponibles pour être distribués via des propositions. 
+**Common Pool** fait référence aux tokens détenus collectivement par la communauté. Ils sont disponibles pour être distribués via des propositions.&#x20;
 
-**Token Supply**, c'est l'ensemble des tokens actuellement existants. 
+**Token Supply**, c'est l'ensemble des tokens actuellement existants.&#x20;
 
 **Active**, c'est l'offre actuellement utilisée pour voter sur les propositions.
-

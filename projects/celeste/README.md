@@ -2,7 +2,7 @@
 description: Un oracle subjectif en développement.
 ---
 
-# Celeste \(Coming soon\)
+# Celeste (Coming soon)
 
 Nous avons parlé de Celeste et de son importance pour 1hive, mais il n'y a pas eu une source d'informations de haut niveau sur ce que c'est, comment cela fonctionne et pourquoi c'est important en un seul endroit.
 
@@ -30,7 +30,7 @@ Coming back to the example of escrow, when Alice makes the request to withdraw f
 
 In most cases there won’t be any need for disputes, the fact that the disputes can be escalated will be enough in most cases to ensure that participants act honestly, but in the event that there is a dispute, participants who have staked honey in Celeste will be drafted to provide a resolution.
 
-The protocol selects participants \(keepers\) to evaluate a dispute and provide a resolution. They are selected proportionally to amount of honey they have staked. We assume that the majority of drafted participants will provide the correct result, but allow anyone to appeal this decision to a larger group of keepers, until we reach a final appeal round where all actively staked keepers can participate in the resolution. As things are appealed the cost in terms of both time, capital, and attention increases, and as it does we can also expect the precedent set by the decision to have a greater impact and either build or erode significant trust in the mechanism as a whole. Essentially the process is designed to minimize the need to create disputes and to resolve disputes with minimal need for escalation, but as disputes do get escalated the the incentive to provide the most appropriate response is amplified.
+The protocol selects participants (keepers) to evaluate a dispute and provide a resolution. They are selected proportionally to amount of honey they have staked. We assume that the majority of drafted participants will provide the correct result, but allow anyone to appeal this decision to a larger group of keepers, until we reach a final appeal round where all actively staked keepers can participate in the resolution. As things are appealed the cost in terms of both time, capital, and attention increases, and as it does we can also expect the precedent set by the decision to have a greater impact and either build or erode significant trust in the mechanism as a whole. Essentially the process is designed to minimize the need to create disputes and to resolve disputes with minimal need for escalation, but as disputes do get escalated the the incentive to provide the most appropriate response is amplified.
 
 By incorporating brightID in Celeste we improve upon purely stake based incentives by ensuring that influence over outcomes are broadly distributed and represent a greater number of unique perspectives in the eventual outcomes, making the mechanism more resilient to attacks and making the subjective resolutions more legitimate.
 
@@ -47,11 +47,10 @@ Additionally, from a purely economic perspective, Celeste is really valuable to 
 
 ## Quand sera-t-il prêt
 
-Celeste has been under active development for some time. There is still lots to do, but we expect to be able to launch Celeste and upgrade the 1hive DAO so that conviction proposals and decisions can be disputed before the end of the year. Keep an eye on the Celeste swarm in discord if you’d like to get involved or follow progress, we should have additional progress, updates, and roll out plans to share over the coming weeks.![:sun\_with\_face:](https://forum.1hive.org/images/emoji/apple/sun_with_face.png?v=9)![:sun\_with\_face:](https://forum.1hive.org/images/emoji/apple/sun_with_face.png?v=9)![:sun\_with\_face:](https://forum.1hive.org/images/emoji/apple/sun_with_face.png?v=9)
+Celeste has been under active development for some time. There is still lots to do, but we expect to be able to launch Celeste and upgrade the 1hive DAO so that conviction proposals and decisions can be disputed before the end of the year. Keep an eye on the Celeste swarm in discord if you’d like to get involved or follow progress, we should have additional progress, updates, and roll out plans to share over the coming weeks.![:sun\_with\_face:](https://forum.1hive.org/images/emoji/apple/sun\_with\_face.png?v=9)![:sun\_with\_face:](https://forum.1hive.org/images/emoji/apple/sun\_with\_face.png?v=9)![:sun\_with\_face:](https://forum.1hive.org/images/emoji/apple/sun\_with\_face.png?v=9)
 
 ## **Liens utiles**
 
 Discussion sur Celeste :
 
 {% embed url="https://forum.1hive.org/t/celeste-a-brief-primer/1483" %}
-

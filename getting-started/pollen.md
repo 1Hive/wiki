@@ -4,17 +4,17 @@ description: Gagnez du Honey en contribuant
 
 # Pollen
 
-Le Pollen est un classement de contribution utilisé pour reconnaître les contributions sur les  ****communautés 1Hive \([Discord](https://discord.com/invite/P4rRDUKTAU),[ Forum](https://forum.1hive.org/), et[ Github](https://github.com/1Hive)\). Ces contributions sont récompensées avec des distributions hebdomadaires de Honey.
+Le Pollen est un classement de contribution utilisé pour reconnaître les contributions sur les**  **communautés 1Hive ([Discord](https://discord.com/invite/P4rRDUKTAU),[ Forum](https://forum.1hive.org), et[ Github](https://github.com/1Hive)). Ces contributions sont récompensées avec des distributions hebdomadaires de Honey.
 
 ## **Comment participer**
 
-Dès que vous interagissez sur les communautés 1Hive \(Discord, Forum et Github\), vous commencerez à gagner du Pollen, qui sera envoyé dans votre portefeuille enregistré en délicieux Honey !
+Dès que vous interagissez sur les communautés 1Hive (Discord, Forum et Github), vous commencerez à gagner du Pollen, qui sera envoyé dans votre portefeuille enregistré en délicieux Honey !
 
 Afin de recevoir des distributions hebdomadaires de pollen, vous devrez créer des comptes sur les plates-formes prises en charge et les associer à votre adresse xDai. Vous pouvez le faire en tapant les commandes suivantes dans la chaîne 🤖**bot-commands** du Discord 1Hive :
 
 * **Enregistrer l'adresse du wallet et les infos Discord - obligatoire :** Tapez `!pollen save-wallet <addresse-de-votre-wallet>` pour ajouter votre adresse de wallet, votre ID Discord et votre nom d'utilisateur Discord à la base de données Pollen.
-* **Enregistrer votre compte Discourse \(Forum\) - facultatif :** Tapez `!pollen verify-discourse <nom-d'utilisateur-discourse>` et suivez la procédure pour vérifier et ajouter votre nom d'utilisateur Discourse à la base de données Pollen.
-* **Enregistrer votre compte GitHub - facultatif** : Tapez `!pollen verify-github <nom-d'utilisateur-github>` et suivez la procédure pour vérifier et ajouter votre nom d'utilisateur GitHub \(si vous en avez un\) à la base de données Pollen.
+* **Enregistrer votre compte Discourse (Forum) - facultatif :** Tapez `!pollen verify-discourse <nom-d'utilisateur-discourse>` et suivez la procédure pour vérifier et ajouter votre nom d'utilisateur Discourse à la base de données Pollen.
+* **Enregistrer votre compte GitHub - facultatif** : Tapez `!pollen verify-github <nom-d'utilisateur-github>` et suivez la procédure pour vérifier et ajouter votre nom d'utilisateur GitHub (si vous en avez un) à la base de données Pollen.
 
 Assurez-vous de remplacer `<addresse-de-votre-wallet>,` `<nom-d'utilisateur-discourse>`et `<nom-d'utilisateur-github`par vos informations.
 
@@ -28,17 +28,17 @@ Le pollen est calculé à l'aide de **SourceCred**, qui sert à créer et analys
 
 SourceCred analyse les messages et contributions sur Discord, le forum et GitHub et applique un multiplicateur à un score de base de 1 cred par action. L'un des principaux moyens de gagner du cred est lorsque le texte que vous écrivez ou les actions que vous faites reçoivent une réponse positive des autres membres grâce à l'utilisation d'emojis. Ecrire des messages à lui seul ne fait pas gagner pas de cred. Les pondérations pour la distribution de cred sont décidées par la communauté 1Hive.
 
-Le cred gagné sur 1Hive n’est utile que sur 1Hive. Il n'est pas transférable et la notation est rétroactive, donc si vous vous inscrivez au pollen après en avoir gagné, vous recevrez toujours du cred pour cette période \(vous recevrez une récompense en Honey pour votre cred dès la période après votre inscription\).
+Le cred gagné sur 1Hive n’est utile que sur 1Hive. Il n'est pas transférable et la notation est rétroactive, donc si vous vous inscrivez au pollen après en avoir gagné, vous recevrez toujours du cred pour cette période (vous recevrez une récompense en Honey pour votre cred dès la période après votre inscription).
 
 Le [Pollen Explorer](https://1hive.github.io/pollen/#/explorer) propose un classement des utilisateurs de Pollen affichant le cred qu'ils ont gagné tout au long de leur engagement avec 1Hive.Les pondérations déterminant le Pollen gagné pour chaque action peuvent être vues dans [l'explorateur de pollen](https://1hive.github.io/pollen/#/explorer) en cliquant sur "SHOW WEIGHT CONFIGURATION".
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](<../.gitbook/assets/image (4).png>)
 
 ### Distribution totale
 
 La distribution hebdomadaire de Honey est plafonnée à $15’000 ou 33 HNY si 33 HNY valent moins de $15’000. 5% de la distribution hebdomadaire va directement à l'équipe SourceCred.
 
-![Figure 1. Distribution hebdomadaire de HNY en fonction de la valeur en USD](../.gitbook/assets/image%20%2814%29.png)
+![Figure 1. Distribution hebdomadaire de HNY en fonction de la valeur en USD](<../.gitbook/assets/image (11).png>)
 
 ### Taux de distribution
 
@@ -49,67 +49,67 @@ Le paiement hebdomadaire est déterminé par la contribution récente d'un contr
 * **Le taux de décroissance** est le taux auquel le calcul de la contribution totale diminue pour chaque semaine précédente. Par exemple, pour un taux de décroissance de 40%, la semaine précédente est pondérée à 100%, la deuxième semaine précédente est pondérée à 60%, la troisième semaine précédente est pondérée à 36%, etc.
 
 | Paramètre de distribution | Allocation & taux |
-| :--- | :--- |
-| Contribution hebdomadaire | 25 HNY |
-| Contribution totale | 8 HNY |
-| Taux de décroissance | 40% |
+| ------------------------- | ----------------- |
+| Contribution hebdomadaire | 25 HNY            |
+| Contribution totale       | 8 HNY             |
+| Taux de décroissance      | 40%               |
 
 ### **Distribution par plate-forme**
 
 Une vue de la distribution relative de Pollen sur chaque plate-forme chaque semaine.
 
 | Plate-forme | Pourcentage de distribution |
-| :--- | :--- |
-| GitHub | 30% |
-| Discord | 40% |
-| Forum | 30% |
+| ----------- | --------------------------- |
+| GitHub      | 30%                         |
+| Discord     | 40%                         |
+| Forum       | 30%                         |
 
 ### Pondération sur Discord
 
 Sur Discord, pour donner du cred à d'autres utilisateurs via des réponses emoji, les utilisateurs doivent avoir déjà reçu du cred auparavant. On ne peut pas s’auto récompenser en cred. La quantité de cred d’un membre influence la quantité de cred qu’il peut émettre.
 
-| Cred total | Pondération |
-| :--- | :--- |
-| 120+ Cred | 1x |
-| 90+ Cred | 0.75x |
-| 60+ Cred | 0.5x |
-| 30+ Cred | 0.25x |
-| 0 à 30 Cred | 0x |
+| Cred total  | Pondération |
+| ----------- | ----------- |
+| 120+ Cred   | 1x          |
+| 90+ Cred    | 0.75x       |
+| 60+ Cred    | 0.5x        |
+| 30+ Cred    | 0.25x       |
+| 0 à 30 Cred | 0x          |
 
 Tous les emojis donnent 1 cred, sauf les exceptions ci-dessous.
 
-| Emoji | Pondération |
-| :--- | :--- |
-| 🍯 + `:Honeypot:` \(emoji ****custom\) | 2x |
-| 🐝 + `:Honeybee:` \(emoji custom\) | 2x |
-| 💩 | 0x |
-| 👎 | 0x |
+| Emoji                                | Pondération |
+| ------------------------------------ | ----------- |
+| 🍯 + `:Honeypot:` (emoji** **custom) | 2x          |
+| 🐝 + `:Honeybee:` (emoji custom)     | 2x          |
+| 💩                                   | 0x          |
+| 👎                                   | 0x          |
 
-Les chaînes qui donnent 0 cred incluent : **✅check-in, 🐸memes, 🤖bot-commands, 🕹arcade, 🦩lounge, 🍱kitchen, 🐱Fauna** et les chaînes d’**information.**
+Les chaînes qui donnent 0 cred incluent :** ✅check-in, 🐸memes, 🤖bot-commands, 🕹arcade, 🦩lounge, 🍱kitchen, 🐱Fauna** et les chaînes d’**information.**
 
-La chaîne **🐝social-curation** donne 0,25x le cred standard.
+La chaîne** 🐝social-curation **donne 0,25x le cred standard.
 
-La chaîne **🍄nominations** donne 95% du cred aux membres tagués dans les messages. Les utilisateurs nommant un membre obtiennent 5% du cred. Tous les membres tagués dans un message partageront le cred de manière égale.
+La chaîne** 🍄nominations **donne 95% du cred aux membres tagués dans les messages. Les utilisateurs nommant un membre obtiennent 5% du cred. Tous les membres tagués dans un message partageront le cred de manière égale.
 
 ### Pondération sur le forum
 
-Sur le forum, le cred total qu'un utilisateur peut obtenir dépend du niveau de confiance de l'utilisateur. \(trust level\)
+Sur le forum, le cred total qu'un utilisateur peut obtenir dépend du niveau de confiance de l'utilisateur. (trust level)
 
 | Trust level | **Pondération** |
-| :--- | :--- |
-| 4 | 1.5x |
-| 3 | 1.25x |
-| 2 | 1x |
-| 1 | 0.1x |
-| 0 | 0x |
+| ----------- | --------------- |
+| 4           | 1.5x            |
+| 3           | 1.25x           |
+| 2           | 1x              |
+| 1           | 0.1x            |
+| 0           | 0x              |
 
 ## **Règles**
 
-Comme le logiciel SourceCred est encore récent, il existe encore des moyens de tricher. ****Divers changements de paramètres ont minimisé ce risque, mais 1Hive impose toujours les règles suivantes, qui sont connues et surveillées par de nombreux membres de la communauté.
+Comme le logiciel SourceCred est encore récent, il existe encore des moyens de tricher.** **Divers changements de paramètres ont minimisé ce risque, mais 1Hive impose toujours les règles suivantes, qui sont connues et surveillées par de nombreux membres de la communauté.
 
-1. **Un compte par utilisateur** Un utilisateur n'est pas autorisé à posséder et à gérer plusieurs comptes.
+1. **Un compte par utilisateur **Un utilisateur n'est pas autorisé à posséder et à gérer plusieurs comptes.
 2. **Interdiction d’échanger des réactions ou des likes** Les accords avec d'autres utilisateurs pour aimer / réagir aux messages de l'autre ne sont pas autorisés. Le trading de réactions / likes est défini par un modèle d'au moins 2 utilisateurs réagissant mutuellement à la plupart ou à la totalité des messages de chacun, quelle que soit la qualité du contenu.
-3. **Utilisation de bogues / Exploits / Manipulation** Si vous trouvez un bogue ou un exploit dans le système, veuillez le signaler immédiatement. Ceux qui utilisent un bogue ou un exploit à leur avantage risquent la désactivation de leur compte.
+3. **Utilisation de bogues / Exploits / Manipulation **Si vous trouvez un bogue ou un exploit dans le système, veuillez le signaler immédiatement. Ceux qui utilisent un bogue ou un exploit à leur avantage risquent la désactivation de leur compte.
 
 ## **Liens utiles**
 
@@ -118,4 +118,3 @@ Comme le logiciel SourceCred est encore récent, il existe encore des moyens de 
 [Règles générales](https://forum.1hive.org/t/pollen-rules-and-a-reporting-system/1155) pour s'engager dans le pollen.
 
 [Documentation SourceCred](https://sourcecred.io/docs/) pour plus d'informations.
-

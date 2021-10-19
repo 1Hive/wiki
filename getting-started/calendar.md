@@ -10,5 +10,4 @@ Chacun est invité à se joindre aux appels publics prévus tout au long de la s
 Notez que l'heure est en UTC, quel que soit l'endroit où vous vous trouvez. Pour voir le calendrier à votre heure locale, ouvrez-le dans votre calendrier Google personnel en cliquant sur "+ Google Agenda" dans le coin inférieur droit.
 {% endhint %}
 
-{% embed url="https://calendar.google.com/calendar/embed?src=c\_k77c78d1kdt9e1vpk2cvjcc7jg%40group.calendar.google.com&ctz=utc" %}
-
+{% embed url="https://calendar.google.com/calendar/embed?src=c_k77c78d1kdt9e1vpk2cvjcc7jg%40group.calendar.google.com&ctz=utc" %}

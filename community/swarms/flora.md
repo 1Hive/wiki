@@ -16,10 +16,9 @@ Les membres du 🌺Flora Swarm sont des personnes qui gèrent activement l'infra
 
 ### Membres de Flora
 
-| Membre | Rôle |
-| :--- | :--- |
+| Membre                                      | Rôle                                      |
+| ------------------------------------------- | ----------------------------------------- |
 | [anisoptera](https://github.com/anisoptera) | Validator maintainer & multisig keyholder |
-| [lkngtn](https://github.com/lkngtn) | Multisig keyholder |
-| [crisOG](https://github.com/crisog) | Multisig keyholder |
-| [onbjerg](https://github.com/onbjerg) | Multisig keyholder |
-
+| [lkngtn](https://github.com/lkngtn)         | Multisig keyholder                        |
+| [crisOG](https://github.com/crisog)         | Multisig keyholder                        |
+| [onbjerg](https://github.com/onbjerg)       | Multisig keyholder                        |

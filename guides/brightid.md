@@ -12,5 +12,3 @@ Pour plus d'informations sur BrightID et sa vérification, consultez le site Web
 
 {% embed url="https://www.brightid.org/" %}
 
-
-
