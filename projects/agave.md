@@ -51,16 +51,16 @@ Agave dispose d'un token principalement utilisé pour la gouvernance du protocol
 
 Le jeton est également _stakeable_, ce qui permet aux détenteurs d'AGAVE de percevoir un rendement sur le token `AGAVE` lui-même. Le pool de tokens mis en jeu est utilisé comme assurance en cas de déficit.
 
-## En quoi cela profite-t-il à la 1Hive ?
+## En quoi cela profite-t-il à 1Hive ?
 
-Currently, we have Honeyswap, which allows users to trade on xDAI with super low transaction fees. Given the relatively low volume, the total fees generated in HoneySwap (0.3% per trade) are rather low, and as such we have subsidized liquidity providers by allowing them to farm `HNY`. This has had mixed results.
+Actuellement, nous avons Honeyswap, qui permet aux utilisateurs de négocier sur xDAI avec des frais de transaction très bas. Étant donné le volume relativement faible, les frais totaux générés par HoneySwap (0,3 % par transaction) sont plutôt bas, et nous avons donc subventionné les fournisseurs de liquidités en leur permettant de farmer HNY. Les résultats sont mitigés.
 
-With Agave, we would enable users to earn a yield on regular HoneySwap Liquidity tokens without a `HNY` subsidy. It also adds extra incentives to liquidity providers by giving them an additional stream of income above the fees generated on HoneySwap.
+Avec Agave, nous permettons aux utilisateurs d'obtenir un rendement sur les tokens de liquidité standards de HoneySwap sans subvention en `HNY`. Cela ajoute des incitations supplémentaires aux fournisseurs de liquidité en leur donnant un flux de revenu supplémentaire en plus des frais générés sur HoneySwap.
 
-One of the most powerful features of DeFi is its composability. Currently, HoneySwap is not composable with the other DeFi protocols because it is on a separate chain. With Agave, we will now have another protocol on xDAI making it more ‘sticky’.
+Une des caractéristiques les plus importantes de la DeFi est sa composabilité. Actuellement, HoneySwap n'est pas composable avec les autres protocoles DeFi car il est sur une chaîne séparée. Avec Agave, nous aurons maintenant un autre protocole sur xDAI, ce qui le rendra plus "collant".
 
-Although we will be forking Aave, we will use this as a base for a protocol that fits the needs of the 1Hive community.
+Même si nous allons forker Aave, nous l'utiliserons comme base pour un protocole qui correspond aux besoins de la communauté 1Hive.
 
-Token listing on Agave will be more frictionless than Aave. Using Celeste, anyone can add a token to the Agave market by staking the Agave token, if a token does not meet the associated [Aragon Agreement](https://aragon.org/agreements) it can be challenged with Celeste.
+Le listing de tokens sur Agave sera plus simple que sur Aave. En utilisant Celeste, n'importe qui peut ajouter un token au marché Agave en stakant le token Agave. Si un token ne respecte pas l'[accord Aragon](https://aragon.org) associé, il peut être contesté avec Celeste.
 
-These are some ways that Agave will provide `HNY` more utility as well as increase the price of `HNY`.
+Ce sont là quelques exemples de la manière dont Agave fournira plus d'utilité à `HNY`, tout en augmentant le prix de `HNY`.
