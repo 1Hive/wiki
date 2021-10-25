@@ -6,7 +6,7 @@ description: Um guia para atualizar a 1Hive Wiki.
 
 1Hive é um grande ecossistema de diferentes projetos que estão continuamente em desenvolvimento. Manter um wiki é importante para garantir que haja uma visão geral concisa do estado da 1Hive. Todos são encorajados a contribuir com a 1Hive Wiki.
 
-Pelo menos um membro de cada enxame terá acesso para atualizar o Wiki e garantir que os detalhes sobre os projetos associados sejam sempre precisos. Qualquer pessoa sem acesso ainda poderá atualizar uma página da Wiki, por meio do Github utilizando uma pull request.  
+Pelo menos um membro de cada enxame terá acesso para atualizar o Wiki e garantir que os detalhes sobre os projetos associados sejam sempre precisos. Qualquer pessoa sem acesso ainda poderá atualizar uma página da Wiki, por meio do Github utilizando uma pull request.\
 
 
 ## **Contribua para a Wiki pelo Github**
@@ -22,9 +22,8 @@ Pelo menos um membro de cada enxame terá acesso para atualizar o Wiki e garanti
 2. Use o markdown do Github para formatar sua modificacao:  [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
 3. Se estiver adicionando uma nova página, tenha certeza que está conectada ao arquivo SUMMARY.md no diretorio principal para inclusão no menu.
 4. Confirme sua alteração descendo até o final da página, complete sua alteração clicando em Commit
-5. Crie um pull request \(PR \) no repositório wiki da 1Hive clicando em Pull Requests -&gt; New Pull Requests. Note que o repositório base deverá ser 1Hive/wiki, a base de ser master. Clique em Create Pull Request. 
+5. Crie um pull request (PR ) no repositório wiki da 1Hive clicando em Pull Requests -> New Pull Requests. Note que o repositório base deverá ser 1Hive/wiki, a base de ser master. Clique em Create Pull Request.&#x20;
 6. Coloque o título e descrição sobre sua alteração e clique em Create Pull Request.
 7. Pronto! Você criou com sucesso um PR no repositório da 1Hive. Agora você deve esperar pela revisão por um membro da 1Hive. Revisores talvez deixem comentários, consulte seu E-mail ou visite a página novamente caso tenha que responder algo.
 8. Caso haja necessidade de atualização após comentários de algum revisor, atualize os arquivos da mesma forma inicial e as mudanças serão refletidas no PR.
 9. Assim que o Pr for aceito, será incorporado na wiki por um revisor.
-

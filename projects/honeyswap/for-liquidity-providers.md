@@ -1,23 +1,26 @@
-# Para Provedores de Liquidez
+# Honeyswap em Polygon
 
-## **Provedor de Liquidez Retorno de Investimento \(ROI\)**
+## **Honeyswap informações de contratos e implantação**
 
-Provedores de liquidez são recompensados 0.25%, e toda negociação é distribuída proporcionalmente aos provedores de um determinado par de ativos em negociação.
+**Contratos AMM**
 
-Provedores de liquidez podem sofrer perdas impermanentes quando eles provêem liquidez. Qualquer prejuízo temporário se torna permanente quando a liquidez é removida.
+#### **Honeyswap Factory: **[**0x03DAa61d8007443a6584e3d8f85105096543C19c**](https://polygonscan.com/address/0x03DAa61d8007443a6584e3d8f85105096543C19c/contracts#code)**​**
 
-Provedores de liquidez se encontram em lucro quando o valor de taxas recebidas é maior que a perda impermanente.
+#### Honeyswap Router: [0xaD340d0CD0B117B0140671E7cB39770e7675C848](https://polygonscan.com/address/0xaD340d0CD0B117B0140671E7cB39770e7675C848/contracts#code)
 
-O ROI por prover liquidez é maior quando a relação entre liquidez e volume é alta, e o par de ativos está altamente correlacionado.
+#### ​**ReferralRewardReceiver: **[**0xf72e8827aa4c03e2c49aa95a6550dd4c8a65a969**](https://polygonscan.com/address/0xf72e8827aa4c03e2c49aa95a6550dd4c8a65a969#code)**​**
 
-## **Prejuízo Impermanente**
+**FeeReceiver: **[**0xA25958B0C9bbEE1821dB5CE3d85bc56848Fddf78**](https://polygonscan.com/address/0xA25958B0C9bbEE1821dB5CE3d85bc56848Fddf78#code)****
 
-O prejuízo impermanente é a perda temporária de fundos ocorrida durante o fornecimento de liquidez. Muitas vezes, é explicado como a diferença entre possuir um ativo e  fornecer liquidez a esse ativo. O prejuízo impermanente é geralmente observado como um padrão em fundos de liquidez onde o provedor deve prover dois ativos na proporção correta, sendo um deles volátil em relação ao outro.  
+****
 
-No exemplo, um par de wETH/xDAI 50/50, caso wETH aumente em valor, o coletivo de investimento deve contar com arbitragistas continuamente garantindo que o preço do conjunto reflita o preço real para que assim seja mantido o mesmo valor de ambos os tokens dentro do mesmo fundo de liquidez. Isso basicamente nos leva a situação onde o lucro gerado pelo token valorizado é retirado do provedor de liquidez. Nesse ponto, caso o LP \( provedor de liquidez\) decida remover sua liquidez, a perda impermanente torna-se prejuízo.  
+### **Subgraphs**
 
+[**Honeyswap Subgraph on Polygon**](https://api.thegraph.com/subgraphs/name/1hive/honeyswap-polygon)**. O source code pode ser encontrado **[**aqui.**](https://github.com/1Hive/honeyswap-subgraph)****
 
-## **Fazendas de Liquidez**
+****
 
-No passado implantamos fazendas de liquidez em [hny.farm](http://hny.farm/). Provedores de liquidez de pares de câmbio na Honeyswap puderam enviar seus LP tokens a fazendas, em troca de Honey \( fazendas financiadas por propostas\) para incentivar a liquidez de pares na Honeyswap. No entanto, após uma análise dos resultados, o consenso geral da comunidade foi que não estavam a gerar o efeito desejado e o financiamento foi suspenso.
+### **Honeymaker**
+
+​[Honeymaker](https://github.com/1hive/honeymaker) é um bot de acompanhamento que periodicamente executa a função takeProtocolFee() no contrato FeeReceiver em pares selecionados na Honeyswap para converter em Honey e pComb as taxas de LP recebidas.​
 

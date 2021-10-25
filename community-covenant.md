@@ -5,10 +5,11 @@ description: As regras que concordamos seguir na comunidade 1Hive.
 # O Pacto Comunitário
 
 {% hint style="info" %}
-O Pacto Comunitário 1Hive está atualmente [aberto para revisões.](https://forum.1hive.org/t/drafting-the-1hive-community-covenant-for-celeste/1548)  
+O Pacto Comunitário 1Hive está atualmente [aberto para revisões.](https://forum.1hive.org/t/drafting-the-1hive-community-covenant-for-celeste/1548)\
+
 {% endhint %}
 
-1Hive é uma comunidade de ativistas buscando construir um futuro mais livre, justo, aberto e humano.  
+1Hive é uma comunidade de ativistas buscando construir um futuro mais livre, justo, aberto e humano.\
 
 
 1Hive é também um protocolo econômico, similar a Bitcoin e Ethereum, onde uma moeda digital, Honey, é emitida e distribuída de forma programada. Diferente de Bitcoin e Ethereum, o protocolo 1Hive não define estritamente um conjunto de atividades valiosas, porém depende da decisão dos membros da comunidade sobre processos de distribuição por meio da criação e financiamento de propostas.
@@ -17,14 +18,14 @@ O objetivo do protocolo 1Hive é criar uma economia comunitária saudável, aloc
 
 O crescimento da economia 1Hive está diretamente ligado à habilidade da comunidade fomentar uma cultura inclusiva e acolhedora onde as pessoas sintam orgulho e prazer em fazer parte. Quando alguém decide comprar ou investir na economia ao redor de Honey,está também apoiando a cultura, os valores e as normas da comunidade.
 
-Para este fim, o protocolo 1Hive depende de um contrato social, que define as expectativas de como os membros devem interagir com o protocolo e entre si.  
+Para este fim, o protocolo 1Hive depende de um contrato social, que define as expectativas de como os membros devem interagir com o protocolo e entre si.\
 
 
 ## **O Compromisso**
 
 Nós, como membros, colaboradores e líderes, nos comprometemos a tornar a participação em nossa comunidade uma experiência livre de abusos, independente da idade, tamanho do corpo, deficiências visíveis ou nāo, etnia, características sexuais, identidade e expressāo de gênero, nível de experiência, educaçāo, status sócio econômico, nacionalidade, aparência pessoal, raça, religiāo ou identidade e orientaçāo sexual.
 
-Nós nos comprometemos a agir e interagir de forma que contribua para uma comunidade aberta, acolhedora, diversa, inclusiva e saudável.  
+Nós nos comprometemos a agir e interagir de forma que contribua para uma comunidade aberta, acolhedora, diversa, inclusiva e saudável.\
 
 
 ## **Nossos Padrões**
@@ -57,11 +58,11 @@ Um membro da comunidade será obrigado a participar com Honey quando apresentar 
 
 É esperado que os participantes do protocolo da resolução de disputas analisem a proposta, este acordo e disputas relacionadas no passado para que assim possam promover um veredicto que considerem alinhados com normas e intenções da comunidade 1Hive.
 
-Caso o oráculo responda a favor do proponente, a proposta será aprovada e o valor de Honey alocado pelo opositor será transferido ao proponente. Por outro lado, se a disputa favorecer o opositor, a proposta será removida e o valor de Honey alocado pelo proponente será entregue ao opositor.  
+Caso o oráculo responda a favor do proponente, a proposta será aprovada e o valor de Honey alocado pelo opositor será transferido ao proponente. Por outro lado, se a disputa favorecer o opositor, a proposta será removida e o valor de Honey alocado pelo proponente será entregue ao opositor.\
 
 
-## **Aplicaçāo Fora da Rede** 
-
-Embora não exista um fórum canônico fora da rede que representa a comunidade 1Hive, existem espaços comunitários como 1Hive Discord, Fórum e Github, e outros fóruns podem surgir no futuro que devem aderir a este acordo.  
+**Aplicaçāo Fora da Rede**\
 
 
+
+Embora não exista um fórum canônico fora da rede que representa a comunidade 1Hive, existem espaços comunitários como 1Hive Discord, Fórum e Github, e outros fóruns podem surgir no futuro que devem aderir a este acordo.\

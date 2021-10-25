@@ -20,21 +20,21 @@ Fornecimento Circulante: 27,799k
 
 **Qual o website da Agave?**
 
-Um novo website está prestes a ficar pronto para a Agave. Você já pode visitar a primeira página, Agave.Finance.
+&#x20;[Agave.Finance](https://agave.finance)
 
 **Onde posso encontrar atualizações regulares sobre o projeto?**
 
-As principais atualizações sobre 1 Hive e Agave são publicadas em [Milestones](https://wiki.1hive.org/projects/milestones).
+As principais atualizações sobre 1 Hive e Agave são publicadas em nosso [Medium Channel](https://medium.com/agavefinanc).
 
 **Quando o produto será lançado?**
 
-No momento Agave está passando por uma auditoria para garantir que o lançamento não tenha nenhum problema. A empresa responsável pela auditoria é a [ Chainsulting](https://chainsulting.de/). Portanto, assim que o processo de auditoria for concluído, o produto Agave será lançado. Embora esperamos lançar o produto em breve, não queremos apressar o lançamento. No momento, o front-end está sendo concluído e conectado aos contratos. O back-end está passando por auditoria e estamos resolvendo um problema relacionado ao Subgraph.
+A [plataforma Agave](https://agave.finance) foi lançada no dia primeiro de setembro! A auditoria dos contratos foi concluída pela [Chainsulting](https://chainsulting.de) no dia primeiro de maio.
 
 **Onde posso encontrar um roadmap da Agave?**
 
-Aqui você pode olhar o roadmap da Agave \(sujeito a alterações\).
+Esta é uma versão simplificada do roadmap (sujeito a alterações).
 
-![ Agave Roadmap](https://lh4.googleusercontent.com/p_ELlx_B7HZygtrFxnKrzTfM5BC5_1GVXcsqIokQSTiTZoNCVuxVnDx9Tm_6qCaBs3aVmWzO1q0j6W16Hv1TSpAfGW4LLAW6IJ7pYgruGUR6nO7hkGjW5VyVLM2Mtf63d9FY-tdZ)
+![ Agave Roadmap](https://lh4.googleusercontent.com/p\_ELlx\_B7HZygtrFxnKrzTfM5BC5\_1GVXcsqIokQSTiTZoNCVuxVnDx9Tm\_6qCaBs3aVmWzO1q0j6W16Hv1TSpAfGW4LLAW6IJ7pYgruGUR6nO7hkGjW5VyVLM2Mtf63d9FY-tdZ)
 
 **E sobre o marketing?**
 
@@ -48,43 +48,23 @@ Sim! Aqui esta o link:[ $AGVE - Coingecko](https://www.coingecko.com/en/coins/ag
 
 **Posso contribuir de alguma forma?**
 
-Sua participação é sempre bem vinda. A partir de agora temos algumas recompensas em aberto, você pode verificar todas [aqui](https://www.notion.so/3e13ef2a5d614a828b684640af2212b4?v=20b21ead637341faa87416b85202b584) e reivindicá-las entrando em contato com a BuzzDao. Estamos trabalhando em uma proposta para criar novas recompensas acessíveis a todos os usuários, a maioria delas está relacionada à listagem do token. \( Coinmarketcap, Blockfolio, Dappradar, Coinpaprika, Dune Analytics etc.\)
+Sua participação é sempre bem vinda. A partir de agora temos algumas recompensas em aberto, você pode verificar todas [aqui](https://www.notion.so/3e13ef2a5d614a828b684640af2212b4?v=20b21ead637341faa87416b85202b584) e reivindicá-las entrando em contato com a BuzzDao. Estamos trabalhando em uma proposta para criar novas recompensas acessíveis a todos os usuários, a maioria delas está relacionada à listagem do token. ( Coinmarketcap, Blockfolio, Dappradar, Coinpaprika, Dune Analytics etc.)
 
-**Onde posso observar os graficos da $AGVE?**
+**Onde posso encontrar os gráficos da $AGVE?**
 
 [Aqui](https://info.honeyswap.org/token/0x3a97704a1b25f08aa230ae53b352e2e72ef52843) você encontrará $AGVE na parte de análise da Honeyswap. Outros gráficos podem ser encontrados na [Coingecko](https://www.coingecko.com/en/coins/agave-token) e[ Moontools](https://app.moontools.io/pairs/honeyswap/0x0e3e9cceb13c9f8c6faf7a0f00f872d6291630de).
 
-**Onde posso seguir informações sobre recompensas para fornecer liquidez?**
+**Onde posso encontrar informações sobre recompensas para fornecer liquidez?**
 
-Informações sobre liquidez podem ser encontradas aqui[ Liquidityfolio](https://www.liquidityfolio.com/) ​
-
-**Por que eu não recebi o airdrop inicial?**
-
-Mais do que um airdrop, $AGVE foi distribuído aos contribuintes e membros ativos da comunidade 1Hive por meio de um screenshot que ocorreu no dia vinte e cinco de janeiro de 2021. [Aqui](https://forum.1hive.org/t/agave-contributor-distribution-announcement/2373) voce pode encontrar informações sobre o fornecimento do token, a distribuição e os endereços elegíveis.
-
-**Como faço para receber meu airdrop?**
-
-Se você estava classificado como elegível \( verifique a lista de endereços [aqui](https://pastebin.com/hjYcbK1k)\) a sua parte já foi enviada a sua carteira.
+Informações sobre liquidez podem ser encontradas aqui[ Liquidityfolio](https://www.liquidityfolio.com) ​
 
 **Haverá outros airdrops?**
 
-Embora isso seja apenas especulação, a equipe anucionou que, no futuro,  um airdrop de marketing poderá acontecer.
-
-**O que aconteceu no dia vinte e oito de fevereiro durante o lançamento do token?**
-
-Durante o lançamento do token, traders passaram por alta volatilidade por causa de um erro cometido durante a abertura do fundo de liquidez AGVE/HNY: a proporção deveria ser 50HNY/10000AGVE mas foi definida como 50HNY/1000AGVE. Iso gerou uma cadeia de eventos e causou volatilidade extrema, A equipe removeu a liquidez e reinseriu em outro fundo de liquidez \(AGVE-WETH\) dentro das proporções corretas previamente definidas. Alguns usuários sofreram perdas, enquanto outros se beneficiaram. Leia [Reflection on the Agave Launch](https://forum.1hive.org/t/reflection-on-the-agave-launch/2517) para entender melhor.
-
-**Eu fui afetado pelo erro ocorrido no fundo de liquidez inicial e comprei $AGVE a um preço muito caro. O que acontece agora?**
-
-Apesar de que em uma negociação a responsabilidade é do trader, os afetados pelo preço do $AGVE receberam uma compensação proposta pela equipe e votada pela comunidade, veja [ o post](https://forum.1hive.org/t/agave-reparations-proposal/2822).
+Embora isso seja apenas especulação, a equipe anunciou que, no futuro,  um airdrop de marketing poderá acontecer.
 
 **Como posso fazer parte do fundo de liquidez e qual par selecionar?**
 
 Até o momento temos 3 pares para $AGVE:[ AGVE-WETH](https://info.honeyswap.org/pair/0xeba7cc57e6f745b8d5cab829e07346c65393d78e),[ AGVE-HNY](https://info.honeyswap.org/pair/0x50a4867aee9cafd6ddc84de3ce59df027cb29084) e[ AGVE-XDAI](https://info.honeyswap.org/pair/0x0e3e9cceb13c9f8c6faf7a0f00f872d6291630de). Você pode fazer parte clicando [aqui](https://app.honeyswap.org/#/pool) → Add Liquidity → Selecione o par que você quer participar.
-
-**Posso fazer stake de $AGVE?**
-
-Ainda não, até o momento você pode manter ou fornecer liquidez.
 
 **Como posso acompanhar novidades sobre a Agave?**
 
@@ -96,7 +76,7 @@ Agave Discord:[ Agave Discord 1](https://discord.com/channels/816889381737725963
 
 Telegram:[ https://t.me/Agave1Hive 1](https://t.me/Agave1Hive)
 
-Twitter:[ https://twitter.com/Agave\_lending](https://twitter.com/Agave_lending)
+Twitter:[ https://twitter.com/Agave\_lending](https://twitter.com/Agave\_lending)
 
 Reddit:[ https://www.reddit.com/r/AGVE/](https://www.reddit.com/r/AGVE/)**​**
 
@@ -104,30 +84,48 @@ Reddit:[ https://www.reddit.com/r/AGVE/](https://www.reddit.com/r/AGVE/)**​**
 
 A melhor forma de resolver isso é pedir ajuda a um membro da 1Hive em [ ⛈help](https://discord.gg/3AjG7XvRJZ) no Discord.
 
-## **Alvin**
+## **Staking**
 
-**What / Who is Alvin “Quem” ou “o que” é o Alvin?**
+**Posso utilizar $AGVE para stake?**
 
-Alvin é um erc20 que pode ser trocado \( em números inteiros\) por um boneco de pelúcia com tiragem limitada da personagem do logo da Agave \(chamado Alvin\) e uma NFT - Non Fungible Token.  Inspirado pelo sucesso das Unisocks \(valor de $100k até a conclusão deste post\), a primeira colaboração \(Cross-Pollination\) entre[ 1Hive](https://1hive.org/) e[ Shenanigan](https://she.energy/).
+Desde 10 de maio você pode. Clique [aqui](https://app.agave.finance/#/stake) para acessar o app.
 
-**ALVIN v3: 0x50DBde932A94b0c23D27cdd30Fbc6B987610c831**
+**O que é o período de cooldown?**
 
-Blockscout:[ $ALVIN](https://blockscout.com/poa/xdai/address/0x50DBde932A94b0c23D27cdd30Fbc6B987610c831/transactions) /[ Alvin v3](https://info.honeyswap.org/token/0x50dbde932a94b0c23d27cdd30fbc6b987610c831)
+O cooldown é o tempo que você espera para retirar seu stake. É um módulo de segurança”. A ideia é que você não retire imediatamente seus tokens em stake, uma vez que estão em stake para proteger de uma shortfall.
 
-Fornecimento total: 122
+**O que é uma shortfall?**
 
-**Quero resgatar meu boneco Alvin \( or minhas Shweatpants\). Como faço isso?**
+Clique aqui para saber a definição de shortfall.
 
-Caso você queira trocar seus tokens Alvin pelo boneco \( ou as SHWEATPANTS da Shenanigan\) você pode fazê-lo facilmente no [dripp.farm](https://www.dripp.farm/) clicando em “Buy”. Seu item será enviado a qualquer lugar do mundo.
+**O que acontece quando eu clico em "Activate Cooldown?**
 
-**Como o preço é calculado?** 
+Quando você ativa o período de cooldown você terá que esperar 10 dias para retirar seus tokens do stake. Em seguida você terá 2 dias para clicar em “unstake”
 
-Os tokens no Dripps começam listados com um preço pré determinado. Cada compra e venda movimenta o preço. O aumento ou diminuição seguem uma [bonding curve](https://blog.relevant.community/bonding-curves-in-depth-intuition-parametrization-d3905a681e0a). Cada Dripp encontrará, eventualmente, equilíbrio com base na demanda do mercado.
+**O que acontece se você não retirar durante o período de 2 dias?**
 
-**O que é Dripp?**
+Caso você não retire em 2 dias, a janela se fecha e você deve reativar o período de cooldown .
 
-Dripp -[ http://dripp.farm/](http://dripp.farm/) é a plataforma onde usuários podem fazer stake de Honey, Particle ou ambos para receber ALVIN e SHWEATPANTS, ou ambos também. Staking será possível por 30 dias após a data de lançamento \( quatro de março\).
+**Eu continuo recebendo recompensas de staking durante o período de espera?**
 
-Para mais informações leia este [artigo](https://medium.com/frst/money-laundry-the-rise-of-the-crypto-sock-market-f979aafc3796).  
+Sim! Você recebe recompensas de staking até que você retire seus tokens do stake.
 
+**De onde vieram os 500 AGAVE?**
 
+Os 500 AGAVE ( 0.5% do suprimento total) foi uma proposta votada recentemente pela comunidade. Clique [aqui](https://forum.1hive.org/t/agave-votes-apr-22/3489) para saber mais.
+
+**Se eu depositar AGAVE em stake eu recebo o token “ stakedAGAVE?**
+
+Sim, você receberá stkAGVE.
+
+**É possível votar também com stkAGVE?**
+
+Atualmente não é possível, mas está tudo pronto para permitir essa função assim que atualizarmos a DAO. Teremos um “ partido independente” para votar quando isso acontecer.
+
+**O que acontece após 6 meses, o stake é retirado automaticamente?**
+
+Talvez. Você ainda pode ter que manualmente retirar o stake. Nós comunicaremos antes disso sobre o que acontecerá quando o período terminar. Não haverá nenhuma perda de recompensas se você não retirar seu stake imediatamente, mas você ainda terá o tempo de espera para lidar. Nosso plano é que isso mude para receber uma parte das recompensas do protocolo, quando este for lançado, sendo assim você nunca iria querer retirar o stake.
+
+Nossa plataforma Agave foi lançada no dia primeiro de setembro! A auditoria dos contratos foi concluída pela Chainsulting no dia primeiro de maio.
+
+\
