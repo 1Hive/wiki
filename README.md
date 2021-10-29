@@ -33,7 +33,7 @@ Isso não quer dizer que não exista visão ou direção estratégica; cada um d
 Se você chegou até aqui e está pensando, “Uau isso parece incrível mas também confuso, por onde começar?” - Tudo bem, é o esperado. A 1Hive é dinâmica e está sempre mudando. Pode parecer caótico e difícil acompanhar tudo que está acontecendo, mesmo para contribuintes mais consistentes. Para ajudar as novas abelhas a encontrarem seu caminho pela primeira vez aqui estão alguns recursos para te ajudar a começar.\
 
 
-1. Leia o [Pacto da Comunidade](https://1hive.gitbook.io/1hive/community-covenant) - é a nossa constituição e define as expectativas na forma de interagir uns com os outros.
+1. Leia o[ Pacto da Comunidade](https://wiki.1hive.org/v/portugues/community-covenant) - é a nossa constituição e define as expectativas na forma de interagir uns com os outros.
 2. Explore [Pojetos e Marcos](https://1hive.gitbook.io/1hive/projects/milestones)  - trabalho feito a toda hora entre múltiplos projetos e cada um deles poderá ter marcos a serem atingidos.
 3. Junte-se ao nosso [Discord](https://discord.com/invite/qPa4h5w) - o principal lugar para coordenação sincronizada e discussões entre membros da comunidade. Também visite [discord página wiki](https://1hive.gitbook.io/1hive/getting-started/discord) para entender os canais e funções individuais.
 4. Junte-se ao [fórum](https://forum.1hive.org) - aqui você pode encontrar discussões mais profundas e independentes, e também onde as discussões de propostas referentes aos recursos do fundo comunitário.
