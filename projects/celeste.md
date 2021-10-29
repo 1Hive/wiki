@@ -2,7 +2,7 @@
 description: An in development subjective oracle.
 ---
 
-# Celeste \(Coming soon\)
+# Celeste
 
 See a brief overview of Celeste in following post:
 
@@ -11,6 +11,4 @@ See a brief overview of Celeste in following post:
 See details about the user flow in the following post:
 
 {% embed url="https://forum.1hive.org/t/disputable-honey-pot-celeste-and-agreement-user-process/1343" %}
-
-
 

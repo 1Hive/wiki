@@ -10,13 +10,11 @@ Consulta el [Bug Bounty Swarm](../swarms/bug-bounty.md) y la descripción oficia
 
 ## Auditorías de Seguridad
 
-Actualmente 1Hive no audita su código, ve esta nota al respecto: 
+Actualmente 1Hive no audita su código, ve esta nota al respecto:&#x20;
 
 {% embed url="https://forum.1hive.org/t/a-note-on-1hive-contract-audits/975" %}
 
 Sin embargo, tuvimos una auditoría para Dandelion. ConsenSys Diligence realizó una auditoría de seguridad de la plantilla de la organización Dandelion de 1Hive y las aplicaciones de apoyo. Las organizaciones de Dandelion son una plantilla DAO que funcionan de manera similar a MolochDAO, y se componen de un conjunto de aplicaciones modulares de Aragon que se pueden usar en cualquier DAO.
 
 {% embed url="https://consensys.net/diligence/audits/2019/12/dandelion-organizations/" %}
-
-
 

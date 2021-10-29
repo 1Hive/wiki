@@ -6,19 +6,19 @@ description: Gestion de recompensas por Bugs
 
 El Swarm 🐛Bug Bounty administra los fondos disponibles a través del Programa Bug Bounty. Actualmente está formado por miembros del grupo 1Hive Seed que han estado trabajando en 1Hive durante más de un año y tienen un alto grado de confianza entre ellos.
 
-## Links Útiles 
+## Links Útiles&#x20;
 
- [Aragon DAO](https://aragon.1hive.org/#/1hivebounty/) contiene los fondos de Bug Bounty
+&#x20;[Aragon DAO](https://aragon.1hive.org/#/1hivebounty/) contiene los fondos de Bug Bounty
 
 ## Roles y Responsabilidades
 
-| Miembros | Roles |
-| :--- | :--- |
+| Miembros                                           | Roles                   |
+| -------------------------------------------------- | ----------------------- |
 | [willjgriff](https://forum.1hive.org/u/willjgriff) | Seed y miembro del DAO  |
-| [rperez89](https://forum.1hive.org/u/rperez89) | Seed y miembro del DAO  |
-| [fabriv](https://forum.1hive.org/u/fabriv) | Seed y miembro del DAO  |
-| [lkngtn](https://forum.1hive.org/u/lkngtn) | Seed y miembro del DAO  |
-| [onbjerg](https://forum.1hive.org/u/onbjerg) | Seed y miembro del DAO  |
+| [rperez89](https://forum.1hive.org/u/rperez89)     | Seed y miembro del DAO  |
+| [fabriv](https://forum.1hive.org/u/fabriv)         | Seed y miembro del DAO  |
+| [lkngtn](https://forum.1hive.org/u/lkngtn)         | Seed y miembro del DAO  |
+| [onbjerg](https://forum.1hive.org/u/onbjerg)       | Seed y miembro del DAO  |
 
 Cada uno de los miembros mencionados anteriormente tienen el mismo peso de voto dentro del DAO de recompensas por errores para distribuir las recompensas.
 
@@ -29,4 +29,3 @@ Se hizo una propuesta de financiamiento que fue aceptada por la comunidad: [http
 ## Pagos de las recompensas
 
 $2000 en Honey por una vulnerabilidad de suplantación de correo electrónico: [https://forum.1hive.org/t/email-spoofing-vulnerability-payout/2187](https://forum.1hive.org/t/email-spoofing-vulnerability-payout/2187)
-

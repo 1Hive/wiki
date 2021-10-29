@@ -14,12 +14,11 @@ El Swarm 🌺Flora Swarm esta compuesto por personas que mantienen activamente l
 
 ## Roles y Responsabilidades
 
-### Miembros de Flora 
+### Miembros de Flora&#x20;
 
-| Miembro | Rol |
-| :--- | :--- |
+| Miembro                                     | Rol                                              |
+| ------------------------------------------- | ------------------------------------------------ |
 | [anisoptera](https://github.com/anisoptera) | Responsable del validador y titular del multisig |
-| [lkngtn](https://github.com/lkngtn) | titular del multisig |
-| [cris](https://github.com/crisog) | titular del multisig |
-| [onbjerg](https://github.com/onbjerg) | titular del multisig |
-
+| [lkngtn](https://github.com/lkngtn)         | titular del multisig                             |
+| [cris](https://github.com/crisog)           | titular del multisig                             |
+| [onbjerg](https://github.com/onbjerg)       | titular del multisig                             |

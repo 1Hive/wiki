@@ -10,5 +10,4 @@ Cualquiera es bienvenido a unirse a las llamadas públicas programadas durante l
 Ten en cuenta que la hora está en UTC, independientemente de dónde te encuentres Para ver el calendario en tu hora local, ábrelo en tu calendario personal de Google haciendo clic en "+ Calendario de Google" en la esquina inferior derecha.
 {% endhint %}
 
-{% embed url="https://calendar.google.com/calendar/embed?src=cadcad.org%40gmail.com&ctz=UTC&src=c\_k77c78d1kdt9e1vpk2cvjcc7jg@group.calendar.google.com" %}
-
+{% embed url="https://calendar.google.com/calendar/embed?src=cadcad.org%40gmail.com&ctz=UTC&src=c_k77c78d1kdt9e1vpk2cvjcc7jg@group.calendar.google.com" %}

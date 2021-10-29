@@ -12,9 +12,9 @@ The 1Hive Community Covenant is currently open for review: [https://forum.1hive.
 
 1Hive también es un protocolo económico, similar a Bitcoin o Ethereum, donde una moneda digital llamada Honey, se emite y distribuye programáticamente. A diferencia de Bitcoin o Ethereum, el protocolo 1Hive no se define de forma estricta en un conjunto de actividades que son valiosas, sino que se basa en los miembros de la comunidad para guiar el proceso de distribución mediante la creación y participación en las propuestas de distribución de Honey.
 
-La meta del protocolo 1Hive es fomentar una economía comunitaria saludable mediante la asignación de un flujo constante de miel para el desarrollo, mantenimiento y mejora de los bienes comunes que aportan el mayor valor a la comunidad 1Hive. 
+La meta del protocolo 1Hive es fomentar una economía comunitaria saludable mediante la asignación de un flujo constante de miel para el desarrollo, mantenimiento y mejora de los bienes comunes que aportan el mayor valor a la comunidad 1Hive.&#x20;
 
-El crecimiento de la economía de 1Hive está directamente relacionado con la capacidad de las comunidades para fomentar una cultura inclusiva y acogedora, que la gente se sienta orgullosa y encantada de adoptar como propia. Cuando alguien escoge comprar o mantener Honey y participar en la economía de Honey, está apoyando implícitamente la cultura, los valores y las normas de la comunidad. 
+El crecimiento de la economía de 1Hive está directamente relacionado con la capacidad de las comunidades para fomentar una cultura inclusiva y acogedora, que la gente se sienta orgullosa y encantada de adoptar como propia. Cuando alguien escoge comprar o mantener Honey y participar en la economía de Honey, está apoyando implícitamente la cultura, los valores y las normas de la comunidad.&#x20;
 
 Con este fin, el protocolo 1Hive depende de un contrato social, que establece expectativas sobre cómo los miembros deben involucrarse tanto como con el protocolo como entre sí.
 
@@ -26,29 +26,29 @@ Nos comprometemos a actuar e interactuar de maneras que contribuyan a una comuni
 
 ## Nuestros Estandares
 
-Ejemplos de comportamiento que contribuyen a un entorno positivo para nuestra comunidad: 
+Ejemplos de comportamiento que contribuyen a un entorno positivo para nuestra comunidad:&#x20;
 
 * Demostrar empatía y amabilidad hacia otras personas
 * Respetar las diferentes opiniones, puntos de vista y experiencias
 * Dar y aceptar comentarios constructivos
-* Aceptar la responsabilidad por nuestros errores, disculparnos con los afectados y aprender de la experiencia 
+* Aceptar la responsabilidad por nuestros errores, disculparnos con los afectados y aprender de la experiencia&#x20;
 * Centrarse en lo que es mejor no solo para nosotros como individuos, sino para la comunidad en general
 
 Ejemplos de comportamiento inaceptable:
 
 * El uso de lenguaje o imágenes sexualizadas, acoso sexual de cualquier tipo
 * Comentarios insultantes o despectivos y ataques personales
-* Acoso público o privado 
+* Acoso público o privado&#x20;
 * Publicar información privada de otros, como una dirección física o de correo electrónico, sin su permiso explícito
 * Cualquier conducta que razonablemente podría considerarse inapropiada en un entorno profesional
 
 ## Ejecución On-chain
 
-El mecanismo de ejecución On-chain dependerá de la finalización de Celeste 
+El mecanismo de ejecución On-chain dependerá de la finalización de Celeste&#x20;
 
-La habilidad del protocolo de 1hive para hacer cumplir este pacto se limita a las interacciones directas que los miembros de la comunidad tienen con el protocolo. Específicamente, la capacidad de los miembros de la comunidad para presentar propuestas para asignar la emisión de miel o ajustar los parámetros del protocolo. 
+La habilidad del protocolo de 1hive para hacer cumplir este pacto se limita a las interacciones directas que los miembros de la comunidad tienen con el protocolo. Específicamente, la capacidad de los miembros de la comunidad para presentar propuestas para asignar la emisión de miel o ajustar los parámetros del protocolo.&#x20;
 
-Se requerirá que un miembro de la comunidad haga stake de Honey cuando presente una propuesta, dando fe de que el impacto de la propuesta podría considerarse razonablemente alineado con el contrato social de 1hive. Otro miembro de la comunidad puede crear una disputa si no está de acuerdo con propuesta, desafiandola y haciendo stake de una cantidad equivalente de Honey. Si después de ser impugnada, la propuesta no se retira, se utilizará un oráculo descentralizado \(Oracle\) para resolver la disputa. 
+Se requerirá que un miembro de la comunidad haga stake de Honey cuando presente una propuesta, dando fe de que el impacto de la propuesta podría considerarse razonablemente alineado con el contrato social de 1hive. Otro miembro de la comunidad puede crear una disputa si no está de acuerdo con propuesta, desafiandola y haciendo stake de una cantidad equivalente de Honey. Si después de ser impugnada, la propuesta no se retira, se utilizará un oráculo descentralizado (Oracle) para resolver la disputa.&#x20;
 
 Se espera que los participantes en el protocolo de resolución de disputas revisen la propuesta, este pacto y las disputas relacionadas con el fin de emitir un juicio que consideren que mejor se aline con las normas establecidas y la intención de la comunidad de 1hive.
 
@@ -59,6 +59,4 @@ Si el oráculo falla a favor del proponente, la propuesta se desbloqueará y la 
 Si bien no hay un foro que represente a la comunidad 1hive, hay espacios comunitarios incluyendo el Github de 1hive, Discourse y Discord, y otros foros que pueden surgir en el futuro y que se espera que se adhieran a este pacto.
 
 While there is no canonical off-chain forum that represents the 1hive community, there are community spaces including the 1hive Github, Discourse, and Discord communities, and others forums which may emerge in the future which are expected to adhere to this covenant.
-
-
 
