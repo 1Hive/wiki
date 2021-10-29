@@ -33,7 +33,7 @@
 ## 🌳Community
 
 * [Swarms](community/swarms/README.md)
-  * [🌷Tulip](community/swarms/tulip/README.md)
+  * [🌷 Tulip](community/swarms/tulip/README.md)
     * [Tulip Swarm Contributor Onboarding Handbook](community/swarms/tulip/tulip-swarm-contributor-onboarding-handbook.md)
   * [🌺 Flora](community/swarms/flora.md)
   * [🌞 Celeste](community/swarms/celeste.md)
