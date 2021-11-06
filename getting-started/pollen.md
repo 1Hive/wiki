@@ -22,6 +22,18 @@ You also have a `!pollen userinfo` command to check the info you saved in the DB
 
 If you have questions, are interested in how pollen is calculated, or auditing the distributions, just hop on the [🏵**pollen**](https://discord.com/invite/y8fPNcNdAa) channel.
 
+## Rules
+
+{% hint style="warning" %}
+In case of not complying with the rules, the [Pollen DAO](../community/swarms/pollen.md) reserves the right to remove any user from Pollen or request ban from the server, forum and github.
+{% endhint %}
+
+Due to the infancy of the SourceCred software there are still some ways to exploit it. Various parameter changes have minimized this risk but 1Hive still imposes the following rules, which are known and monitored by many in the community.
+
+1. **One account per user policy:** A user is not allowed to own and operate multiple accounts.
+2. **No reactions/likes trading allowed:** Entering agreements with other users to like/react to each other’s posts is not allowed. Reactions/Likes trading is defined by a pattern of 2 or more users mutually reacting to most or all of each other’s posts, regardless of the quality of the content.
+3. **Bug use / Exploits / Manipulation:** If you find a bug or exploit in the system, please report it immediately. Those using a bug or exploit to their advantage may risk account deactivation.
+
 ## Pollen Distribution
 
 Pollen is computed using **SourceCred** to create and analyze a graph of interactions between community members. While not a perfect representation of the value of contributions, Pollen can help reward the interactions that are important but too granular to warrant creating proposals for or claiming from a Swarm.
@@ -38,9 +50,7 @@ The weights that determine the Pollen earned for each action can be seen in the 
 
 ### Total Distribution
 
-The weekly Honey distribution is capped at $15,000 or 33 Honey if 33 Honey is worth less than $15,000. 5% of the weekly distribution goes directly to the SourceCred team.
-
-![Figure 1. Weekly distribution in Honey based on USD value](<../.gitbook/assets/image (11).png>)
+The weekly Honey distribution is capped at 25 Honey. 5% of the weekly distribution goes directly to the SourceCred team.
 
 ### Distribution Rate
 
@@ -95,7 +105,7 @@ The 🌈**design** channel gives 0.75x the standard cred weight.
 
 The 🍄**nominations** channel mints 95% of cred for users who have been tagged in messages. Users sharing a tagged user get 5% cred for responses. All users tagged will share cred equally amongst all tagged users in that message.
 
-All support channels such as :thunder_cloud_rain:**help**, **help-es**, and **help-fr** give 2.5x the standard cred weight.
+All support channels such as :thunder\_cloud\_rain:**help**, **help-es**, and **help-fr** give 2.5x the standard cred weight.
 
 ### Forum Pollen Weights
 
@@ -108,14 +118,6 @@ On the Forum the total cred a user can mint is dependent on the trust level of t
 | 2           | 1x          |
 | 1           | 0.1x        |
 | 0           | 0x          |
-
-## Rules
-
-Due to the infancy of the SourceCred software there are still some ways to exploit it. Various parameter changes have minimized this risk but 1Hive still imposes the following rules, which are known and monitored by many in the community.
-
-1. **One account per user policy** A user is not allowed to own and operate multiple accounts.
-2. **No reactions/likes trading allowed** Entering agreements with other users to like/react to each other’s posts is not allowed. Reactions/Likes trading is defined by a pattern of 2 or more users mutually reacting to most or all of each other’s posts, regardless of the quality of the content.
-3. **Bug use / Exploits / Manipulation** If you find a bug or exploit in the system, please report it immediately. Those using a bug or exploit to their advantage may risk account deactivation.
 
 ## Useful Links
 
