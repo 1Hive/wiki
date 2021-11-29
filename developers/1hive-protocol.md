@@ -22,9 +22,10 @@ Staking (Honey): 0x0e25b918c9fb2fea5d42011d1f4b9f8c61b453e7
 ```
 IncentivisedSlidingWindowOracle: 0x6f38D112b13eda1E3abAFC61E296Be2E27F15071
 FeesUpdater: 0xeb24f7001437188baF2D5Ef0b0FcFadAD4564517
+CollateralRequirementUpdater: 0xc08fbc829A879470C15916Aad14e85905E6Ab901
 ```
 
-### IncentivisedSlidingWindowOracle
+### Incentivised Sliding Window Oracle
 
 Anyone can update the Honey price used, fetched from Honeyswap, which is used for calculating the value of Honey payouts in stable token funding proposals and calculating Celeste fees.
 
@@ -35,9 +36,13 @@ Wrapped xDai`0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d`
 
 The price oracle requires `update` to be called once every 3 hours for a specific pair. If it is not updated once every 3 hours within the previous 24 hours, calls checking prices will revert.
 
-### FeesUpdater
+### Fees Updater
 
 Anyone can update the Celeste fees, paid for in Honey, but which are defined using a stable amount by calling `updateCourtFees` function on the [FeesUpdater in Blockscout](https://blockscout.com/poa/xdai/address/0xeb24f7001437188baF2D5Ef0b0FcFadAD4564517/write-contract).
+
+### Collateral Requirement Updater
+
+Anyone can update the collateral requirements for creating and challenging proposals in the 1Hive Garden to a Honey value representing $100 by calling the `updateCollateralRequirements` function on the [CollateralRequirementUpdater in Blockscout](https://blockscout.com/xdai/mainnet/address/0xc08fbc829A879470C15916Aad14e85905E6Ab901/write-contract).
 
 ## Celeste and modules addresses
 
