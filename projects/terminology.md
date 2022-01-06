@@ -2,15 +2,25 @@
 
 There are various **Projects** and [**Swarms**](../community/swarms/), with goals that range from communicating to developing new protocols and platforms for 1Hive.
 
+1Hive doesn’t have a management hierarchy, people are free to come and go, contribute a lot or a little, to take up and champion initiatives or to simply hop in and provide casual support.
+
+Swarms are self-organizing working groups within the 1hive community. They do not have any formal authority, they are simply social structures intended to help connect community members, focus discussions, and get things done.
+
+Swarms can form around horizontal work areas or vertical project initiatives or themes. Rather than a strict structure, swarms are what they need to be and nothing more or less. In some cases a swarm is just a channel in discord, in other cases it may have an associated multisig, typically an Aragon DAO, or similar structure to store funds.
+
+Anyone who has an interest in a particular area of the 1Hive ecosystem is encouraged to find the relevant Swarm and get involved to find where they can start contributing.
+
 ## Projects
 
 [🌻**Gardens**](https://1hive.gitbook.io/gardens/) - A platform where communities can issue their own currencies and existing token projects can engage their community by sponsoring community directed development efforts.
 
 [🌞**Celeste**](../community/swarms/celeste.md) - A subjective oracle protocol that incorporates BrightId to make participation less capital intensive. It will be used, among other things, to enforce the [1Hive Community Covenant](../community-covenant.md).
 
-[🍃**Honeyswap**](../projects/honeyswap/) - A multichain DEX aggregator enabling Swaps, Flash Loans, and Oracles. A portion of fees from volume on Honeyswap is used to buy Honey and the local network Comb tokens used as farming rewards.
+****[**⭐️ Quest**](quests.md) **** - a platform allowing different stakeholders to interact easily and interactively through a quest. A single quest is basically a fundable task where some people can complete it and earn a reward (e.g. $HNY).
 
-[🌵**Agave**](../projects/agave.md) - A decentralised non-custodial liquidity market protocol where users can participate as depositors or borrowers. It's a fork of Aave and unlike our other projects, the Agave protocol is governed by its own token, [$AGVE](https://blockscout.com/xdai/mainnet/address/0x3a97704a1b25F08aa230ae53B352e2e72ef52843/transactions).
+[🍃**Honeyswap**](honeyswap/) - A multichain DEX aggregator enabling Swaps, Flash Loans, and Oracles. A portion of fees from volume on Honeyswap is used to buy Honey and the local network Comb tokens used as farming rewards.
+
+[🌵**Agave**](agave.md) - A decentralised non-custodial liquidity market protocol where users can participate as depositors or borrowers. It's a fork of Aave and unlike our other projects, the Agave protocol is governed by its own token, [$AGVE](https://blockscout.com/xdai/mainnet/address/0x3a97704a1b25F08aa230ae53B352e2e72ef52843/transactions).
 
 ## Swarms
 
@@ -24,7 +34,7 @@ There are various **Projects** and [**Swarms**](../community/swarms/), with goal
 
 [🏵**Pollen**](../community/swarms/pollen.md) - A swarm and system that maintains our SourceCred instance to distribute Honey based on contributions in Discord, the Forum and Github.
 
-[🌷**Tulip**](../community/swarms/tulip/) - A swarm working on trading and DeFi infrastructure including [Honeyswap](../projects/honeyswap/), a fork of Uniswap v2 that will incentivize liquidity provision using Honey. And other “Bee-Fi” related projects such as [Honeycomb](../projects/honeycomb/).
+[🌷**Tulip**](../community/swarms/tulip/) - A swarm working on trading and DeFi infrastructure including [Honeyswap](honeyswap/), a fork of Uniswap v2 that will incentivize liquidity provision using Honey. And other “Bee-Fi” related projects such as [Honeycomb](honeycomb/).
 
 [🐱**Fauna**](../community/swarms/fauna.md) - A swarm dedicated to moderation of our discussion channels. Members of this swarm are the ones you're likely to come in contact with to report any misbehavior or scam attempt.
 

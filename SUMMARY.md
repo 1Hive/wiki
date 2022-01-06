@@ -5,11 +5,10 @@
 
 ## 🌱Getting Started
 
-* [Terminology](getting-started/terminology.md)
+* [Contributing](getting-started/contributing.md)
 * [Discord](getting-started/discord.md)
 * [Pollen](getting-started/pollen.md)
 * [Calendar](getting-started/calendar.md)
-* [Contributing](getting-started/contributing.md)
 * [Honey](getting-started/honey/README.md)
   * [Participation](getting-started/honey/participation.md)
   * [Supply](getting-started/honey/issuance.md)
@@ -18,6 +17,7 @@
 
 ## ✨Projects
 
+* [Terminology](projects/terminology.md)
 * [Celeste](https://1hive.gitbook.io/celeste/)
 * [Gardens](https://1hive.gitbook.io/gardens/)
 * [Quests](projects/quests.md)
@@ -33,7 +33,6 @@
 ## 🌳Community
 
 * [Swarms](community/swarms/README.md)
-  * [🌻 Gardens](community/swarms/gardens.md)
   * [🌞 Celeste](community/swarms/celeste.md)
   * [🌟 Quests](community/swarms/quests.md)
   * [🐝 Buzz](community/swarms/buzz.md)
@@ -48,6 +47,7 @@
   * [🌐 Commons](community/swarms/commons.md)
   * [🌜 Luna](community/swarms/luna.md)
   * [🐛 Bug Bounty](community/swarms/bug-bounty.md)
+  * [🌻 Gardens](community/swarms/gardens.md)
 * [Media](community/media/README.md)
   * [Social Accounts](community/media/social-accounts.md)
   * [Social Curation](community/media/social-curation.md)
