@@ -5,6 +5,7 @@
 
 ## 🌱Getting Started
 
+* [Terminology](getting-started/terminology.md)
 * [Contributing](getting-started/contributing.md)
 * [Discord](getting-started/discord.md)
 * [Pollen](getting-started/pollen.md)
@@ -17,7 +18,6 @@
 
 ## ✨Projects
 
-* [Terminology](getting-started/terminology.md)
 * [Celeste](https://1hive.gitbook.io/celeste/)
 * [Gardens](https://1hive.gitbook.io/gardens/)
 * [Quests](projects/quests.md)
