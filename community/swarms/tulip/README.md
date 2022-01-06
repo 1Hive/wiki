@@ -4,9 +4,9 @@ description: DeFi dApp development
 
 # 🌷 Tulip
 
-The 🌷 Tulip swarm is responsible for building, deploying, maintaining and upgrading decentralized finance (DeFi) dApp projects for the 1Hive community. The intent of these projects is to support the 1Hive ecosystem by enabling 1Hive tokens to trade freely and create revenue streams that ultimately support the value of [HNY.](../../../projects/honey/)
+The 🌷 Tulip swarm is responsible for building, deploying, maintaining and upgrading decentralized finance (DeFi) dApp projects for the 1Hive community. The intent of these projects is to support the 1Hive ecosystem by enabling 1Hive tokens to trade freely and create revenue streams that ultimately support the value of [HNY.](../../../getting-started/honey/)
 
-The 🌷 Tulip swarm is responsible for building, deploying, maintaining and upgrading decentralized finance (DeFi) dApp projects for the 1Hive community. The intent of these projects is to support the 1Hive ecosystem by enabling 1Hive tokens to trade freely and create revenue streams that ultimately support the value of [HNY.](../../../projects/honey/)
+The 🌷 Tulip swarm is responsible for building, deploying, maintaining and upgrading decentralized finance (DeFi) dApp projects for the 1Hive community. The intent of these projects is to support the 1Hive ecosystem by enabling 1Hive tokens to trade freely and create revenue streams that ultimately support the value of [HNY.](../../../getting-started/honey/)
 
 ## Tulip Projects
 

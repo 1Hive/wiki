@@ -4,7 +4,7 @@ description: Using the Polygon PoS sidechain.
 
 # Polygon
 
-The **Polygon PoS chain** is an EVM-compatible ethereum sidechain, secured by a permissionless set of PoS validators and checkpoints submitted to Ethereum. It uses **MATIC **as the native token for transactions.
+The **Polygon PoS chain** is an EVM-compatible ethereum sidechain, secured by a permissionless set of PoS validators and checkpoints submitted to Ethereum. It uses **MATIC** as the native token for transactions.
 
 See the [Polygon documentation](https://www.xdaichain.com) for more details.
 
@@ -14,7 +14,7 @@ See [this guide](https://docs.matic.network/docs/develop/metamask/config-polygon
 
 **Alternative RPCs:**
 
-*  [https://rpc-mainnet.matic.network/](https://rpc-mainnet.matic.network)
+* &#x20;[https://rpc-mainnet.matic.network/](https://rpc-mainnet.matic.network)
 * [https://rpc-mainnet.maticvigil.com/](https://rpc-mainnet.maticvigil.com)
 * [https://rpc-mainnet.matic.quiknode.pro/](https://rpc-mainnet.matic.quiknode.pro)
 * [https://matic-mainnet.chainstacklabs.com/](https://matic-mainnet.chainstacklabs.com)

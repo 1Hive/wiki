@@ -66,13 +66,13 @@ xComb farming contract is not upgradeable, but the xComb tokens held by the cont
 
 **Admin**: Can change the manager address and initialize a migration by withdrawing xComb and unlocking all time-locked deposits.
 
-Initially the [Tulip swarm multisig ](https://polygon.gnosis-safe.io/app/#/safes/0x8FD5d923530fb4276a85B262287665c3bcD560a6/balances)will serve as the Manager, and 1Hive [Decisions](../honey/decisions.md) will control the Admin role.
+Initially the [Tulip swarm multisig ](https://polygon.gnosis-safe.io/app/#/safes/0x8FD5d923530fb4276a85B262287665c3bcD560a6/balances)will serve as the Manager, and 1Hive [Decisions](../../getting-started/honey/decisions.md) will control the Admin role.
 
 ## Farm Contracts
 
 **pComb Token**: [`0x37d1ebc3af809b8fadb45dce7077efc629b2b5bb`](https://polygonscan.com/token/0x37d1ebc3af809b8fadb45dce7077efc629b2b5bb)
 
-**pComb Farm**:** **[`0x62d7E2484FCFc6752B9473260efE1B86caBAc34e`](https://polygonscan.com/address/0x62d7E2484FCFc6752B9473260efE1B86caBAc34e#code)
+**pComb Farm**: **** [`0x62d7E2484FCFc6752B9473260efE1B86caBAc34e`](https://polygonscan.com/address/0x62d7E2484FCFc6752B9473260efE1B86caBAc34e#code)
 
 **pCombAirdrop:** [`0x3Fe30742aD8491402c8aee251ff57e3E9b18Ff87`](https://polygonscan.com/address/0x3fe30742ad8491402c8aee251ff57e3e9b18ff87#code)``
 

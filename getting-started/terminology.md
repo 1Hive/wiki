@@ -4,7 +4,7 @@ There are various **Projects** and [**Swarms**](../community/swarms/), with goal
 
 ## Projects
 
-[🍯**Honey**](../projects/honey/) - A protocol that issues and distributes 1Hive's community currency, Honey. Honey holders can create and stake on proposals using the open-source frontend hosted at [1hive.org](https://1hive.org).
+[🍯**Honey**](honey/) - A protocol that issues and distributes 1Hive's community currency, Honey. Honey holders can create and stake on proposals using the open-source frontend hosted at [1hive.org](https://1hive.org).
 
 [🍃**Honeyswap**](../projects/honeyswap/) - A multichain DEX aggregator enabling Swaps, Flash Loans, and Oracles. A portion of fees from volume on Honeyswap is used to buy Honey and the local network Comb tokens used as farming rewards.
 
