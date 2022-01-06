@@ -44,7 +44,9 @@ Anyone can update the Celeste fees, paid for in Honey, but which are defined usi
 
 Anyone can update the collateral requirements for creating and challenging proposals in the 1Hive Garden to a Honey value representing $100 by calling the `updateCollateralRequirements` function on the [CollateralRequirementUpdater in Blockscout](https://blockscout.com/xdai/mainnet/address/0xc08fbc829A879470C15916Aad14e85905E6Ab901/write-contract).
 
-## Celeste and modules addresses
+## Celeste and modules addresses&#x20;
+
+### xDai
 
 ```
 Celeste: 0x44E4fCFed14E1285c9e0F6eae77D5fDd0F196f85
@@ -53,4 +55,15 @@ Registry: 0x8C9968a2b16bc1cD0eaD74F5eeF25E899e795501
 Voting: 0x1a0d15f1f6d90C2b71EbA3859a1F30c91E5af9b
 Treasury: 0xeac1dc5ccF09E2b816F9544878CD513728Fa6af7
 Subscriptions: 0x4e4EA6845d7656d569DC4CCC7b68Bb3023720837
+```
+
+### Polygon
+
+```
+Celeste: 0xf0C8376065fadfACB706caFbaaC96B321069C015
+Dispute: 0xBC9d027Eb4B1d9622F217De10f07DC74b7C81EeB
+Registry: 0x517b5c25ee5f972857BD4fD5BFfBbd23b1C9BcB7
+Voting: 0xC5F12618bC930AAB89bfc53b9d20288dfaaf3166
+Treasury: 0x1109052D0155657520Ca1869aE25a0a5Ad51d24E
+Subscriptions: 0x2ae82037c7c9E6AF4D24Bb0781F6477F29cb160D
 ```
