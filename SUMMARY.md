@@ -33,6 +33,7 @@
 ## 🌳Community
 
 * [Swarms](community/swarms/README.md)
+  * [🌻 Gardens](community/swarms/gardens.md)
   * [🌞 Celeste](community/swarms/celeste.md)
   * [🌟 Quests](community/swarms/quests.md)
   * [🐝 Buzz](community/swarms/buzz.md)
@@ -47,7 +48,6 @@
   * [🌐 Commons](community/swarms/commons.md)
   * [🌜 Luna](community/swarms/luna.md)
   * [🐛 Bug Bounty](community/swarms/bug-bounty.md)
-  * [🌻 Gardens](community/swarms/gardens.md)
 * [Media](community/media/README.md)
   * [Social Accounts](community/media/social-accounts.md)
   * [Social Curation](community/media/social-curation.md)
