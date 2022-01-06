@@ -17,7 +17,7 @@
 
 ## ✨Projects
 
-* [Terminology](projects/terminology.md)
+* [Terminology](getting-started/terminology.md)
 * [Celeste](https://1hive.gitbook.io/celeste/)
 * [Gardens](https://1hive.gitbook.io/gardens/)
 * [Quests](projects/quests.md)
