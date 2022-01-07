@@ -10,13 +10,13 @@ Quests is a Celeste enabled incentivised bounty platform allowing users or organ
 
 Each quest is a single contract and consists of:
 
-* A title and [description](quests.md#undefined) of the work required.
+* A title and [description](quests.md#quest-descriptions) of the work required.
 * The reward ERC20 token which any user or organisation can send to the quests contract address to fund.&#x20;
 * An expiry time and refund address.
 
 Quest players submit claim requests for a quest, including evidence, for some or all of the quests available bounty, along with a deposit. The claim request is fulfillable after a 7 day delay period.&#x20;
 
-During the delay period other users can verify that the evidence submitted demonstrates completion of the quest. If they believe that the quest has not been completed to the standard specified in the quest description then it can be challenged, also requiring a deposit, and raising it to Celeste which will decide whether the work has been completed as expected or not.&#x20;
+During the delay period other users can [verify](quests.md#verifying-a-quest) that the evidence submitted demonstrates completion of the quest. If they believe that the quest has not been completed to the standard specified in the quest description then it can be challenged, also requiring a deposit, and raising it to Celeste which will decide whether the work has been completed as expected or not.&#x20;
 
 The Celeste outcome will determine whether or not the claim request should be fulfilled and who is rewarded with the participants deposits. Whoever out of the player and challenger loses will lose their deposit to the winner.
 
