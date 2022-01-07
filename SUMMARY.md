@@ -25,10 +25,10 @@
   * [Honeyswap on xDai](projects/honeyswap/honeyswap-on-xdai.md)
   * [Honeyswap on Polygon](projects/honeyswap/honeyswap-on-polygon.md)
   * [Audits & Security](projects/honeyswap/audits-and-security.md)
-* [Agave](projects/agave.md)
 * [Honeycomb](projects/honeycomb/README.md)
   * [Farms on xDai](projects/honeycomb/honeyswap-on-xdai-1.md)
   * [Farms on Polygon](projects/honeycomb/honeyswap-on-polygon.md)
+* [Agave](projects/agave.md)
 
 ## 🌳Community
 
