@@ -39,4 +39,6 @@ Se você chegou até aqui e está pensando, “Uau isso parece incrível mas tam
 4. Inscreva-se no [Pollen](https://1hive.gitbook.io/1hive/getting-started/pollen) - quando estiver pronto a contribuir, a maneira mais fácil é se registrar no Pollen, um programa que rastreia interações no Github, no fórum e Discord, e recompensa semanalmente membros da comunidade com Honey.
 5. Inscreva-se no [calendário da 1Hive](https://1hive.gitbook.io/1hive/getting-started/calendar) - os canais de voz e vídeo no Discord são usados por membros da comunidade para reuniões e eventos. Muitas vezes usados de forma repentina, mas quando um evento é marcado com antecedência este pode ser encontrado no calendário.&#x20;
 6. Participe do [Swarm](https://1hive.gitbook.io/1hive/community/swarms) (Enxame) - muito trabalho feito em projetos da 1Hive é coordenado por grupos de trabalho chamados swarms. Cada grupo de trabalho é independente e talvez tenha desenvolvido uma estrutura e processos próprios. Encontre um que te interesse e pergunte no canal correspondente como você pode ajudar.
-7. Envie uma [proposta](https://1hive.gitbook.io/1hive/projects/honey/participation) - caso tenha uma ideia ou sugestão que não foi abordada antes, talvez você deva criar uma proposta.
+
+
+Envie uma [proposta](https://1hive.gitbook.io/1hive/projects/honey/participation) - caso tenha uma ideia ou sugestão que não foi abordada antes, talvez você deva criar uma proposta.
