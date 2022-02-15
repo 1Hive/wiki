@@ -1,3 +1,7 @@
+---
+description: AragonOS deployment on xDai network.
+---
+
 # xDai Deployments
 
 ### ENS registry

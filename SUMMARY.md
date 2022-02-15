@@ -62,7 +62,7 @@
 * [1Hive Protocol](developers/1hive-protocol.md)
 * [Aragon Infrastructure](developers/aragon-infrastructure/README.md)
   * [xDai Deployments](developers/aragon-infrastructure/xdai-deployments.md)
-  * [Polygon Deployments](developers/aragon-infrastructure/polygon-deployments.md)
+  * [AragonOS Polygon Deployments](developers/aragon-infrastructure/polygon-deployments.md)
 * [Security](developers/security/README.md)
   * [Bug Bounty](developers/security/bug-bounty.md)
 

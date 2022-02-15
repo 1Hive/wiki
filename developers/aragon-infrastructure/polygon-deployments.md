@@ -1,43 +1,78 @@
-# Polygon Deployments
+# AragonOS Polygon Deployments
 
-### Aragon base contracts
+### ENS
 
-```
-"Kernel" at 0x47c980A62bA89F738A668ED1709Ca5fef2384F21
-"ACL" at 0xe8BB56B204950b0E06188AFf22c0665E71ED8312
-"EVMScriptRegistryFactory" at 0xd066b4136E3318A9a054d04AA90e7B0fc0ae03cb
-"DAOFactory" at 0xfCBF0FCAf5851dD9221f2C0FefdFF7f7A14b478a
-"APMRegistry" at 0x749C45B5A3842Cc758d3c7CAb3Fb6354De371aC5
-"Repo" at 0x6099327dd7b8BefcBd607453C9029CbE148845a7
-"ENSSubdomainRegistrar" at 0xDE49D96d85D6BF630604EE4812b2511bD3286Fb5
-"ENSFactory" at 0xF6D7B706B53e1D1Dd70DE015f2a169bd0501bdf1
-executing ENSFactory.newENS (tx: 0x7727385ce9896eb47ab3409c0e5f5c20b71aeedae3d4144a044c2c41c81c8781) ...: performed with 1565278 gas
-ENS: 0x4E065c622d584Fbe5D9078C3081840155FA69581
-"APMRegistryFactory" at 0xb8c830ACebD05537dDDbc45F568aADc5a7cd952D
+| Name | Address                                    |
+| ---- | ------------------------------------------ |
+| ENS  | 0x7EdE100965B1E870d726cD480dD41F2af1Ca0130 |
 
-Creating subdomain and assigning it to APMRegistryFactor
-executing APMRegistryFactory.newAPM (tx: 0xd8f5100e0f5dd914293b3140e15916d76b9110a457700cb160562a13e5346d73) ...: performed with 5847155 gas
-APM: 0x21083376cE8c426008663701d14976F0eb8B4043
+### Aragon Bases
 
+| Name                     | Address                                    |
+| ------------------------ | ------------------------------------------ |
+| Kernel                   | 0x0643Cd09CBE6c2a405efF4d165acD9206804623A |
+| ACL                      | 0xF0e29CC532c198bdd09bF0c4e37c47DD68b32200 |
+| EVMScriptRegistryFactory | 0x6A10a3012BFb0a59b01Aa9D1972b167103B04E22 |
+| APMRegistry              | 0x0EA7ac6da7B5D69fBBD32038cE62A9dA1d096A8a |
+| Repo                     | 0xC5Aa5bEF46697D537ef4aFcc04b91de166a899e4 |
+| ENSSubdomainRegistrar    | 0x2c8C19E83CbCba9F942baf14666f0C7189F41E2c |
+
+### Aragon Package Manager
+
+| Name     | Address                                    |
+| -------- | ------------------------------------------ |
+| APM      | 0xEF680131a19179795797CD855661d174253E8801 |
+| Open APM | 0xe4dC19D2d6dbE4eF45764e90Ad45B0DC4616aA7c |
+
+### Factories
+
+| Name               | Address                                    |
+| ------------------ | ------------------------------------------ |
+| DAOFactory         | 0xEe261Cf86cFf35d8657a4B5D4d1546B4d72c5314 |
+| ENSFactory         | 0x9e1b16b6F25356a1f02F1391529Bd98Ba461905C |
+| APMRegistryFactory | 0xdE63dBE180340918be86Eb8221b832Ad2E045081 |
+| MiniMeTokenFactory | 0xcFed1594A5b1B612dC8199962461ceC148F14E68 |
+
+### AragonID
+
+| Name                   | Address                                    |
+| ---------------------- | ------------------------------------------ |
+| FIFSResolvingRegistrar | 0x7b9cd2d5eCFE44C8b64E01B93973491BBDAe879B |
+
+### Deployment Script Output
+
+```js
+❯ npx hardhat deploy --network polygon
+Nothing to compile
+Creating Typechain artifacts in directory typechain for target ethers-v5
+Successfully generated Typechain artifacts!
+deploying "Kernel" (tx: 0x2b7c3492d278bdc8fec2d6668ff8ffb5b4ee0a8eb71681bb4af6b3b73ffecf5e)...: deployed at 0x0643Cd09CBE6c2a405efF4d165acD9206804623A with 2667669 gas
+deploying "ACL" (tx: 0xc0d4e44e229622c30bb0edb30b952c279b9153c570bcd5bd360540ce84b26a3e)...: deployed at 0xF0e29CC532c198bdd09bF0c4e37c47DD68b32200 with 2622124 gas
+deploying "EVMScriptRegistryFactory" (tx: 0x6719eca018de572f3708b81eb4d30b585511c7bf752dd58adcbe2a36a010e183)...: deployed at 0x6A10a3012BFb0a59b01Aa9D1972b167103B04E22 with 2534602 gas
+deploying "DAOFactory" (tx: 0x8ecc4557f64b4eb542ffc024c9c133a52af78049d939944eeaf95a627fcd0814)...: deployed at 0xEe261Cf86cFf35d8657a4B5D4d1546B4d72c5314 with 996467 gas
+deploying "APMRegistry" (tx: 0x80c22e1640df1bec4ba5701af61bd22a8faf4cc238fc9164d5372374ce958a38)...: deployed at 0x0EA7ac6da7B5D69fBBD32038cE62A9dA1d096A8a with 3314428 gas
+deploying "Repo" (tx: 0x5c31ec398f04a049d2d21ddeca5a59c086a6f03c0c528e8a8f20f5b5668fbc14)...: deployed at 0xC5Aa5bEF46697D537ef4aFcc04b91de166a899e4 with 1704141 gas
+deploying "ENSSubdomainRegistrar" (tx: 0x146740104ab6c5d2528ed113c52caf322b74db3bd9b23550f512bf21c0c0ae02)...: deployed at 0x2c8C19E83CbCba9F942baf14666f0C7189F41E2c with 1835993 gas
+deploying "ENSFactory" (tx: 0x6678d323355d854b42f3ad7882a1566ed25fc1ba4f5b1650548495fda6e52e6f)...: deployed at 0x9e1b16b6F25356a1f02F1391529Bd98Ba461905C with 1821557 gas
+ENS: 0x7EdE100965B1E870d726cD480dD41F2af1Ca0130
+deploying "APMRegistryFactory" (tx: 0x22911308b88567ed68ceb52f555a878279b019673616a3533941c2f6dca4948d)...: deployed at 0xdE63dBE180340918be86Eb8221b832Ad2E045081 with 2210743 gas
+Creating subdomain and assigning it to APMRegistryFactory
+executing APMRegistryFactory.newAPM (tx: 0x944bcb95f4322edab20945f916505676f9f32784643c5df27d11e53c59a949b6) ...: performed with 4801955 gas
+APM: 0xEF680131a19179795797CD855661d174253E8801
 Create permission for root account on CREATE_NAME_ROLE
 Creating open subdomain and assigning it to APMRegistryFactory
-executing APMRegistryFactory.newAPM (tx: 0x9e3b6a309b658cdd695bfae91c06decb8c61843cfab7e8b112d35338218bd294) ...: performed with 5847155 gas
-Open APM: 0xc00E44fBCeDf652e52E4C86B89a7812dE9b0E9f8
-
-"FIFSResolvingRegistrar" (AragonID) at 0x3d5e84D0708744f0Af7dd1AD28df6E5FB92473C0 with 419627 gas
-Creating subdomain aragonid.eth and assigning it to AragonID
-```
-
-### Aragon shared contracts
-
-```
-"BaseTemplate" at 0x8C50E11514E9aA69543F0b369c70c1BED90c78A8
-"MiniMeTokenFactory" at 0x64cDB6caa54Db0703078D6C693cf87Bc16EA777D
+executing APMRegistryFactory.newAPM (tx: 0x40cbf0c19a34ac6aad59449c3a97b1db5426ba0ac68f344e051ac5f5a8f3ad76) ...: performed with 4801955 gas
+Open APM: 0xe4dC19D2d6dbE4eF45764e90Ad45B0DC4616aA7c
+Create permission for ANY_ENTITY on CREATE_REPO_ROLE
+deploying "FIFSResolvingRegistrar" (tx: 0x33ee47623304bb213937ff95cb339b20f79cbeaccda027a9609da752d491206b)...: deployed at 0x7b9cd2d5eCFE44C8b64E01B93973491BBDAe879B with 423501 gas
+Creating subdomain and assigning it to AragonID
+Assigning owner name
+executing FIFSResolvingRegistrar.register (tx: 0x468277558a4b0c940c4c48adcd654273bd37bd39c83e2a7028ff1c4bad677de6) ...: performed with 119042 gas
 ```
 
 ### Aragon apps
 
-#### Agent
+**🏗️ Agent**
 
 ```bash
 ➜ npx hardhat --network polygon publish major --skip-validation
@@ -62,38 +97,10 @@ publish     |   Manager address:   0xB24b54FE5a3ADcB4cb3B27d31B6C7f7E9F6A73a7
 publish     |   Contract address:  0x1B35F10413859D25Cf63D27336eF0434acF113FD
 publish     |   ContentURI:        QmSUuS2uJaSk3n6HGkGHNBDP3GPbYkwTPWMToe3pZvAVVq
 publish     |
-publish     |   https://ipfs.io/ipfs/QmSUuS2uJaSk3n6HGkGHNBDP3GPbYkwTPWMToe3pZvAVVq
+publish     |   <https://ipfs.io/ipfs/QmSUuS2uJaSk3n6HGkGHNBDP3GPbYkwTPWMToe3pZvAVVq>
 ```
 
-#### Agreements
-
-```bash
-➜ npx hardhat --network polygon publish major
-publish     | Applying version bump major, next version: 1.0.0
-publish     | Deploying new implementation or reusing last deployment if no changes.
-publish     | New implementation contract address: 0x41B0039fcC760B8899b3D11e954A7A7B5dfC9E4c
-publish     | Generating Aragon app artifacts
-publish     | Uploading release assets to IPFS...
-publish     | Release assets uploaded to IPFS: QmekfVPGoJVb2voBY2D4j6fJKWmMcGcuyWt5N588amATYe
-publish     | Pinning content to pinata...
-publish     | Content pinned:
-publish     |     id: 91c62f55-2f29-4fd2-a4db-81f981c3de65
-publish     |     status: prechecking
-publish     |     name: polygon:agreement.open.aragonpm.eth@1.0.0
-publish     |
-publish     |   Deploy new repo to registry open.aragonpm.eth
-publish     |
-publish     |   App name:          agreement.open.aragonpm.eth
-publish     |   Initial version:   1.0.0
-publish     |   Manager address:   0xB24b54FE5a3ADcB4cb3B27d31B6C7f7E9F6A73a7
-publish     |   Contract address:  0x41B0039fcC760B8899b3D11e954A7A7B5dfC9E4c
-publish     |   ContentURI:        QmekfVPGoJVb2voBY2D4j6fJKWmMcGcuyWt5N588amATYe
-publish     |
-publish     |   https://ipfs.io/ipfs/QmekfVPGoJVb2voBY2D4j6fJKWmMcGcuyWt5N588amATYe
-publish     |
-```
-
-#### Finance
+&#x20;**🏗️ Finance**
 
 ```bash
 ➜ npx hardhat --network polygon publish major
@@ -118,14 +125,14 @@ publish     |   Manager address:   0xB24b54FE5a3ADcB4cb3B27d31B6C7f7E9F6A73a7
 publish     |   Contract address:  0x6645516FED458f900B5c89a095e0a6D099c6D529
 publish     |   ContentURI:        QmTDd5bX3jkhSm5pwGwKbmmQ4pEGjrsEe9svk9TmQNttVJ
 publish     |
-publish     |   https://ipfs.io/ipfs/QmTDd5bX3jkhSm5pwGwKbmmQ4pEGjrsEe9svk9TmQNttVJ
+publish     |   <https://ipfs.io/ipfs/QmTDd5bX3jkhSm5pwGwKbmmQ4pEGjrsEe9svk9TmQNttVJ>
 publish     |
 publish     |
 publish     |   Tx sent
 publish     |
 publish     |   Tx hash:  0x9239859127322d9488978916716644da1c6225ecfcf567d4223f6fa86516ef36
 publish     |
-publish     |   https://explorer-mainnet.maticvigil.com/tx/0x9239859127322d9488978916716644da1c6225ecfcf567d4223f6fa86516ef36
+publish     |   <https://explorer-mainnet.maticvigil.com/tx/0x9239859127322d9488978916716644da1c6225ecfcf567d4223f6fa86516ef36>
 publish     |
 publish     |
 publish     |   Tx mined
@@ -136,7 +143,7 @@ publish     |   Gas used:      960555
 publish     |
 ```
 
-#### Token Manager
+&#x20;**🏗️ Token Manager**
 
 ```bash
 ➜ npx hardhat --network polygon publish major
@@ -161,14 +168,14 @@ publish     |   Manager address:   0xB24b54FE5a3ADcB4cb3B27d31B6C7f7E9F6A73a7
 publish     |   Contract address:  0xc271F2382ec150dE7536168F10C988766Eb0815b
 publish     |   ContentURI:        Qmb4kqYbH7htBmc2uXMz5KZMPsTupnfYzvDUHKUxmRApjd
 publish     |
-publish     |   https://ipfs.io/ipfs/Qmb4kqYbH7htBmc2uXMz5KZMPsTupnfYzvDUHKUxmRApjd
+publish     |   <https://ipfs.io/ipfs/Qmb4kqYbH7htBmc2uXMz5KZMPsTupnfYzvDUHKUxmRApjd>
 publish     |
 publish     |
 publish     |   Tx sent
 publish     |
 publish     |   Tx hash:  0x6900fa9d138ddcbb5feb6f6f3e9bd6efe340e0e2fd78578e5120fefd2c2d218d
 publish     |
-publish     |   https://explorer-mainnet.maticvigil.com/tx/0x6900fa9d138ddcbb5feb6f6f3e9bd6efe340e0e2fd78578e5120fefd2c2d218d
+publish     |   <https://explorer-mainnet.maticvigil.com/tx/0x6900fa9d138ddcbb5feb6f6f3e9bd6efe340e0e2fd78578e5120fefd2c2d218d>
 publish     |
 publish     |
 publish     |   Tx mined
@@ -179,7 +186,7 @@ publish     |   Gas used:      960627
 publish     |
 ```
 
-#### Vault
+&#x20;**🏗️ Vault**
 
 ```bash
 ➜ npx hardhat --network polygon publish major
@@ -203,14 +210,14 @@ publish     |   Manager address:   0xB24b54FE5a3ADcB4cb3B27d31B6C7f7E9F6A73a7
 publish     |   Contract address:  0x92f0155e2354461e8AD278dFA37ad7DA03fe9051
 publish     |   ContentURI:        Qmc7TG1R9MQGWo4kqJ1XpqAAJ2ZDDvAHKpbMpfFwn2LsAa
 publish     |
-publish     |   https://ipfs.io/ipfs/Qmc7TG1R9MQGWo4kqJ1XpqAAJ2ZDDvAHKpbMpfFwn2LsAa
+publish     |   <https://ipfs.io/ipfs/Qmc7TG1R9MQGWo4kqJ1XpqAAJ2ZDDvAHKpbMpfFwn2LsAa>
 publish     |
 publish     |
 publish     |   Tx sent
 publish     |
 publish     |   Tx hash:  0x9118e5fd7ab5c06dcb3f39b3c0ea116bb53ce50d025e798ba8526fbe7fc552c6
 publish     |
-publish     |   https://explorer-mainnet.maticvigil.com/tx/0x9118e5fd7ab5c06dcb3f39b3c0ea116bb53ce50d025e798ba8526fbe7fc552c6
+publish     |   <https://explorer-mainnet.maticvigil.com/tx/0x9118e5fd7ab5c06dcb3f39b3c0ea116bb53ce50d025e798ba8526fbe7fc552c6>
 publish     |
 publish     |
 publish     |   Tx mined
@@ -221,7 +228,7 @@ publish     |   Gas used:      960531
 publish     |
 ```
 
-#### Voting
+**🏗️ Voting**
 
 ```bash
 ➜ npx hardhat --network polygon publish major
@@ -246,14 +253,14 @@ publish     |   Manager address:   0xB24b54FE5a3ADcB4cb3B27d31B6C7f7E9F6A73a7
 publish     |   Contract address:  0xD233d46dDEceEf8cC8679f281ee5892f94c2945c
 publish     |   ContentURI:        QmQGrACNkH85iEUmQCQ3mANqKuWE1X8EjdPC1cyVNA9c6K
 publish     |
-publish     |   https://ipfs.io/ipfs/QmQGrACNkH85iEUmQCQ3mANqKuWE1X8EjdPC1cyVNA9c6K
+publish     |   <https://ipfs.io/ipfs/QmQGrACNkH85iEUmQCQ3mANqKuWE1X8EjdPC1cyVNA9c6K>
 publish     |
 publish     |
 publish     |   Tx sent
 publish     |
 publish     |   Tx hash:  0x2a70c53458587e06f2fe6d33e4b9d8ba9b12372f967069e41280a73c2f9a9b1f
 publish     |
-publish     |   https://explorer-mainnet.maticvigil.com/tx/0x2a70c53458587e06f2fe6d33e4b9d8ba9b12372f967069e41280a73c2f9a9b1f
+publish     |   <https://explorer-mainnet.maticvigil.com/tx/0x2a70c53458587e06f2fe6d33e4b9d8ba9b12372f967069e41280a73c2f9a9b1f>
 publish     |
 publish     |
 publish     |   Tx mined
@@ -264,21 +271,261 @@ publish     |   Gas used:      960543
 publish     |
 ```
 
-#### Voting Disputable
+**🏗️ Aggrements**
 
-The front-end was not building and the app was published without it.
+```jsx
+❯ npx hardhat publish major --network polygon
+publish     | Applying version bump major, next version: 1.0.0
+publish     | Deploying new implementation or reusing last deployment if no changes.
+publish     | New implementation contract address: 0x7817a805598822985310b859c9E507a535b0c9D1
+publish     | Generating Aragon app artifacts
+publish     | Uploading release assets to IPFS...
+publish     | Release assets uploaded to IPFS: QmTZfMsvGHCGbuZHNR7PEcuQExADbNd3iXfdQszDU8GcW4
+publish     | Pinning content to pinata...
+publish     | Content pinned:
+publish     |     id: 3f367a89-f216-4201-aa20-20ab6c3e8f06
+publish     |     status: prechecking
+publish     |     name: polygon:agreement.open.aragonpm.eth@1.0.0
+publish     |
+publish     |   Deploy new repo to registry open.aragonpm.eth
+publish     |
+publish     |   App name:          agreement.open.aragonpm.eth
+publish     |   Initial version:   1.0.0
+publish     |   Manager address:   0x5b0F8D8f47E3fDF7eE1c337AbCA19dBba98524e6
+publish     |   Contract address:  0x7817a805598822985310b859c9E507a535b0c9D1
+publish     |   ContentURI:        QmTZfMsvGHCGbuZHNR7PEcuQExADbNd3iXfdQszDU8GcW4
+publish     |
+publish     |   [<https://ipfs.blossom.software/ipfs/QmTZfMsvGHCGbuZHNR7PEcuQExADbNd3iXfdQszDU8GcW4>](<https://ipfs.blossom.software/ipfs/QmTZfMsvGHCGbuZHNR7PEcuQExADbNd3iXfdQszDU8GcW4>)
+publish     |
+publish     |
+publish     |   Tx sent
+publish     |
+publish     |   Tx hash:  0x63a7e8c2c855181441790fbe44b93543015645994e7f6cf44f9c3583d21c612d
+publish     |
+publish     |   [<https://explorer-mainnet.maticvigil.com/tx/0x63a7e8c2c855181441790fbe44b93543015645994e7f6cf44f9c3583d21c612d>](<https://explorer-mainnet.maticvigil.com/tx/0x63a7e8c2c855181441790fbe44b93543015645994e7f6cf44f9c3583d21c612d>)
+publish     |
+publish     |
+publish     |   Tx mined
+publish     |
+publish     |   Status:        Success
+publish     |   Block number:  20610281
+publish     |   Gas used:      850079
+publish     |
+```
 
-```bash
+**🏗️ Disputable Conviction Voting**
+
+```jsx
+❯ npx hardhat --network polygon publish major --skip-validation
+publish     | Applying version bump major, next version: 1.0.0
+publish     | Deploying new implementation or reusing last deployment if no changes.
+publish     | New implementation contract address: 0x696ee62e8684aac9c046B372dC7B4626CaD86335
+publish     | Generating Aragon app artifacts
+publish     | Uploading release assets to IPFS...
+publish     | Release assets uploaded to IPFS: QmTwnNj3QQS23zxbSmCTti7Xdn22A46M6KWbv9ArHy7WUd
+publish     | Pinning content to pinata...
+publish     | Content pinned:
+publish     |     id: 32cb1ad9-1f57-4416-940b-3bd213d4b6e3
+publish     |     status: prechecking
+publish     |     name: polygon:disputable-conviction-voting.open.aragonpm.eth@1.0.0
+publish     |
+publish     |   Deploy new repo to registry open.aragonpm.eth
+publish     |
+publish     |   App name:          disputable-conviction-voting.open.aragonpm.eth
+publish     |   Initial version:   1.0.0
+publish     |   Manager address:   0x5b0F8D8f47E3fDF7eE1c337AbCA19dBba98524e6
+publish     |   Contract address:  0x696ee62e8684aac9c046B372dC7B4626CaD86335
+publish     |   ContentURI:        QmTwnNj3QQS23zxbSmCTti7Xdn22A46M6KWbv9ArHy7WUd
+publish     |
+publish     |   <https://ipfs.io/ipfs/QmTwnNj3QQS23zxbSmCTti7Xdn22A46M6KWbv9ArHy7WUd>
+publish     |
+publish     |
+publish     |   Tx sent
+publish     |
+publish     |   Tx hash:  0xb0a8063bc6819e7d800dd338e74d7d227b4a3815aaaf27bb2847c36e40d0d8c0
+publish     |
+publish     |   <https://polygonscan.com/tx/0xb0a8063bc6819e7d800dd338e74d7d227b4a3815aaaf27bb2847c36e40d0d8c0>
+publish     |
+publish     |
+publish     |   Tx mined
+publish     |
+publish     |   Status:        Success
+publish     |   Block number:  20247168
+publish     |   Gas used:      5247962
+publish     |
+```
+
+**🏗️ Dynamic Issuance**
+
+```jsx
+❯ npx hardhat publish major --network polygon
+publish     | Applying version bump major, next version: 1.0.0
+publish     | Deploying new implementation or reusing last deployment if no changes.
+publish     | New implementation contract address: 0xa8A99e55Bc2C033f0DAe577Acc50ef4dD399a495
+publish     | Generating Aragon app artifacts
+publish     | Uploading release assets to IPFS...
+publish     | Release assets uploaded to IPFS: QmRhDcSEeBc1YecJJFPyzC8SZSM2ef2xNThn9SMiRi1drh
+publish     | Pinning content to pinata...
+publish     | Content pinned:
+publish     |     id: bf5f32d2-6efc-4dd0-a2f9-9aacf113545e
+publish     |     status: prechecking
+publish     |     name: polygon:dynamic-issuance.open.aragonpm.eth@1.0.0
+publish     |
+publish     |   Deploy new repo to registry open.aragonpm.eth
+publish     |
+publish     |   App name:          dynamic-issuance.open.aragonpm.eth
+publish     |   Initial version:   1.0.0
+publish     |   Manager address:   0x5b0F8D8f47E3fDF7eE1c337AbCA19dBba98524e6
+publish     |   Contract address:  0xa8A99e55Bc2C033f0DAe577Acc50ef4dD399a495
+publish     |   ContentURI:        QmRhDcSEeBc1YecJJFPyzC8SZSM2ef2xNThn9SMiRi1drh
+publish     |
+publish     |   <https://ipfs.blossom.software/ipfs/QmRhDcSEeBc1YecJJFPyzC8SZSM2ef2xNThn9SMiRi1drh>
+publish     |
+publish     |
+publish     |   Tx sent
+publish     |
+publish     |   Tx hash:  0x5fda46bf1cb95216e030fb69c56a7d54d5cdf8ecec4cd9e7fd055004c60a2a0f
+publish     |
+publish     |   <https://explorer-mainnet.maticvigil.com/tx/0x5fda46bf1cb95216e030fb69c56a7d54d5cdf8ecec4cd9e7fd055004c60a2a0f>
+publish     |
+publish     |
+publish     |   Tx mined
+publish     |
+publish     |   Status:        Success
+publish     |   Block number:  20667794
+publish     |   Gas used:      850163
+publish     |
+```
+
+```jsx
+❯ npx hardhat publish major --network polygon
+publish     | Applying version bump major, next version: 2.0.0
+publish     | Deploying new implementation or reusing last deployment if no changes.
+publish     | New implementation contract address: 0xA3740E43FD85AadDB2Fc2754ff0C03C134337219
+publish     | Generating Aragon app artifacts
+publish     | Uploading release assets to IPFS...
+publish     | Release assets uploaded to IPFS: QmbbrVLA92hgpMgXvCa5ZRkZ91pCic5crQeETakjaXAdNs
+publish     | Pinning content to pinata...
+publish     | Content pinned:
+publish     |     id: 78f040f2-828b-4fd5-ba1f-99042b2549d6
+publish     |     status: prechecking
+publish     |     name: polygon:dynamic-issuance.open.aragonpm.eth@2.0.0
+publish     |
+publish     |   Publish new version 2.0.0 (major)
+publish     |
+publish     |   Contract address:  0xA3740E43FD85AadDB2Fc2754ff0C03C134337219
+publish     |   ContentURI:        QmbbrVLA92hgpMgXvCa5ZRkZ91pCic5crQeETakjaXAdNs
+publish     |
+publish     |   <https://ipfs.blossom.software/ipfs/QmbbrVLA92hgpMgXvCa5ZRkZ91pCic5crQeETakjaXAdNs>
+publish     |
+publish     |
+publish     |   Tx sent
+publish     |
+publish     |   Tx hash:  0xe9730a0ff9f05708b40a2fd968602cb146a3c708635ca096eb6233e656780d0b
+publish     |
+publish     |   <https://explorer-mainnet.maticvigil.com/tx/0xe9730a0ff9f05708b40a2fd968602cb146a3c708635ca096eb6233e656780d0b>
+publish     |
+publish     |
+publish     |   Tx mined
+publish     |
+publish     |   Status:        Success
+publish     |   Block number:  20668350
+publish     |   Gas used:      245461
+publish     |
+```
+
+**🏗️ Wrappable Hooked Token Manager**
+
+```jsx
+❯ npx hardhat publish major --network polygon
+publish     | Applying version bump major, next version: 1.0.0
+publish     | Deploying new implementation or reusing last deployment if no changes.
+publish     | New implementation contract address: 0x53e2B00C4b2e00FF1CB8B7Bee44927793cAE01F3
+publish     | Running app build script
+publish     | Generating Aragon app artifacts
+publish     | Uploading release assets to IPFS...
+publish     | Release assets uploaded to IPFS: QmZLFvy6a6buaTnGkC4erjDhR3YqUUGcYLEG8grWvYrTj5
+publish     | Pinning content to pinata...
+publish     | Content pinned:
+publish     |     id: 633e45e7-6aa8-4afd-944f-266c350240b9
+publish     |     status: prechecking
+publish     |     name: polygon:wrappable-hooked-token-manager.open.aragonpm.eth@1.0.0
+publish     |
+publish     |   Deploy new repo to registry open.aragonpm.eth
+publish     |
+publish     |   App name:          wrappable-hooked-token-manager.open.aragonpm.eth
+publish     |   Initial version:   1.0.0
+publish     |   Manager address:   0x5b0F8D8f47E3fDF7eE1c337AbCA19dBba98524e6
+publish     |   Contract address:  0x53e2B00C4b2e00FF1CB8B7Bee44927793cAE01F3
+publish     |   ContentURI:        QmZLFvy6a6buaTnGkC4erjDhR3YqUUGcYLEG8grWvYrTj5
+publish     |
+publish     |   <https://ipfs.blossom.software/ipfs/QmZLFvy6a6buaTnGkC4erjDhR3YqUUGcYLEG8grWvYrTj5>
+publish     |
+publish     |
+publish     |   Tx sent
+publish     |
+publish     |   Tx hash:  0xf43a56daf9c16443b060255c49f0751ce8ec574d5ec24a7c1f0c7351c319d79f
+publish     |
+publish     |   <https://explorer-mainnet.maticvigil.com/tx/0xf43a56daf9c16443b060255c49f0751ce8ec574d5ec24a7c1f0c7351c319d79f>
+publish     |
+```
+
+**🏗️ Voting Aggregator**
+
+```jsx
 ❯ npx hardhat publish major --network polygon --skip-validation
 publish     | Applying version bump major, next version: 1.0.0
 publish     | Deploying new implementation or reusing last deployment if no changes.
-publish     | New implementation contract address: 0xd5D602A81098b33E3086407c3AfFAcd88b15B933
+publish     | New implementation contract address: 0xA767DAd3Bc47C59e15141e6F29609fe22f4b63aA
 publish     | Generating Aragon app artifacts
 publish     | Uploading release assets to IPFS...
-publish     | Release assets uploaded to IPFS: QmUFq3ASFTYpGFea5fVFvUqjfz6xtmUrDc8qCkHt7ktQ4K
+publish     | Release assets uploaded to IPFS: QmXHbt8ZVjuAzaVCy7343VKAQdnkQnxsVD1hHCrsT4o6rb
 publish     | Pinning content to pinata...
 publish     | Content pinned:
-publish     |     id: fa576746-610a-402d-b0bc-fa1ae5fdcd4a
+publish     |     id: 325fddf2-0fa1-45a3-8796-9433605e0d16
+publish     |     status: prechecking
+publish     |     name: polygon:vote-token-aggregator.open.aragonpm.eth@1.0.0
+publish     |
+publish     |   Deploy new repo to registry open.aragonpm.eth
+publish     |
+publish     |   App name:          vote-token-aggregator.open.aragonpm.eth
+publish     |   Initial version:   1.0.0
+publish     |   Manager address:   0x5b0F8D8f47E3fDF7eE1c337AbCA19dBba98524e6
+publish     |   Contract address:  0xA767DAd3Bc47C59e15141e6F29609fe22f4b63aA
+publish     |   ContentURI:        QmXHbt8ZVjuAzaVCy7343VKAQdnkQnxsVD1hHCrsT4o6rb
+publish     |
+publish     |   <https://ipfs.blossom.software/ipfs/QmXHbt8ZVjuAzaVCy7343VKAQdnkQnxsVD1hHCrsT4o6rb>
+publish     |
+publish     |
+publish     |   Tx sent
+publish     |
+publish     |   Tx hash:  0x28b8b55efb92c38aeb4894781039b943ff1489ced9f53fcce1099a6f11d356d8
+publish     |
+publish     |   <https://explorer-mainnet.maticvigil.com/tx/0x28b8b55efb92c38aeb4894781039b943ff1489ced9f53fcce1099a6f11d356d8>
+publish     |
+publish     |
+publish     |   Tx mined
+publish     |
+publish     |   Status:        Success
+publish     |   Block number:  20681508
+publish     |   Gas used:      850223
+publish     |
+```
+
+&#x20;**🏗️ Disputable Voting**
+
+```jsx
+❯ npx hardhat publish major --network polygon --skip-validation --skip-app-build
+publish     | Applying version bump major, next version: 1.0.0
+publish     | Deploying new implementation or reusing last deployment if no changes.
+Nothing to compile
+publish     | New implementation contract address: 0x3E7F5a5dc128291171401fbEfaC648652C6E6180
+publish     | Generating Aragon app artifacts
+publish     | Uploading release assets to IPFS...
+publish     | Release assets uploaded to IPFS: QmQRYMRY5FeHkqQ9LpiPXC2jCYxYT5c3HFev6YS49ZDsqx
+publish     | Pinning content to pinata...
+publish     | Content pinned:
+publish     |     id: 472526db-4b42-4f6d-b282-5d42b764e217
 publish     |     status: prechecking
 publish     |     name: polygon:disputable-voting.open.aragonpm.eth@1.0.0
 publish     |
@@ -286,24 +533,24 @@ publish     |   Deploy new repo to registry open.aragonpm.eth
 publish     |
 publish     |   App name:          disputable-voting.open.aragonpm.eth
 publish     |   Initial version:   1.0.0
-publish     |   Manager address:   0xB24b54FE5a3ADcB4cb3B27d31B6C7f7E9F6A73a7
-publish     |   Contract address:  0xd5D602A81098b33E3086407c3AfFAcd88b15B933
-publish     |   ContentURI:        QmUFq3ASFTYpGFea5fVFvUqjfz6xtmUrDc8qCkHt7ktQ4K
+publish     |   Manager address:   0x5b0F8D8f47E3fDF7eE1c337AbCA19dBba98524e6
+publish     |   Contract address:  0x3E7F5a5dc128291171401fbEfaC648652C6E6180
+publish     |   ContentURI:        QmQRYMRY5FeHkqQ9LpiPXC2jCYxYT5c3HFev6YS49ZDsqx
 publish     |
-publish     |   https://ipfs.io/ipfs/QmUFq3ASFTYpGFea5fVFvUqjfz6xtmUrDc8qCkHt7ktQ4K
+publish     |   <https://ipfs.blossom.software/ipfs/QmQRYMRY5FeHkqQ9LpiPXC2jCYxYT5c3HFev6YS49ZDsqx>
 publish     |
 publish     |
 publish     |   Tx sent
 publish     |
-publish     |   Tx hash:  0xa789dfd8348e37576e66807cd36381a2f89a4b4db89597b113456c18294fa194
+publish     |   Tx hash:  0x2d4b4c0d54587f9a9ce7ab3efe4ddebb9d5f083aba35a723216d47e451f8352f
 publish     |
-publish     |   https://explorer-mainnet.maticvigil.com/tx/0xa789dfd8348e37576e66807cd36381a2f89a4b4db89597b113456c18294fa194
+publish     |   <https://polygonscan.com/tx/0x2d4b4c0d54587f9a9ce7ab3efe4ddebb9d5f083aba35a723216d47e451f8352f>
 publish     |
 publish     |
 publish     |   Tx mined
 publish     |
 publish     |   Status:        Success
-publish     |   Block number:  14710354
-publish     |   Gas used:      960675
+publish     |   Block number:  20982709
+publish     |   Gas used:      850175
 publish     |
 ```
