@@ -60,9 +60,10 @@
 ## 🌾Developers
 
 * [1Hive Protocol](developers/1hive-protocol.md)
-* [Aragon Infrastructure](developers/aragon-infrastructure/README.md)
-  * [xDai Deployments](developers/aragon-infrastructure/xdai-deployments.md)
-  * [AragonOS Polygon Deployments](developers/aragon-infrastructure/polygon-deployments.md)
+* [AragonOS Deployments](developers/aragon-infrastructure/README.md)
+  * [xDai](developers/aragon-infrastructure/xdai-deployments.md)
+  * [Polygon](developers/aragon-infrastructure/polygon-deployments.md)
+  * [Mumbai](developers/aragon-infrastructure/mumbai.md)
 * [Security](developers/security/README.md)
   * [Bug Bounty](developers/security/bug-bounty.md)
 
