@@ -2,7 +2,7 @@
 
 Quests is a Celeste enabled incentivised bounty platform allowing users or organisations to publish bounties for work which anyone can claim by providing evidence of completion. Quests are open ended and are defined purely by a text description, quest players submit a text description as evidence for completing a quest which can be verified by other users and disputed with Celeste should the evidence not meet the original quests criteria.
 
-## Roles
+## 🧚 Roles
 
 - Creator : Promoters having a requirement or a task
 - Player : People that complete the task defined in a Quest
@@ -34,7 +34,7 @@ The evidence required for completing a quest will depend on the work expected. F
 
 ### List view
 
-![](https://i.imgur.com/hRtXi66.png)
+![](../.gitbook/assets/quests_list-view.png)
 
 This page consists of a small dashboard and a list of summarized Quests.
 
@@ -59,11 +59,13 @@ This page is the detailed version of the quest showing more information :
   - Fund (where Patrons can fund the quest)
   - Schedule claim (where Players can submit their evidence of task completion)
 
-![](https://i.imgur.com/HlJA7fs.png)
+![](../.gitbook/assets/quests_detail-view.png)
 
 ## Create a quest
 
-**Creators** can create a Quest only when connected to a wallet. The **Create quest** buttons will then appear in the header/dashboard/footer.
+**Creators** can create a Quest only when connected to a wallet.
+
+The **Create quest** buttons will then appear in the header/dashboard/footer.
 
 The creator must submit the following in 2 steps :
 
@@ -75,17 +77,20 @@ The creator must submit the following in 2 steps :
    - Initial bounty
    - Expire time (after that, Players will not be able to schedule new claims)
    - Fallback address (the address where the funds can be restored once the quest expires)
-3. The Creator needs to deposit a collateral that will be locked until the Quest expiration date. He will need to Reclaim the deposit to recover it
+
+> _The Creator needs to deposit a collateral that will be locked until the Quest expiration date. He will need to Reclaim the deposit to recover it_
 
 ## Fund a quest
 
 **Patrons** can fund a Quest only when connected to a wallet. The Fund button is in the detail view of a Quest.
 
-The Patron should only submit the amount of funding for the Quest reward token.
+The Patron then submit the amount of the Quest reward token to be sent to the Quest bounty pool.
 
 ## Claim a Quest bounty
 
-**Players** can claim the bounty only when connected to a wallet. The **Schedule claim** button is in the detailed view of a Quest.
+**Players** can claim the bounty only when connected to a wallet.
+
+The **Schedule claim** button is in the detailed view of a Quest.
 
 The submitted claim will be delayed for a specific period where other users can challenge the claim if the requirements of the Quest aren't met (see [verification of Quest](quests.md#verifying-a-quest)).
 
@@ -95,22 +100,23 @@ The Player msut submit the following in 2 steps :
    - Evidence of completion (should meet the Quest description requirements)
 2. Second:
    - The UI offers to claim all the Quest's bounty or just a specific amount (Player should pick what is specified in the Quest description)
-   - Player's wallet address to which the reward should be sent when a claim is completed
-3. The Player should deposit a collateral that will be restored once the claim is executed successfully.
+   - Player's wallet address to which the reward should be sent
+
+> _The Player needs to deposit a collateral that will be restored once the claim is executed._
 
 When the delay will be over, the Player can execute the claim by clicking on the **Claim** button next to the corresponding claim. (Note that anyone can execute the claim if the Quest isn't expired)
 
 ## Challenge a claim
 
 Anyone can challenge a **Player**'s claim when connected to a wallet. (see [verification of Quest](quests.md#verifying-a-quest))
+
 The **Challenge** button is next to the Player claim.
 
-A challenger can only challenge during the delay period.
+A challenger can only challenge during the 7 day delay period.
 
-The **Challenger** must submit the following :
+The **Challenger** must submit the reason why this claim should be challenged
 
-1. Reason why this claim should be challenged
-2. A deposit that will be restored when the challenge is resolved in favor of the Challenger
+> _The Challenger needs to pay some challenge fees defined by Celeste and needs to deposit a collateral that will be restored once the claim is executed successfully._
 
 This will then create a dispute in [Celeste](https://celeste.1hive.org/#/dashboard) (Note that with Rinkeby network, a dispute should be resolved manually by contacting us in the #Quests channel in the [1hive discord](https://discord.gg/NaCDVBs2))
 
@@ -123,9 +129,11 @@ If the dispute is resolved ... :
 
 ## Reclaim
 
-The **Creator** can reclaim remaining funds and deposit them when connected to the corresponding wallet. This **Reclaim** button is only in the detailed view of a Quest once the Quest is in the **Expired** state.
+The **Creator** can reclaim remaining funds and deposit them when connected to the corresponding wallet.
 
-If there are pending claims after the expiration date, the **Creator** should't reclaim the funds unless he doesn't want the claiming Players to collect their reward. The creator can execute the claims by himself once the Quest is expired.
+This **Reclaim** button is only in the detailed view of a Quest once the Quest is in the **Expired** state.
+
+If there is still pending claims (still in verification delay or waiting to be executed) after the expiration date, the **Creator** should't reclaim the funds unless he doesn't want the claiming Players to collect their reward. The creator can execute the claims by himself once the Quest is expired.
 
 Reclaiming a Quest will switch the state from **Expired** to **Archived**
 
