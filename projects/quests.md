@@ -122,10 +122,10 @@ This will then create a dispute in [Celeste](https://celeste.1hive.org/#/dashboa
 
 Once the dispute is resolved in Celeste, a stackholder of the dispute needs to click on the **Resolve** button next to the claim to spread the challenge's result to the app.
 
-If the dispute is resolved ... :
+If the dispute is resolved in favor of the ... :
 
-- in favor of the **Player** : The claim will immediatly be executed and **Player** wins the **Challenger** deposit
-- in favor of the **Challenger** : The claim is rejected and the **Challenger** wins the **Player** deposit
+- **Player** : The claim will immediatly be executed and **Player** wins the **Challenger** deposit
+- **Challenger** : The claim is rejected and the **Challenger** wins the **Player** deposit
 
 ## Reclaim
 
