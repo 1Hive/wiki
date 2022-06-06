@@ -44,6 +44,8 @@ The dasboard shows the following information:
 - Number of active Quests
 - A **Create quest** button
 
+> *Note that the USD value is computed from some stable coins, the list of these stable coins is avalaible in the footer. This list can be adjust on demand to include more pairs.*
+
 This list can be filtered by Quest title, description, expiration date and state.
 
 The expired Quests can be accessed by selecting **Expired** in the state filter.
