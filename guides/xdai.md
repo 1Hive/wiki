@@ -17,7 +17,7 @@ See [this guide](https://www.xdaichain.com/for-users/wallets/metamask/metamask-s
 * [https://dai.poa.network/](https://dai.poa.network) 
 * [https://xdai.poanetwork.dev/](https://xdai.poanetwork.dev)  
 * [https://xdai.1hive.org/](https://xdai.1hive.org) 
-* [https://rpc.xdaichain.com/](https://rpc.xdaichain.com)
+* [https://rpc.gnosischain.com/](https://rpc.gnosischain.com/)
 
 ## xDai Faucet
 
