@@ -14,10 +14,8 @@ See [this guide](https://www.xdaichain.com/for-users/wallets/metamask/metamask-s
 
 **Alternative RPCs:**
 
-* [https://dai.poa.network/](https://dai.poa.network) 
 * [https://xdai.poanetwork.dev/](https://xdai.poanetwork.dev)  
-* [https://xdai.1hive.org/](https://xdai.1hive.org) 
-* [https://rpc.xdaichain.com/](https://rpc.xdaichain.com)
+* [https://xdai.1hive.org/](https://xdai.1hive.org)
 
 ## xDai Faucet
 
