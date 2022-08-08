@@ -8,7 +8,7 @@ Discord is one of the main tools we use to communicate. On this platform we catc
 
 Join and say hi:&#x20;
 
-{% embed url="https://discord.com/invite/P4rRDUKTAU" %}
+{% embed url="https://discord.gg/SRYMKh3C4W" %}
 
 ## Channels
 
