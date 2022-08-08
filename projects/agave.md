@@ -10,7 +10,7 @@ This page reflects the [initial Agave proposal](https://forum.1hive.org/t/announ
 
 ## Overview
 
-Agave is a decentralized non-custodial money market protocol where users can participate as depositors or borrower. It is a fork of [Aave](https://aave.com) deployed on xDAI.
+Agave is a decentralized non-custodial money market protocol where users can participate as depositors or borrower. It is a fork of [Aave](https://aave.com/) deployed on xDAI.
 
 Depositors provide liquidity to the market to earn a passive income, while borrowers can borrow in an overcollateralized (perpetually) or undercollateralized (one-block liquidity) fashion (i.e., flash loans).
 

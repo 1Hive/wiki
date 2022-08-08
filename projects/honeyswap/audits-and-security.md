@@ -4,7 +4,7 @@
 
 The Honeyswap contracts have been audited by CertiK security assessors. You can read their audit report below.
 
-{% file src="../../.gitbook/assets/REP-1Hive_HoneySwap_Contracts-22_04_2021.pdf" %}
+{% file src="../../.gitbook/assets/rep-1hive_honeyswap_contracts-22_04_2021.pdf" %}
 
 Some changes have been made to the contracts post-audit. However, the core mechanisms remain unchanged. As a result, the audit still provides a valid assessment of the current state of the security of the main contracts. \
 \
@@ -14,7 +14,7 @@ The airdrop contracts have not been audited. However, the airdrop contract only 
 
 [Original text of the internal audit](https://hackmd.io/BFrhyOTUQ3O9REs5PuZahQ?view)
 
-#### General function <a href="general-function" id="general-function"></a>
+#### General function <a href="#general-function" id="general-function"></a>
 
 * The farming contract allows users to deposit ERC20 tokens into set pools and earn rewards in another token proportional to their share in the pool
 * The contract tracks multiple pools
@@ -22,17 +22,17 @@ The airdrop contracts have not been audited. However, the airdrop contract only 
 * The rewards are xComb tokens referred to as `hsfToken` in the code
 * Depositors may lock their deposit for a fixed period of time to own a larger share of the pool and thus the rewards
 
-#### Relevant contracts <a href="relevant-contracts" id="relevant-contracts"></a>
+#### Relevant contracts <a href="#relevant-contracts" id="relevant-contracts"></a>
 
 * **ReferralRewarder.sol**: stores rewards for referrers
 * **HSFToken.sol**: ERC20 reward token
 * **HoneyFarm.sol**: Keeps track of pools and deposits
 
-#### Critical functions <a href="critical-functions" id="critical-functions"></a>
+#### Critical functions <a href="#critical-functions" id="critical-functions"></a>
 
 As the contract deals with deposit tokens and the reward token one must ensure that the relevant transfers are only called when appropriate and with the correct parameters. Furthermore any state that may lead to their invocation has to be checked to make sure that it’s correctly updated.
 
-#### HSFToken.sol <a href="hsftokensol" id="hsftokensol"></a>
+#### HSFToken.sol <a href="#hsftokensol" id="hsftokensol"></a>
 
 **General**
 
@@ -44,7 +44,7 @@ As the contract deals with deposit tokens and the reward token one must ensure t
 
 none
 
-#### ReferralRewarder.sol <a href="referralrewardersol" id="referralrewardersol"></a>
+#### ReferralRewarder.sol <a href="#referralrewardersol" id="referralrewardersol"></a>
 
 **General**
 
@@ -65,72 +65,72 @@ none
 * **Owner can drain contract**: draining is prevented by setting the owner to the farming contract after deployment
 * **distributeReward may revert due to integer overflow**: aslong as the `exchangeRate` paramater is set to less than `type(uint256).max / rewardToken.totalSupply() + 1` it cannot overflow when performing the multiplication
 
-#### HoneyFarm.sol <a href="honeyfarmsol" id="honeyfarmsol"></a>
+#### HoneyFarm.sol <a href="#honeyfarmsol" id="honeyfarmsol"></a>
 
 **General - Definitions & Maths:**
 
 * **Total reward distribution**:\
-   All rewards in the farming contract are paid out in the form of the reward\
-   token. The amount being distributed at any time t can be denoted by the  function d(t)=m⋅t+ds where m is the slope of the line and ds is the starting distribution rate. If te is the time at which distribution ends, the distribution rate at the end de is d(te).  Since we want the distribution rate to decrease over time we’ll denote  de as a percentage r of ds, so de=r⋅ds . The total HSF to be distributed s is the area under the graph between 0 and te
+  &#x20;All rewards in the farming contract are paid out in the form of the reward\
+  &#x20;token. The amount being distributed at any time t can be denoted by the  function d(t)=m⋅t+ds where m is the slope of the line and ds is the starting distribution rate. If te is the time at which distribution ends, the distribution rate at the end de is d(te).  Since we want the distribution rate to decrease over time we’ll denote  de as a percentage r of ds, so de=r⋅ds . The total HSF to be distributed s is the area under the graph between 0 and te
 
 ![](<../../.gitbook/assets/image (19).png>)
 
 \
- Since the graph is just a sloped line, the area underneath it can be\
- broken down into a triangle and rectangle. The sum of their areas should\
- be equal to the total reward distribution:
+&#x20;Since the graph is just a sloped line, the area underneath it can be\
+&#x20;broken down into a triangle and rectangle. The sum of their areas should\
+&#x20;be equal to the total reward distribution:
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (13).png>)
 
 Now that the starting distribution rate is calculated one can easily\
- calculate the slope since it’s simply the change in the distribution rate\
- divided by the time:
+&#x20;calculate the slope since it’s simply the change in the distribution rate\
+&#x20;divided by the time:
 
 ![](<../../.gitbook/assets/image (16).png>)
 
 Since the slope will be negative and it’s simpler to deal with positive,\
- unsigned numbers the contract simply stores the flipped sign value and\
- negates it via subtraction instead of addition in the calculations where\
- it’s used:\
+&#x20;unsigned numbers the contract simply stores the flipped sign value and\
+&#x20;negates it via subtraction instead of addition in the calculations where\
+&#x20;it’s used:\
 
 
 ![](<../../.gitbook/assets/image (18).png>)
 
 The above calculations are used in the constructor to calculate the slope\
- and the starting distribution rate. Note that since solidity doesn’t\
- support fractional numbers the scaling constant `SCALE` is used to scale\
- fractional numbers up and down.
+&#x20;and the starting distribution rate. Note that since solidity doesn’t\
+&#x20;support fractional numbers the scaling constant `SCALE` is used to scale\
+&#x20;fractional numbers up and down.
 
 The final piece of math that is needed is how to calculate the amount to be\
- distributed between two arbitrary time points d(t1,t2), this can be\
- done by integrating our d(t) function over that period. All that means\
- is calculating the area under the graph during that period. To do that one\
- again can simply splits the area into geometric shapes to calculate its\
- area and simplifies the resulting equation:
+&#x20;distributed between two arbitrary time points d(t1,t2), this can be\
+&#x20;done by integrating our d(t) function over that period. All that means\
+&#x20;is calculating the area under the graph during that period. To do that one\
+&#x20;again can simply splits the area into geometric shapes to calculate its\
+&#x20;area and simplifies the resulting equation:
 
-![](<../../.gitbook/assets/image (17).png>)
+![](<../../.gitbook/assets/image (14).png>)
 
 Which brings us to the final equation which is used in the\
- `getDistribution` method. The result is scaled by the `SCALE` constant:\
- d(t1,t2)=(t2−t1)⋅(2⋅ds−(−m)⋅(t2+t1))/2
+&#x20;`getDistribution` method. The result is scaled by the `SCALE` constant:\
+&#x20;d(t1,t2)=(t2−t1)⋅(2⋅ds−(−m)⋅(t2+t1))/2
 
 Since the amount of outputed rewards will be steadily decreasing m will\
- be a negative value. Since it’s simpler to only have to deal with positive\
- numbers in the code we use the formula above where m is negated, −m is\
- thus positive and is the value that is actually stored in the `distributionSlope` property.
+&#x20;be a negative value. Since it’s simpler to only have to deal with positive\
+&#x20;numbers in the code we use the formula above where m is negated, −m is\
+&#x20;thus positive and is the value that is actually stored in the `distributionSlope` property.
 
 * **Pools**:\
-   The farming contract distributes rewards in the reward token to all its\
-   pools, proportional to their allocation. Each pool tracks a single ERC20\
-   token. So if a pool is allocated 20% of their rewards and a user’s deposit\
-   has 50% of the total shares in the pool, that user will receive 10% of the\
-   total distributed rewards so long as these parameters do not change.
+  &#x20;The farming contract distributes rewards in the reward token to all its\
+  &#x20;pools, proportional to their allocation. Each pool tracks a single ERC20\
+  &#x20;token. So if a pool is allocated 20% of their rewards and a user’s deposit\
+  &#x20;has 50% of the total shares in the pool, that user will receive 10% of the\
+  &#x20;total distributed rewards so long as these parameters do not change.
 * **Keeping track of rewards**:\
-   The rewards a given deposit accrues is dependant on its shares relative to\
-   the total shares contained in the pool. Shares are calculated by taking\
-   the token deposit amount times a multiplier. For non-timelocked deposits\
-   the multiplier is 1. For timelocked deposits the multiplier increases\
-   linearly with lock length.
+  &#x20;The rewards a given deposit accrues is dependant on its shares relative to\
+  &#x20;the total shares contained in the pool. Shares are calculated by taking\
+  &#x20;the token deposit amount times a multiplier. For non-timelocked deposits\
+  &#x20;the multiplier is 1. For timelocked deposits the multiplier increases\
+  &#x20;linearly with lock length.
 
 **General - Publicly accessible properties:**
 
@@ -164,103 +164,103 @@ Since the amount of outputed rewards will be steadily decreasing m will\
 * `downgradeFee`: immutable, fee taken from the deposit’s underlying deposit amount (not rewards) when a deposit is downgraded. Scaled by `SCALE`
 * `contractDisabledAt`: timestamp at which the contract was disabled. Set to 0 if the contract hasn’t been disabled yet. Can only be set once
 * `owner`: returns the address of the current contract owner. The owner can\
-   add and adjust pools, set the baseURI used to determine the token URI and\
-   disable the contract. (what disabling entails is described below)
+  &#x20;add and adjust pools, set the baseURI used to determine the token URI and\
+  &#x20;disable the contract. (what disabling entails is described below)
 
 **General - publicly accessible methods**
 
 This section does not include properties that behave like mentioned, these\
- are mentioned in the section above.
+&#x20;are mentioned in the section above.
 
 Not explicitly listed here but also available are all the methods required\
- to be compatible with the ERC721 standard. This includes the metadata and\
- enumerable extension of the ERC721 standard as proposed in EIP721.
+&#x20;to be compatible with the ERC721 standard. This includes the metadata and\
+&#x20;enumerable extension of the ERC721 standard as proposed in EIP721.
 
 * `constructor(IERC20 _hsf, [uint256 _startTime, uint256 _endTime, uint256 _totalHsfToDistribute, uint256 _endDistributionFraction, uint256 _minTimeLock, uint256 _maxTimeLock, uint256 _timeLockMultiplier, uint256 _timeLockConstant, uint256 _downgradeFee])`:\
-   Partially initializes the farming contract. Calculates and stores the\
-   `distributionSlope` and `startDistribution` properties. Transfers the\
-   total required reward tokens to itself from the deployer address. Stores\
-   the different parameters into the relveant properties except for\
-   `_totalHsfToDistribute` and `_endDistributionFraction` which are just\
-   used for the one-time calculation. Also checks whether the given\
-   `_endTime` is after the `_startTime` and if the maximum lock time is\
-   larger than the minimum lock time.
+  &#x20;Partially initializes the farming contract. Calculates and stores the\
+  &#x20;`distributionSlope` and `startDistribution` properties. Transfers the\
+  &#x20;total required reward tokens to itself from the deployer address. Stores\
+  &#x20;the different parameters into the relveant properties except for\
+  &#x20;`_totalHsfToDistribute` and `_endDistributionFraction` which are just\
+  &#x20;used for the one-time calculation. Also checks whether the given\
+  &#x20;`_endTime` is after the `_startTime` and if the maximum lock time is\
+  &#x20;larger than the minimum lock time.
 * `poolLength()`: view, returns the amount of pools that the farm currently\
-   tracks.
+  &#x20;tracks.
 * `getPoolByIndex(uint256 _index)`: view, returns a tuple of pool information when given a\
-   pool index. The pool information tuple contains the address of the\
-   ERC20 token that needs to be deposited in order to earn rewards\
-   (`poolToken`) for that pool, as well as all the information returned\
-   by the poolInfo property in the same order.
+  &#x20;pool index. The pool information tuple contains the address of the\
+  &#x20;ERC20 token that needs to be deposited in order to earn rewards\
+  &#x20;(`poolToken`) for that pool, as well as all the information returned\
+  &#x20;by the poolInfo property in the same order.
 * `setBaseURI`: allows the owner to set the baseURI of the contract. The\
-   baseURI is used to determine the tokenURI as part of the ERC721 standard\
-   metadata extension.
+  &#x20;baseURI is used to determine the tokenURI as part of the ERC721 standard\
+  &#x20;metadata extension.
 *   `disableContract`: allows the owner to disable the contract. This\
-     withdraws any remaining rewards and allows all depositors to withdraw\
-     their tokens and accrued rewards regardless of the set unlock time. This\
-     is implemented as a more trustless alternative to the classical migrator\
-     method typically found in a lot of farming contracts.
+    &#x20;withdraws any remaining rewards and allows all depositors to withdraw\
+    &#x20;their tokens and accrued rewards regardless of the set unlock time. This\
+    &#x20;is implemented as a more trustless alternative to the classical migrator\
+    &#x20;method typically found in a lot of farming contracts.
 
     Emits a `Disabled()` event.
 *   `add`: adds a new pool if a pool for the specified ERC20 token does\
-     already exist.
+    &#x20;already exist.
 
     Emits a `PoolAdded(IERC20 indexed poolToken, uint256 allocation)` event\
-     with the token address and allocation points for the new pool.
+    &#x20;with the token address and allocation points for the new pool.
 *   `set`: adjusts the allocation points of a given pool.
 
     Emits a `PoolUpdated(IERC20 indexed poolToken, uint256 allocation)`\
-     event with the token address and the new allocation points.
+    &#x20;event with the token address and the new allocation points.
 * `getDistribution(uint256 _from, uint256 _to)`: view, returns the total\
-   rewards that the contract will or has distributed between two\
-   timestamps. Result scaled by `SCALE`.
+  &#x20;rewards that the contract will or has distributed between two\
+  &#x20;timestamps. Result scaled by `SCALE`.
 * `getTimeMultiple(uint256 _unlockTime)`: view, returns the multiple a\
-   deposit with an unlock time of `_unlockTime` if created with the current\
-   `block.timestamp`. Result scaled by `SCALE`
+  &#x20;deposit with an unlock time of `_unlockTime` if created with the current\
+  &#x20;`block.timestamp`. Result scaled by `SCALE`
 * `pendingHsf(uint256 _depositId)`: view, returns the pending rewards for the deposit with a deposit ID of `_depositId`. Returns `0` if the deposit\
-   does not exist. To verify whether a deposit exists simply use the\
-   `ownerOf(uint256 _depositId)` method. If it reverts a deposit with the\
-   given ID does not exist.
+  &#x20;does not exist. To verify whether a deposit exists simply use the\
+  &#x20;`ownerOf(uint256 _depositId)` method. If it reverts a deposit with the\
+  &#x20;given ID does not exist.
 *   `createDeposit(IERC20 _poolToken, uint256 _amount, uint256 _unlockTime, address _referrer)`: creates a new deposit in the specified pool. Create\
-     a non-locked deposit if the `_unlockTime` parameter is set to `0`.\
-     Requires the creator to have approved the contract to spend at least\
-     `_amount` tokens and actually have the required balance. To indicate no\
-     referrer simply call the `createDeposit` method with the zero address\
-     as the referrer. Contracts which create deposits must make sure that\
-     they’re able to appropriately handle incoming ERC721 token as specified\
-     in EIP721.
+    &#x20;a non-locked deposit if the `_unlockTime` parameter is set to `0`.\
+    &#x20;Requires the creator to have approved the contract to spend at least\
+    &#x20;`_amount` tokens and actually have the required balance. To indicate no\
+    &#x20;referrer simply call the `createDeposit` method with the zero address\
+    &#x20;as the referrer. Contracts which create deposits must make sure that\
+    &#x20;they’re able to appropriately handle incoming ERC721 token as specified\
+    &#x20;in EIP721.
 
     Emits a `Transfer(address indexed from, address indexed to, uint256 indexed tokenId)` event with the `from` address being the zero address.
 
     Emits a `Referred(address indexed referrer, uint256 depositId)` event if the set referrer is not the zero address.
 *   `closeDeposit(uint256 _depositId)`: closes the deposit if the sender is the  owner of the deposit. Also to be able to close the deposit the deposit\
-     must either be a non-locked deposit or the `unlockTime` must have passed. Locked deposits may be unlocked early if the owner address decides to  disable the contract. Returns the deposited tokens as well as the accrued  rewards to the one closing their deposit. As well as rewarding the referral address (if present).
+    &#x20;must either be a non-locked deposit or the `unlockTime` must have passed. Locked deposits may be unlocked early if the owner address decides to  disable the contract. Returns the deposited tokens as well as the accrued  rewards to the one closing their deposit. As well as rewarding the referral address (if present).
 
     Emits a `Transfer(address indexed from, address indexed to, uint256 indexed tokenId)` event with the `to` address being the zero address.
 
     Emits a `MissingReward(address indexed referrer, uint256 owedReward)`\
-     event from the referral rewarder address if it has run out of rewards.
+    &#x20;event from the referral rewarder address if it has run out of rewards.
 * `setReferralRewarder`: sets the address for the referral rewarder. Can only\
-   be called once by the owner address and completes the initialization of\
-   the farm.
+  &#x20;be called once by the owner address and completes the initialization of\
+  &#x20;the farm.
 *   `withdrawRewards(uint256 _depositId)`: must be called by the owner of the deposit. Withdraws the rewards and resets the accumulator. Also\
-     downgrades the deposit if the unlock time has passed. Also sends the\
-     referrer rewards (if one was set). Partially withdraws the original\
-     deposit as part of downgrade reward (if the deposit was downgraded in\
-     as part of the call)
+    &#x20;downgrades the deposit if the unlock time has passed. Also sends the\
+    &#x20;referrer rewards (if one was set). Partially withdraws the original\
+    &#x20;deposit as part of downgrade reward (if the deposit was downgraded in\
+    &#x20;as part of the call)
 
     Emits a `DepositDowngraded(address indexed downgrader, uint256 indexed depositId, uint256 downgradeReward)` event if the deposit has been downgraded.
 
     Emits a `RewardsWithdraw(uint256 indexed depositId, uint256 rewardAmount)` event with the outgoing xComb rewards as the `rewardAmount`
 
     Emits a `MissingReward(address indexed referrer, uint256 owedReward)`\
-     event from the referral rewarder address if it has run out of rewards\
-     (never fired if no referrer set).
+    &#x20;event from the referral rewarder address if it has run out of rewards\
+    &#x20;(never fired if no referrer set).
 *   `downgradeExpired(uint256 _depositId)`: allows anyone to downgrade a\
-     deposit who’s unlock time has passed and which hasn’t been downgraded\
-     yet. Gives the caller a part of the original deposit as part of a\
-     downgrade reward. The part that is given as a reward is determined by the\
-     percentage stored in the `downgradeFee` property.
+    &#x20;deposit who’s unlock time has passed and which hasn’t been downgraded\
+    &#x20;yet. Gives the caller a part of the original deposit as part of a\
+    &#x20;downgrade reward. The part that is given as a reward is determined by the\
+    &#x20;percentage stored in the `downgradeFee` property.
 
     Emits a `DepositDowngraded(address indexed downgrader, uint256 indexed depositId, uint256 downgradeReward)` event if the deposit has been downgraded with the caller as the `downgrader`.
 * `updatePool(IERC20 _poolToken)`: updates the accumulator of the pool with  the given `_poolToken`. **Does not** emit a `PoolUpdated` event.

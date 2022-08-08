@@ -46,7 +46,7 @@ Since June 2021 Honeyswap is already on [Polygon](https://info.honeyswap.org/tok
 ## Farming
 
 **When will Farms open again?**\
-****On June 2nd, 2021, 1Hive presented a major update, introducing [Honeycomb ](../projects/honeycomb/)and our new farms. [Click Here](https://honeyswap.medium.com/introducing-honeycomb-with-token-farming-by-1hive-e89e09032756) for an in-depth presentation. You can farm at [1hive.io](https://1hive.io).&#x20;
+****On June 2nd, 2021, 1Hive presented a major update, introducing [Honeycomb ](../projects/honeycomb/)and our new farms. [Click Here](https://honeyswap.medium.com/introducing-honeycomb-with-token-farming-by-1hive-e89e09032756) for an in-depth presentation. You can farm at [1hive.io](https://1hive.io/).&#x20;
 
 On July 1st, 2021, 1Hive's farms landed on Polygon too. [Click here](https://medium.com/honeyswap/1hive-celebrates-polygon-launch-with-airdrop-farms-dac8a467dfb9) for an in-depth presentation.
 
@@ -106,7 +106,7 @@ The common pool is used to fund pollen, faucet, bounties and collaboration with 
 [https://honeyswap.org/xdai-bridges](https://honeyswap.org/xdai-bridges)
 
 **Multi-Chain Bridge (xDai, Polygon, Fantom, BSC)**\
-[https://www.xpollinate.io/](https://www.xpollinate.io)
+[https://www.xpollinate.io/](https://www.xpollinate.io/)
 
 **Provide Liquidity on Honeyswap**\
 [https://honeyswap.org/liquidity-pool](https://honeyswap.org/liquidity-pool)
@@ -115,7 +115,7 @@ The common pool is used to fund pollen, faucet, bounties and collaboration with 
 ****[https://honeyswap.org/yield-farming](https://honeyswap.org/yield-farming)
 
 **Are transaction fees really less than $0.01?** \
-****Generally yes, remember to set the Gas Price to 1 GWEI in your wallet when submitting transactions. Note that 1 xDAI is equal to $1 in value. Use the [**xDai Faucet**](https://xdai-faucet.top) **** to get a small amount of xDAI to use the network.
+****Generally yes, remember to set the Gas Price to 1 GWEI in your wallet when submitting transactions. Note that 1 xDAI is equal to $1 in value. Use the [**xDai Faucet**](https://xdai-faucet.top/) **** to get a small amount of xDAI to use the network.
 
 ![](<../.gitbook/assets/image (7).png>)
 
@@ -123,7 +123,7 @@ The common pool is used to fund pollen, faucet, bounties and collaboration with 
 ****Fees earned in Honeyswap trades are 0.25% of the value of the trade that has occurred. They are not related to the gas fees paid to the network (in our case xDAI) to execute the trade transaction. Liquidity providers receive none of the networks gas fees but 0.25% of the value of trades split between all liquidity providers in that pair.
 
 **Can any ERC-20 token be bridged to Honeyswap?** \
-****Yes, any ERC20, ERC677 and ERC827 can be swapped, by following a few easy steps and by using the [omnibridge](https://omni.xdaichain.com).
+****Yes, any ERC20, ERC677 and ERC827 can be swapped, by following a few easy steps and by using the [omnibridge](https://omni.xdaichain.com/).
 
 ## Support
 
@@ -142,7 +142,7 @@ To add a token first find the token address from one of these lists:  [Bridged T
 ****You can do so by going on [Honeyswap](https://app.honeyswap.org/#/swap) → Pool → Remove Liquidity (It may take a few moments to load).
 
 **What is the easiest way to purchase xDai?**\
-****You can bridge DAI into xDAI from the Ethereum network using the [bridge](https://dai-bridge.poa.network), or you can buy xDai on the exchange Bitmax or with fiat using [Ramp](https://ramp.network/buy/?swapAsset=XDAI). Recently, more bridges were implemented (some in beta version, please practice caution): [xDai-Polygon Bridge](https://www.youtube.com/watch?v=RlcyBtz3R2w) ([guide](https://medium.com/honeyswap/introducing-xdai-to-matic-polygon-matic-polygon-to-xdai-connext-bridge-36e4bc6393dc)), [xDai-Bsc Chain Bridge](https://www.youtube.com/watch?v=mGqKPqCF6Zc\&t=19s) ([guide](https://forum.1hive.org/t/how-to-use-binance-as-an-on-ramp-for-xdai/2412)).
+****You can bridge DAI into xDAI from the Ethereum network using the [bridge](https://dai-bridge.poa.network/), or you can buy xDai on the exchange Bitmax or with fiat using [Ramp](https://ramp.network/buy/?swapAsset=XDAI). Recently, more bridges were implemented (some in beta version, please practice caution): [xDai-Polygon Bridge](https://www.youtube.com/watch?v=RlcyBtz3R2w) ([guide](https://medium.com/honeyswap/introducing-xdai-to-matic-polygon-matic-polygon-to-xdai-connext-bridge-36e4bc6393dc)), [xDai-Bsc Chain Bridge](https://www.youtube.com/watch?v=mGqKPqCF6Zc\&t=19s) ([guide](https://forum.1hive.org/t/how-to-use-binance-as-an-on-ramp-for-xdai/2412)).
 
 **Any tutorial on how to purchase xDai and on how to use Honeyswap?**\
 ****To use Honeyswap you need to follow a few easy steps: First, send your token (For example, DAI) to your Metamask, on the Ethereum network. Then, once you create an xDai network RPC, you can quickly bridge your token through the token bridge (you’ll need a few $ of ETH for such transaction). You can read more [here](https://medium.com/honeyswap/introducing-honeyswap-fa34b24e6978) and watch a tutorial [here](https://forum.1hive.org/t/1hive-101-beeginner-video-tutorials/217?u=jasper).

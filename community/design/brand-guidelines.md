@@ -4,7 +4,7 @@ description: Guidance and assets for the 1Hive design aesthetic.
 
 # Brand Guidelines
 
-## Concepts that we seek to transmit and elements that represent them: 
+## Concepts that we seek to transmit and elements that represent them:&#x20;
 
 * We want to be perceived as **friendly and pleasant**, so we use many curved shapes.
 * We want to transmit **simplicity**, like the bee without awareness of the large and complex ecosystem that they are a part of, so we use clean and simple forms.
@@ -14,7 +14,7 @@ description: Guidance and assets for the 1Hive design aesthetic.
 ### Some aspects to take into account:
 
 * Avoid hard and straight lines, and an over emphasis on the alien/insect aesthetic.
-* Our brand should feel friendly and simple but it shouldn't look cartoonish (eg a bee with a face). 
+* Our brand should feel friendly and simple but it shouldn't look cartoonish (eg a bee with a face).&#x20;
 
 {% hint style="info" %}
 You can also see the brand guidelines in this [Figma File](https://www.figma.com/file/6o6Ik2f0D6HiLzRWwgeOQd/Brand-guidelines).
@@ -31,11 +31,11 @@ We use the golden ratio for the proportions of the logo and in the development o
 
 
 
-![](<../../.gitbook/assets/Group 26 new.jpg>)
+![](../../.gitbook/assets/group-26-new.jpg)
 
 
 
-![](../../.gitbook/assets/Group.png)
+![](../../.gitbook/assets/group.png)
 
 {% hint style="info" %}
 The size of circles, rectangles and different forms we use are **multiplied or divided by 1,618** to respect the proportions of the golden ratio.
@@ -49,17 +49,17 @@ We also use opacities of 40% and overlapping elements that allows a more varied 
 
 ### Primary color
 
-![](<../../.gitbook/assets/Group 20.png>)
+![](../../.gitbook/assets/group-20.png)
 
 ### Secondary colors
 
-![](<../../.gitbook/assets/Group 21.png>)
+![](../../.gitbook/assets/group-21.png)
 
-![](<../../.gitbook/assets/Group 22.png>)
+![](../../.gitbook/assets/group-22.png)
 
-![](<../../.gitbook/assets/Group 23.png>)
+![](../../.gitbook/assets/group-23.png)
 
-![](<../../.gitbook/assets/Group 24.png>)
+![](../../.gitbook/assets/group-24.png)
 
 {% hint style="info" %}
 See this [Figma file](http://figma.com/file/6o6Ik2f0D6HiLzRWwgeOQd/Brand-guidelines?node-id=15%3A48) to check the HEX color codes and other details such as the grey scale and background's gradient.

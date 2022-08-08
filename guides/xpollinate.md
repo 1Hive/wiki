@@ -27,10 +27,10 @@ It currently supports the transferring of DAI, USDC and USDT between the Polygon
 ## **How to Use xPollinate**
 
 {% hint style="info" %}
-If you run into any issues using the bridge, feel free to contact Connext support [here](https://support.connext.network).
+If you run into any issues using the bridge, feel free to contact Connext support [here](https://support.connext.network/).
 {% endhint %}
 
-**Step 1** — Go to [xpollinate.io](https://xpollinate.io) and connect your wallet to the chain yo want to transfer from.
+**Step 1** — Go to [xpollinate.io](https://xpollinate.io/) and connect your wallet to the chain yo want to transfer from.
 
 _**Note:** Make sure to confirm that there's enough exit liquidity for the token and network you intend to bridge to._
 
@@ -38,7 +38,7 @@ _**Note:** Make sure to confirm that there's enough exit liquidity for the token
 
 **Step 2** — Enter the Receiver's address (it can be the same address on the other chain, or you can choose a different address. Then press Swap.
 
-![](<../.gitbook/assets/Sin título.png>)
+![](<../.gitbook/assets/sin-titulo (1).png>)
 
 **Step 3** — Sign in your wallet to confirm channel setup.
 
@@ -46,11 +46,11 @@ _**Note:** Make sure to confirm that there's enough exit liquidity for the token
 
 **Step 4** — Enter the amount to transfer and confirm the Receiver Addres. Then press Swap.
 
-![](<../.gitbook/assets/Sin título (2).png>)
+![](<../.gitbook/assets/sin-titulo (2).png>)
 
 **Step 5** — Confirm the transaction in your web3 wallet.
 
-![](<../.gitbook/assets/Sin título (3).png>)
+![](<../.gitbook/assets/sin-titulo (3).png>)
 
 **Step 6** — As a precaution, the transaction must have 10+ confirmations before being sent on the other network. After it's completed you will see the following success message. You can click on the VIEW TX button to see the transaction in the Block Explorer.
 

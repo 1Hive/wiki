@@ -18,7 +18,7 @@ Total Supply: 100k\
 Circulating Supply: 27,799k
 
 **Is there a website for Agave?**\
-[Agave.Finance](https://agave.finance) is our brand new website.
+[Agave.Finance](https://agave.finance/) is our brand new website.
 
 **Where can I find regular updates about the project?**\
 We are providing weekly updates. You can read them all here:
@@ -26,7 +26,7 @@ We are providing weekly updates. You can read them all here:
 [#1](https://medium.com/agavefinance/agave-development-update-65a8e0baba83) / [#2](https://medium.com/agavefinance/agave-development-update-2-a8e92727483b) / [#3](https://medium.com/agavefinance/agave-development-update-week-of-april-17-2021-99f5b5fd2821) / [#4](https://medium.com/agavefinance/agave-development-update-4-3a0984d95983) / [#5](https://medium.com/agavefinance/agave-development-updates-5-1-8-may-2021-5ec91ca0b301) / [#6](https://medium.com/agavefinance/agave-development-updates-6-8-14-may-2021-524bea4ee5d8) / [#7](https://medium.com/agavefinance/agave-development-updates-7-9-21-may-2021-415932cd959e) / [#8](https://medium.com/agavefinance/agave-development-updates-8-21-28-may-2021-9e2bb95c3210) / [#9](https://medium.com/agavefinance/agave-development-update-9-28-may-04-june-2021-a87353f4ea9)  / [#10](https://medium.com/agavefinance/agave-development-update-10-04-11-june-2021-85788483443f) / [#11](https://medium.com/agavefinance/agave-development-update-11-11-18-june-2021-27672f402418) / [#12](https://medium.com/agavefinance/agave-development-update-12-19-25-june-2021-771fb2b6b026) / [#13](https://medium.com/agavefinance/agave-development-update-13-26-june-3-july-2021-b6cc74903a98) / [#14](https://medium.com/agavefinance/agave-development-update-14-04-10-july-2021-a8613fa8be0c) / [#15](https://medium.com/agavefinance/agave-development-update-15-11-17-july-2021-92ba84578e9d) / [#16](https://medium.com/agavefinance/agave-development-update-16-30th-july-6th-august-2021-78b778325dc3) / [#17](https://medium.com/agavefinance/agave-development-update-17-7th-13th-august-2021-1729c1f97721) / [#18](https://medium.com/agavefinance/agave-development-update-18-14th-20th-august-2021-610f22109b5e) / [#19](https://medium.com/agavefinance/agave-development-update-19-21th-27th-august-2021-f60b48e8d940)
 
 **When will the product launch?**\
-Our [Agave Platform](https://agave.finance) is officially up and running from September 1st! Prior to launch, the audit of Agave's contracts has been completed by [Chainsulting](https://chainsulting.de) on May 1st.
+Our [Agave Platform](https://agave.finance/) is officially up and running from September 1st! Prior to launch, the audit of Agave's contracts has been completed by [Chainsulting](https://chainsulting.de/) on May 1st.
 
 **Where can I find a roadmap for Agave?**\
 Here is a simplified roadmap for Agave, subject to change
@@ -50,7 +50,7 @@ Your participation is always welcome. We've recently published a first list of o
 Other available charts are on [Coingecko](https://www.coingecko.com/en/coins/agave-token) and [Moontools](https://app.moontools.io/pairs/honeyswap/0x0e3e9cceb13c9f8c6faf7a0f00f872d6291630de).
 
 **Where can I track LP rewards?**\
-LP tracking can be found on [Liquidityfolio](https://www.liquidityfolio.com)
+LP tracking can be found on [Liquidityfolio](https://www.liquidityfolio.com/)
 
 **Will there be a future airdrop?**\
 Although this is pure speculation since we are a DAO and this would require a community vote there appears to be some interest in an airdrop after deployment. The airdrop could focus on attracting TVL. This portion of the airdrop can be very specifically targeted to eliminate gaming. There may also be a marketing/hype component giving people ample time to so people may participate.
@@ -68,9 +68,9 @@ There are several ways to be in touch with the Agave’s community:\
 Agave Discord: [Agave Discord 1](https://discord.com/channels/816889381737725963/816889382850134027)\
 1Hive Discord: [1Hive Discord](https://discord.com/invite/xTZjbRjc8t) [1Hive - Agave Channel](https://discord.com/channels/698287700834517064/813823983120023583)\
 Telegram: [https://t.me/Agave1Hive 1](https://t.me/Agave1Hive)\
-Twitter: [https://twitter.com/Agave_lending](https://twitter.com/Agave_lending)\
+Twitter: [https://twitter.com/Agave\_lending](https://twitter.com/Agave\_lending)\
 Reddit: [https://www.reddit.com/r/AGVE/](https://www.reddit.com/r/AGVE/)\
-Medium: [https://agavefinance.medium.com/](https://agavefinance.medium.com)
+Medium: [https://agavefinance.medium.com/](https://agavefinance.medium.com/)
 
 **My issue was not addressed in the FAQ. What can I do?**\
 The best way to get help from a member of the 1Hive community is to land on the [⛈**help**](https://discord.gg/3AjG7XvRJZ) channel on Discord.

@@ -29,6 +29,7 @@
   * [Farms on xDai](projects/honeycomb/honeyswap-on-xdai-1.md)
   * [Farms on Polygon](projects/honeycomb/honeyswap-on-polygon.md)
 * [Agave](projects/agave.md)
+* [Water](projects/water.md)
 
 ## 🌳Community
 
@@ -41,7 +42,7 @@
   * [🌷 Tulip](community/swarms/tulip/README.md)
     * [Tulip Swarm Contributor Onboarding Handbook](community/swarms/tulip/tulip-swarm-contributor-onboarding-handbook.md)
   * [🐱 Fauna](community/swarms/fauna.md)
-  * [💛 Support](community/swarms/support.md)
+  * [Support](community/swarms/support.md)
   * [🌺 Flora](community/swarms/flora.md)
   * [🌍 Terra](community/swarms/terra.md)
   * [🦋 Morphosis](community/swarms/morphosis.md)

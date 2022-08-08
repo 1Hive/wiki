@@ -6,18 +6,18 @@ description: Using the xDai sidechain.
 
 The **xDai sidechain** is a stable payments blockchain designed for fast and inexpensive stable transactions. **xDai** is used for transactions, payments and fees, and **STAKE** is used to support Proof-of-Stake consensus.
 
-See the [xDai documentation](https://www.xdaichain.com) for more details.
+See the [xDai documentation](https://www.xdaichain.com/) for more details.
 
 ## Connecting via MetaMask
 
-See [this guide](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup) from the xDai documentation to connect your [MetaMask](https://metamask.io) extension to the xDai chain.
+See [this guide](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup) from the xDai documentation to connect your [MetaMask](https://metamask.io/) extension to the xDai chain.
 
 **Alternative RPCs:**
 
-* [https://dai.poa.network/](https://dai.poa.network) 
-* [https://xdai.poanetwork.dev/](https://xdai.poanetwork.dev)  
-* [https://xdai.1hive.org/](https://xdai.1hive.org) 
-* [https://rpc.xdaichain.com/](https://rpc.xdaichain.com)
+* [https://dai.poa.network/](https://dai.poa.network/)&#x20;
+* [https://xdai.poanetwork.dev/](https://xdai.poanetwork.dev/) &#x20;
+* [https://xdai.1hive.org/](https://xdai.1hive.org/)&#x20;
+* [https://rpc.xdaichain.com/](https://rpc.xdaichain.com/)
 
 ## xDai Faucet
 
@@ -27,13 +27,13 @@ For anyone interested in experimenting with xDai before bridging tokens from the
 
 ## Bridging Tokens from Ethereum
 
-To convert DAI on the Ethereum network to xDai that lives on the xDai network use the [dai-bridge](https://dai-bridge.poa.network).
+To convert DAI on the Ethereum network to xDai that lives on the xDai network use the [dai-bridge](https://dai-bridge.poa.network/).
 
-To convert ERC20 tokens on the Ethereum network to ERC20 tokens on the xDai network use the [omnibridge](https://xdai-omnibridge.web.app).
+To convert ERC20 tokens on the Ethereum network to ERC20 tokens on the xDai network use the [omnibridge](https://xdai-omnibridge.web.app/).
 
 ## Bridging Tokens from other Sidechains
 
-To transfer stablecoins between sidechains using the [xPollinate](https://xpollinate.io) bridge, which uses [Connext](https://connext.network)'s State Channels, a technology that enables bridging without introducing any new trust assumptions or external validators.
+To transfer stablecoins between sidechains using the [xPollinate](https://xpollinate.io/) bridge, which uses [Connext](https://connext.network)'s State Channels, a technology that enables bridging without introducing any new trust assumptions or external validators.
 
 Currently supports the transferring of DAI, USDC and USDT between the Polygon, xDai, Fantom and BSC mainnets.
 

@@ -10,7 +10,7 @@ The 🌷 Tulip swarm is responsible for building, deploying, maintaining and upg
 
 ## Tulip Projects
 
-[Honeyswap ](https://honeyswap.org)is a decentralized exchange (dex), which uses automated market makers (AMM) to allow traders to swap tokens without having to interact with a third party. Honeyswap is currently deployed to [xDai ](../../../projects/honeycomb/honeyswap-on-xdai-1.md)and [Polygon](../../../projects/honeycomb/honeyswap-on-polygon.md).&#x20;
+[Honeyswap ](https://honeyswap.org/)is a decentralized exchange (dex), which uses automated market makers (AMM) to allow traders to swap tokens without having to interact with a third party. Honeyswap is currently deployed to [xDai ](../../../projects/honeycomb/honeyswap-on-xdai-1.md)and [Polygon](../../../projects/honeycomb/honeyswap-on-polygon.md).&#x20;
 
 [Colony DAO](https://xdai.colony.io/colony/tulip) used for Tulip contributor payments.
 

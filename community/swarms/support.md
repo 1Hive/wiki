@@ -2,13 +2,13 @@
 description: Community support
 ---
 
-# 💛 Support
+# Support
 
 The 💛Support Swarm is a group formed by community members that are always ready to help out. This swarm is in charge of onboarding and assist everyone on [Discord](https://discord.com/invite/P4rRDUKTAU) and [Telegram](https://t.me/honeyswapDEX). They are also updating the wiki on a regular basis.
 
-## Useful Links 
+## Useful Links&#x20;
 
- [Colony DAO](https://xdai.colony.io/colony/support) holding Support funds.
+&#x20;[Colony DAO](https://xdai.colony.io/colony/support) holding Support funds.
 
 ## Roles and Responsibilities
 

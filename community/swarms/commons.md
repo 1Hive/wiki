@@ -18,9 +18,9 @@ The Commons Swarm is built on top of the Gardens project. Both Gardens and Commo
 
 [Descriptions of Parameters](https://forum.tecommons.org/c/Token-talk-anything-about-the-TEC-token-such-as-issuance-and-hatches/9)
 
-[Prototype Hatch](https://hatch.tecommons.org)
+[Prototype Hatch](https://hatch.tecommons.org/)
 
-[Prototype Augmented Bonding Curve](https://convert.tecommons.org)
+[Prototype Augmented Bonding Curve](https://convert.tecommons.org/)
 
 [Prototype Conviction Voting ](https://gov.tecommons.org/#/)
 

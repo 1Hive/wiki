@@ -4,7 +4,7 @@ description: Earn Honey for contributions
 
 # Pollen
 
-Pollen is a contributor rank used to recognize contributions to 1Hive’s [Discord](https://discord.com/invite/P4rRDUKTAU), [Forum](https://forum.1hive.org), and [Github](https://github.com/1Hive) communities, and reward these contributions with weekly distributions of Honey.
+Pollen is a contributor rank used to recognize contributions to 1Hive’s [Discord](https://discord.com/invite/P4rRDUKTAU), [Forum](https://forum.1hive.org/), and [Github](https://github.com/1Hive) communities, and reward these contributions with weekly distributions of Honey.
 
 ## How do I participate
 
