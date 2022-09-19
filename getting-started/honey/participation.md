@@ -11,7 +11,7 @@ description: >-
 
 At any given time there will be many proposals that have been submitted and are under active consideration. Users can explore all proposals using the open source frontend interface hosted at [1hive.org](https://1hive.org/#/home) and decide which proposals they want to support. Of course, more technical users can run the frontend locally, or interact with the contracts directly.
 
-![Proposal Feed](<../../.gitbook/assets/image (5) (1).png>)
+![Proposal Feed](<../../.gitbook/assets/image (1).png>)
 
 You can filter the feed by proposal type or status, and can sort based on support or the time that were created. The feed contains different types of proposals and its important to understand the difference between proposal types.
 

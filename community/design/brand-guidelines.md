@@ -31,11 +31,11 @@ We use the golden ratio for the proportions of the logo and in the development o
 
 
 
-![](../../.gitbook/assets/group-26-new.jpg)
+![](<../../.gitbook/assets/Group 26 new.jpg>)
 
 
 
-![](../../.gitbook/assets/group.png)
+![](../../.gitbook/assets/Group.png)
 
 {% hint style="info" %}
 The size of circles, rectangles and different forms we use are **multiplied or divided by 1,618** to respect the proportions of the golden ratio.
@@ -49,17 +49,17 @@ We also use opacities of 40% and overlapping elements that allows a more varied 
 
 ### Primary color
 
-![](../../.gitbook/assets/group-20.png)
+![](<../../.gitbook/assets/Group 20.png>)
 
 ### Secondary colors
 
-![](../../.gitbook/assets/group-21.png)
+![](<../../.gitbook/assets/Group 21.png>)
 
-![](../../.gitbook/assets/group-22.png)
+![](<../../.gitbook/assets/Group 22.png>)
 
-![](../../.gitbook/assets/group-23.png)
+![](<../../.gitbook/assets/Group 23.png>)
 
-![](../../.gitbook/assets/group-24.png)
+![](<../../.gitbook/assets/Group 24.png>)
 
 {% hint style="info" %}
 See this [Figma file](http://figma.com/file/6o6Ik2f0D6HiLzRWwgeOQd/Brand-guidelines?node-id=15%3A48) to check the HEX color codes and other details such as the grey scale and background's gradient.
