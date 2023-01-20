@@ -1,6 +1,6 @@
 # Pollen
 
-Pollen is a contributor rank used to recognize contributions to 1Hive’s [Discord](https://discord.com/invite/P4rRDUKTAU), [Discourse](https://forum.1hive.org/), and [Github](https://github.com/1Hive) communities, and reward these contributions with weekly distributions of Honey.
+Pollen is a contributor rank used to recognize contributions to 1Hive’s [Discord](https://discord.gg/SRYMKh3C4W), [Discourse](https://forum.1hive.org/), and [Github](https://github.com/1Hive) communities, and reward these contributions with weekly distributions of Honey.
 
 ## How do I participate
 
@@ -22,7 +22,7 @@ Replacing`justabee`, `justabee#1234` and `0x0...000` with your accounts.
 
 You also have to be [**Verified** ](../introduce-yourself/discord.md#tips)in discord in order to receive weekly pollen distributions.
 
-If you have questions, are interested in how pollen is calculated, or auditing the distributions, just hop on the [`#🏵pollen`](https://discord.gg/y8fPNcNdAa) channel.
+If you have questions, are interested in how pollen is calculated, or auditing the distributions, just hop on the [`#🏵pollen`](https://discord.gg/SRYMKh3C4W) channel.
 
 ## Pollen Distribution
 

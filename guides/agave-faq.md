@@ -66,14 +66,14 @@ Not yet, but it could be closely modeled after the [1hive bug bounty](../develop
 **How do I follow Agave’s upcoming announcements?**\
 There are several ways to be in touch with the Agave’s community:\
 Agave Discord: [Agave Discord 1](https://discord.com/channels/816889381737725963/816889382850134027)\
-1Hive Discord: [1Hive Discord](https://discord.com/invite/xTZjbRjc8t) [1Hive - Agave Channel](https://discord.com/channels/698287700834517064/813823983120023583)\
+1Hive Discord: [1Hive Discord](https://discord.gg/SRYMKh3C4W) [1Hive - Agave Channel](https://discord.com/channels/698287700834517064/813823983120023583)\
 Telegram: [https://t.me/Agave1Hive 1](https://t.me/Agave1Hive)\
 Twitter: [https://twitter.com/Agave\_lending](https://twitter.com/Agave\_lending)\
 Reddit: [https://www.reddit.com/r/AGVE/](https://www.reddit.com/r/AGVE/)\
 Medium: [https://agavefinance.medium.com/](https://agavefinance.medium.com/)
 
 **My issue was not addressed in the FAQ. What can I do?**\
-The best way to get help from a member of the 1Hive community is to land on the [⛈**help**](https://discord.gg/3AjG7XvRJZ) channel on Discord.
+The best way to get help from a member of the 1Hive community is to land on the [⛈**help**](https://discord.gg/SRYMKh3C4W) channel on Discord.
 
 ## Staking
 

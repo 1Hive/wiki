@@ -6,7 +6,7 @@ description: Discord is where the most 1Hive DAO related activity gets buzzing.
 
 Discord is one of the main tools we use to communicate. On this platform we catch up with the different projects our community members are working on, discuss and pitch new ideas, arrange meetings, support users experiencing technical issues, reward users who are contributing, and also engage in casual discussions. Join and say hi: 
 
-{% embed url="https://discord.com/invite/P4rRDUKTAU" %}
+{% embed url="https://discord.gg/SRYMKh3C4W" %}
 
 ## Channels
 

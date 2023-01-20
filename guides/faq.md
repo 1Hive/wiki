@@ -128,7 +128,7 @@ The common pool is used to fund pollen, faucet, bounties and collaboration with 
 ## Support
 
 **I am new in the community, what should I do?**\
-****First of all, welcome! Be sure to follow us on [Telegram](https://t.me/honeyswapDEX), [Discord](https://discord.com/invite/xTZjbRjc8t), [Twitter](https://twitter.com/Honeyswap), and to introduce yourself on our [Forum](https://forum.1hive.org/t/introduce-yourself-to-1hive-thread/130/7). Additionally, if you follow a few easy steps, 1Hive is welcoming you with the [Welcome Bounty!](https://docs.google.com/forms/d/e/1FAIpQLSdP3pTX\_BLKqLCmkC84YyDj8PVK5wfOSSaym93SJj5KX6RP2w/viewform) You can earn 1xDai, which will be enough for the faucet and countless transactions! ****&#x20;
+****First of all, welcome! Be sure to follow us on [Telegram](https://t.me/honeyswapDEX), [Discord](https://discord.gg/SRYMKh3C4W), [Twitter](https://twitter.com/Honeyswap), and to introduce yourself on our [Forum](https://forum.1hive.org/t/introduce-yourself-to-1hive-thread/130/7). Additionally, if you follow a few easy steps, 1Hive is welcoming you with the [Welcome Bounty!](https://docs.google.com/forms/d/e/1FAIpQLSdP3pTX\_BLKqLCmkC84YyDj8PVK5wfOSSaym93SJj5KX6RP2w/viewform) You can earn 1xDai, which will be enough for the faucet and countless transactions! ****&#x20;
 
 **I can’t claim my HNY through the faucet, the transaction is failing.**\
 ****Please, make sure to have at least 0.5 xDai in your wallet!&#x20;
@@ -151,4 +151,4 @@ To add a token first find the token address from one of these lists:  [Bridged T
 ****Please, register with another wallet. You will unfortunately have to wait for the registration period again before claiming but then you won’t have any further problems.
 
 **My issue was not addressed in the FAQ. What can I do?**\
-****The best way to get help from a member of the 1Hive community is to land on the [⛈**help**](https://discord.gg/3AjG7XvRJZ) channel on Discord.
+****The best way to get help from a member of the 1Hive community is to land on the [⛈**help**](https://discord.gg/SRYMKh3C4W) channel on Discord.

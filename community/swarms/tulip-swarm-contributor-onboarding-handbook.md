@@ -6,7 +6,7 @@ description: This is where All The Things for onboarding Tulip Swarm are elucida
 
 ## Joining Tulip Swarm as a contributor.
 
-We are open to new contributors joining Tulip Swarm! We have work available for software developers, UX designers, token engineers, product managers, and project managers, as well as for research, marketing, and business development. If you're interested in becoming part of Tulip Swarm you should join the Tulip Discord server and introduce yourself on the [`#onboarding-intros`](https://discord.gg/KnPNMUd27X) channel on the Tulip Discord. An established swarm member will give you the `contributor` role, which will allow you to access All The Channels.
+We are open to new contributors joining Tulip Swarm! We have work available for software developers, UX designers, token engineers, product managers, and project managers, as well as for research, marketing, and business development. If you're interested in becoming part of Tulip Swarm you should join the Tulip Discord server and introduce yourself on the [`#onboarding-intros`](https://discord.gg/SRYMKh3C4W) channel on the Tulip Discord. An established swarm member will give you the `contributor` role, which will allow you to access All The Channels.
 
 ## How to contribute to Tulip Swarm.
 

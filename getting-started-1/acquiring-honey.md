@@ -9,7 +9,7 @@ Honey is the community currency of 1hive, it is also an important community boun
 In order to participate in this process you must first acquire some honey. Currently there are 4 primary ways to do this:
 
 1. Get validated on Bright ID and register and claim free honey from the [faucet](https://faucet.1hive.org/#/). 
-2. Contribute to the 1hive community on [Github](https://github.com/1Hive), [Discord](https://discord.com/invite/P4rRDUKTAU), and [Discourse](https://forum.1hive.org/). These contributions are tracked using SourceCred and [earn Pollen](how-can-you-contribute/earn-pollen.md), which is like a contributor score. Honey is distributed weekly on the basis of these scores. 
+2. Contribute to the 1hive community on [Github](https://github.com/1Hive), [Discord](https://discord.gg/SRYMKh3C4W), and [Discourse](https://forum.1hive.org/). These contributions are tracked using SourceCred and [earn Pollen](how-can-you-contribute/earn-pollen.md), which is like a contributor score. Honey is distributed weekly on the basis of these scores. 
 3. Look for something you can do to improve 1Hive and submit a funding proposal to the [Honey Pot](../projects/honey-pot/). 
 4. Buy honey on [Honeyswap](https://honeyswap.org/#/swap) with xDai and other cryptocurrencies.
 

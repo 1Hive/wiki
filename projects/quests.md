@@ -123,7 +123,7 @@ The **Challenger** must submit the reason why this claim should be challenged
 
 > _The Challenger needs to pay some challenge fees defined by Celeste and needs to deposit a collateral that will be restored once the claim is executed successfully._
 
-This will then create a dispute in [Celeste](https://celeste.1hive.org/#/dashboard) (Note that with Rinkeby network, a dispute should be resolved manually by contacting us in the #Quests channel in the [1hive discord](https://discord.gg/NaCDVBs2))
+This will then create a dispute in [Celeste](https://celeste.1hive.org/#/dashboard) (Note that with Rinkeby network, a dispute should be resolved manually by contacting us in the #Quests channel in the [1hive discord](https://discord.gg/SRYMKh3C4W))
 
 Once the dispute is resolved in Celeste, a stakeholder of the dispute needs to click on the **Resolve** button next to the claim to spread the challenge's result to the app.
 

@@ -16,7 +16,7 @@ The 🌷 Tulip swarm is responsible for building, deploying, maintaining and upg
 
 [Gnosis Safe](https://xdai.gnosis-safe.io/app/#/safes/0xD5a0d695589Fa9dEC023638b8dD24D71f051C63C/balances) used as the Swarm treasury.
 
-[Tulip's Discord server](https://discord.gg/qsrGE9NQzc).
+[Tulip's Discord server](https://discord.gg/SRYMKh3C4W).
 
 ## Roles and Responsibilities
 

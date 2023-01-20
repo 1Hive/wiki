@@ -45,4 +45,4 @@ Currently supports the transferring of DAI, USDC and USDT between the Polygon, x
 
 The Polygon [Block Explorer](https://polygonscan.com/), similar to Etherscan, can be used to see transactions and accounts.
 
-If you need help getting connected or using any of the above services, come to the [`#⛈help`](https://discord.gg/3AjG7XvRJZ)Discord channel.
+If you need help getting connected or using any of the above services, come to the [`#⛈help`](https://discord.gg/SRYMKh3C4W)Discord channel.
