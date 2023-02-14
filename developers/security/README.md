@@ -2,7 +2,7 @@
 
 ## Bug Bounty
 
-1Hive has an ongoing Bug Bounty program where community members can report any bugs or vulnerabilities they discover in contracts for a reward of up to **$40,000**. Find more information on the bounty criteria and application process on the Bug Bounty page.
+1Hive has an ongoing Bug Bounty program where community members can report any bugs or vulnerabilities they discover in smart contracts for a reward of up to **$20,000**. Find more information on the bounty criteria and application process on the Bug Bounty page.
 
 See the official [Bug Bounty Program](bug-bounty.md) and the [Bug Bounty Swarm](../../community/swarms/bug-bounty.md) for more details.
 

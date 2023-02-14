@@ -4,7 +4,7 @@
 
 The Honeyswap contracts have been audited by CertiK security assessors. You can read their audit report below.
 
-{% file src="../../.gitbook/assets/REP-1Hive_HoneySwap_Contracts-22_04_2021.pdf" %}
+{% file src="../../.gitbook/assets/rep-1hive_honeyswap_contracts-22_04_2021.pdf" %}
 
 Some changes have been made to the contracts post-audit. However, the core mechanisms remain unchanged. As a result, the audit still provides a valid assessment of the current state of the security of the main contracts. \
 \
@@ -80,7 +80,7 @@ none
 &#x20;broken down into a triangle and rectangle. The sum of their areas should\
 &#x20;be equal to the total reward distribution:
 
-![](<../../.gitbook/assets/image (15) (1).png>)
+![](<../../.gitbook/assets/image (13).png>)
 
 Now that the starting distribution rate is calculated one can easily\
 &#x20;calculate the slope since it’s simply the change in the distribution rate\
@@ -108,7 +108,7 @@ The final piece of math that is needed is how to calculate the amount to be\
 &#x20;again can simply splits the area into geometric shapes to calculate its\
 &#x20;area and simplifies the resulting equation:
 
-![](<../../.gitbook/assets/image (17) (1).png>)
+![](<../../.gitbook/assets/image (14).png>)
 
 Which brings us to the final equation which is used in the\
 &#x20;`getDistribution` method. The result is scaled by the `SCALE` constant:\

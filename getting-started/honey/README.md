@@ -16,7 +16,7 @@ The value of Honey is determined by supply and demand. The supply is managed by 
 
 If participants allocate Honey productively, inflows to the common pool will eventually exceed outflows, demand will outpace supply, and the value of Honey will increase. Conversely if Honey is allocated unproductively the circulating supply of Honey will increase without a corresponding increase in demand and the value of Honey will decrease.&#x20;
 
-![Simplified Honey Stock and Flow Diagram](<../../.gitbook/assets/ 🍯 Honey@2x.png>)
+![Simplified Honey Stock and Flow Diagram](../../.gitbook/assets/honey-2x.png)
 
 One way to think of this system is as a [cybernetic feedback loop ](https://en.wikipedia.org/wiki/Cybernetics)where stakers are sensors, the protocol is the controller, and proposals are the actuators that impact the environment. The impact of proposals may be uncertain and may change over time, but outcomes will be observed and feed back into the system resulting in adaptation to the environment over time.&#x20;
 

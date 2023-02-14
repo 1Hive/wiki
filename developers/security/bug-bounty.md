@@ -13,7 +13,10 @@ This program covers all currently deployed 1hive related smart contracts on the 
 * Exploiting the vulnerability prior to disclosing it will forfeit the reward.
 * Disclosure should include details of how to reproduce the bug in as clear a way as possible. A more detailed report could increase the reward.
 * Reporting a bug that has already been reported will not earn a reward.
-* Front-end bugs will not earn a reward.
+
+{% hint style="info" %}
+Front-end bugs will not earn a reward.
+{% endhint %}
 
 ## Rewards
 
@@ -33,8 +36,3 @@ The severity of an issue will be determined by a score created using the CVSS Ri
 For reference, we would have scored the exploit detailed here [Story of a Bee - Why Farming was Delayed](https://forum.1hive.org/t/story-of-a-bee-why-farming-was-delayed/875) with 9.3 originally earning it up to $40,000 in HNY, the exact amount would likely need to be discussed but we would have proposed it be closer to the upper limit. The scoring we have chosen can be seen here: [https://www.first.org/cvss/calculator/3.0#CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:N/I:H/A:L 3](https://www.first.org/cvss/calculator/3.0#CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:N/I:H/A:L)
 
 It should be known that 1hive is interested in maintaining secure infrastructure and is willing to make fair payouts for finding bugs that could affect funds and users. These requirements and rates have been discussed and agreed upon by the community here [1Hive Contract Bug Bounty Program Proposal ](https://forum.1hive.org/t/1hive-contract-bug-bounty-program-proposal/978)and here [Final 1Hive Contract Bug Bounty Program Proposal ](https://forum.1hive.org/t/final-1hive-contract-bug-bounty-program-proposal/1339)so as a bug hunter you can be assured when it comes to claiming a reward you will receive it, provided you act as outlined above.
-
-## Bounty Payouts
-
-[$2000 in Honey for an email spoofing vulnerability.](https://forum.1hive.org/t/email-spoofing-vulnerability-payout/2187)\
-[$2000 in Honey for a domain takeover vulnerability.](https://forum.1hive.org/t/domain-takeover-vulnerability-payout/3333)
