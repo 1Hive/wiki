@@ -4,7 +4,7 @@ description: 'Token Contract Address:  0x4291F029B9e7acb02D49428458cf6fceAC545f8
 
 # Water
 
-The Water token provides sustainable liquidity between 1Hive and other communities with aligned interests on Gnosis Chain. 100% of the circulating supply of Water is added to liquidity pools on Honeyswap, allowing it to serve as a proxy for shared liquidity between many tokens at once.
+The Water token provides sustainable liquidity between 1Hive and other communities with aligned interests on Gnosis Chain. 100% of the circulating supply of Water is added to liquidity pools for these community tokens, so Water serves as a proxy for shared liquidity between many tokens at once.
 
 Thanks to the price correlation effect of tokens paired in liquidity pools on decentralized exchanges, Water itself functions like an index token of all the participating tokens.
 
