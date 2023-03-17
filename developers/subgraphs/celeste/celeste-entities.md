@@ -1,27 +1,27 @@
 # Celeste Entities
 
-* [`CourtConfig`](https://hackmd.io/@GraphSubgraphDocs/Celeste-Entities#courtconfig)
-* [`CourtTerm`](https://hackmd.io/@GraphSubgraphDocs/Celeste-Entities#courtterm)
-* [`ERC20`](https://hackmd.io/@GraphSubgraphDocs/Celeste-Entities#erc20)
-* [`CourtModule`](https://hackmd.io/@GraphSubgraphDocs/Celeste-Entities#courtmodule)
-* [`Dispute`](https://hackmd.io/@GraphSubgraphDocs/Celeste-Entities#dispute)
-* [`Disputable`](https://hackmd.io/@GraphSubgraphDocs/Celeste-Entities)
-* [`Arbitrable`](https://hackmd.io/@GraphSubgraphDocs/Celeste-Entities#arbitrable)
-* [`Evidence`](https://hackmd.io/@GraphSubgraphDocs/Celeste-Entities#evidence)
-* [`AdjudicationRound`](https://hackmd.io/@GraphSubgraphDocs/Celeste-Entities#adjudicationround)
-* [`Vote`](https://hackmd.io/@GraphSubgraphDocs/Celeste-Entities#vote)
-* [`Appeal`](https://hackmd.io/@GraphSubgraphDocs/Celeste-Entities)
-* [`Juror`](https://hackmd.io/@GraphSubgraphDocs/Celeste-Entities#juror)
-* [`JurorDispute`](https://hackmd.io/@GraphSubgraphDocs/Celeste-Entities#jurordispute)
-* [`JurorDraft`](https://hackmd.io/@GraphSubgraphDocs/Celeste-Entities#jurordraft)
-* [`ANJMovement`](https://hackmd.io/@GraphSubgraphDocs/Celeste-Entities#anjmovement)
-* [`FeeMovement`](https://hackmd.io/@GraphSubgraphDocs/Celeste-Entities#feemovement)
-* [`TreasuryBalance`](https://hackmd.io/@GraphSubgraphDocs/Celeste-Entities)
-* [`BrightIdRegisterModule`](https://hackmd.io/@GraphSubgraphDocs/Celeste-Entities#brightidregistermodule)
-* [`JurorsRegistryModule`](https://hackmd.io/@GraphSubgraphDocs/Celeste-Entities#jurorsregistrymodule)
-* [`SubscriptionModule`](https://hackmd.io/@GraphSubgraphDocs/Celeste-Entities#subscriptionmodule)
-* [`SubscriptionPeriod`](https://hackmd.io/@GraphSubgraphDocs/Celeste-Entities#subscriptionperiod)
-* [`JurorSubscriptionFee`](https://hackmd.io/@GraphSubgraphDocs/Celeste-Entities#jurorsubscriptionfee)
+* ``[`CourtConfig`](celeste-entities.md#courtconfig)``
+* ``[`CourtTerm`](celeste-entities.md#courtterm)``
+* ``[`ERC20`](celeste-entities.md#erc20)``
+* ``[`CourtModule`](celeste-entities.md#courtmodule)``
+* ``[`Dispute`](celeste-entities.md#dispute)``
+* ``[`Disputable`](celeste-entities.md#disputable)``
+* ``[`Arbitrable`](celeste-entities.md#arbitrable)``
+* ``[`Evidence`](celeste-entities.md#evidence)``
+* ``[`AdjudicationRound`](celeste-entities.md#adjudicationround)``
+* ``[`Vote`](celeste-entities.md#vote)``
+* ``[`Appeal`](celeste-entities.md#appeal)``
+* ``[`Juror`](celeste-entities.md#juror)``
+* ``[`JurorDispute`](celeste-entities.md#jurordispute)``
+* ``[`JurorDraft`](celeste-entities.md#jurordraft)``
+* ``[`ANJMovement`](celeste-entities.md#anjmovement)``
+* ``[`FeeMovement`](celeste-entities.md#feemovement)``
+* ``[`TreasuryBalance`](celeste-entities.md#treasurybalance)``
+* ``[`BrightIdRegisterModule`](celeste-entities.md#brightidregistermodule)``
+* ``[`JurorsRegistryModule`](celeste-entities.md#jurorsregistrymodule)``
+* ``[`SubscriptionModule`](celeste-entities.md#subscriptionmodule)``
+* ``[`SubscriptionPeriod`](celeste-entities.md#subscriptionperiod)``
+* ``[`JurorSubscriptionFee`](celeste-entities.md#jurorsubscriptionfee)``
 
 ![Markdown Image](https://cdn.discordapp.com/attachments/1014573389400244225/1080166573668585552/schema.png)
 

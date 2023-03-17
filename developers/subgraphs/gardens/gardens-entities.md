@@ -1,18 +1,18 @@
 # Gardens Entities
 
-* [`Organization`](https://hackmd.io/@GraphSubgraphDocs/Garden-Entities#organization)
-* [`Config`](https://hackmd.io/@GraphSubgraphDocs/Garden-Entities#config)
-* [`ConvictionConfig`](https://hackmd.io/@GraphSubgraphDocs/Garden-Entities#convictionconfig)
-* [`VotingConfig`](https://hackmd.io/@GraphSubgraphDocs/Garden-Entities#votingconfig)
-* [`Proposal`](https://hackmd.io/@GraphSubgraphDocs/Garden-Entities#proposal)
-* [`Cast`](https://hackmd.io/@GraphSubgraphDocs/Garden-Entities#cast)
-* [`Stake`](https://hackmd.io/@GraphSubgraphDocs/Garden-Entities#stake)
-* [`StakeHistory`](https://hackmd.io/@GraphSubgraphDocs/Garden-Entities#stakehistory)
-* [`User`](https://hackmd.io/@GraphSubgraphDocs/Garden-Entities#user)
-* [`Supporter`](https://hackmd.io/@GraphSubgraphDocs/Garden-Entities#supporter)
-* [`Token`](https://hackmd.io/@GraphSubgraphDocs/Garden-Entities#token)
-* [`CollateralRequirement`](https://hackmd.io/@GraphSubgraphDocs/Garden-Entities#collateralrequirement)
-* [`ArbitratorFee`](https://hackmd.io/@GraphSubgraphDocs/Garden-Entities#arbitratorfee)
+* ``[`Organization`](gardens-entities.md#organization)``
+* ``[`Config`](gardens-entities.md#config)``
+* ``[`ConvictionConfig`](gardens-entities.md#convictionconfig)``
+* ``[`VotingConfig`](gardens-entities.md#votingconfig)``
+* ``[`Proposal`](gardens-entities.md#proposal)``
+* ``[`Cast`](gardens-entities.md#cast)``
+* ``[`Stake`](gardens-entities.md#stake)``
+* ``[`StakeHistory`](gardens-entities.md#stakehistory)``
+* ``[`User`](gardens-entities.md#user)``
+* ``[`Supporter`](gardens-entities.md#supporter)``
+* ``[`Token`](gardens-entities.md#token)``
+* ``[`CollateralRequirement`](gardens-entities.md#collateralrequirement)``
+* ``[`ArbitratorFee`](gardens-entities.md#arbitratorfee)``
 
 ![Markdown Image](https://raw.githubusercontent.com/1Hive/gardens/master/packages/subgraph/schema.png)
 

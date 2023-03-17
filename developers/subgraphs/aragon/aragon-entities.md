@@ -1,16 +1,16 @@
 # Aragon Entities
 
-* [`RegistryFactory`](https://hackmd.io/@GraphSubgraphDocs/Aragon-Connect-Entities#registryfactory)
-* [`Registry`](https://hackmd.io/@GraphSubgraphDocs/Aragon-Connect-Entities#registry)
-* [`Repo`](https://hackmd.io/@GraphSubgraphDocs/Aragon-Connect-Entities#repo)
-* [`Version`](https://hackmd.io/@GraphSubgraphDocs/Aragon-Connect-Entities#version)
-* [`OrgFactory`](https://hackmd.io/@GraphSubgraphDocs/Aragon-Connect-Entities#orgfactory)
-* [`Organization`](https://hackmd.io/@GraphSubgraphDocs/Aragon-Connect-Entities)
-* [`App`](https://hackmd.io/@GraphSubgraphDocs/Aragon-Connect-Entities#app)
-* [`Implementation`](https://hackmd.io/@GraphSubgraphDocs/Aragon-Connect-Entities#implementation)
-* [`Role`](https://hackmd.io/@GraphSubgraphDocs/Aragon-Connect-Entities#role)
-* [`Permission`](https://hackmd.io/@GraphSubgraphDocs/Aragon-Connect-Entities#permission)
-* [`Param`](https://hackmd.io/@GraphSubgraphDocs/Aragon-Connect-Entities#param)
+* ``[`RegistryFactory`](aragon-entities.md#registryfactory)``
+* ``[`Registry`](aragon-entities.md#registry)``
+* ``[`Repo`](aragon-entities.md#repo)``
+* ``[`Version`](aragon-entities.md#version)``
+* ``[`OrgFactory`](aragon-entities.md#orgfactory)``
+* ``[`Organization`](aragon-entities.md#organization)``
+* ``[`App`](aragon-entities.md#app)``
+* ``[`Implementation`](aragon-entities.md#implementation)``
+* ``[`Role`](aragon-entities.md#role)``
+* ``[`Permission`](aragon-entities.md#permission)``
+* ``[`Param`](aragon-entities.md#param)``
 
 ### RegistryFactory <a href="#registryfactory" id="registryfactory"></a>
 

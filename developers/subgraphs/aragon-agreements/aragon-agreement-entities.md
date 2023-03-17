@@ -1,20 +1,20 @@
 # Aragon Agreement Entities
 
-* [`Agreement`](https://hackmd.io/@GraphSubgraphDocs/Aragon-Agreement-Entities#agreement)
-* [`Signer`](https://hackmd.io/@GraphSubgraphDocs/Aragon-Agreement-Entities#signer)
-* [`Signature`](https://hackmd.io/@GraphSubgraphDocs/Aragon-Agreement-Entities#signature)
-* [`Action`](https://hackmd.io/@GraphSubgraphDocs/Aragon-Agreement-Entities#action)
-* [`Challenge`](https://hackmd.io/@GraphSubgraphDocs/Aragon-Agreement-Entities#Challenge)
-* [`Dispute`](https://hackmd.io/@GraphSubgraphDocs/Aragon-Agreement-Entities)
-* [`Evidence`](https://hackmd.io/@GraphSubgraphDocs/Aragon-Agreement-Entities#evidence)
-* [`Version`](https://hackmd.io/@GraphSubgraphDocs/Aragon-Agreement-Entities#version)
-* [`Disputable`](https://hackmd.io/@GraphSubgraphDocs/Aragon-Agreement-Entities#disputable)
-* [`CollateralRequirement`](https://hackmd.io/@GraphSubgraphDocs/Aragon-Agreement-Entities#collateralrequirement)
-* [`Staking`](https://hackmd.io/@GraphSubgraphDocs/Aragon-Agreement-Entities)
-* [`StakingMovement`](https://hackmd.io/@GraphSubgraphDocs/Aragon-Agreement-Entities#stakingmovement)
-* [`ERC20`](https://hackmd.io/@GraphSubgraphDocs/Aragon-Agreement-Entities#erc20)
-* [`ArbitratorFee`](https://hackmd.io/@GraphSubgraphDocs/Aragon-Agreement-Entities#arbitratorfee)
-* [`AragonInfo`](https://hackmd.io/@GraphSubgraphDocs/Aragon-Agreement-Entities#aragoninfo)
+* ``[`Agreement`](aragon-agreement-entities.md#agreement)``
+* ``[`Signer`](aragon-agreement-entities.md#signer)``
+* ``[`Signature`](aragon-agreement-entities.md#signature)``
+* ``[`Action`](aragon-agreement-entities.md#action)``
+* ``[`Challenge`](aragon-agreement-entities.md#challenge)``
+* ``[`Dispute`](aragon-agreement-entities.md#dispute)``
+* ``[`Evidence`](aragon-agreement-entities.md#evidence)``
+* ``[`Version`](aragon-agreement-entities.md#version)``
+* ``[`Disputable`](aragon-agreement-entities.md#disputable)``
+* ``[`CollateralRequirement`](aragon-agreement-entities.md#collateralrequirement)``
+* ``[`Staking`](aragon-agreement-entities.md#staking)``
+* ``[`StakingMovement`](aragon-agreement-entities.md#stakingmovement)``
+* ``[`ERC20`](aragon-agreement-entities.md#erc20)``
+* ``[`ArbitratorFee`](aragon-agreement-entities.md#arbitratorfee)``
+* ``[`AragonInfo`](aragon-agreement-entities.md#aragoninfo)``
 
 ### Agreement <a href="#agreement" id="agreement"></a>
 
