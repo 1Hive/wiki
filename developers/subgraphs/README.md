@@ -2,11 +2,11 @@
 
 1Hive uses The Graph's decentralized subgraph network across all products. Here is a list of our active subgraphs with information useful for developers and network participants:
 
-* [Honeyswap](https://app.gitbook.com/o/-MNtaHfB4RuyA0py3Rqa/s/-MNrqwoYUmro4mJ9smmt-887967055/\~/changes/810/developers/subgraphs/honeyswap)
-* [Celeste](https://app.gitbook.com/o/-MNtaHfB4RuyA0py3Rqa/s/-MNrqwoYUmro4mJ9smmt-887967055/\~/changes/810/developers/subgraphs/celeste)
-* [Gardens](https://app.gitbook.com/o/-MNtaHfB4RuyA0py3Rqa/s/-MNrqwoYUmro4mJ9smmt-887967055/\~/changes/810/developers/subgraphs/gardens)
-* [Aragon](https://app.gitbook.com/o/-MNtaHfB4RuyA0py3Rqa/s/-MNrqwoYUmro4mJ9smmt-887967055/\~/changes/810/developers/subgraphs/aragon)
-* [Aragon Agreements](https://app.gitbook.com/o/-MNtaHfB4RuyA0py3Rqa/s/-MNrqwoYUmro4mJ9smmt-887967055/\~/changes/810/developers/subgraphs/aragon-agreements)
+* [Honeyswap](https://wiki.1hive.org/developers/subgraphs/honeyswap)
+* [Celeste](https://wiki.1hive.org/developers/subgraphs/celeste)
+* [Gardens](https://wiki.1hive.org/developers/subgraphs/gardens)
+* [Aragon](https://wiki.1hive.org/developers/subgraphs/aragon)
+* [Aragon Agreements](https://wiki.1hive.org/developers/subgraphs/aragon-agreements)
 
 These subgraphs are published and curated by a Gnosis Safe of active contributors at 1Hive. Funding for query fees was seeded from grants provided by The Graph.
 
