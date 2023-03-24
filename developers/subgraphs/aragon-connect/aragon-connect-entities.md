@@ -1,16 +1,16 @@
-# Aragon Entities
+# Aragon Connect Entities
 
-* ``[`RegistryFactory`](aragon-entities.md#registryfactory)``
-* ``[`Registry`](aragon-entities.md#registry)``
-* ``[`Repo`](aragon-entities.md#repo)``
-* ``[`Version`](aragon-entities.md#version)``
-* ``[`OrgFactory`](aragon-entities.md#orgfactory)``
-* ``[`Organization`](aragon-entities.md#organization)``
-* ``[`App`](aragon-entities.md#app)``
-* ``[`Implementation`](aragon-entities.md#implementation)``
-* ``[`Role`](aragon-entities.md#role)``
-* ``[`Permission`](aragon-entities.md#permission)``
-* ``[`Param`](aragon-entities.md#param)``
+* ``[`RegistryFactory`](aragon-connect-entities.md#registryfactory)``
+* ``[`Registry`](aragon-connect-entities.md#registry)``
+* ``[`Repo`](aragon-connect-entities.md#repo)``
+* ``[`Version`](aragon-connect-entities.md#version)``
+* ``[`OrgFactory`](aragon-connect-entities.md#orgfactory)``
+* ``[`Organization`](aragon-connect-entities.md#organization)``
+* ``[`App`](aragon-connect-entities.md#app)``
+* ``[`Implementation`](aragon-connect-entities.md#implementation)``
+* ``[`Role`](aragon-connect-entities.md#role)``
+* ``[`Permission`](aragon-connect-entities.md#permission)``
+* ``[`Param`](aragon-connect-entities.md#param)``
 
 ### RegistryFactory <a href="#registryfactory" id="registryfactory"></a>
 

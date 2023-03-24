@@ -5,7 +5,7 @@
 * [Honeyswap](https://wiki.1hive.org/developers/subgraphs/honeyswap)
 * [Celeste](https://wiki.1hive.org/developers/subgraphs/celeste)
 * [Gardens](https://wiki.1hive.org/developers/subgraphs/gardens)
-* [Aragon](https://wiki.1hive.org/developers/subgraphs/aragon)
+* [Aragon Connect](https://wiki.1hive.org/developers/subgraphs/aragon)
 * [Aragon Agreements](https://wiki.1hive.org/developers/subgraphs/aragon-agreements)
 
 These subgraphs are published and curated by a Gnosis Safe of active contributors at 1Hive. Funding for query fees was seeded from grants provided by The Graph.
