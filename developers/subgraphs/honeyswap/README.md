@@ -17,7 +17,7 @@ This subgraph dynamically tracks any pair created by the honeyswap factory. It t
 ### Ethereum Mainnet <a href="#ethereum-mainnet" id="ethereum-mainnet"></a>
 
 * [Explorer Page](https://thegraph.com/explorer/subgraphs/GKLYucDsN3zVkTyki1Qmfc192i4HyUF7uqU9Py4BbmQH?view=Overview\&chain=mainnet)
-* Graphql Endpoint: ‘[https://api.thegraph.com/subgraphs/name/1hive/honeyswap-polygon](https://api.thegraph.com/subgraphs/name/1hive/honeyswap-polygon)’
+* Graphql Endpoint: [https://api.studio.thegraph.com/query/40931/honeyswap-gnosis/v0.0.1](https://api.studio.thegraph.com/query/40931/honeyswap-gnosis/v0.0.1)
 * [Code Repo](https://github.com/1Hive/honeyswap-subgraph)
 
 ### Helpful Resources <a href="#helpful-resources" id="helpful-resources"></a>

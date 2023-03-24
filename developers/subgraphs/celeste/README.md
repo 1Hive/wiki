@@ -9,7 +9,7 @@ Subgraph information is serviced by a decentralized group of server operators ca
 ### Ethereum Mainnet <a href="#ethereum-mainnet" id="ethereum-mainnet"></a>
 
 * [Explorer Page](https://thegraph.com/explorer/subgraphs/HQcpdYKeSRuvjEwz8QL4nGYrJ6pUUxNoTcxssMn1Gc83?view=Overview\&chain=mainnet)
-* Graphql Endpoint: ‘[https://api.thegraph.com/subgraphs/name/1hive/celeste](https://api.thegraph.com/subgraphs/name/1hive/celeste)’
+* Graphql Endpoint: [https://api.studio.thegraph.com/query/40931/celeste-gnosis/v0.0.4](https://api.studio.thegraph.com/query/40931/celeste-gnosis/v0.0.4)
 * [Code Repo](https://github.com/1Hive/celeste-subgraph/blob/master/schema.graphql)
 
 ### Helpful Resources <a href="#helpful-resources" id="helpful-resources"></a>

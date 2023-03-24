@@ -7,7 +7,7 @@ Subgraph information is serviced by a decentralized group of server operators ca
 ### Ethereum Mainnet <a href="#ethereum-mainnet" id="ethereum-mainnet"></a>
 
 * [Explorer Page](https://thegraph.com/hosted-service/subgraph/1hive/aragon-goerli)
-* Graphql Endpoint: ‘[https://api.thegraph.com/subgraphs/name/1hive/aragon-goerli](https://api.thegraph.com/subgraphs/name/1hive/aragon-goerli)’
+* Graphql Endpoint: [https://api.studio.thegraph.com/query/40931/connect-gnosis/v0.0.1](https://api.studio.thegraph.com/query/40931/connect-gnosis/v0.0.1)
 * [Code Repo](https://github.com/1Hive/connect/tree/master/packages/connect-thegraph/subgraph)
 
 ### Helpful Resources <a href="#helpful-resources" id="helpful-resources"></a>

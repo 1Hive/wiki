@@ -9,7 +9,7 @@ Subgraph information is serviced by a decentralized group of server operators ca
 ### Ethereum Mainnet <a href="#ethereum-mainnet" id="ethereum-mainnet"></a>
 
 * [Explorer Page](https://thegraph.com/explorer/subgraphs/EucdbfTKw6d9DFeA2yHP8W9ZPciQGpAQHZMFCy3i7TxZ?view=Overview\&chain=mainnet)
-* Graphql Endpoint: ‘[https://gateway.thegraph.com/api/\[api-key\]/subgraphs/id/EucdbfTKw6d9DFeA2yHP8W9ZPciQGpAQHZMFCy3i7TxZ](https://gateway.thegraph.com/api/\[api-key]/subgraphs/id/EucdbfTKw6d9DFeA2yHP8W9ZPciQGpAQHZMFCy3i7TxZ)’
+* Graphql Endpoint: [https://api.studio.thegraph.com/query/40931/gardens-gnosis/v0.0.7](https://api.studio.thegraph.com/query/40931/gardens-gnosis/v0.0.7)
 * [Code Repo](https://github.com/1Hive/gardens/tree/master/packages/subgraph)
 
 ### Helpful Resources <a href="#helpful-resources" id="helpful-resources"></a>

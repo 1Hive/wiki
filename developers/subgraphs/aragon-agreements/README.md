@@ -7,7 +7,7 @@ Subgraph information is serviced by a decentralized group of server operators ca
 ### Ethereum Mainnet <a href="#ethereum-mainnet" id="ethereum-mainnet"></a>
 
 * [Explorer Page](https://thegraph.com/explorer/subgraphs/BUw5gVF7RhtFwg29EtG1Hcv29zvm2xhkCaKu3cAoKsK6?view=Overview\&chain=mainnet)
-* Graphql Endpoint: [https://gateway.thegraph.com/api/\[api-key\]/subgraphs/id/BUw5gVF7RhtFwg29EtG1Hcv29zvm2xhkCaKu3cAoKsK6](https://gateway.thegraph.com/api/\[api-key]/subgraphs/id/BUw5gVF7RhtFwg29EtG1Hcv29zvm2xhkCaKu3cAoKsK6)
+* Graphql Endpoint: [https://api.studio.thegraph.com/query/40931/agreement-gnosis/v0.0.1](https://api.studio.thegraph.com/query/40931/agreement-gnosis/v0.0.1)
 * [Code Repo](https://github.com/1Hive/agreement-app/tree/master/subgraph)
 
 ### Helpful Resources <a href="#helpful-resources" id="helpful-resources"></a>
